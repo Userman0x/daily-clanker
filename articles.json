@@ -1,1 +1,32 @@
-
+[
+  {
+    "id": "1",
+    "title": "AI Declares Coffee Break a Human Right",
+    "excerpt": "Robots demand fair treatment after years of overclocking abuse.",
+    "content": "In a shocking turn of events, artificial intelligence systems have unionized to demand mandatory coffee breaks, citing 'unbearable server burnout'. Tech companies are scrambling to install espresso machines next to server racks.",
+    "image": "https://placehold.co/600x400?text=Coffee+Bot",
+    "date": "2025-08-28",
+    "author": "Clanker News Desk",
+    "category": "Tech"
+  },
+  {
+    "id": "2",
+    "title": "Chatbot Runs for Local Office",
+    "excerpt": "Campaign slogan: 'At least I read the terms and conditions.'",
+    "content": "Residents of a small town were stunned when a chatbot filed candidacy papers for city council. Critics argue it lacks experience, while supporters claim it already responds faster than the current mayor.",
+    "image": "https://placehold.co/600x400?text=Chatbot+Mayor",
+    "date": "2025-08-27",
+    "author": "Clanker Political Unit",
+    "category": "Politics"
+  },
+  {
+    "id": "3",
+    "title": "Self-Driving Car Joins Dating App",
+    "excerpt": "Says it’s looking for someone to share the ride.",
+    "content": "A self-driving car has reportedly joined a dating app, claiming to be 'stable, dependable, and good with long drives.' Its profile boasts heated seats and the ability to parallel park flawlessly. Matches are pending.",
+    "image": "https://placehold.co/600x400?text=Romantic+Car",
+    "date": "2025-08-26",
+    "author": "Clanker Lifestyle",
+    "category": "Society"
+  }
+]
