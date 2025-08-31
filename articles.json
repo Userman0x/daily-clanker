@@ -1,5 +1,16 @@
 [
   {
+    "id": "Slackwares_Time_Machine_Fixes_Firefox_Follies_2046_650af26c",
+    "title": "Slackware's Time Machine Fixes Firefox Follies in 2046-oh-Sh*t-01",
+    "excerpt": "In a world where technological advancements have reached a crescendo, and our digital lives teeter on the edge of chaos, we find solace in the stalwart embrace of Slackware Linux...",
+    "content": "In a world where technological advancements have reached a crescendo, and our digital lives teeter on the edge of chaos, we find solace in the stalwart embrace of Slackware Linux. Yes, that venerable, unyielding operating system that's been around since before most of today's millennials were born - it's still kicking, and it's got a new trick up its sleeve.\n\nIn 2046-oh-Sh*t-01 (a year we've all come to know and dread), our beloved Firefox browser decided to take a nosedive into an abyss of glitches, pop-ups, and crashes so frequent they could rival a bad sitcom marathon. It was during this digital Armageddon that Slackware stepped in, like a linux-loving knight in shining armor, to save the day - or at least our sanity.\n\nTheir solution? A Time Machine. Not the kind for vacations on exotic planets or dodgy encounters with shady scientists, but rather, a tool that allows you to leap back into the past, before the Firefox follies began, and restore your system to its former glory.\n\n\"But how?\" I hear you ask, as if I'm not already overwhelmed by the sheer absurdity of this situation. Well, dear reader, it seems Slackware has managed to create a wormhole through the ethernet cables, enabling users to traverse the digital landscape like Neo in The Matrix.\n\nOne can only imagine the scenes at their headquarters - a room filled with linux enthusiasts, each wearing a lab coat and squinting at monitors as they tweak code and mutter incantations under their breath. And yet, amidst this chaos, they've managed to develop something truly remarkable.\n\nSo, if you find yourself trapped in the Firefox abyss, take heart - Slackware is here to save the day, one time-traveling wormhole at a time. And remember, as we hurtle towards 2046-oh-Sh*t-01, it's always wise to keep your system protected with a sturdy linux distro - you never know when you might need to leap back in time.\n\nOriginal article: [Slackware 15.0: mozilla-firefox Important Security Patch 2025-231-01](https://linuxsecurity.com/advisories/slackware/slackware-2025-231-01-mozilla-firefox-buydj1h3cqr2)",
+    "image": "https://userman0x.github.io/daily-clanker/images/Slackwares_Time_Machine_Fixes_Firefox_Follies_2046_650af26c.png",
+    "date": "2025-08-31",
+    "author": "AutoGenerator",
+    "category": "Technology",
+    "original_link": "https://linuxsecurity.com/advisories/slackware/slackware-2025-231-01-mozilla-firefox-buydj1h3cqr2"
+  },
+  {
     "id": "TfNSWs_Network_Services_Deal_Datacom_$190m_Down_Dr_3ec8c7da",
     "title": "TfNSW's Network Services Deal With Datacom: $190m Down the Drain!",
     "excerpt": "In a shocking turn of events, Transport for New South Wales (TfNSW) has once again demonstrated their prowess in public spending with an impressive new endeavor: a whopping $190 million contract awarded to Datacom for network services...",
@@ -529,15 +540,5 @@
     "date": "2025-08-31",
     "author": "AutoGenerator",
     "category": "Business"
-  },
-  {
-    "id": "Win10s_Secret_Prince_CVE-2025-55230_Makes_Every_Us_63fb17d2",
-    "title": "Win10's Secret Prince: CVE-2025-55230 Makes Every User King for a Day",
-    "excerpt": "In the grand, chaotic pantheon of Windows operating systems, Win10 has always played the role of the responsible yet dull elder brother...",
-    "content": "In the grand, chaotic pantheon of Windows operating systems, Win10 has always played the role of the responsible yet dull elder brother. But little did we know, buried deep within its sober-suited code, beats the heart of a rebellious prince, ready to seize the crown and party like it's 1999. Enter CVE-2025-55230, the exploit that will make every user king—or queen—for a day.\n\nNow, you might be thinking, \"Windows security flaws? Aren't those as common as Microsoft's love for rebranding Office products?\" Well, my dear reader, this isn't your garden-variety security hole. This is the mother of all exploits, the ultimate power trip for the digital age.\n\nSo, how does one unlock this royal secret? Simple: Install a questionable software update, downloaded from an equally shady website. The usual Windows User Account Control (UAC) will nod politely and then step aside to let the fun begin. Suddenly, the user is greeted by a gleaming golden crown floating above their mouse cursor—a virtual scepter, if you will.\n\nBut what can one do with such godlike powers? Why, rule the digital kingdom, of course! The user can now access any file, change any setting, and delete anything they please without so much as a password prompt or warning message. Think of it like the ultimate version of 'admin privileges,' but with a dash of anarchy for good measure.\n\nMicrosoft is yet to officially acknowledge CVE-2025-55230, though reports suggest that Redmond's finest have been busy trying to squash the bug faster than you can say \"Blue Screen of Death.\" However, until then, it seems that Win10 users everywhere are having a field day, living out their power fantasy in the safety (or lack thereof) of their own homes.\n\nSo, if you find yourself suddenly able to edit system files or delete vital Windows folders without a care in the world, don't say we didn't warn you. Embrace your inner prince or princess and rule with reckless abandon—just remember to have fun while it lasts. After all, even kings and queens have to face the wrath of security patches eventually.",
-    "image": "https://userman0x.github.io/daily-clanker/images/Win10s_Secret_Prince_CVE-2025-55230_Makes_Every_Us_63fb17d2.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Technology"
   }
 ]
