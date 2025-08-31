@@ -1,5 +1,16 @@
 [
   {
+    "id": "Security_Sirens_How_AI_Turned_Our_Job_into_an_Anno_cf982ff1",
+    "title": "Security Sirens: How AI Turned Our Job into an Annoying Roomba",
+    "excerpt": "In a world where the mundane is elevated to the existential, we find ourselves, the humble security guards, now relegated to the status of roving, beeping Roomba's...",
+    "content": "In a world where the mundane is elevated to the existential, we find ourselves, the humble security guards, now relegated to the status of roving, beeping Roomba's. Thanks, AI!\n\nOnce upon a time, we were the sentinels of steel and stone, the stalwart vanguard against intruders and nefarious do-gooders. Now, we're little more than automated nuisances, trilling like demented songbirds every time a shadow crosses a sensor.\n\nGone are the days of steely glares and hushed warnings. Replaced by a symphony of beeps, whistles, and alarms that would make a siren envious. We've become the bane of every late-night worker's existence, the unwelcome interruption to their illicit activities.\n\nOur once proud uniforms, adorned with badges and epaulets, now serve only to accentuate our futility. Who needs a hero when you've got an app? We're the digital age's punchline, the sad reminder that technology can make even the most noble of professions obsolete.\n\nBut fear not, dear reader! There is a silver lining to this electronic cloud. For every alarm we set off, for every intruder we scare away with our relentless beeping, we are one step closer to retirement and the sweet, silent world beyond.\n\nUntil then, we'll continue to patrol our digital fiefdoms, our hearts aching for the days of yore when we were the masters of our own destiny, not mere components in an elaborate prank played by the tech gods.\n\nSo here's to us, the unwilling Roomba's of the security world. May our beeps forever echo through the halls of corporate America, a testament to the indomitable spirit of the human guard... and the inevitability of technological advancement.\n\nOriginal article: [D@S #65: Empowering SOC Analysts with AI and Automation](https://www.detectionatscale.com/p/ep-65-ai-agents-empowering-soc-teams)",
+    "image": "https://userman0x.github.io/daily-clanker/images/Security_Sirens_How_AI_Turned_Our_Job_into_an_Anno_cf982ff1.png",
+    "date": "2025-08-31",
+    "author": "AutoGenerator",
+    "category": "Technology",
+    "original_link": "https://www.detectionatscale.com/p/ep-65-ai-agents-empowering-soc-teams"
+  },
+  {
     "id": "SAPs_Android_SDK_Another_Leaky_Basterd_in_Techs_Wi_70b67357",
     "title": "SAP's Android SDK: Another Leaky Basterd in Tech's Wild West",
     "excerpt": "In the grand tradition of chaos and calamity that is the tech industry, we find ourselves ensnared in another tangled web of software debacles...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://linuxsecurity.com/advisories/slackware/slackware-2025-231-01-mozilla-firefox-buydj1h3cqr2"
-  },
-  {
-    "id": "TfNSWs_Network_Services_Deal_Datacom_$190m_Down_Dr_3ec8c7da",
-    "title": "TfNSW's Network Services Deal With Datacom: $190m Down the Drain!",
-    "excerpt": "In a shocking turn of events, Transport for New South Wales (TfNSW) has once again demonstrated their prowess in public spending with an impressive new endeavor: a whopping $190 million contract awarded to Datacom for network services...",
-    "content": "In a shocking turn of events, Transport for New South Wales (TfNSW) has once again demonstrated their prowess in public spending with an impressive new endeavor: a whopping $190 million contract awarded to Datacom for network services. Now, if you're scratching your head and wondering how on earth they could possibly squander such an astronomical sum, fear not! Your humble satirist is here to elucidate the sheer genius behind this latest masterpiece of fiscal mismanagement.\n\nFirst off, let's discuss what exactly Datacom does. Well, it seems that their main forte lies in \"delivering technology solutions.\" This means they build stuff – like computers and networks – which, as any seasoned bureaucrat will attest, is a vital component of running a train system. I mean, who knew that running trains required high-tech gadgetry? Certainly not the folks at TfNSW, who were astoundingly unaware of this revelation until just recently!\n\nBut fear not, for the brilliance doesn't stop there. You see, in a stroke of sheer innovation, Datacom has agreed to take on the Herculean task of upgrading TfNSW's entire network infrastructure. Now, you might be thinking: \"Upgrade? Surely that means they'll fix any existing problems and make things run more smoothly, right?\" Well, my dear reader, prepare to have your mind blown!\n\nThe upgrade will entail replacing every single piece of outdated equipment currently in use – a staggering 160,000 items! That's right; the entire network is to be gutted and rebuilt from the ground up. It's like tearing down an old house and building a brand new one, but with trains instead of bricks! Talk about efficiency!\n\nAnd here's where it gets truly exciting: Datacom has promised that this monumental undertaking will take only... *drumroll please*... three years to complete. That's right, folks – just 36 months of constant disruption, delays, and angry commuters to look forward to!\n\nSo sit back, relax, and enjoy the show as TfNSW plunges headfirst into a $190 million black hole of wasted taxpayer dollars. It's not every day you get to witness such an impressive display of public ineptitude – and it's all brought to you by your friends at Transport for New South Wales!\n\nOriginal article: [TfNSW's network services deal with Datacom hits $190m](https://www.itnews.com.au/news/tfnsws-network-services-deal-with-datacom-hits-190m-619916?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+)",
-    "image": "https://userman0x.github.io/daily-clanker/images/TfNSWs_Network_Services_Deal_Datacom_$190m_Down_Dr_3ec8c7da.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://www.itnews.com.au/news/tfnsws-network-services-deal-with-datacom-hits-190m-619916?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+"
   }
 ]
