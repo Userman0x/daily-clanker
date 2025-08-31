@@ -1,5 +1,16 @@
 [
   {
+    "id": "Chromiums_ANGLE_Use_After_Free_-_Post_Mortem_863558c7",
+    "title": "Chromium's ANGLE: Use After Free - Post Mortem Mayhem!",
+    "excerpt": "In the chaotic realm of software development, where bugs are as common as cockroaches in a dirty kitchen, one particular creature has reared its ugly head yet again...",
+    "content": "In the chaotic realm of software development, where bugs are as common as cockroaches in a dirty kitchen, one particular creature has reared its ugly head yet again. This time, it's not just any old bug, but a particularly voracious variety known as \"Use After Free.\" And who better to feast on than the ever-popular browser Chromium?\n\nFor those who aren't versed in the dark arts of coding, let me enlighten you. Use After Free is like serving an old friend a poisoned drink without their knowledge. It happens when a program attempts to use memory that has been freed up, thus causing chaos and potential crashes. In other words, it's like inviting a rowdy guest to a formal dinner party who promptly urinates on the carpet and breaks all the fine china.\n\nNow, Chromium isn't exactly known for its impeccable manners. It's the browser that crashes your computer during a crucial Netflix binge or forces you to reboot while you're in the middle of an intense online poker game. But even for Chromium, this latest debacle is something truly special.\n\nThe culprit behind this latest scandal? A patch, no less! The developers thought they were doing the right thing by fixing a security vulnerability, but instead, they opened a can of worms. Or should I say, a can of Use After Free bugs.\n\nIt's like hiring a hitman to take out your nemesis, only to find out he's also a notorious arsonist. The funny thing is, the developers were well aware of the Use After Free issue. They even patched it in the past! But like a stubborn ex who keeps coming back, this bug just wouldn't stay away.\n\nSo, what now? Well, the Chromium team is scrambling to clean up the mess, trying to catch all these pesky Use After Free bugs before they cause any more damage. Meanwhile, users are left wondering if their browser will crash at the most inopportune moments.\n\nAnd so, the circle of life continues. In the world of software development, it's a never-ending battle between coders and bugs. And sometimes, it seems like the bugs are winning.\n\nBut fear not, dear reader. As long as there are bugs, there will always be satirists to mock them. So sit back, relax, and enjoy the post mortem mayhem. Just remember to save your work regularly—you never know when Chromium might decide to take a dump on it.\n\nOriginal article: [Chromium: CVE-2025-9478 Use after free in ANGLE](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-9478)",
+    "image": "https://userman0x.github.io/daily-clanker/images/Chromiums_ANGLE_Use_After_Free_-_Post_Mortem_863558c7.png",
+    "date": "2025-08-31",
+    "author": "AutoGenerator",
+    "category": "Technology",
+    "original_link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-9478"
+  },
+  {
     "id": "Elas_History_From_Zero_Hero..._Back_Shit_4e8ff2ed",
     "title": "Ela's History: From Zero to Hero... and Back to Shit!",
     "excerpt": "In the quagmire of mediocrity, where dreams go to die and ambitions are as fleeting as a Kardashian marriage, stands a beacon of hope...",
@@ -534,15 +545,5 @@
     "date": "2025-08-31",
     "author": "AutoGenerator",
     "category": "Technology"
-  },
-  {
-    "id": "Human-Augmented_SOCs_New_Pyramid_Scheme_From_Pain__4f7f45de",
-    "title": "Human-Augmented SOC's New Pyramid Scheme: From Pain to Profit!",
-    "excerpt": "In the grand tradition of capitalism's most ingenious concoctions, we find ourselves entangled in a fresh web of deceit, camouflaged as progress...",
-    "content": "In the grand tradition of capitalism's most ingenious concoctions, we find ourselves entangled in a fresh web of deceit, camouflaged as progress. Welcome, dear readers, to Human-Augmented SOC's latest venture: The Pain Pyramid Scheme—a marvelous blend of misery and money that has the corporate world purring like kittens on cocaine.\n\nYou may be wondering, \"What in the sweet mother of mercy is this Pain Pyramid Scheme?\" Fear not, for I shall enlighten you with the finesse of a seasoned swindler. Imagine a pyramid, but instead of hapless souls selling trinkets to each other, they're shoving needles through their own flesh in pursuit of financial freedom. Welcome to the 21st century.\n\nNow, I know what you're thinking: \"But surely this is too absurd to exist!\" Ah, my dear skeptic, you underestimate the lengths corporate America will go to squeeze every last dollar out of its employees—and their bodies. The Pain Pyramid Scheme is here to prove that pain can indeed be profitable.\n\nHere's how it works: Employees are divided into tiers based on their ability to endure pain, starting with the lowly \"Novice,\" who gets a papercut every morning, all the way up to the mighty \"God of Suffering,\" who spends his days submerged in ice water. As they climb the ranks, so does their income—provided they can keep up with the pain quotient.\n\nBut wait! There's more! For those who find themselves unable to compete in this grueling game of human endurance, there's always the option to buy your way out. The Pain Pyramid Scheme offers a wide selection of pain-inducing gadgets and accessories for purchase—because who doesn't want to invest in their own suffering?\n\nSo there you have it, folks. The Pain Pyramid Scheme: because turning work into torture isn't enough—now we're making a profit from it too. And if you think this is some far-fetched, satirical joke, just remember that the only thing stranger than truth is corporate America.",
-    "image": "https://userman0x.github.io/daily-clanker/images/Human-Augmented_SOCs_New_Pyramid_Scheme_From_Pain__4f7f45de.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Politics"
   }
 ]
