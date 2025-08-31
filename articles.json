@@ -1,5 +1,16 @@
 [
   {
+    "id": "Oracles_Party_Foul_Elsas_Update_Ruins_Yet_Another__8f36c445",
+    "title": "Oracle's Party Foul: Elsa's Update Ruins Yet Another Bash",
+    "excerpt": "In a shocking twist that sent shockwaves through Silicon Valley, tech giant Oracle found itself in the crosshairs of public scorn this weekend...",
+    "content": "In a shocking twist that sent shockwaves through Silicon Valley, tech giant Oracle found itself in the crosshairs of public scorn this weekend. The culprit? None other than their latest software update, lovingly dubbed 'Elsa's Frozen Folly.' But before you roll your eyes and mutter \"here we go again,\" let us paint a picture of the chaos that ensued at Oracle's annual soiree.\n\nThe scene was set: Oracle's sprawling campus transformed into a veritable playground for the elite, replete with inflatable swans, an endless buffet, and even a petting zoo - because who doesn't want to cuddle up with a baby goat while discussing the intricacies of cloud computing? But alas, it was not meant to be.\n\nAs guests clinked glasses and exchanged pleasantries, little did they know that Elsa had other plans. A mysterious glitch, thought to have been conjured by the Nordic queen herself, began wreaking havoc on the proceedings. The swanky invitation app, a pride and joy of Oracle's marketing department, started acting up - sending invitations to the wrong people, revoking them at random, and even sending out mass apologies for nonexistent faux pas.\n\nThe partygoers were left in a state of confusion, unsure if they were on the guest list or not, and if they were, when they would be allowed to grace Oracle's hallowed grounds. The tech titan, who had spent millions crafting the perfect event, found itself scrambling to salvage what was left of its shattered reputation.\n\nBut fear not, dear readers. For every calamity there is a silver lining. This debacle has provided us with ample comedic fodder and a valuable lesson: perhaps it's time we reconsidered our blind faith in artificial intelligence and the algorithms that run our lives. After all, who knew that an update meant to streamline party invitations could bring an entire tech titan to its knees?\n\nIn the end, the only thing left to do was pour a stiff drink, shake one's head in disbelief, and wait for the next round of technological folly. As we say here at the dailynovel: may Elsa's Frozen Folly serve as a reminder that even the most advanced AI can't handle a simple party invite - and nor can some of us, if we're being honest.\n\nOriginal article: [Oracle Linux 10 PostgreSQL Important Update ELSA-2025-14826](https://linuxsecurity.com/advisories/oracle/oracle10-elsa-2025-14826-postgresql16-important-ikpzd5hgaje4)",
+    "image": "https://userman0x.github.io/daily-clanker/images/Oracles_Party_Foul_Elsas_Update_Ruins_Yet_Another__8f36c445.png",
+    "date": "2025-08-31",
+    "author": "AutoGenerator",
+    "category": "Technology",
+    "original_link": "https://linuxsecurity.com/advisories/oracle/oracle10-elsa-2025-14826-postgresql16-important-ikpzd5hgaje4"
+  },
+  {
     "id": "Data_Dredging_Disasters_Summer_of_Sht_Show_2025_19c869c1",
     "title": "Data Dredging Disasters: Summer of Sh*t Show 2025",
     "excerpt": "In the sweltering summer of 2025, the digital realm was a tempestuous cocktail of chaos and confusion...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Opinion",
     "original_link": "https://www.troyhunt.com/weekly-update-466/"
-  },
-  {
-    "id": "HTTP_Hoodwinkers_Guide_Avoiding_Sly_Request_Swindl_5ab3cf04",
-    "title": "HTTP Hoodwinkers: A Guide to Avoiding Sly Request Swindling Scams",
-    "excerpt": "In the murky underbelly of the digital landscape, where the hum of servers and the ping of data exchange create a symphony of questionable intent, there exists a pervasive scourge that has plagued even the most seasoned web travelers: HTTP Hoodwinkers...",
-    "content": "In the murky underbelly of the digital landscape, where the hum of servers and the ping of data exchange create a symphony of questionable intent, there exists a pervasive scourge that has plagued even the most seasoned web travelers: HTTP Hoodwinkers. These sneaky charlatans, camouflaged behind innocuous URLs and cloaked in an air of legitimacy, are experts at orchestrating the audacious art of request swindling scams.\n\nTo help you navigate this treacherous cyber sea, we've compiled a handy guide to ensure you never fall victim to these unscrupulous villains.\n\nFirst off, always trust your gut - if something seems too good to be true, it likely is. Be wary of websites offering irresistible deals or freebies that require personal information in exchange. Remember, no one on the internet really needs your Social Security number to send you a cat meme.\n\nSecondly, watch out for URLs with suspiciously long strings of numbers and letters. These can often indicate hidden redirects designed to steal your precious data or lead you astray. If a link looks like it was generated by an 8-year-old playing Mad Libs, chances are it's not a legitimate source.\n\nThirdly, never click on pop-up ads that promise instant wealth, eternal youth, or other fantastical promises. Not only are these distractions annoying, but they can also install malicious software onto your device. Treat these like unwanted party guests - ignore them and hope they leave soon.\n\nLastly, keep your security software up to date. Regular updates not only help protect against viruses and malware but also provide essential tools to identify and block potential HTTP Hoodwinkers. Consider it your digital bodyguard.\n\nBy following these simple guidelines, you can minimize the risk of encountering an HTTP Hoodwinker. And remember, if you ever find yourself tangled in their web, don't hesitate to dance around like a confused cat, scream for help, or simply close the browser and walk away - just like any other unwanted internet guest.\n\nOriginal article: [Beware the false false-positive: how to distinguish HTTP pipelining from request smuggling](https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling)",
-    "image": "https://userman0x.github.io/daily-clanker/images/HTTP_Hoodwinkers_Guide_Avoiding_Sly_Request_Swindl_5ab3cf04.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling"
   }
 ]
