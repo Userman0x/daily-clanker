@@ -1,5 +1,16 @@
 [
   {
+    "id": "GraphQLs_GotSQLem_When_Queries_Get_a_Little_Too_Qu_41db6638",
+    "title": "GraphQL's GotSQLem: When Queries Get a Little Too Query-ous.",
+    "excerpt": "In the realm of programming, where chaos and order coexist like oil and water, we've seen it all - from the ashes of COBOL to the rise of Python's 'it just works' fame...",
+    "content": "In the realm of programming, where chaos and order coexist like oil and water, we've seen it all - from the ashes of COBOL to the rise of Python's 'it just works' fame. But now, dear reader, prepare to feast your eyes on a new breed of chaos: GraphQL's GotSQLem.\n\nFor those blissfully unaware, GraphQL is that hipster kid on the block who swears he can do everything better than REST. He promises flexibility, efficiency, and a more personalized approach to data fetching. But like any rebellious teenager, he's not without his flaws.\n\nEnter GotSQLem, the mutant offspring of GraphQL and SQL injection. This miscreant is born from the reckless use of user-supplied input in your GraphQL queries - a practice that's as dangerous as letting a toddler play with fireworks.\n\nGotSQLem doesn't care about your pretty schema or your resolver functions. He's got one mission: to crash your server and make your life a living hell. And he does it in style, bypassing the usual web application vulnerabilities to inject raw SQL into your queries.\n\nSo, how does this little monster work? Imagine you have a GraphQL API for managing user accounts. A malicious user sends a query like this:\n\n```\nquery {\n  user(id: \"1' OR 1=1--\") {\n    name\n    email\n  }\n}\n```\n\nHere, the single quote and comment symbol after 'OR' are innocent-looking additions. But when combined with your resolver function, they create a SQL injection vulnerability that returns all user accounts - not just the one with id '1'.\n\nAnd if you thought that was bad, wait until you hear about GotSQLem's love for stored procedures. He can exploit these to execute arbitrary commands on your database server, potentially compromising sensitive data or even taking your entire system down.\n\nSo, developers, heed this warning: Keep your queries clean, your resolvers secure, and never underestimate the power of a well-placed single quote. Or you might just find yourself in the uncomfortable position of having to explain to your boss why your GraphQL API is now a playground for GotSQLem.\n\nOriginal article: [10/10 GraphQL SQL injection bug #bugbounty #bugbountytips #bugbountyhunter](https://www.youtube.com/shorts/uEqMfYq1tl8)",
+    "image": "https://userman0x.github.io/daily-clanker/images/GraphQLs_GotSQLem_When_Queries_Get_a_Little_Too_Qu_41db6638.png",
+    "date": "2025-08-31",
+    "author": "AutoGenerator",
+    "category": "Politics",
+    "original_link": "https://www.youtube.com/shorts/uEqMfYq1tl8"
+  },
+  {
     "id": "Integrating_Bots_More_Like_Automating_Armageddon_N_583a3b06",
     "title": "Integrating Bots? More Like Automating Armageddon. (N8n)",
     "excerpt": "In a world where AI is the new cool kid on the block, and every Tom, Dick, and Harriet's cat has its own Alexa-esque personal assistant, we find ourselves inexorably plunged into an era of automation that would make even the most fervent Luddite shake their fist at the heavens...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://www.omeronsecurity.com/p/how-to-jumpstart-your-collaboration"
-  },
-  {
-    "id": "Apple_Cant_Decrypt_U.K.s_Cryptic_Demand_User_Data._2db6c187",
-    "title": "Apple Can't Decrypt U.K.'s Cryptic Demand for User Data... Again!",
-    "excerpt": "In a shocking twist of events that would make even M...",
-    "content": "In a shocking twist of events that would make even M. Night Shyamalan blush, the tech titan Apple has once again found itself ensnared in a tangled web of bureaucratic bollocks, this time courtesy of the ever-so-lovable U.K. government. Seems like someone's been watching too many episodes of '24' and thinks they can pull off a terrorist interrogation with Apple CEO Tim Cook as their Jack Bauer.\n\nThe U.K.'s snoopy spooks have, in their infinite wisdom, demanded that Apple help them crack the digital nut of encrypted user data. But here's the kicker—they want it all. Every message, every photo, and every embarrassing selfie shared by millions of iPhone users worldwide. Because who doesn't want to know what your Aunt Mildred was up to last night, right?\n\nApple, ever the champion of privacy, has predictably said 'no thanks,' citing their commitment to keeping their customers' information secure. But let's face it; this is Apple we're talking about—if they wanted to spy on us, they could have done it ages ago. So what gives?\n\nWell, it appears that the U.K. government has thrown a veritable wrench into Apple's well-oiled machine by invoking an ancient law called the Regulation of Investigatory Powers Act (RIPA). Never mind that this act was written in the Stone Age when flip phones were all the rage and no one had ever heard of Facebook or WhatsApp.\n\nThe U.K.'s request is akin to asking Google Maps to give you directions to Mars—it's just not possible, mate. But don't worry, the government has offered Apple a little carrot in the form of legal immunity if they do manage to perform this digital magic trick. Because nothing says 'trust us' like promising to cover your ass if things go south.\n\nAs the world watches with bated breath (or perhaps with a collective sigh), Apple stands firm, refusing to bow to pressure and protect the privacy of its users. It's a David versus Goliath-esque showdown that would make Rocky proud—if only it weren't so absurd.\n\nSo sit back, grab some popcorn, and enjoy the spectacle of yet another battle between tech giants and governments. Because in this world of digital espionage, it seems no one can keep their secrets safe for long.\n\nOriginal article: [Three questions about Apple, encryption, and the U.K.](https://blog.cryptographyengineering.com/2025/02/23/three-questions-about-apple-encryption-and-the-u-k/)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Apple_Cant_Decrypt_U.K.s_Cryptic_Demand_User_Data._2db6c187.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://blog.cryptographyengineering.com/2025/02/23/three-questions-about-apple-encryption-and-the-u-k/"
   }
 ]
