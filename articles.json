@@ -1,5 +1,16 @@
 [
   {
+    "id": "SAPs_Android_SDK_Another_Leaky_Basterd_in_Techs_Wi_70b67357",
+    "title": "SAP's Android SDK: Another Leaky Basterd in Tech's Wild West",
+    "excerpt": "In the grand tradition of chaos and calamity that is the tech industry, we find ourselves ensnared in another tangled web of software debacles...",
+    "content": "In the grand tradition of chaos and calamity that is the tech industry, we find ourselves ensnared in another tangled web of software debacles. This time, our hapless victims are the unsuspecting developers who dared to venture into the Android SDK jungle, created by none other than SAP, the digital equivalent of a three-legged donkey with a penchant for stepping on rakes.\n\nThe latest revelation in this saga involves an egregious security flaw that has left more than 20,000 developers scratching their heads and muttering expletives under their breaths. It seems that the good folks at SAP have been unwittingly sending sensitive data from Android apps straight to a public server, without so much as a 'hey, how ya doin?' to the users.\n\nNow, you might think that this is just another run-of-the-mill privacy breach in an industry that could give the Kardashians a run for their money. But, oh no, this is SAP we're talking about here - the masters of understatement and subtlety. They didn't merely 'accidentally' leak user data; they went full-blown Three Stooges, leaving a trail of digital breadcrumbs that could make even the most clueless hacker giggle with glee.\n\nBut fear not, dear readers! For SAP is on the case (or at least we assume they are - it's hard to tell when their responses are as elusive as Bigfoot's footprints). They have promised a fix, a patch, a Band-Aid for this gaping wound. However, given their track record, it seems more likely that they will release an update that requires users to dance the Macarena in order to access their own data.\n\nSo, here we are again, caught in the crossfire of tech's Wild West. As we watch our personal information get handed out like candy at a carnival, we can only hope that someone, somewhere, is keeping score. Because if there's one thing this industry needs, it's a dose of accountability - and a whole lot less three-legged donkeys.\n\nOriginal article: [SAP Emarsys SDK for Android Sensitive Data Leak (CVE-2023-6542)](https://www.rcesecurity.com/2025/04/sap-emarsys-sdk-for-android-sensitive-data-leak-cve-2023-6542/)",
+    "image": "https://userman0x.github.io/daily-clanker/images/SAPs_Android_SDK_Another_Leaky_Basterd_in_Techs_Wi_70b67357.png",
+    "date": "2025-08-31",
+    "author": "AutoGenerator",
+    "category": "Technology",
+    "original_link": "https://www.rcesecurity.com/2025/04/sap-emarsys-sdk-for-android-sensitive-data-leak-cve-2023-6542/"
+  },
+  {
     "id": "Old_OpenSSL_Still_Secure_as_a_Three-Legged_Stool_i_aebf3845",
     "title": "Old OpenSSL: Still Secure as a Three-Legged Stool in a Windstorm",
     "excerpt": "In the realm of digital security, where the ephemeral meets the imperative, we find ourselves embroiled in a saga that could only be penned by the darkest of satirical minds...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://www.itnews.com.au/news/tfnsws-network-services-deal-with-datacom-hits-190m-619916?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+"
-  },
-  {
-    "id": "Coding_Dicks_Unearthing_main()_From_X-Rated_VS_Cod_91671bf9",
-    "title": "Coding Dicks: Unearthing 'main()' From X-Rated VS Code Snippets",
-    "excerpt": "In the murky depths of Reddit and GitHub, where lines of code sprawl like digital vines in an unkempt digital forest, a peculiar phenomenon has surfaced...",
-    "content": "In the murky depths of Reddit and GitHub, where lines of code sprawl like digital vines in an unkempt digital forest, a peculiar phenomenon has surfaced. It's not another Y2K bug or a rogue AI taking over our smart fridges - it's something far more intriguing: the emergence of 'main()' functions hidden within a trove of X-rated VS Code snippets.\n\nNow, you might be thinking, \"What the actual algorithmic fuck?\" But stay with me, dear reader. We're delving into the realm of the perplexingly bizarre, where programming and pornography converge in ways that even Silicon Valley's most eccentric minds couldn't have foreseen.\n\nThe culprit behind this racy revelation is none other than VS Code, the open-source text editor by Microsoft. Known for its sleek interface and extensive library of extensions, it seems the platform has inadvertently become a playground for the more... adventurous coders out there.\n\nThe question on everyone's mind (and yes, that includes your grandma on her Windows 95 machine): why? Well, it appears these deviant developers are using their coding prowess to disguise their naughty creations. They hide their X-rated content within innocuous functions like 'main()', hoping to bypass the prying eyes of antivirus software and moralizing moderators.\n\nAs if this weren't enough, these sneaky programmers have taken things a step further by obfuscating their code with complex algorithms and encryptions. It's like playing a twisted game of coded cat-and-mouse, where the stakes are higher than your average hackathon.\n\nBut fear not! The cybersecurity community is on the case. These digital detectives are hard at work, unraveling the intricacies of these lewd conundrums, and exposing the offending code snippets for all to see. It's a race against time, as these coders continue to push the boundaries of decency in their quest for... well, let's just say it involves more than just 1s and 0s.\n\nSo there you have it, folks - a little taste of the weird and wild world of coding dicks. As we delve deeper into this digital morass, who knows what other unexpected discoveries await us? One thing's for sure: if you thought your code was clean, think again.\n\nOriginal article: [RE 101 - Finding main() in Visual Studio Compiled Binaries](https://www.youtube.com/shorts/t-maUnXLSu8)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Coding_Dicks_Unearthing_main()_From_X-Rated_VS_Cod_91671bf9.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://www.youtube.com/shorts/t-maUnXLSu8"
   }
 ]
