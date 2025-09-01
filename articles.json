@@ -1,5 +1,16 @@
 [
   {
+    "id": "FortiFoos_Fix-Up_Fiasco_Swift_Siem_Swindle_Shows_U_c3333b91",
+    "title": "FortiFoo's Fix-Up Fiasco: Swift Siem Swindle Shows Up, Y'all!",
+    "excerpt": "In a world where technological advancements have become as commonplace as air and water, it's no surprise that every Tom, Dick, and Harry claims to have the next big breakthrough...",
+    "content": "In a world where technological advancements have become as commonplace as air and water, it's no surprise that every Tom, Dick, and Harry claims to have the next big breakthrough. This week, FortiFoo, the company that brought you the world's smallest paperclip (which, let's be honest, was a complete waste of time and resources), unveiled their latest innovation: Siem Swindle, an AI-powered home repair assistant.\n\nNow, I know what you're thinking. Another self-proclaimed genius with a goddamn algorithm thinks they can fix your leaky faucet or replace that wonky door hinge. Well, buckle up, folks! This isn't your grandma's handyman service. Siem Swindle promises to revolutionize home repair by using advanced machine learning algorithms to diagnose and solve problems without the need for human intervention.\n\nBut here's the kicker: it costs more than a year's worth of home improvement store runs, and if something goes wrong, well, you're on your own. The fine print reads like a legal contract written in Sanskrit. Basically, if Siem Swindle doesn't fix your problem or makes it worse, too bad, so sad.\n\nSo, what happens when you throw a bunch of tech bros into a room with power tools and tell them they can solve the world's problems? You get a $5,000 appliance that can't even replace a light bulb without electrocuting itself. And if that doesn't convince you to stick with good old-fashioned elbow grease and YouTube tutorials, I don't know what will.\n\nIn a world where technology is supposed to make our lives easier, FortiFoo seems determined to prove the opposite. So, before you splurge on Siem Swindle, remember: there's no substitute for common sense and a pair of sturdy work gloves.\n\nOriginal article: [CVE-2025-25256: Proof of Concept  Released for Critical Fortinet FortiSIEM Command Injection Vulnerability](https://www.tenable.com/blog/cve-2025-25256-proof-of-concept-released-for-critical-fortinet-fortisiem-command-injection)",
+    "image": "https://userman0x.github.io/daily-clanker/images/FortiFoos_Fix-Up_Fiasco_Swift_Siem_Swindle_Shows_U_c3333b91.png",
+    "date": "2025-09-01",
+    "author": "AutoGenerator",
+    "category": "Technology",
+    "original_link": "https://www.tenable.com/blog/cve-2025-25256-proof-of-concept-released-for-critical-fortinet-fortisiem-command-injection"
+  },
+  {
     "id": "Bigfoots_Hairy_Rant_Another_Failed_Diet_Pill_Endor_5508679d",
     "title": "Bigfoot's Hairy Rant: Another Failed Diet Pill Endorsement",
     "excerpt": "In the suffocating heart of the Pacific Northwest, where the damp air clings to you like an unwanted ex-lover, a legend emerges from the foggy abyss...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Business",
     "original_link": "https://risky.biz/RB803/"
-  },
-  {
-    "id": "Microsoft_Ruin_Your_Day_Pre-Install_Update_Surpris_c3befe52",
-    "title": "Microsoft to Ruin Your Day with Pre-Install Update Surprise!",
-    "excerpt": "In the grand tradition of tech giants who've made it their life's mission to ensure our blood pressure remains perpetually elevated, Microsoft has just unleashed another delightful dose of frustration...",
-    "content": "In the grand tradition of tech giants who've made it their life's mission to ensure our blood pressure remains perpetually elevated, Microsoft has just unleashed another delightful dose of frustration. This time, it comes in the form of a pre-install update that will ruin your day faster than a surprise visit from an ex on National Apology Day.\n\nNow, I know what you're thinking: \"But Steve, aren't updates supposed to make things better?\" Well, my dear friend, in Microsoft's twisted universe, 'better' is a relative term, akin to saying a dumpster fire is a good source of warmth.\n\nImagine this: You've just finished your morning coffee and are ready to dive into a productive day. Your computer, a sleek, gleaming Windows machine, greets you with the familiar start-up sound. But then, like a bad joke at a funeral, the screen freezes, and a message appears. \"Pre-install Update: Now Installing.\"\n\nYou're immediately transported back to the stone age, where dial-up modems were still a thing, and patience was a virtue you didn't have time for. The progress bar inches along at an agonizingly slow pace, each tick a tiny dagger in your sanity.\n\nAs the hours pass, and your productivity sinks faster than the Titanic on iceberg Wednesday, you start to question your life choices. You remember the days of Linux or Apple, where updates didn't make you want to hurl your device out the window. But alas, you chose Windows for its convenience, and now you're paying the price.\n\nFinally, after what feels like an eternity, the update finishes. Your computer reboots, and as it fires up again, you're greeted with a new desktop background: a picture of a happy, smug Steve Ballmer, clapping like some sort of malicious circus ringmaster.\n\nAnd there you have it, folks. Microsoft's latest way to ruin your day. So next time you're considering upgrading to a Windows machine, remember this tale. Or better yet, don't. Your sanity will thank you.\n\nOriginal article: [Microsoft Will Start Delivering Windows Quality Updates During Setup Soon](https://www.techrepublic.com/article/news-windows-quality-updates-out-of-the-box/)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Microsoft_Ruin_Your_Day_Pre-Install_Update_Surpris_c3befe52.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://www.techrepublic.com/article/news-windows-quality-updates-out-of-the-box/"
   }
 ]
