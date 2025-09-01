@@ -1,5 +1,16 @@
 [
   {
+    "id": "On_HTTP_Hackery_Crafting_Chaos_with_RFC_9110s_Tact_784f99b6",
+    "title": "On HTTP Hackery: Crafting Chaos with RFC 9110's Tactics",
+    "excerpt": "In the murky world of the interweb, where memes thrive and cats proliferate like digital tribbles, there lies a hidden fraternity of miscreants who've sworn an oath to the almighty byte...",
+    "content": "In the murky world of the interweb, where memes thrive and cats proliferate like digital tribbles, there lies a hidden fraternity of miscreants who've sworn an oath to the almighty byte. They're not hackers in the traditional sense; they're the HTTP Hackers. Today, we delve into their sacrosanct playbook, RFC 9110: A Guide to Crafting Chaos.\n\nFirst off, let's talk about our boy, User-Agent. Remember when Netscape was king, and Internet Explorer was a mere pup? The battle lines were drawn here. But the HTTP Hackers aren't about loyalty; they're about mayhem. So they concoct an abomination of a User-Agent string, a monstrous hybrid of every browser ever made—the ultimate troll move.\n\nNext up: Host header hijinks. This one's a classic. You send a request to Google with a Host header that reads www.nsfw_site.com. Just imagine the chaos as Google tries to serve you pornographic content in your search results. Pranks like these are why we can't have nice things, folks.\n\nThen there's the mighty GET request, the workhorse of the web. But our pals at HTTP Hackers don't settle for ordinary payloads. No, they stuff their GET requests with absurd amounts of data, causing servers to choke on a digital feast fit for the gods. It's like giving a toddler a candy shop and watching the resulting tantrum—only far more technical.\n\nLast but not least, we have the infamous POST request. This is where things get messy. The HTTP Hackers don't just send data; they send malicious data, crafted to corrupt databases, hijack sessions, and generally wreak havoc. It's like playing a violent game of Telephone with the entire internet—and winning.\n\nSo there you have it, folks: RFC 9110, a manual for mayhem. But remember, while we laugh at their antics, the HTTP Hackers are out there, lurking in the shadows, ready to strike at a moment's notice. So keep your servers secure and your data backed up—or risk joining the ranks of those who've been trolled by the HTTP Hackers.\n\nOriginal article: [On HTTP Request Smuggling - RFC 9110 Style](https://www.youtube.com/watch?v=CvEBA_Sm-mw)",
+    "image": "https://userman0x.github.io/daily-clanker/images/On_HTTP_Hackery_Crafting_Chaos_with_RFC_9110s_Tact_784f99b6.png",
+    "date": "2025-09-01",
+    "author": "AutoGenerator",
+    "category": "Technology",
+    "original_link": "https://www.youtube.com/watch?v=CvEBA_Sm-mw"
+  },
+  {
     "id": "Nevada_Hacked_Officials_Scramble_to_Decode_Oops_Al_9146908d",
     "title": "Nevada Hacked: Officials Scramble to Decode 'Oops, All Bitcoins",
     "excerpt": "In a turn of events that would make even the most seasoned cybersecurity experts quake in their keyboard-laden boots, the digital fortress protecting Nevada's vast crypto riches has been breached...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Opinion",
     "original_link": "https://therecord.media/scammer-steals-baltimore-city-impersonation-vendor"
-  },
-  {
-    "id": "Neil_Carpenter_Mastermind_Minimizing_Containers_Ep_95cc7901",
-    "title": "Neil Carpenter: Mastermind Minimizing Container's Epic Meltdown",
-    "excerpt": "In the murky depths of corporate America, where profit margins are wider than a sumo wrestler's waistline and loyalty is as rare as a vegan at a steakhouse convention, one man stands tall amidst the chaos...",
-    "content": "In the murky depths of corporate America, where profit margins are wider than a sumo wrestler's waistline and loyalty is as rare as a vegan at a steakhouse convention, one man stands tall amidst the chaos. A titan of industry, a maestro of management, a veritable colossus of commodities - we present to you, Neil Carpenter, the mastermind minimizing Container's epic meltdown.\n\nNow, if you're unfamiliar with this Container character, let us enlighten you: it's a shipping container company that's been teetering on the brink of disaster since the fall of the Berlin Wall. That's right, folks - they've been circling the drain for over three decades, and only Neil Carpenter, with his iron will and questionable ethics, is keeping them afloat.\n\nBut don't be fooled by his humble demeanor or his penchant for ill-fitting polyester suits - this man is a tactical genius. When the going gets tough, Neil Carpenter pulls out all the stops, and by \"stops\" we mean every dirty trick in the book. From offshore tax havens to dubious subcontractors, he's made Container a household name in the world of corporate skullduggery.\n\nTake, for instance, the infamous incident with the Malaysian port authorities. When they threatened to impound a shipment of Carpenter's questionable merchandise, Neil responded by sending a team of heavily-armed mercenaries to \"persuade\" them otherwise. The result? A brief but bloody skirmish that left several port officials with some very severe papercuts and Container free to continue its reign of terror unabated.\n\nBut it's not all high stakes espionage and international intrigue - Neil Carpenter also has a soft spot for the little guy (provided, of course, that the little guy is willing to bend over backwards for his corporate overlords). Under his leadership, Container has implemented a number of employee-friendly policies, such as mandatory 12-hour workdays, strict no-whistleblowing clauses, and an innovative \"last one out turns off the lights\" policy.\n\nSo, there you have it - Neil Carpenter, the man who's taken a struggling shipping container company and turned it into a byword for corporate malfeasance. He may not be everyone's cup of tea, but when it comes to keeping Container afloat amidst stormy seas, he's the only game in town.\n\nOriginal article: [Managing the Minimization of a Container Attack Surface - Neil Carpenter - ASW #344](http://aswvideo.libsyn.com/managing-the-minimization-of-a-container-attack-surface-neil-carpenter-asw-344)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Neil_Carpenter_Mastermind_Minimizing_Containers_Ep_95cc7901.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Business",
-    "original_link": "http://aswvideo.libsyn.com/managing-the-minimization-of-a-container-attack-surface-neil-carpenter-asw-344"
   }
 ]
