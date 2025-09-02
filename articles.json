@@ -1,5 +1,16 @@
 [
   {
+    "id": "Open_Austin_To_Redefine_Optimal_Online_Scrolling_M_e919260f",
+    "title": "Open Austin To Redefine Optimal Online Scrolling Methods",
+    "excerpt": "Having achieved this foundational victory, the organization, much like a phoenix shedding its skin (and perhaps acquiring a tax-exempt status), gloriously relaunched in 2018 as a [501(c)(3) organization](https://en...",
+    "content": "Having achieved this foundational victory, the organization, much like a phoenix shedding its skin (and perhaps acquiring a tax-exempt status), gloriously relaunched in 2018 as a [501(c)(3) organization](https://en.wikipedia.org/wiki/501(c)(3)_organization). Their new, equally ambitious mandate? To tirelessly champion \"civic engagement\" and \"digital equity\" by constructing bespoke open-source marvels for local social agencies. This often translates to groundbreaking innovations in areas like, for instance, ensuring every citizen of Central Texas experiences the optimal thumb-to-screen friction ratio when navigating public information – a critical component of true digital liberation.\n\nIndeed, the very fabric of our online existence hinges on such dedicated efforts. Without Open Austin’s vigilant scrutiny, who would stand guard against the insidious threat of inefficient scrolling methods, or the subtle tyranny of an unoptimized viewport? We sleep soundly knowing that somewhere, a volunteer is meticulously debugging an algorithm designed to detect and rectify instances of vertical information displacement that falls below the universally accepted \"Zen of Scrolling\" standard. The future, clearly, is not just open, but also exceptionally smooth.",
+    "image": "https://userman0x.github.io/daily-clanker/images/Open_Austin_To_Redefine_Optimal_Online_Scrolling_M_e919260f.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Technology",
+    "original_link": "https://www.eff.org/deeplinks/2025/08/open-austin-reimagining-civic-engagement-and-digital-equity-texas"
+  },
+  {
     "id": "Blue_Team_Fully_Automated_Now_Just_Observes_Squirr_494877a2",
     "title": "Blue Team Fully Automated, Now Just Observes Squirrels",
     "excerpt": "Sources indicate that the latest iterations of [Security Orchestration, Automation and Response (SOAR)](https://en...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://www.synack.com/blog/vulnerability-management-needs-agentic-ai-for-scale-and-humans-for-sense/"
-  },
-  {
-    "id": "ZTNA_Products_More_Like_Zero_Trust_in_Name_Only_165c2146",
-    "title": "ZTNA Products? More Like 'Zero Trust' in Name Only!.",
-    "excerpt": "Title: 'Zero Trust' is a Compliment to These Hackable Wonders!\n\nIn an ironic twist that would make Orwell chuckle, it turns out that our beloved Zero Trust (ZTNA) platforms - Zscaler, Netskope, and Check Point (Perimeter 81) - are about as trustworthy as a three-legged donkey guarding a mint...",
-    "content": "Title: 'Zero Trust' is a Compliment to These Hackable Wonders!\n\nIn an ironic twist that would make Orwell chuckle, it turns out that our beloved Zero Trust (ZTNA) platforms - Zscaler, Netskope, and Check Point (Perimeter 81) - are about as trustworthy as a three-legged donkey guarding a mint. Security researchers David Cash and Richard Warren have found a series of 'critical vulnerabilities' that would make even the most seasoned hacker dance with glee.\n\nLet's start with Zscaler, shall we? Their CVE-2025-54982 flaw is so juicy it could be served at a cybersecurity banquet. Essentially, their SAML authentication mechanism is as secure as a screen door on a pig pen. Attackers can forge SAML assertions and bypass authentication, threatening both data integrity and confidentiality. In other words, if you thought your data was safe behind Zscaler's supposed shield, well, think again, sucker!\n\nNetskope, oh Netskope, where do we begin? With CVE-2024-7401, clients can be enrolled unauthorized thanks to the misuse of OrgKey tokens. That's right, folks; your sensitive data is just a static token away from falling into the wrong hands. And let's not forget the pending CVEs detailing cross-organization user impersonation and privilege escalation issues.\n\nLast but certainly not least, we have Check Point's Perimeter 81 platform, which suffers from a critical vulnerability involving hard-coded SFTP credentials. These magical keys grant unauthorized access to client log files and JWT authentication tokens across multiple tenants, shattering the very principles of zero trust. And here's the kicker: No CVE has been assigned yet!\n\nSo, what's a concerned user to do? Update your systems pronto! Zscaler has patched CVE-2025-54982 and advises strict digital signature validation. Netskope has issued an advisory for CVE-2024-7401, but Check Point is still silent on their end. Rotate those hardcoded credentials or kiss your data goodbye!\n\nAnd let's not forget FortiGuard Labs, who are currently analyzing these vulnerabilities and monitoring for indicators of compromise (IOCs). Signature detections and threat Signal will be updated as information becomes available. Because nothing says 'secure' like a team that's playing catch-up with hackers.\n\nIn the end, it seems that when it comes to Zero Trust platforms, we might as well call them 'Zero Integrity.' But hey, at least they make for great dinner party conversation!\n\nOriginal article: [Multiple ZTNA Products Authentication Bypass](https://fortiguard.fortinet.com/threat-signal-report/6184)",
-    "image": "https://userman0x.github.io/daily-clanker/images/ZTNA_Products_More_Like_Zero_Trust_in_Name_Only_165c2146.png",
-    "date": "2025-09-02",
-    "author": "AutoGenerator",
-    "category": "Politics",
-    "original_link": "https://fortiguard.fortinet.com/threat-signal-report/6184"
   }
 ]
