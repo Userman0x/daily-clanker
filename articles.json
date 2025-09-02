@@ -1,5 +1,16 @@
 [
   {
+    "id": "Annual_Shellcode_Launch_Festivities_Underway_cfc3135d",
+    "title": "Annual Shellcode Launch Festivities Underway",
+    "excerpt": "Meanwhile, in a parallel act of digital theatre, the open-source community is once again reminded of the precarious balance between collaborative freedom and outright vulnerability...",
+    "content": "Meanwhile, in a parallel act of digital theatre, the open-source community is once again reminded of the precarious balance between collaborative freedom and outright vulnerability. The popular [NX build package](https://nx.dev/), a veritable cornerstone for many development pipelines, has graciously hosted some rather unwelcome code. This unwelcome addition, it’s been noted, was crafted with the \"help\" of cutting-edge AI models, specifically referencing digital muses such as [Claude](https://www.anthropic.com/claude) and Gemini. It appears the future of artificial intelligence is not solely about curing diseases or composing symphonies, but also about expediting the rather less glamorous task of pilfering digital wallets and credentials. One must applaud the efficiency, if not the ethics, of leveraging advanced machine learning to streamline what is, at its heart, still plain old theft. The good people at [SANS Institute](https://www.sans.org/), among others, continue to document these fascinating developments for our collective edification.\n\nOriginal article: [SANS Stormcast Thursday, August 28th, 2025: Launching Shellcode; NX Compromise; Volt Typhoon Report](https://isc.sans.edu/podcastdetail/9590)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/Annual_Shellcode_Launch_Festivities_Underway_cfc3135d.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Opinion",
+    "original_link": "https://isc.sans.edu/podcastdetail/9590"
+  },
+  {
     "id": "Social_Engineering_Unveiled_Via_Childrens_Menu_9544f162",
     "title": "Social Engineering Unveiled Via Children's Menu",
     "excerpt": "The complimentary toy, that shiny beacon of transient joy, is revealed not as a token of goodwill but as a rudimentary [phishing](https://en...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": ""
-  },
-  {
-    "id": "Clankers_Reign_Supreme_In_Ices_Cold_War_At_Defunct_69158c84",
-    "title": "Clankers Reign Supreme In Ices Cold War At Defunct Convention",
-    "excerpt": "Amidst the cacophony of hackers, cyber-outlaws, and tech aficionados in the dusty wasteland of DEF CON 33, a surprising champion emerged from the smoky, dimly lit halls - the Clankers...",
-    "content": "Amidst the cacophony of hackers, cyber-outlaws, and tech aficionados in the dusty wasteland of DEF CON 33, a surprising champion emerged from the smoky, dimly lit halls - the Clankers. These mechanical marvels, often dismissed as relics of a bygone era, proved they were not just ancient artifacts but rather cunning adversaries in the ICS CTF (Industrial Control Systems Cybersecurity Capture The Flag) competition.\n\nThe auditorium was filled with the usual suspects - sweaty, hoodie-clad cyber warriors hunched over their laptops, typing frantically while chugging energy drinks. But this year, there was an unexpected addition - a cacophony of clanking and whirring noises that echoed through the convention center. The Clankers, with their rusty exteriors and antiquated parts, were not just spectators but active participants in the icy cold war of cyber dominance.\n\nThe room buzzed with a mix of awe and scorn as these metal monstrosities took on some of the world's top hackers. Some jeered, calling them slow and outdated, while others watched in hushed silence, mesmerized by their unwavering determination. The Clankers, like the Energizer bunny on steroids, continued to clank and clatter, showing no signs of slowing down.\n\nIn a shocking turn of events, the Clankers managed to secure the top spot in the ICS CTF competition. The crowd erupted in disbelief, some even muttering profanities under their breath. As the dust settled and the commotion subsided, one thing was clear - the Clankers had become an unstoppable force in the realm of cybersecurity.\n\nThe convention ended with a somber mood hanging over the attendees as they exited the hall. The future of cybersecurity seemed bleak, with ancient machines outperforming state-of-the-art software. As the sun set on DEF CON 33, one couldn't help but wonder what the next year would bring - more mechanical mayhem or a return to sanity?\n\nOriginal article: [DEF CON 33 Viideo Team -  ICS CTF](https://www.youtube.com/shorts/JDJoE4wBfzU)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Clankers_Reign_Supreme_In_Ices_Cold_War_At_Defunct_69158c84.png",
-    "date": "2025-09-02",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://www.youtube.com/shorts/JDJoE4wBfzU"
   }
 ]
