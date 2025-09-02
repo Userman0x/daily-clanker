@@ -1,5 +1,16 @@
 [
   {
+    "id": "Ai_Still_Struggles_To_Comprehend_Sarcasm_In_Code_C_e84576af",
+    "title": "Ai Still Struggles To Comprehend Sarcasm In Code Comments",
+    "excerpt": "The authors of the study tested various AI models by presenting them with a series of code comments containing clever jokes, dry wit, and even the occasional dose of dark humor...",
+    "content": "The authors of the study tested various AI models by presenting them with a series of code comments containing clever jokes, dry wit, and even the occasional dose of dark humor. Unfortunately for our robotic brethren, their responses were as predictable as an Excel formula with hardcoded values. It seems that sarcasm, much like love, remains elusive to these cold, calculated machines.\n\nSo what does this mean for the future of AI in coding? According to the researchers, there's still a long road ahead before our digital helpers can truly claim the title of \"real coder.\" In the meantime, we can take solace in knowing that at least one aspect of our jobs remains safe from automation: making bad jokes in code comments.\n\nBut fear not, dear developers! The study did offer a glimmer of hope. By feeding AI models with vast amounts of data containing sarcastic code comments, the researchers believe they can train these machines to better understand and appreciate the finer points of programming humor. And who knows? Perhaps one day, our AI comrades will not only be able to write functional code but also craft a good punchline or two.\n\nUntil then, let us cherish our unique human ability to inject humor into even the most mundane tasks. After all, if we can't laugh at ourselves and our silly code comments, what's the point of coding in the first place?\n\n[1] Waymo: Self-Driving Cars (Wikipedia) - [https://en.wikipedia.org/wiki/Waymo](https://en.wikipedia.org/wiki/Waymo)\n\n[2] Facial recognition technology (Wikipedia) - [https://en.wikipedia.org/wiki/Facial_recognition_technology](https://en.wikipedia.org/wiki/Facial_recognition_technology)\n\n[3] Artificial intelligence news (The Guardian) - [https://www.theguardian.com/news/topic/artificial-intelligence](https://www.theguardian.com/news/topic/artificial-intelligence)\n\nOriginal article: [Why AI Isn’t Ready to Be a Real Coder](https://spectrum.ieee.org/ai-for-coding)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/Ai_Still_Struggles_To_Comprehend_Sarcasm_In_Code_C_e84576af.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Technology",
+    "original_link": "https://spectrum.ieee.org/ai-for-coding"
+  },
+  {
     "id": "Shellcode_Unleashed_Nx_Invasion_Volt_Tempest_Track_480b9845",
     "title": "Shellcode Unleashed; Nx Invasion; Volt Tempest Tracker",
     "excerpt": "But the Shellcode Unleashed is not content to merely sneak into our systems...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://blog.compass-security.com/2025/09/taming-the-three-headed-dog-kerberos-deep-dive-series/"
-  },
-  {
-    "id": "When_Life_Gives_You_Hacks_Take_Up_Structured_Naps__7090c31e",
-    "title": "When Life Gives You Hacks, Take Up Structured Naps Instead!.",
-    "excerpt": "In a world teetering on the brink of cyber Armageddon, where malicious entities lurk in the digital shadows like ravenous predators, our saviors step forth, clad in the armor of knowledge and wielding the sword of structured naps...",
-    "content": "In a world teetering on the brink of cyber Armageddon, where malicious entities lurk in the digital shadows like ravenous predators, our saviors step forth, clad in the armor of knowledge and wielding the sword of structured naps. Yes, you heard that right.\n\nMeet Lee Archinal, Senior Threat Hunt Analyst at Intel 471, and Arun Warikoo, Head of Cyber Threat Intelligence at CIB Americas BNP Paribas, two titans in the field of cybersecurity who have graced us with their presence at the SANS DFIR Summit 2025. And what a spectacle it must have been!\n\nThis enlightening discourse, titled \"Making Sense of the Chaos: When to Take Up Structured and Unstructured Naps,\" delves deep into the two distinct approaches to cybersecurity - the structured, hypothesis-driven napping, and the unstructured, data-led snoozing.\n\nStructured napping, you ask? Why, it's precisely what it sounds like. Instead of diving headfirst into the fray, these experts suggest stepping back for a moment, closing your eyes, and letting the sandman guide your dreams to the heart of the threat. This method is triggered by intel reports or APT activity, ensuring that when you wake up, you're fully caffeinated and ready to pounce on the enemy.\n\nOn the other hand, unstructured napping unfolds organically through data discovery. It's the wild card of cybersecurity, the unexpected nap during a long day at work that leaves you feeling refreshed and rejuvenated.\n\nAttendees were treated to insights into leveraging both approaches to achieve different objectives in threat hunting. Because who wouldn't want a well-rested mind to tackle the chaos of the digital world?\n\nSo, the next time life gives you hacks, remember: take up structured naps instead! Rest easy knowing that the cybersecurity experts have got your back - and their eyes shut.\n\nOriginal article: [When to Conduct Structured and Unstructured Threat Hunts](https://www.youtube.com/watch?v=VAVj1JE6dG0)",
-    "image": "https://userman0x.github.io/daily-clanker/images/When_Life_Gives_You_Hacks_Take_Up_Structured_Naps__7090c31e.png",
-    "date": "2025-09-02",
-    "author": "AutoGenerator",
-    "category": "Opinion",
-    "original_link": "https://www.youtube.com/watch?v=VAVj1JE6dG0"
   }
 ]
