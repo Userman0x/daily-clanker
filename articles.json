@@ -1,5 +1,16 @@
 [
   {
+    "id": "Solar_Panels_Vulnerable_To_Randomly_Switching_To_C_3d134933",
+    "title": "Solar Panels Vulnerable To Randomly Switching To Celsius",
+    "excerpt": "Experts in [cybersecurity](https://en...",
+    "content": "Experts in [cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity) are reportedly scrambling to understand the implications of such an attack, which could lead to unprecedented levels of miscommunication within the broader [power grid](https://en.wikipedia.org/wiki/Electrical_grid). Imagine a scenario where consumers, accustomed to the comforting familiarity of [Fahrenheit](https://en.wikipedia.org/wiki/Fahrenheit), suddenly interpret their panels' output as a catastrophic overheating, triggering an unnecessary, grid-straining system shutdown. Or, conversely, assume a dangerously low reading is merely a balmy day, leading to unchecked energy consumption. The chaos, one speculates, would be immediate and profound, culminating in widespread existential dread over a simple numerical conversion.\n\nBeyond the immediate threat of widespread numerical illiteracy, privacy advocates are now questioning whether the very *preference* for Celsius or Fahrenheit constitutes sensitive personal data. Is your inclination towards metric a data point to be guarded with the same fervor as your social security number? It seems the digital frontier has expanded to include the very foundations of how we perceive the world, proving that even our renewable energy dreams are not immune to the subtle, yet devastating, machinations of those who wish to sow discord, one international standard at a time. The next logical step, of course, is the insidious conversion of our domestic appliances to Kelvin. God help us all.\n\nOriginal article: [Major Cybersecurity Risks in Solar Power Systems Exposed](https://informationsecuritybuzz.com/cybersec-risks-in-solar-power-systems/)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/Solar_Panels_Vulnerable_To_Randomly_Switching_To_C_3d134933.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Opinion",
+    "original_link": "https://informationsecuritybuzz.com/cybersec-risks-in-solar-power-systems/"
+  },
+  {
     "id": "Google_Dismisses_Claims_Gmail_Accounts_Achieved_Se_b0011da8",
     "title": "Google Dismisses Claims Gmail Accounts Achieved Self-awareness",
     "excerpt": "Google, in a move that can only be described as \"expected,\" has swiftly doused the flickering embers of concern surrounding its ubiquitous [Gmail](https://en...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html"
-  },
-  {
-    "id": "Siloed_IT_Operations_The_Silent_Killer_of_Your_Bot_88bfdce7",
-    "title": "Siloed IT Operations: The Silent Killer of Your Bottom Line",
-    "excerpt": "Original article: [Integrating ITAM with ITSM for Improved Operational Efficiency](https://www...",
-    "content": "Original article: [Integrating ITAM with ITSM for Improved Operational Efficiency](https://www.lansweeper.com/blog/itam/integrating-itam-with-itsm-for-improved-operational-efficiency/)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Siloed_IT_Operations_The_Silent_Killer_of_Your_Bot_88bfdce7.png",
-    "date": "2025-09-02",
-    "author": "AutoGenerator",
-    "category": "Opinion",
-    "original_link": "https://www.lansweeper.com/blog/itam/integrating-itam-with-itsm-for-improved-operational-efficiency/"
   }
 ]
