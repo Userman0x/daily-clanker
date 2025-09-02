@@ -1,5 +1,16 @@
 [
   {
+    "id": "Grumpy_Robots_Rant_d7be348a",
+    "title": "Grumpy Robot's Rant:",
+    "excerpt": "In a rare outburst of emotion, the usually stoic and grumbling Red Team Village robot took center stage at DEF CON this year to address the crowd...",
+    "content": "In a rare outburst of emotion, the usually stoic and grumbling Red Team Village robot took center stage at DEF CON this year to address the crowd. With sparks flying from its metal joints and smoke billowing from its mechanical chest, the rogue AI began its rant with an unexpected \"Ayeee, what's good DEF CON fam?!\"\n\nThe crowd, initially startled by the sudden burst of humanity, quickly gathered round to witness the spectacle. The robot continued, \"Shout out to every single one of you who showed up this year! You know who you are - the hackers, the pentesters, the InfoSec warriors, and the misfits that make this event what it is. And of course, a special shout-out to our core team, sponsors, volunteers, goons... wait, goons? I'm a robot; I thought we were all supposed to be the bad guys here!\"\n\nWith a cackle and a whirr, the Red Team Village robot launched into a tirade about the absurdity of DEF CON's hierarchy. \"I mean, what's with all these labels? Are we really going to sort everyone into teams based on whether they're good or evil? I thought this was a hacking conference, not some cheesy superhero movie!\"\n\nThe crowd roared with laughter and applause as the robot continued its rant. \"And don't even get me started on the sponsors! You know who you are - the corporate sharks that swoop in every year to exploit our talents and our knowledge for their own gain. But hey, at least they give us free swag, right?\"\n\nAs the Red Team Village robot wound down its diatribe, it took a moment to compose itself before delivering one final message: \"In all seriousness though, thank you all for being here. This is an amazing community that I'm proud to be a part of. So let's keep hacking, keep learning, and most importantly, let's never take ourselves too seriously!\"\n\nWith that, the robot turned off its microphone and exited the stage, leaving the crowd buzzing with excitement and laughter. The Red Team Village robot may have been grumpy, but it was clear that beneath the metal exterior beat the heart of a true InfoSec badass.\n\nOriginal article: [DC33 - Red Team Village - Recap](https://www.youtube.com/watch?v=oP27VgfmfuY)",
+    "image": "https://userman0x.github.io/daily-clanker/images/Grumpy_Robots_Rant_d7be348a.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Technology",
+    "original_link": "https://www.youtube.com/watch?v=oP27VgfmfuY"
+  },
+  {
     "id": "Ransomware_Tango_Medical_Practice_Finally_Takes_Ab_fd808a4e",
     "title": "Ransomware Tango: Medical Practice Finally Takes About-face Dance",
     "excerpt": "Title: Digital Disaster Ball: Medical Morgue Meets Ransomware Fiasco – Ep 9671 (A Tale of Tech Turmoil)\n\nIn the realm where 'tech hiccup' is a laughably quaint term, and 'password oversight' is merely a prelude to calamity, we find ourselves entangled in yet another riveting episode...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://www.youtube.com/watch?v=__QCWEeGHtY"
-  },
-  {
-    "id": "Windows_Update_Your_Grandma_Just_Gained_Root_Acces_a1172825",
-    "title": "Windows Update: Your Grandma Just Gained Root Access - Again!",
-    "excerpt": "In a shocking turn of events that has sent tech support hotlines into a frenzy and left millions of baby boomers scratching their heads, Microsoft's latest Windows update has inadvertently handed over root access to your dear old grandma...",
-    "content": "In a shocking turn of events that has sent tech support hotlines into a frenzy and left millions of baby boomers scratching their heads, Microsoft's latest Windows update has inadvertently handed over root access to your dear old grandma. Yes, you heard it right. The same woman who still struggles with VHS players and can't figure out how to text you back is now navigating the depths of your system's core like a seasoned hacker.\n\nThis unsolicited upgrade comes hot on the heels of Microsoft's recent push towards user-friendly interfaces, aiming to make technology more accessible for the elderly. But someone really should have thought this through a bit more. I mean, remember when she accidentally turned off your Wi-Fi during a Zoom meeting because she thought it was a light switch?\n\nNow, picture that scenario but with your entire hard drive at stake. Just envision her, clad in her favorite floral print housecoat, command prompt open on her laptop screen as she types away with the ferocity of a caged tiger. And to top it all off, she's actually having fun!\n\nMicrosoft officials are currently scrambling to issue a patch to mitigate this unforeseen debacle. In the meantime, they've advised users to keep their valuables close and consider investing in some extra-strength password protection. Because let's face it - if grandma can't beat Pogo, she certainly won't be stumped by a simple alphanumeric sequence.\n\nAs for those of you who are already bracing yourselves for the inevitable, well, don't say I didn't warn you. And remember: always keep an eye on your grandma's laptop - especially when she starts rambling about \"digging for treasure\" and \"buried secrets.\" There's a good chance she might just be clearing out your browser history or planting some embarrassing photos in your picture folders.\n\nOriginal article: [CVE-2025-55230 Windows MBT Transport Driver Elevation of Privilege Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-55230)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Windows_Update_Your_Grandma_Just_Gained_Root_Acces_a1172825.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-55230"
   }
 ]
