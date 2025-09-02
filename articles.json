@@ -1,5 +1,16 @@
 [
   {
+    "id": "Comptias_Dns_Unveils_Secret_To_Turning_Sand_Into_N_e0b9a2ca",
+    "title": "Comptia's Dns Unveils Secret To Turning Sand Into Network Cables",
+    "excerpt": "In a recent interview with our team, a representative from Comptia's DNS division explained the intricacies of their groundbreaking process: \"We discovered that sand, when subjected to a unique combination of sunlight, wind, and moisture, forms intricate patterns reminiscent of network cables...",
+    "content": "In a recent interview with our team, a representative from Comptia's DNS division explained the intricacies of their groundbreaking process: \"We discovered that sand, when subjected to a unique combination of sunlight, wind, and moisture, forms intricate patterns reminiscent of network cables. With a few minor adjustments using our patented _[Network+](https://www.youtube.com/watch?v=9wt-LcatmFY)_ technology, these patterns can be transformed into functional network cables.\"\n\nThe tech giant has also hinted at plans to develop sand-based servers and routers, aiming to create a completely self-sustaining digital ecosystem. While the industry eagerly awaits further updates on this promising development, some experts question whether the quality of these sand-made components will match that of their traditional counterparts.\n\nMeanwhile, enthusiastic network professionals have begun experimenting with the new technology, creating viral videos showcasing their homemade sand networks on platforms like _[YouTube](https://www.youtube.com/)_ and _[TikTok](https://www.tiktok.com/)_. It appears that the sand-to-network-cable phenomenon is set to become the latest trend in DIY networking projects.\n\nAs the world adjusts to this extraordinary turn of events, one thing is certain: Comptia's DNS has once again proven its commitment to pushing boundaries and driving innovation in the ever-evolving realm of technology. Whether you're a seasoned network engineer or simply a curious bystander, it seems that we are all now inexorably linked - quite literally - to the sands of time.\n\nOriginal article: [Domain Name System (DNS) - CompTIA Network+ N10-009](https://www.youtube.com/watch?v=9wt-LcatmFY)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/Comptias_Dns_Unveils_Secret_To_Turning_Sand_Into_N_e0b9a2ca.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Technology",
+    "original_link": "https://www.youtube.com/watch?v=9wt-LcatmFY"
+  },
+  {
     "id": "Commvault_Unveils_Patch_For_Chain_Reaction_Of_Laug_477a666b",
     "title": "Commvault Unveils Patch For Chain Reaction Of Laughable Loopholes",
     "excerpt": "The Commvault team, ever the quick thinkers, wasted no time in releasing a patch to address this cluster bomb of vulnerabilities...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://dayzerosec.com/podcast/282.html"
-  },
-  {
-    "id": "Shortest_headline_Windows_Servers_Might_Be_Faking__408718f6",
-    "title": "Shortest headline: \"Windows Servers Might Be Faking It!",
-    "excerpt": "Title: **Microsoft's Latest Meltdown: Windows Servers Faking a Decade's Worth of Puberty**\n\nWindows, the operating system that's older than most of its users, has once again found itself in the hot seat...",
-    "content": "Title: **Microsoft's Latest Meltdown: Windows Servers Faking a Decade's Worth of Puberty**\n\nWindows, the operating system that's older than most of its users, has once again found itself in the hot seat. In an unexpected twist of events, it appears that Windows Servers are now pretending to be fully grown adults! Yes, you read that right. The servers that have been innocently humming away in our data centers since Bill Gates was still a teenage billionaire are suddenly claiming they've aged a decade or more.\n\nIn the Security Updates table, Microsoft has listed the additions of Windows Server 2022, version 23H2, Windows Server 2025, and the enigmatic Windows Server 2025 (Server Core installation). It's as if these servers decided to skip a few birthdays and join the party already in progress. This revelation has left many IT professionals scratching their heads and questioning whether they should start addressing them with honorary titles like \"Uncle\" or \"Aunt.\"\n\nTo protect these newly matured servers from a vulnerability involving spoofed DNS responses, Microsoft recommends configuring Windows DNS servers to have an UDP buffer size of 1221. This may sound like a fun party game but, in reality, it's just another hurdle for IT teams who already have their hands full dealing with the antics of these overachieving servers.\n\nSo, there you have it: Windows Servers are now adults. Who knew they were capable of growing up so fast? Next thing you know, they'll be asking for the Wi-Fi password and demanding access to Netflix. In the meantime, IT professionals everywhere will be busy configuring those UDP buffer sizes, hoping this is just a phase that their servers will eventually outgrow.\n\nOriginal article: [ADV200013 Microsoft Guidance for Addressing Spoofing Vulnerability in DNS Resolver](https://msrc.microsoft.com/update-guide/vulnerability/ADV200013)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Shortest_headline_Windows_Servers_Might_Be_Faking__408718f6.png",
-    "date": "2025-09-02",
-    "author": "AutoGenerator",
-    "category": "Opinion",
-    "original_link": "https://msrc.microsoft.com/update-guide/vulnerability/ADV200013"
   }
 ]
