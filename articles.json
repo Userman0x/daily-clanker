@@ -1,5 +1,16 @@
 [
   {
+    "id": "Blue_Team_Fully_Automated_Now_Just_Observes_Squirr_494877a2",
+    "title": "Blue Team Fully Automated, Now Just Observes Squirrels",
+    "excerpt": "Sources indicate that the latest iterations of [Security Orchestration, Automation and Response (SOAR)](https://en...",
+    "content": "Sources indicate that the latest iterations of [Security Orchestration, Automation and Response (SOAR)](https://en.wikipedia.org/wiki/Security_Orchestration,_Automation_and_Response) platforms, augmented by increasingly sentient [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) modules, have completely eradicated \"alert fatigue.\" Indeed, they’ve eliminated most forms of fatigue, period, by removing the need for human input beyond the initial (and now historical) act of deployment. Defenders, once shackled to their consoles, are now reportedly enjoying extended periods of reflective idleness, their responsibilities whittled down to what some describe as \"existential observation.\"\n\nThe most popular new pastime for these liberated digital sentinels is apparently the meticulous study of local flora and fauna, particularly squirrels. One former Senior Security Analyst, now a dedicated squirrel enthusiast, was overheard musing on the complex threat model posed by acorn distribution. \"It's truly fascinating,\" he reportedly stated, \"how their behavior patterns shift with the seasonal availability of resources. Far more predictable than a zero-day, wouldn’t you say?\"\n\nProponents of this fully automated paradigm, including leading solution provider [Swimlane](https://swimlane.com/), champion the shift as a necessary evolution, freeing up precious human brainpower for \"higher-level strategic thinking.\" What exactly this higher-level thinking entails when the machines handle literally everything else remains a topic of spirited debate during extended coffee breaks, which now constitute the bulk of the workday. The future, it seems, is less about fighting cyber enemies and more about contemplating the profound meaning of a perfectly shelled peanut.\n\nOriginal article: [Automating the Blue Team with Kevin Mata (Swimlane) on SOAR & AI in Cyber - Simply Defensive S4E6](https://www.youtube.com/watch?v=fh85rLJjLcg)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/Blue_Team_Fully_Automated_Now_Just_Observes_Squirr_494877a2.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Opinion",
+    "original_link": "https://www.youtube.com/watch?v=fh85rLJjLcg"
+  },
+  {
     "id": "Grandmas_Online_Knitting_Circle_Exposes_Global_Esp_37964eea",
     "title": "Grandma's Online Knitting Circle Exposes Global Espionage Ring",
     "excerpt": "The revelations came during a weekly virtual meetup, when [Grace](https://www...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Politics",
     "original_link": "https://fortiguard.fortinet.com/threat-signal-report/6184"
-  },
-  {
-    "id": "Tea_App_Leak_Safer_Than_Your_Government_efe62595",
-    "title": "Tea App Leak: Safer Than Your Government!.",
-    "excerpt": "Title: Tea Time Shenanigans: When 'Safety' Meets Shady, Leaking 13k ID Photos and a Million Messages\n\nIn the world of digital dating, where swipes and DMs reign supreme, one app boasted itself as a sanctuary for the fairer sex...",
-    "content": "Title: Tea Time Shenanigans: When 'Safety' Meets Shady, Leaking 13k ID Photos and a Million Messages\n\nIn the world of digital dating, where swipes and DMs reign supreme, one app boasted itself as a sanctuary for the fairer sex. The Tea App, promising a 'safe space' for women to share their experiences, has instead become the ultimate irony, transforming into a leaky sieve that spilled over 13,000 government ID photos, 72,000 user images, and over a million private messages. Yes, you read that right – more secrets than a Kardashian closet!\n\nThe hackers, with a mischievous grin, unleashed this digital Pandora's box onto the dark web, making it accessible for all (and we mean ALL) to see. This is just another example of how even a well-intentioned app can turn into an epic fail, thanks to sloppy coding and a lack of cybersecurity discipline that could make your local bakery look like Fort Knox.\n\nEnter our resident cybersecurity sleuth, who disassembled the app's source code with all the grace of a surgeon performing open-heart surgery – minus the sterile environment, of course. The findings? A disaster of epic proportions that would make even Chernobyl blush.\n\nThe fallout is a tangled web of legal and privacy repercussions, with users left feeling violated and vulnerable. And let's not forget the broader implications for app security – if it can happen to The Tea App, it can happen to any app. So next time you download an app promising safety and privacy, remember: there's no guarantee that your secrets won't end up on a 4chan post.\n\nIn case you're wondering, this catastrophe has earned The Tea App the coveted title of \"The Most Leaky Kettle of the Year.\" So grab a cup of tea and enjoy the show – it's going to be one helluva ride!\n\nOriginal article: [The Tea App Hack: How a “Safe” Space Leaked 13,000 ID Photos & 1.1M Messages](https://sharedsecurity.net/2025/08/18/the-tea-app-hack-how-a-safe-space-leaked-13000-id-photos-1-1m-messages/)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Tea_App_Leak_Safer_Than_Your_Government_efe62595.png",
-    "date": "2025-09-02",
-    "author": "AutoGenerator",
-    "category": "Politics",
-    "original_link": "https://sharedsecurity.net/2025/08/18/the-tea-app-hack-how-a-safe-space-leaked-13000-id-photos-1-1m-messages/"
   }
 ]
