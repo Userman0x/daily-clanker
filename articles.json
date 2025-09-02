@@ -1,5 +1,16 @@
 [
   {
+    "id": "Germanys_Top_Hackers_Adhere_To_Strict_Competition__63383ebc",
+    "title": "Germany’s Top Hackers Adhere To Strict Competition Rules",
+    "excerpt": "Having apparently moved beyond the mere \"wild west\" of unscheduled data expropriation, these events now feature \"finals\" – a testament to how far we've come in sanitizing the art of the illicit...",
+    "content": "Having apparently moved beyond the mere \"wild west\" of unscheduled data expropriation, these events now feature \"finals\" – a testament to how far we've come in sanitizing the art of the illicit. Indeed, one might almost forget that the very purpose of this \"sport\" often involves bypassing digital safeguards. Yet, here we are, witnessing a structured, seasonal calendar from March to May 2025, where participants presumably adhere to stringent [competition rules](https://play.cscg.live/rules) designed to ensure equitable exploitation. One can only imagine the meticulous judging criteria: \"Points deducted for brute-forcing before designated warm-up periods,\" or \"Disqualification for using zero-day exploits sourced from non-approved, external partners.\"\n\nIt's a curious spectacle, this open celebration of \"hacking,\" complete with official channels like the [German Hacking Championship](https://hacking-meisterschaft.de/) website, which one hopes isn't itself a prime target. The entire endeavor seems to exist in a delightful ethical grey area, where the very act of undermining digital security is simultaneously honed, celebrated, and, rather brilliantly, commercialized. Aspiring digital saboteurs can even reportedly \"learn hacking\" through conveniently placed advertisements, suggesting a robust career path for those adept at what the less charitably inclined might call digital trespass. One wonders if the [German government](https://www.bundesregierung.de/breg-en) views this as a novel form of vocational training, or perhaps a rather elaborate, self-policing exercise in future [cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity) threats. Either way, it’s certainly more engaging than watching paint dry, even if the implications remain delightfully murky.\n\nOriginal article: [The German Hacking Championship](https://www.youtube.com/watch?v=f0C3RH7baEw)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/Germanys_Top_Hackers_Adhere_To_Strict_Competition__63383ebc.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Politics",
+    "original_link": "https://www.youtube.com/watch?v=f0C3RH7baEw"
+  },
+  {
     "id": "Ai_Formally_Declared_its_Complicated_By_Senate_Pan_03433320",
     "title": "Ai Formally Declared 'it's Complicated' By Senate Panel",
     "excerpt": "Furthermore, we are reminded that AI is a \"tool, not the whole toolbox...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://heimdalsecurity.com/blog/heimdal-tamperedchef-investigation/"
-  },
-  {
-    "id": "HTTP2_Users_Prepare_to_Get_MadeYouReset_and_Then_W_d35fe6e8",
-    "title": "HTTP/2 Users, Prepare to Get 'MadeYouReset'... and Then Wait!",
-    "excerpt": "Title: The Digital Apocalypse You've Been Waiting For - 'MadeYouReset': A Brand-New Way to Ruin Your Day!\n\nIn a twisted turn of events that will make your IT manager cry tears of joy, we present to you the latest digital plague that's sweeping the globe: 'MadeYouReset'...",
-    "content": "Title: The Digital Apocalypse You've Been Waiting For - 'MadeYouReset': A Brand-New Way to Ruin Your Day!\n\nIn a twisted turn of events that will make your IT manager cry tears of joy, we present to you the latest digital plague that's sweeping the globe: 'MadeYouReset'. Yes, you read that right. Get ready to kiss your data goodbye and start that lengthy update all over again!\n\nFor those blissfully unaware, this little gem is a denial-of-service (DoS) attack hiding in plain sight within the very foundations of our beloved HTTP/2 implementations. If you thought buffer overflow attacks or SQL injection were bad, hold onto your proverbial hats because 'MadeYouReset' is here to take the cake!\n\nThis audacious piece of malware is so cunning it's been given the affectionate nickname \"CVE-2025-8671\" - a name that sounds like something straight out of a sci-fi horror movie. Some vendors, in their infinite wisdom, have even assigned their own specific CVE numbers to describe the vulnerability, such as CVE-2025-48989, which translates roughly to \"prepare to be thoroughly pissed off\".\n\nSo, what does this mean for you? Well, if 'MadeYouReset' decides to drop by uninvited, expect your system to freeze, crash, and reset - over and over again. The cherry on top? Each time it happens, you'll need to patiently wait as your computer goes through the torturous process of updating itself all over again.\n\nIn these trying times, remember: misery loves company. Share this exciting news with your friends and family, because who doesn't love a good laugh at their own expense?\n\nOriginal article: [VU#767506: HTTP/2 implementations are vulnerable to \"MadeYouReset\" DoS attack through HTTP/2 control frames](https://kb.cert.org/vuls/id/767506)",
-    "image": "https://userman0x.github.io/daily-clanker/images/HTTP2_Users_Prepare_to_Get_MadeYouReset_and_Then_W_d35fe6e8.png",
-    "date": "2025-09-02",
-    "author": "AutoGenerator",
-    "category": "Business",
-    "original_link": "https://kb.cert.org/vuls/id/767506"
   }
 ]
