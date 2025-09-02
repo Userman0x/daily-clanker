@@ -1,5 +1,16 @@
 [
   {
+    "id": "Greynoise_Unveils_Real-time_Defense_For_Black_Hat__b2481397",
+    "title": "Greynoise Unveils Real-time Defense For Black Hat 2026 Threats",
+    "excerpt": "It seems the goal isn't to stop the attacks, but merely to become slightly less vulnerable, slightly less slowly...",
+    "content": "It seems the goal isn't to stop the attacks, but merely to become slightly less vulnerable, slightly less slowly. This relentless pursuit of speed implies that the actual problem — the fundamental vulnerability of interconnected systems — is perhaps a less profitable narrative than the promise of an ever-quicker reaction time. One can almost picture the 2026 cyber-criminal, their finely tuned exploits ready for unveiling, only to sigh dramatically and say, \"Well, *that’s* just great. Now I’ll have to innovate slightly *more* quickly.\" The future of [cybersecurity](https://www.cisa.gov/cybersecurity) remains a perpetual motion machine, fueled by the terrifying prospect of yesterday’s threats, today’s headlines, and tomorrow’s uninvented horrors.",
+    "image": "https://userman0x.github.io/daily-clanker/images/Greynoise_Unveils_Real-time_Defense_For_Black_Hat__b2481397.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Opinion",
+    "original_link": "https://www.greynoise.io/blog/greynoise-launches-real-time-threat-defense-capabilities"
+  },
+  {
     "id": "AI_Training_Data_Now_Guarded_By_Single_Intern_With_097e436c",
     "title": "AI Training Data Now Guarded By Single Intern With Flashlight",
     "excerpt": "But now, a glimmer of hope, or perhaps just the intern's flashlight beam, emanates from the hallowed halls of [MIT](https://www...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://infosecwriteups.com/enterprise-prompt-security-injection-prevention-tools-compared-22b08a683c8b?source=rss----7b722bfd1b8d---4"
-  },
-  {
-    "id": "Cyber_Troll_Snags_Oil_Tankers_Via_Fast_Food_Delive_a99552b9",
-    "title": "Cyber Troll Snags Oil Tankers Via Fast Food Delivery App Hack!",
-    "excerpt": "In a twist as salty as a week-old fry, the digital menace known as Cyber Troll has struck again, this time commandeering oil tankers via a Fast Food Delivery App hack! You heard it right; your late-night grease-fueled binge sessions may have just inadvertently steered an oil tanker off course...",
-    "content": "In a twist as salty as a week-old fry, the digital menace known as Cyber Troll has struck again, this time commandeering oil tankers via a Fast Food Delivery App hack! You heard it right; your late-night grease-fueled binge sessions may have just inadvertently steered an oil tanker off course.\n\nCydome, the cybersecurity firm that's been monitoring this chaos since the infamous Lab Dookhtegan debacle, released their 'Second Wave Findings' in August - a report that reads like a thriller novel except it's based on real-life maritime disasters. The incident disrupted communications on 116 vessels, leaving sailors stranded and seagulls confused. But here's the kicker: It all went down thanks to a critical weak point in VSAT terminals - the iDirect Falcon service.\n\nNow, for those who haven't been paying attention during their daily dose of Netflix documentaries, VSAT stands for Very Small Aperture Terminal. And if you thought that was technical jargon enough to keep you safe from cyberattacks while munching on your chicken wings, think again! The service is as vulnerable as a fish in a bear trap - or a greasy-fingered user on a Fast Food Delivery App.\n\nSo next time you're browsing through menu options wondering if you should go for the extra cheese or not, remember: You could be single-handedly commandeering an oil tanker! And just when you thought you had enough to worry about with your cholesterol levels.\n\nOriginal article: [Lab Dookhtegan cyberattack on Iranian oil tankers traced to supply chain compromise of Fanava’s infrastructure](https://industrialcyber.co/supply-chain-security/lab-dookhtegan-cyberattack-on-iranian-oil-tankers-traced-to-supply-chain-compromise-of-fanavas-infrastructure/)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Cyber_Troll_Snags_Oil_Tankers_Via_Fast_Food_Delive_a99552b9.png",
-    "date": "2025-09-02",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://industrialcyber.co/supply-chain-security/lab-dookhtegan-cyberattack-on-iranian-oil-tankers-traced-to-supply-chain-compromise-of-fanavas-infrastructure/"
   }
 ]
