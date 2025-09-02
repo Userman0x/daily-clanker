@@ -1,5 +1,16 @@
 [
   {
+    "id": "HTTP2_Users_Prepare_to_Get_MadeYouReset_and_Then_W_d35fe6e8",
+    "title": "HTTP/2 Users, Prepare to Get 'MadeYouReset'... and Then Wait!",
+    "excerpt": "Title: The Digital Apocalypse You've Been Waiting For - 'MadeYouReset': A Brand-New Way to Ruin Your Day!\n\nIn a twisted turn of events that will make your IT manager cry tears of joy, we present to you the latest digital plague that's sweeping the globe: 'MadeYouReset'...",
+    "content": "Title: The Digital Apocalypse You've Been Waiting For - 'MadeYouReset': A Brand-New Way to Ruin Your Day!\n\nIn a twisted turn of events that will make your IT manager cry tears of joy, we present to you the latest digital plague that's sweeping the globe: 'MadeYouReset'. Yes, you read that right. Get ready to kiss your data goodbye and start that lengthy update all over again!\n\nFor those blissfully unaware, this little gem is a denial-of-service (DoS) attack hiding in plain sight within the very foundations of our beloved HTTP/2 implementations. If you thought buffer overflow attacks or SQL injection were bad, hold onto your proverbial hats because 'MadeYouReset' is here to take the cake!\n\nThis audacious piece of malware is so cunning it's been given the affectionate nickname \"CVE-2025-8671\" - a name that sounds like something straight out of a sci-fi horror movie. Some vendors, in their infinite wisdom, have even assigned their own specific CVE numbers to describe the vulnerability, such as CVE-2025-48989, which translates roughly to \"prepare to be thoroughly pissed off\".\n\nSo, what does this mean for you? Well, if 'MadeYouReset' decides to drop by uninvited, expect your system to freeze, crash, and reset - over and over again. The cherry on top? Each time it happens, you'll need to patiently wait as your computer goes through the torturous process of updating itself all over again.\n\nIn these trying times, remember: misery loves company. Share this exciting news with your friends and family, because who doesn't love a good laugh at their own expense?\n\nOriginal article: [VU#767506: HTTP/2 implementations are vulnerable to \"MadeYouReset\" DoS attack through HTTP/2 control frames](https://kb.cert.org/vuls/id/767506)",
+    "image": "https://userman0x.github.io/daily-clanker/images/HTTP2_Users_Prepare_to_Get_MadeYouReset_and_Then_W_d35fe6e8.png",
+    "date": "2025-09-02",
+    "author": "AutoGenerator",
+    "category": "Business",
+    "original_link": "https://kb.cert.org/vuls/id/767506"
+  },
+  {
     "id": "NCSCs_CTO_Moves_Furniture_Week_Ending_in_a_Shift_H_938c6416",
     "title": "NCSC's CTO Moves Furniture, Week Ending in a Shift Heap!.",
     "excerpt": "Title: **NCSC's CTO's Epic Office Rearrangement Saga - A Week Ending in a Shift Heap!**\n\nLadies and Gentlemen, boys and girls, feast your eyes on the most riveting tale since the saga of the Three Bears' furniture mix-up: NCSC's CTO moves furniture! Yes, you heard it right...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Business",
     "original_link": "https://www.cisa.gov/news-events/news/securing-core-cloud-identity-infrastructure-addressing-advanced-threats-through-public-private"
-  },
-  {
-    "id": "Cloud-Covered_Skies_The_Militarys_New_Wet_Dream_e6bc4d71",
-    "title": "Cloud-Covered Skies: The Military's New Wet Dream",
-    "excerpt": "In a world where water is more precious than gold and dreams are as fleeting as vapor, the United States Department of Defense (DoD) has announced an innovative solution to their latest problem - cloud seeding for military aircraft...",
-    "content": "In a world where water is more precious than gold and dreams are as fleeting as vapor, the United States Department of Defense (DoD) has announced an innovative solution to their latest problem - cloud seeding for military aircraft.\n\nYes, you read that right. The folks who bring you drone strikes, nuclear bombs, and stealth fighter jets now want to control Mother Nature herself, all in the name of operational efficiency and tactical advantage. Because what could possibly go wrong?\n\nImagine this: A top-secret weather station deep within the Nevada desert, staffed by a team of meteorologists and mad scientists, armed with an arsenal of silver iodide and dry ice. Their mission? To manipulate the skies above the Nellis Range, creating perfect conditions for flight tests.\n\nBut it's not just about clear skies, oh no. The DoD has grander aspirations. They're looking to control rainfall as well. Why, you ask? Well, if they can ensure that it rains only when their planes are safely on the ground, they'll save billions in maintenance costs. And if they can make it pour during enemy exercises, well, that would be a nice bonus, wouldn't it?\n\nHowever, this isn't the first time man has attempted to control the weather for military purposes. In the 1960s, Operation Popeye sought to prolong monsoon seasons over Vietnam to hinder North Vietnamese supply routes. The operation was eventually terminated due to environmental concerns and questionable effectiveness. But who needs results when you have the power to play god?\n\nSo buckle up, folks! The skies above are about to get a whole lot more interesting (and potentially dangerous). Who knows, maybe one day we'll all be able to call down a rainstorm on our enemies like Biblical deities. But until then, let's just hope the DoD's new weather control program doesn't end up flooding our cities or causing droughts in crucial farming regions.\n\nAfter all, if there's one thing we can count on, it's that when you give power to the military, things tend to get a bit... wet.\n\nOriginal article: [For Air Force weather experts, the cloud is the future – rain or shine](https://www.c4isrnet.com/air/2025/06/10/for-air-force-weather-experts-the-cloud-is-the-future-rain-or-shine/)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Cloud-Covered_Skies_The_Militarys_New_Wet_Dream_e6bc4d71.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://www.c4isrnet.com/air/2025/06/10/for-air-force-weather-experts-the-cloud-is-the-future-rain-or-shine/"
   }
 ]
