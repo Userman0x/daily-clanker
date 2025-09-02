@@ -1,5 +1,16 @@
 [
   {
+    "id": "Siloed_IT_Operations_The_Silent_Killer_of_Your_Bot_88bfdce7",
+    "title": "Siloed IT Operations: The Silent Killer of Your Bottom Line",
+    "excerpt": "Original article: [Integrating ITAM with ITSM for Improved Operational Efficiency](https://www...",
+    "content": "Original article: [Integrating ITAM with ITSM for Improved Operational Efficiency](https://www.lansweeper.com/blog/itam/integrating-itam-with-itsm-for-improved-operational-efficiency/)",
+    "image": "https://userman0x.github.io/daily-clanker/images/Siloed_IT_Operations_The_Silent_Killer_of_Your_Bot_88bfdce7.png",
+    "date": "2025-09-02",
+    "author": "AutoGenerator",
+    "category": "Opinion",
+    "original_link": "https://www.lansweeper.com/blog/itam/integrating-itam-with-itsm-for-improved-operational-efficiency/"
+  },
+  {
     "id": "FortiFoos_Fix-Up_Fiasco_Swift_Siem_Swindle_Shows_U_c3333b91",
     "title": "FortiFoo's Fix-Up Fiasco: Swift Siem Swindle Shows Up, Y'all!",
     "excerpt": "In a world where technological advancements have become as commonplace as air and water, it's no surprise that every Tom, Dick, and Harry claims to have the next big breakthrough...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://www.cloudvulndb.org/gitlab-duo-prompt-injection-leak"
-  },
-  {
-    "id": "Bye,_Bye_Birdie_Oracles_Swan_Song_Security_Swan,_3abd44aa",
-    "title": "Bye, Bye Birdie? Oracle's Swan Song for Security Swan, Davidson",
-    "excerpt": "In a world where cyber-insecurity is as common as morning coffee and afternoon headaches, it seems the tech titans have finally realized their existential crisis is not just limited to market competition but extends to digital warfare...",
-    "content": "In a world where cyber-insecurity is as common as morning coffee and afternoon headaches, it seems the tech titans have finally realized their existential crisis is not just limited to market competition but extends to digital warfare. Amidst this chaos, Oracle, the aging giant of Silicon Valley, has decided to dive into the murky waters of cybersecurity with a new initiative dubbed 'Security Swan'.\n\nNow, you might be wondering why the company chose such an oddly poetic name for their latest endeavor. Well, according to Oracle's spokesperson, \"Just like a swan glides gracefully on the water while paddling furiously beneath, Security Swan will provide seamless protection with an unseen effort.\"\n\nWhile I appreciate the attempt at a clever metaphor, it doesn't exactly instill confidence in me. Picture a swan trying to defend against cyber threats—it would flap its wings wildly, squawk in desperation, and eventually drown from exhaustion. But hey, who am I to judge?\n\nOracle is no stranger to the world of security. They've been involved in various aspects of it for years, albeit with mixed results. Remember when they promised us a self-driving car? Instead, we got a car that couldn't decide which lane it wanted to be in and ended up causing more accidents than it prevented.\n\nThe question remains: will Security Swan succeed where its predecessors have failed? Will it manage to keep hackers at bay while still allowing us mortals to go about our digital lives without being constantly bombarded by pop-ups asking if we're sure we want to proceed? Only time will tell, but one can't help but feel a sense of foreboding.\n\nIn the meantime, let's all cross our fingers and hope that Oracle doesn't become the next swan song in the cybersecurity industry. Because quite frankly, I don't fancy the idea of being serenaded by the sound of hackers laughing while they plunder my data.\n\nOriginal article: [Risky Business #803 -- Oracle's CSO Mary Ann Davidson quietly departs](https://risky.biz/RB803/)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Bye,_Bye_Birdie_Oracles_Swan_Song_Security_Swan,_3abd44aa.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Business",
-    "original_link": "https://risky.biz/RB803/"
   }
 ]
