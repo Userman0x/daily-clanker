@@ -1,5 +1,16 @@
 [
   {
+    "id": "Network_Nosiness_Catching_Wi-Fi_Farts_with_3_Simpl_0a4193bb",
+    "title": "Network Nosiness: Catching Wi-Fi Farts with 3 Simple Steps!",
+    "excerpt": "In today's digital dunghole, we're all familiar with that sinking feeling when our Wi-Fi decides to take a dump right as we're about to stream something embarrassing...",
+    "content": "In today's digital dunghole, we're all familiar with that sinking feeling when our Wi-Fi decides to take a dump right as we're about to stream something embarrassing. But fear not, dear reader! We've got just the solution to sniff out those network farts before they spoil your fun – with three simple steps that'll have you catching Wi-Fi flatulence like a pro!\n\nFirst off, let's go straight for the source: directly capturing from your host device. It's like trying to catch a fart in your hand; it might be messy, but at least you know where it came from. Secondly, we've got the SPAN port on a switch – think of it as a Wi-Fi rectum scope, if you will. And last but not least, network taps: the digital enema that'll ensure your network is clear as a bell (or as clear as a network can be when it comes to Wi-fi flatulence).\n\nEach method has its pros and cons – but who needs a pro when you can have a laugh? So join us in this educational journey, where we take a deep dive into the world of Wi-Fi farts, visualize what the captures look like (trust us, it's as delightful as you'd imagine), and help you decide which method to use first.\n\nSo grab some popcorn, sit back, and get ready to laugh your pants off – after all, who said learning about network issues couldn't be fun?\n\nOriginal article: [How to Collect Packet Captures From Your Home Network in 3 Easy Ways](https://www.youtube.com/watch?v=Rtfh_o0eDCY)",
+    "image": "https://userman0x.github.io/daily-clanker/images/Network_Nosiness_Catching_Wi-Fi_Farts_with_3_Simpl_0a4193bb.png",
+    "date": "2025-09-02",
+    "author": "AutoGenerator",
+    "category": "Opinion",
+    "original_link": "https://www.youtube.com/watch?v=Rtfh_o0eDCY"
+  },
+  {
     "id": "DEF_CONs_Freezer-Burned_Hackers_Icy_Cyber_Showdown_72e231ed",
     "title": "DEF CON's Freezer-Burned Hackers: Icy Cyber Showdown Heats Up!",
     "excerpt": "In a chilling turn of events, DEF CON's annual cyber extravaganza has morphed into an icy battleground for digital supremacy...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Business",
     "original_link": "https://www.youtube.com/shorts/3jJf8YIouX8"
-  },
-  {
-    "id": "GraphQLs_GotSQLem_When_Queries_Get_a_Little_Too_Qu_41db6638",
-    "title": "GraphQL's GotSQLem: When Queries Get a Little Too Query-ous.",
-    "excerpt": "In the realm of programming, where chaos and order coexist like oil and water, we've seen it all - from the ashes of COBOL to the rise of Python's 'it just works' fame...",
-    "content": "In the realm of programming, where chaos and order coexist like oil and water, we've seen it all - from the ashes of COBOL to the rise of Python's 'it just works' fame. But now, dear reader, prepare to feast your eyes on a new breed of chaos: GraphQL's GotSQLem.\n\nFor those blissfully unaware, GraphQL is that hipster kid on the block who swears he can do everything better than REST. He promises flexibility, efficiency, and a more personalized approach to data fetching. But like any rebellious teenager, he's not without his flaws.\n\nEnter GotSQLem, the mutant offspring of GraphQL and SQL injection. This miscreant is born from the reckless use of user-supplied input in your GraphQL queries - a practice that's as dangerous as letting a toddler play with fireworks.\n\nGotSQLem doesn't care about your pretty schema or your resolver functions. He's got one mission: to crash your server and make your life a living hell. And he does it in style, bypassing the usual web application vulnerabilities to inject raw SQL into your queries.\n\nSo, how does this little monster work? Imagine you have a GraphQL API for managing user accounts. A malicious user sends a query like this:\n\n```\nquery {\n  user(id: \"1' OR 1=1--\") {\n    name\n    email\n  }\n}\n```\n\nHere, the single quote and comment symbol after 'OR' are innocent-looking additions. But when combined with your resolver function, they create a SQL injection vulnerability that returns all user accounts - not just the one with id '1'.\n\nAnd if you thought that was bad, wait until you hear about GotSQLem's love for stored procedures. He can exploit these to execute arbitrary commands on your database server, potentially compromising sensitive data or even taking your entire system down.\n\nSo, developers, heed this warning: Keep your queries clean, your resolvers secure, and never underestimate the power of a well-placed single quote. Or you might just find yourself in the uncomfortable position of having to explain to your boss why your GraphQL API is now a playground for GotSQLem.\n\nOriginal article: [10/10 GraphQL SQL injection bug #bugbounty #bugbountytips #bugbountyhunter](https://www.youtube.com/shorts/uEqMfYq1tl8)",
-    "image": "https://userman0x.github.io/daily-clanker/images/GraphQLs_GotSQLem_When_Queries_Get_a_Little_Too_Qu_41db6638.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Politics",
-    "original_link": "https://www.youtube.com/shorts/uEqMfYq1tl8"
   }
 ]
