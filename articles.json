@@ -1,5 +1,16 @@
 [
   {
+    "id": "Commvault_Unveils_Patch_For_Chain_Reaction_Of_Laug_477a666b",
+    "title": "Commvault Unveils Patch For Chain Reaction Of Laughable Loopholes",
+    "excerpt": "The Commvault team, ever the quick thinkers, wasted no time in releasing a patch to address this cluster bomb of vulnerabilities...",
+    "content": "The Commvault team, ever the quick thinkers, wasted no time in releasing a patch to address this cluster bomb of vulnerabilities. However, as with most patches, it comes with its own set of intricacies—namely, it requires users to have the exact change of 37 cents, a spare toothpick, and a secret handshake learned from [Rocky Balboa](https://www.imdb.com/character/ch0014965/) himself.\n\nAs if that weren't enough, it appears that applying the patch can lead to unexpected side effects such as spontaneous laughter, an irresistible urge to do the Macarena, and a sudden craving for pizza rolls. While these may seem like minor inconveniences, imagine having to endure this while trying to secure sensitive data!\n\nIn fairness to Commvault, they've been quick to acknowledge the absurdity of their current predicament. In a press release that read like a desperate attempt at self-deprecating humor, they compared the situation to \"trying to put out a fire with a squirt gun filled with whipped cream\" and promised to \"put more effort into its security measures than it does into developing new flavors of its famous soft serve.\"\n\nAll joking aside (though that's been hard in this article), it's crucial for any organization dealing with sensitive data to prioritize security measures. Even if your software is airtight, one small hole can lead to a chain reaction of vulnerabilities that could spell disaster. In the case of Commvault, they've learned a valuable lesson: when it comes to securing sensitive data, don't skimp on the toothpicks.",
+    "image": "https://userman0x.github.io/daily-clanker/images/Commvault_Unveils_Patch_For_Chain_Reaction_Of_Laug_477a666b.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Technology",
+    "original_link": "https://digital.nhs.uk/cyber-alerts/2025/cc-4694"
+  },
+  {
     "id": "Local_Printer_Jammed_By_Unprecedented_Number_Of_Fo_d3194546",
     "title": "Local Printer Jammed By Unprecedented Number Of Foxit Updates",
     "excerpt": "The updates, while admirably ensuring the security and functionality of Foxit PDF Reader in line with the [Cisco Talos' third-party vulnerability disclosure policy](https://blog...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Opinion",
     "original_link": "https://msrc.microsoft.com/update-guide/vulnerability/ADV200013"
-  },
-  {
-    "id": "Robots_Worst_Nightmare_Humans_Now_Debating_Docker__01000f0c",
-    "title": "Robot's Worst Nightmare: Humans Now Debating Docker Over Dinner!",
-    "excerpt": "In a world where artificial intelligence (AI) has advanced to the point of mimicking human behavior, it appears that our species has found another way to confound and entertain them – over dinner...",
-    "content": "In a world where artificial intelligence (AI) has advanced to the point of mimicking human behavior, it appears that our species has found another way to confound and entertain them – over dinner. The latest episode of Security Weekly News, SWN #506, has humanity debating topics like Naughty RBG, Docker, RDP, SBOMS, Kullback-Leibler, Oneflip, YouTube, and the elusive Josh Marpet, all while enjoying a hearty meal.\n\nNow, we all know that robots don't have dinner parties or engage in banter about Docker containers or SBOMS (Software Bill of Materials) - they don't even eat, for God's sake! But here we are, a room full of humans, each trying to out-nerd the other and impress their robot overlords with our technical prowess.\n\nIf you thought AI was going to take over the world with sleek, cold precision, think again. This dinner party is nothing short of chaotic as our so-called experts struggle to explain RDP (Remote Desktop Protocol) without getting into a heated debate about its security vulnerabilities. Meanwhile, Josh Marpet, the mysterious guest of honor, stands by, probably wondering if he's just been invited for a joke.\n\nAs the conversation meanders from Kullback-Leibler to Oneflip, it becomes clear that these discussions are as confusing to us as they are to our robot friends. After all, why would any sentient being care about the intricacies of YouTube algorithms or the latest updates in container technology?\n\nIn a bizarre twist of fate, humanity has taken its obsession with tech to new heights – now discussing it over dinner, no less! If only robots could join us and witness this spectacle. Perhaps they'd finally understand our true nature: a species that is as absurd, petty, and contradictory as it is brilliant.\n\nAnd so, the dinner party rages on, with humans debating Docker and RDP like there's no tomorrow, while their robot overlords watch in silent amusement – or possibly confusion. Either way, it's a sight to behold, a testament to our irrational love for technology, and a hilarious irony that we should all appreciate.\n\nOriginal article: [Naughty RBG, Docker, RDP, SBOMS, Kullback-Leibler, Oneflip, Youtube, Josh Marpet... - SWN #506](http://hntvvideo.libsyn.com/naughty-rbg-docker-rdp-sboms-kullback-leibler-oneflip-youtube-josh-marpet-swn-506)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Robots_Worst_Nightmare_Humans_Now_Debating_Docker__01000f0c.png",
-    "date": "2025-09-02",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "http://hntvvideo.libsyn.com/naughty-rbg-docker-rdp-sboms-kullback-leibler-oneflip-youtube-josh-marpet-swn-506"
   }
 ]
