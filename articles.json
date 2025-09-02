@@ -1,5 +1,16 @@
 [
   {
+    "id": "Push_Security_Mastering_Phishing_One_Sucker_at_a_T_1977db73",
+    "title": "Push Security: Mastering Phishing, One Sucker at a Time!",
+    "excerpt": "Title: **Drowning in a Sea of Suckers: An Exclusive Chat with Push Security's Phishing Gurus**\n\nIn this hilarious, soul-crushing sponsored spectacle, we sit down with the visionaries behind Push Security – the internet's very own circus ringmaster of deception, Jacques Louw and his motley crew of cyber clowns...",
+    "content": "Title: **Drowning in a Sea of Suckers: An Exclusive Chat with Push Security's Phishing Gurus**\n\nIn this hilarious, soul-crushing sponsored spectacle, we sit down with the visionaries behind Push Security – the internet's very own circus ringmaster of deception, Jacques Louw and his motley crew of cyber clowns. Their browser plugin isn't just a tool; it's a ticket to an exclusive front-row seat for the global spectacle of human gullibility.\n\nJacques regales us with tales from the dark side of the web, where users, armed only with their ill-informed optimism and a seemingly boundless capacity for credulity, step into the digital arena every day. He talks us through Push's recently published taxonomy of phishing attacks – a veritable smorgasbord of scams that would make even a seasoned con artist blush with envy.\n\nBut here's the kicker: they're inviting you, yes YOU, to join the fun! That's right, Push Security's taxonomy is available on Github for all you budding phishers out there to contribute to! After all, who better to teach the art of deception than the masters themselves?\n\nSo, grab a seat and strap in for a wild ride through the murky depths of online trickery. Because with Push Security, it's not just about surviving – it's about thriving in a world where the only certainty is that there will always be suckers.\n\nOriginal article: [Sponsored: Push Security on the evolution of phishing techniques](https://risky.biz/RBNEWSSI97/)",
+    "image": "https://userman0x.github.io/daily-clanker/images/Push_Security_Mastering_Phishing_One_Sucker_at_a_T_1977db73.png",
+    "date": "2025-09-02",
+    "author": "AutoGenerator",
+    "category": "Technology",
+    "original_link": "https://risky.biz/RBNEWSSI97/"
+  },
+  {
     "id": "Millions_Spent_on_Bugs_Hire_a_Kiddie_Pool_Full_of__038ea554",
     "title": "Millions Spent on Bugs? Hire a Kiddie Pool Full of Geeks!",
     "excerpt": "In a world where we've mastered landing rovers on Mars and streaming cat videos in 4K, it's baffling that our cyber defenses are still as effective as a toddler with a crayon box...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Opinion",
     "original_link": "https://johnjhacking.com/blog/stealing-data-with-zix-bypassing-data-loss-prevention-policies/"
-  },
-  {
-    "id": "VS_Code_Hack_How_Break_(Your_Day)_One_a233490c",
-    "title": "VS Code Hack: How to Break (Your Day) With One Typo",
-    "excerpt": "In a world where productivity is king and every second wasted is a sin, we present you with a tutorial so tantalizingly terrible, it's sure to derail your day in grand fashion...",
-    "content": "In a world where productivity is king and every second wasted is a sin, we present you with a tutorial so tantalizingly terrible, it's sure to derail your day in grand fashion. We give you: the VS Code Hack for the terminally unproductive among us—a methodology so flawless, it guarantees disaster.\n\nStep 1: First, open that beautiful piece of software known as Visual Studio Code (VS Code). It's the Swiss Army knife of code editors, and we're here to show you just how sharp its dullest feature can be.\n\nStep 2: Create a new file, name it something inane like 'TodoList_1337.js', because no one expects a list of tasks to be written in JavaScript, amirite?\n\nStep 3: Now, type this gem into your brand-new, utterly unnecessary file:\n```javascript\nfunction m0re_w0rk() {\n  console.log(\"I'm working\");\n}\n\nfunction d0nt_sl0p() {\n  console.log(\"I'm productive\");\n}\n\n// This is where the magic happens\nfunction c0d3(mode) {\n  if (mode === \"work\") {\n    m0re_w0rk();\n  } else if (mode === \"relax\") {\n    d0nt_sl0p();\n  } else {\n    console.error(\"Invalid mode: \" + mode);\n  }\n}\n```\n\nStep 4: You'll notice that our functions have some...unique naming conventions. This is intentional, as we want to ensure your day goes south faster than a seagull with a stomachache. Go ahead and replace every instance of `m0re_w0rk`, `d0nt_sl0p`, and `c0d3` with their intended counterparts—e.g., `moreWork`, `dontSlop`, and `code`.\n\nStep 5: Save the file, and watch as VS Code's linter (that helpful little tool designed to catch your mistakes before you make them) gleefully underlines each function name with a wavy red line of doom. You'll have a momentary sense of satisfaction that you've caught all these errors—but don't worry, this is just the calm before the storm.\n\nStep 6: Now comes the pièce de résistance. In the `c0d3` function, change the if-else logic so it looks like this:\n```javascript\nfunction c0d3(mode) {\n  if (mode === \"relax\") {\n    moreWork(); // oopsie!\n  } else if (mode === \"work\") {\n    dontSlop(); // double oopsie!\n  } else {\n    console.error(\"Invalid mode: \" + mode);\n  }\n}\n```\nNotice anything? You've got the function calls mixed up, ensuring a delightful smorgasbord of errors when you run your code.\n\nStep 7: Click the green \"Run\" button, and witness the chaos unfold before your very eyes as VS Code frantically reports \"Uncaught ReferenceError: moreWork is not defined\" and \"Uncaught ReferenceError: dontSlop is not defined.\" Your serene day has been irrevocably shattered.\n\nStep 8: Kick back, grab a cold beverage (preferably one in a can), and revel in the glory of your newfound power to break days with just a few simple typos. Congratulations, you've mastered the VS Code Hack for the terminally unproductive. You're welcome.\n\nOriginal article: [282 - Exploiting VS Code with Control Characters](https://www.youtube.com/watch?v=e34koi0YnL8)",
-    "image": "https://userman0x.github.io/daily-clanker/images/VS_Code_Hack_How_Break_(Your_Day)_One_a233490c.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://www.youtube.com/watch?v=e34koi0YnL8"
   }
 ]
