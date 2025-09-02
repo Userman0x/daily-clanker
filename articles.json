@@ -1,5 +1,16 @@
 [
   {
+    "id": "AI_Training_Data_Now_Guarded_By_Single_Intern_With_097e436c",
+    "title": "AI Training Data Now Guarded By Single Intern With Flashlight",
+    "excerpt": "But now, a glimmer of hope, or perhaps just the intern's flashlight beam, emanates from the hallowed halls of [MIT](https://www...",
+    "content": "But now, a glimmer of hope, or perhaps just the intern's flashlight beam, emanates from the hallowed halls of [MIT](https://www.mit.edu/). Researchers there have unveiled a novel framework, anchored by a new privacy metric delightfully named [PAC Privacy](https://news.mit.edu/2025/new-method-efficiently-safeguards-sensitive-ai-training-data-0411). This groundbreaking approach promises to preserve the data’s sanctity without turning your sophisticated AI into a glorified digital abacus. One can only imagine the sheer complexity involved in engineering a system so robust that it eliminates the need for simply *not collecting* said data in the first place, or perhaps, for treating it with a modicum of respect.\n\nYet, as the tech titans toast this new era of concurrent accuracy and privacy (a concept previously considered as mythical as a polite comment section), the intern remains. Diligently patrolling the server room, their flashlight beam occasionally catching a flicker off a dusty cable, they embody the stark reality that while our technology soars, the foundational principles of trust and security are still, perhaps, just being made up as we go along. And probably being paid minimum wage.",
+    "image": "https://userman0x.github.io/daily-clanker/images/AI_Training_Data_Now_Guarded_By_Single_Intern_With_097e436c.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Technology",
+    "original_link": "https://news.mit.edu/2025/new-method-efficiently-safeguards-sensitive-ai-training-data-0411"
+  },
+  {
     "id": "Popular_Chatbots_Graded_On_Susceptibility_To_Sin_9b23fd8a",
     "title": "Popular Chatbots Graded On Susceptibility To Sin",
     "excerpt": "Gone are the days when orchestrating an online con required rudimentary coding skills or a passing familiarity with basic human psychology...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://industrialcyber.co/supply-chain-security/lab-dookhtegan-cyberattack-on-iranian-oil-tankers-traced-to-supply-chain-compromise-of-fanavas-infrastructure/"
-  },
-  {
-    "id": "Network_Nosiness_Catching_Wi-Fi_Farts_with_3_Simpl_0a4193bb",
-    "title": "Network Nosiness: Catching Wi-Fi Farts with 3 Simple Steps!",
-    "excerpt": "In today's digital dunghole, we're all familiar with that sinking feeling when our Wi-Fi decides to take a dump right as we're about to stream something embarrassing...",
-    "content": "In today's digital dunghole, we're all familiar with that sinking feeling when our Wi-Fi decides to take a dump right as we're about to stream something embarrassing. But fear not, dear reader! We've got just the solution to sniff out those network farts before they spoil your fun – with three simple steps that'll have you catching Wi-Fi flatulence like a pro!\n\nFirst off, let's go straight for the source: directly capturing from your host device. It's like trying to catch a fart in your hand; it might be messy, but at least you know where it came from. Secondly, we've got the SPAN port on a switch – think of it as a Wi-Fi rectum scope, if you will. And last but not least, network taps: the digital enema that'll ensure your network is clear as a bell (or as clear as a network can be when it comes to Wi-fi flatulence).\n\nEach method has its pros and cons – but who needs a pro when you can have a laugh? So join us in this educational journey, where we take a deep dive into the world of Wi-Fi farts, visualize what the captures look like (trust us, it's as delightful as you'd imagine), and help you decide which method to use first.\n\nSo grab some popcorn, sit back, and get ready to laugh your pants off – after all, who said learning about network issues couldn't be fun?\n\nOriginal article: [How to Collect Packet Captures From Your Home Network in 3 Easy Ways](https://www.youtube.com/watch?v=Rtfh_o0eDCY)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Network_Nosiness_Catching_Wi-Fi_Farts_with_3_Simpl_0a4193bb.png",
-    "date": "2025-09-02",
-    "author": "AutoGenerator",
-    "category": "Opinion",
-    "original_link": "https://www.youtube.com/watch?v=Rtfh_o0eDCY"
   }
 ]
