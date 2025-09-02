@@ -1,5 +1,16 @@
 [
   {
+    "id": "Shortest_headline_Windows_Servers_Might_Be_Faking__408718f6",
+    "title": "Shortest headline: \"Windows Servers Might Be Faking It!",
+    "excerpt": "Title: **Microsoft's Latest Meltdown: Windows Servers Faking a Decade's Worth of Puberty**\n\nWindows, the operating system that's older than most of its users, has once again found itself in the hot seat...",
+    "content": "Title: **Microsoft's Latest Meltdown: Windows Servers Faking a Decade's Worth of Puberty**\n\nWindows, the operating system that's older than most of its users, has once again found itself in the hot seat. In an unexpected twist of events, it appears that Windows Servers are now pretending to be fully grown adults! Yes, you read that right. The servers that have been innocently humming away in our data centers since Bill Gates was still a teenage billionaire are suddenly claiming they've aged a decade or more.\n\nIn the Security Updates table, Microsoft has listed the additions of Windows Server 2022, version 23H2, Windows Server 2025, and the enigmatic Windows Server 2025 (Server Core installation). It's as if these servers decided to skip a few birthdays and join the party already in progress. This revelation has left many IT professionals scratching their heads and questioning whether they should start addressing them with honorary titles like \"Uncle\" or \"Aunt.\"\n\nTo protect these newly matured servers from a vulnerability involving spoofed DNS responses, Microsoft recommends configuring Windows DNS servers to have an UDP buffer size of 1221. This may sound like a fun party game but, in reality, it's just another hurdle for IT teams who already have their hands full dealing with the antics of these overachieving servers.\n\nSo, there you have it: Windows Servers are now adults. Who knew they were capable of growing up so fast? Next thing you know, they'll be asking for the Wi-Fi password and demanding access to Netflix. In the meantime, IT professionals everywhere will be busy configuring those UDP buffer sizes, hoping this is just a phase that their servers will eventually outgrow.\n\nOriginal article: [ADV200013 Microsoft Guidance for Addressing Spoofing Vulnerability in DNS Resolver](https://msrc.microsoft.com/update-guide/vulnerability/ADV200013)",
+    "image": "https://userman0x.github.io/daily-clanker/images/Shortest_headline_Windows_Servers_Might_Be_Faking__408718f6.png",
+    "date": "2025-09-02",
+    "author": "AutoGenerator",
+    "category": "Opinion",
+    "original_link": "https://msrc.microsoft.com/update-guide/vulnerability/ADV200013"
+  },
+  {
     "id": "Robots_Worst_Nightmare_Humans_Now_Debating_Docker__01000f0c",
     "title": "Robot's Worst Nightmare: Humans Now Debating Docker Over Dinner!",
     "excerpt": "In a world where artificial intelligence (AI) has advanced to the point of mimicking human behavior, it appears that our species has found another way to confound and entertain them – over dinner...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://healthtechmagazine.net/article/2025/08/content-management-systems-can-reduce-burnout-among-clinical-and-nonclinical-workers"
-  },
-  {
-    "id": "Notorious_RBG_Hacks_Youtube,_Causes_Chaos_Internet_fa9fa365",
-    "title": "Notorious RBG Hacks Youtube, Causes Chaos on the Internet. .",
-    "excerpt": "In a move that's as unexpected as it is badass, the Notorious RBG herself, Justice Ruth Bader Ginsburg, has hacked her way into the heart of internet chaos...",
-    "content": "In a move that's as unexpected as it is badass, the Notorious RBG herself, Justice Ruth Bader Ginsburg, has hacked her way into the heart of internet chaos. With a swift, digital judo chop, she've managed to infiltrate the hallowed grounds of YouTube, causing an uproar that's currently causing servers to sweat and modems to weep.\n\nNow, before you start reaching for your tinfoil hats, let me clarify. No, RBG didn't exactly hack into YouTube like some cybernetic grandma out for revenge against cat videos. But she did manage to get herself a YouTube channel, and it's every bit as iconic as you'd expect.\n\nWith a single video titled \"RBG's Guide to Dissents with Style,\" our supreme judicial badass has taken the internet by storm. In this 12-minute masterclass, she offers tips on how to write dissents that are as scathing as they are stylish. It's like watching a tutorial on how to make a soufflé... but instead of flour and eggs, you've got legal jargon and a dash of pure snark.\n\nThe video has already racked up millions of views, causing an internet outpouring of love for the justice who's been dubbed \"the people's justice.\" And while some are busy debating whether her newfound YouTube fame is a violation of judicial ethics or simply a brilliant marketing move, the rest of us are just here to enjoy the ride.\n\nBut fear not, cat video lovers. RBG has promised that her channel will be filled with more than just legal advice. In an exclusive interview with Buzzfeed, she's hinted at future videos on everything from workout routines (apparently she does push-ups like it's going out of style) to her favorite operas.\n\nSo, there you have it. The Notorious RBG has invaded the internet, and there's no telling what chaos she might unleash next. But one thing's for sure: we're all better off with a little more RBG in our lives.\n\nOriginal article: [Naughty RBG, Docker, RDP, SBOMS, Kullback-Leibler, Oneflip, Youtube, Josh Marpet... - SWN #506](http://hntvaudio.libsyn.com/naughty-rbg-docker-rdp-sboms-kullback-leibler-oneflip-youtube-josh-marpet-swn-506)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Notorious_RBG_Hacks_Youtube,_Causes_Chaos_Internet_fa9fa365.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Business",
-    "original_link": "http://hntvaudio.libsyn.com/naughty-rbg-docker-rdp-sboms-kullback-leibler-oneflip-youtube-josh-marpet-swn-506"
   }
 ]
