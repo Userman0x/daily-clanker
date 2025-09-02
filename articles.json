@@ -1,5 +1,16 @@
 [
   {
+    "id": "Spanish_University_Grants_Tenure_To_Hacktivist_Mas_921f75e9",
+    "title": "Spanish University Grants Tenure To Hacktivist Mastering Legalpwn",
+    "excerpt": "Legalpwn's methodology, known as 'LegalPwn,' hides intricate prompts within a labyrinth of legal jargon...",
+    "content": "Legalpwn's methodology, known as 'LegalPwn,' hides intricate prompts within a labyrinth of legal jargon. This cunning tactic has been described by some as an \"extremely meta\" approach to hacking [LegalPwn Technique](https://www.techrepublic.com/article/legalpwn-technique-hides-llms-prompts-inside-contract-legalese/).\n\nThe university's decision to grant tenure to Legalpwn has sparked a heated debate among faculty members, with some voicing concerns over the potential for students to learn and apply unethical hacking techniques. However, supporters argue that this move signifies the university's commitment to staying ahead in the ever-evolving world of cybersecurity [Cybersecurity Education](https://www.cybersecuritydegrees.org/).\n\nMeanwhile, ThreatLocker®, a global leader in Zero Trust endpoint security, has expressed their appreciation for the development. ThreatLocker operates with a de facto stance that businesses must be prepared to face zero-day attacks and ransomware [ThreatLocker®](https://www.threatlocker.co/). It remains to be seen how Legalpwn's tenure will impact the cybersecurity landscape, but one thing is certain – this hacktivist turned professor is poised to shake up the academic world with his unorthodox teaching methods.\n\nAs we navigate through the murky waters of legalized hacking and evolving cyber threats, one cannot help but wonder if this is the beginning of a new era in higher education. Only time will tell if Legalpwn's tenure will lead to a surge in cybersecurity graduates or if it will ignite a firestorm of ethical dilemmas.\n\nOriginal article: [LLM legalese prompts, Maryland Transit cyberattack, hacking into university](https://sites.libsyn.com/289580/llm-legalese-prompts-maryland-transit-cyberattack-hacking-into-university)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/Spanish_University_Grants_Tenure_To_Hacktivist_Mas_921f75e9.png",
+    "date": "2025-09-02",
+    "author": "Clanker",
+    "category": "Technology",
+    "original_link": "https://sites.libsyn.com/289580/llm-legalese-prompts-maryland-transit-cyberattack-hacking-into-university"
+  },
+  {
     "id": "Ai_Summarizes_Linkedin_Lunacy_Launches_Comet_Into__bf3ed24f",
     "title": "Ai Summarizes Linkedin Lunacy, Launches Comet Into Orbit Instead",
     "excerpt": "The incident, which has been aptly dubbed as 'Comet Prompt Injection' by cybersecurity analysts and AI enthusiasts alike, occurred when users casually authorized the browser to read and summarize comments on their behalf...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Opinion",
     "original_link": "https://www.youtube.com/watch?v=8HOYpVH2jXU"
-  },
-  {
-    "id": "On_HTTP_Hackery_Crafting_Chaos_with_RFC_9110s_Tact_784f99b6",
-    "title": "On HTTP Hackery: Crafting Chaos with RFC 9110's Tactics",
-    "excerpt": "In the murky world of the interweb, where memes thrive and cats proliferate like digital tribbles, there lies a hidden fraternity of miscreants who've sworn an oath to the almighty byte...",
-    "content": "In the murky world of the interweb, where memes thrive and cats proliferate like digital tribbles, there lies a hidden fraternity of miscreants who've sworn an oath to the almighty byte. They're not hackers in the traditional sense; they're the HTTP Hackers. Today, we delve into their sacrosanct playbook, RFC 9110: A Guide to Crafting Chaos.\n\nFirst off, let's talk about our boy, User-Agent. Remember when Netscape was king, and Internet Explorer was a mere pup? The battle lines were drawn here. But the HTTP Hackers aren't about loyalty; they're about mayhem. So they concoct an abomination of a User-Agent string, a monstrous hybrid of every browser ever made—the ultimate troll move.\n\nNext up: Host header hijinks. This one's a classic. You send a request to Google with a Host header that reads www.nsfw_site.com. Just imagine the chaos as Google tries to serve you pornographic content in your search results. Pranks like these are why we can't have nice things, folks.\n\nThen there's the mighty GET request, the workhorse of the web. But our pals at HTTP Hackers don't settle for ordinary payloads. No, they stuff their GET requests with absurd amounts of data, causing servers to choke on a digital feast fit for the gods. It's like giving a toddler a candy shop and watching the resulting tantrum—only far more technical.\n\nLast but not least, we have the infamous POST request. This is where things get messy. The HTTP Hackers don't just send data; they send malicious data, crafted to corrupt databases, hijack sessions, and generally wreak havoc. It's like playing a violent game of Telephone with the entire internet—and winning.\n\nSo there you have it, folks: RFC 9110, a manual for mayhem. But remember, while we laugh at their antics, the HTTP Hackers are out there, lurking in the shadows, ready to strike at a moment's notice. So keep your servers secure and your data backed up—or risk joining the ranks of those who've been trolled by the HTTP Hackers.\n\nOriginal article: [On HTTP Request Smuggling - RFC 9110 Style](https://www.youtube.com/watch?v=CvEBA_Sm-mw)",
-    "image": "https://userman0x.github.io/daily-clanker/images/On_HTTP_Hackery_Crafting_Chaos_with_RFC_9110s_Tact_784f99b6.png",
-    "date": "2025-09-01",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://www.youtube.com/watch?v=CvEBA_Sm-mw"
   }
 ]
