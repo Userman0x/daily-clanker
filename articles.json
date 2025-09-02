@@ -1,5 +1,16 @@
 [
   {
+    "id": "Mac_Users_Exposed_Noahs_Secret_Stash_Swiped_Away_e2f77700",
+    "title": "Mac Users Exposed: Noah's Secret Stash Swiped Away!.",
+    "excerpt": "Title: Macaroon Crumble: Noah's Treasure Trove of Tears (and More!) on macOS\n\nIn this comedic, yet tragically true, guest blog post, we have the digital equivalent of a barnyard animal disco dancing its way through Apple's pristine garden – researcher Noah Gregory...",
+    "content": "Title: Macaroon Crumble: Noah's Treasure Trove of Tears (and More!) on macOS\n\nIn this comedic, yet tragically true, guest blog post, we have the digital equivalent of a barnyard animal disco dancing its way through Apple's pristine garden – researcher Noah Gregory. He's not just a researcher, he's our modern-day Robin Hood, stealing from the rich (Apple) and giving to... well, himself, apparently.\n\nNoah has uncovered a bug so glaring it could make even the most diehard Mac enthusiasts question their choice of computer. This bug, now infamously known as CVE-2024-5447, is like the digital equivalent of leaving your front door wide open while you're out shopping for organic kale and fair-trade coffee.\n\nBut fear not, dear readers! Apple, in their infinite wisdom and swiftness, has already patched this bug, just like they patch up the occasional bruise on Steve Jobs' digital ego. But what's the fun in that? We prefer our Macs with a side of drama, thank you very much.\n\nNow, let's talk about what Noah discovered. He found that this bug allowed unauthorized access to iCloud Keychain data. So, if you've been storing your passwords, credit card numbers, and personal messages in iCloud, get ready for an unexpected digital house party. And by \"house party,\" we mean a rave where everyone's invited – including nosy neighbors, identity thieves, and that creepy guy from the mail room.\n\nBut here's the real kicker: Apple's response to this revelation? A simple, \"Oops! Our bad!\" They then proceeded to roll out an update with all the enthusiasm of a sloth on Valium.\n\nSo, Mac users, next time you're enjoying your overpriced, underpowered, yet undeniably stylish computer, remember: even in the land of silicon apples, there's room for digital worms. And Noah Gregory seems to have brought his own worm-infested apple pie to the party.\n\nOriginal article: [Leaking Passwords (and more!) on macOS](https://objective-see.org/blog/blog_0x7E.html)",
+    "image": "https://userman0x.github.io/daily-clanker/images/Mac_Users_Exposed_Noahs_Secret_Stash_Swiped_Away_e2f77700.png",
+    "date": "2025-09-02",
+    "author": "AutoGenerator",
+    "category": "Technology",
+    "original_link": "https://objective-see.org/blog/blog_0x7E.html"
+  },
+  {
     "id": "AI_Can_Find_the_Flaws_but_Only_Humans_Can_Say_Oops_460145d2",
     "title": "AI Can Find the Flaws, but Only Humans Can Say 'Oopsie!.",
     "excerpt": "In a world where our digital lives are as fragile as an ancient vase left unguarded at a toddler's party, it's comforting to know that there's finally someone to watch over the breakables – AI...",
@@ -537,16 +548,5 @@
     "author": "AutoGenerator",
     "category": "Technology",
     "original_link": "https://www.youtube.com/watch?v=ni4VvIMoono"
-  },
-  {
-    "id": "Winds_Blowin_Legits_Got_Your_Cloudy_Codswallop_Cov_d7583f78",
-    "title": "Wind's Blowin', Legit's Got Your Cloudy Codswallop Covered. .",
-    "excerpt": "In the grand scheme of things, who needs a glaringly blue sky or the sun's relentless heat? It's 2023, and we've got cloud coverage so advanced it would make a weather witch green with envy...",
-    "content": "In the grand scheme of things, who needs a glaringly blue sky or the sun's relentless heat? It's 2023, and we've got cloud coverage so advanced it would make a weather witch green with envy. Today, we're unleashing our latest innovation - Legit Cloud Shield 9000. Yes, you read that right. No more squinting at the sky like an old sailor trying to spot land on a stormy sea. We've got this under control... well, in the air above us.\n\nSo, what makes our cloud shield so special? Well, besides being powered by unicorn tears and fairy farts (don't ask), it can predict and manipulate the weather with such precision that even a meteorologist would be left scratching their head in bewilderment. It's like having Mother Nature on speed dial, but without the pesky requests for signs of impending doom or questions about the whereabouts of Noah's Ark.\n\nBut let's not forget our favorite feature - the rainbow generator. No more mundane, run-of-the-mill rainbows for us. Our cloud shield produces rainbows so vibrant and beautiful they could give a unicorn a headache. They're like the cherry on top of a poop sundae—a delightful addition to any apocalyptic scenario.\n\nNow, we know what you're thinking: \"This all sounds wonderful, but how much is it going to cost me?\" Well, my dear friends, here's where things get interesting. Legit Cloud Shield 9000 is completely free! That's right, you can have access to the most advanced weather manipulation technology without breaking the bank. And if you thought that was too good to be true, wait until you see the fine print: \"Results may vary depending on location and whether or not we feel like it.\"\n\nSo there you have it—Legit Cloud Shield 9000, because when Mother Nature needs a break, who better to step in than us? And remember, with our cloud shield, rain will never ruin your day... unless we want it to. After all, isn't unpredictability the spice of life?\n\nOriginal article: [Upwind and Legit Security Partner to Deliver True Code-to-Cloud Application Security](https://www.legitsecurity.com/blog/upwind-and-legit-partner)",
-    "image": "https://userman0x.github.io/daily-clanker/images/Winds_Blowin_Legits_Got_Your_Cloudy_Codswallop_Cov_d7583f78.png",
-    "date": "2025-08-31",
-    "author": "AutoGenerator",
-    "category": "Technology",
-    "original_link": "https://www.legitsecurity.com/blog/upwind-and-legit-partner"
   }
 ]
