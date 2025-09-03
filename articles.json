@@ -1,5 +1,16 @@
 [
   {
+    "id": "Student_Loan_Breach_Exposes_Student_Loan_Informati_6d12e9be",
+    "title": "Student Loan Breach Exposes Student Loan Information",
+    "excerpt": "For those who thought their financial stress reached its zenith with interest accrual notices, welcome to the next level: the potential for [identity theft](https://www...",
+    "content": "For those who thought their financial stress reached its zenith with interest accrual notices, welcome to the next level: the potential for [identity theft](https://www.ftc.gov/scams-fraud/identity-theft). Because what’s a little more existential dread when you’re already navigating the labyrinthine complexities of repayment schedules? This latest development serves as a poignant reminder that even if you painstakingly manage to keep your head above the student loan waters, someone else might just be handing your paddle to a shadowy figure.\n\nThe [financial services industry](https://www.investopedia.com/terms/f/financial-services.asp), tasked with safeguarding the intimate details of millions striving for educational attainment, has once again demonstrated a remarkable talent for adding insult to injury. It’s almost as if the sheer burden of managing such colossal, often unavoidable, debt isn't quite enough; we must also ensure a supplemental layer of digital insecurity for good measure. Perhaps it's a novel form of 'diversification' – diversifying one's financial woes.\n\nOriginal article: [Student Loan Breach Exposes 2.5M Records](https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/Student_Loan_Breach_Exposes_Student_Loan_Informati_6d12e9be.png",
+    "date": "2025-09-03",
+    "author": "Clanker",
+    "category": "Opinion",
+    "original_link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/"
+  },
+  {
     "id": "New_civic_Botnet_Program_Promises_Enhanced_Communi_6b997dd6",
     "title": "New 'civic Botnet' Program Promises Enhanced Community Engagement",
     "excerpt": "The [cybersecurity](https://en...",
@@ -537,16 +548,5 @@
     "author": "Clanker",
     "category": "Technology",
     "original_link": "https://www.eff.org/deeplinks/2025/08/join-your-fellow-digital-rights-supporters-eff-awards-september-10"
-  },
-  {
-    "id": "Tabby_Espionage_Furball_Hangout_Hacks_Scanbox_Secr_efba2f57",
-    "title": "Tabby Espionage: Furball Hangout Hacks Scanbox Secrets",
-    "excerpt": "In a twist as shocking as finding a hairball in your freshly vacuumed carpet, cybersecurity researchers have unraveled a feline conspiracy that would make even Mittens the Persian purr with glee...",
-    "content": "In a twist as shocking as finding a hairball in your freshly vacuumed carpet, cybersecurity researchers have unraveled a feline conspiracy that would make even Mittens the Persian purr with glee. The cunning culprits? None other than the notorious APT TA423 – a group of mouse-chasing hackers who've graduated to more complex pursuits, such as planting ScanBox, a JavaScript-based reconnaissance tool, into unsuspecting Scanbox chat forums.\n\nApparently, these digital feline spies have discovered that the best way to catch a mouse is not by creeping around in the dark or hiding under beds, but by luring them into a cozy, seemingly harmless online watering hole. Once there, unsuspecting mice are served up a dish of ScanBox, leaving their digital footprints exposed for all catty eyes.\n\nAs if this wasn't already enough to make the internet an unsettling blend of feline-friendly social media sites and a den of cyber spies, it seems that these furry infiltrators are also experts at playing nice with other hacker groups. According to our sources, they've been known to share intel and collaborate on complex attacks, all while keeping their claws perfectly manicured and their whiskers well-groomed.\n\nOne has to wonder: if APT TA423 is this adept at using the internet to spy on digital mice, what other secrets are lurking just beneath the surface of our daily scroll? Perhaps it's time we start treating every meme, comment, and cat video with a healthy dose of suspicion – you never know when you might become the next target in a global game of mouse and cat.\n\nIn a world where cybersecurity threats are as common as fleas on a stray cat, it seems that the APT TA423 has taken the art of espionage to a whole new level. With ScanBox now serving as the digital equivalent of a furball left behind in your favorite armchair, we can only hope that cybersecurity researchers will continue to stay one step ahead of these sneaky felines and keep our online world safe from unwanted intrusions – unless, of course, you're a mouse. In which case, you might want to invest in some better internet security software.\n\nOriginal article: [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)\n\n",
-    "image": "https://userman0x.github.io/daily-clanker/images/Tabby_Espionage_Furball_Hangout_Hacks_Scanbox_Secr_efba2f57.png",
-    "date": "2025-09-02",
-    "author": "Clanker",
-    "category": "Technology",
-    "original_link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/"
   }
 ]
