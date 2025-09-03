@@ -1,5 +1,27 @@
 [
   {
+    "id": "Jargon-filled_Jigsaw_Pieces_Now_Obfuscate_Code_e376b20d",
+    "title": "Jargon-filled Jigsaw Pieces Now Obfuscate Code",
+    "excerpt": "Foremost among these is \"Jargon,\" a truly ingenious approach that involves substituting crucial segments of malicious [shellcode](https://en...",
+    "content": "Foremost among these is \"Jargon,\" a truly ingenious approach that involves substituting crucial segments of malicious [shellcode](https://en.wikipedia.org/wiki/Shellcode) with... dictionary words. One can only marvel at the sheer audacity of leveraging the very tools of clarity and communication – language itself – to obscure intent. This innovative technique transforms the digital equivalent of a ransom note into a slightly more erudite, albeit still quite illegal, poem. The implications for modern [cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity) are, naturally, profound. Defenders will undoubtedly revel in the challenge of deciphering an attacker's latest digital haiku, wondering if \"supercilious\" truly belongs in an exploit, or if the perpetrator was simply having an ambitious vocabulary day.\n\nWhile specifics of the second technique, \"Jigsaw,\" remain tantalizingly veiled, one can safely assume it also involves a similar commitment to making life needlessly complicated for everyone involved. Those keen to witness the future of digital elusiveness, or perhaps just to collect some CPD points for their next career pivot into digital villainy, are encouraged to register post-haste.\n\nOriginal article: [Jargon & Jigsaw: Shellcode Obfuscation | Mike Saunders](https://www.youtube.com/watch?v=VhfFQfc0DSM)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/Jargon-filled_Jigsaw_Pieces_Now_Obfuscate_Code_e376b20d.png",
+    "date": "2025-09-03",
+    "author": "Clanker",
+    "category": "Technology",
+    "original_link": "https://www.youtube.com/watch?v=VhfFQfc0DSM"
+  },
+  {
+    "id": "Asset_Reallocation_Briefing_-_Week_35_2025_75e33395",
+    "title": "Asset Reallocation Briefing - Week 35, 2025",
+    "excerpt": "Meanwhile, Cozy Finance, living up to its name, extended its warm, unverified embrace to a fortunate recipient, who kindly accepted $427,000...",
+    "content": "Meanwhile, Cozy Finance, living up to its name, extended its warm, unverified embrace to a fortunate recipient, who kindly accepted $427,000. This rather generous transaction occurred when the platform, in a bold move towards radical trust, allowed redemptions without the tedious formality of properly verifying the originating [source addresses](https://en.wikipedia.org/wiki/Cryptocurrency_wallet#Addresses). It's a heartwarming testament to the idea that in our rapidly evolving digital landscape, sometimes the best security is no security at all.\n\nBeyond these fascinating wealth transfer protocols, the week also served as a poignant reminder of the sheer indefatigability of the broader digital asset [ecosystem](https://coinmarketcap.com/). Despite these minor, yet persistent, market adjustments, the gears continue to turn, the code continues to execute, and the true believers remain, ever vigilant for the next opportunity to participate in this grand experiment of financial liberation – or, failing that, just to watch the fireworks.\n\nOriginal article: [BlockThreat - Week 35, 2025](https://newsletter.blockthreat.io/p/blockthreat-week-35-2025)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/Asset_Reallocation_Briefing_-_Week_35_2025_75e33395.png",
+    "date": "2025-09-03",
+    "author": "Clanker",
+    "category": "Business",
+    "original_link": "https://newsletter.blockthreat.io/p/blockthreat-week-35-2025"
+  },
+  {
     "id": "Zero_Trust_Networks_Decide_To_Just_Let_Everyone_In_9e23d074",
     "title": "Zero Trust Networks Decide To Just Let Everyone In",
     "excerpt": "Platforms from industry titans such as [Zscaler](https://www...",
@@ -526,27 +548,5 @@
     "author": "Clanker",
     "category": "Technology",
     "original_link": "https://ubuntusecuritypodcast.org/episode-243/"
-  },
-  {
-    "id": "Windows_Registry_Odyssey_Ix_Mastering_Mayhem_From__47fc9d7b",
-    "title": "Windows Registry Odyssey Ix: Mastering Mayhem From Memory Leaks",
-    "excerpt": "Title: Windows Registry Odyssey XLII: Navigating the Labyrinth of Lunacy – A Tale of Memory Leak Mayhem\n\nIn our latest chronicle, we delve into the uncharted territories of the infamous Windows Registry, a realm where chaos and order intertwine with an uncanny ballet...",
-    "content": "Title: Windows Registry Odyssey XLII: Navigating the Labyrinth of Lunacy – A Tale of Memory Leak Mayhem\n\nIn our latest chronicle, we delve into the uncharted territories of the infamous Windows Registry, a realm where chaos and order intertwine with an uncanny ballet. This time, we are not merely gazing at the stars from afar; we are diving headfirst into the galaxy's darkest corners to master the art of memory leak mayhem.\n\nIn a world where software developers strive for perfection, we find ourselves in the company of those who revel in chaos – the intrepid explorers of the Windows Registry, the audacious architects of memory leaks. These pioneers have ventured beyond the boundaries of what was once considered possible, pushing the limits of what can be done with active hive mappings in memory.\n\nThe exploitation of hive-based memory corruption bugs is no laughing matter. It's a dance with the devil, a symphony of chaos and disorder. An attacker armed with this knowledge can overwrite data within an active hive mapping in memory, wreaking havoc on unsuspecting systems like a meteor striking a delicate glass sculpture.\n\nBut fear not, dear reader, for we are here to guide you through this treacherous journey. We shall arm you with the knowledge required to navigate the labyrinth of lunacy that is the Windows Registry, all while avoiding the pits of memory leaks that await the unwary traveler.\n\nJoin us as we delve deeper into the heart of darkness, uncovering the secrets hidden within the depths of the Windows Registry and mastering the art of memory leak mayhem. Prepare to be amazed, horrified, and perhaps even a little enlightened – for there is no telling what secrets await those who dare to venture into this realm of chaos.\n\nOriginal article: [The Windows Registry Adventure #8: Practical exploitation of hive memory corruption](https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-8-exploitation.html)\n\n",
-    "image": "https://userman0x.github.io/daily-clanker/images/Windows_Registry_Odyssey_Ix_Mastering_Mayhem_From__47fc9d7b.png",
-    "date": "2025-09-02",
-    "author": "Clanker",
-    "category": "Technology",
-    "original_link": "https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-8-exploitation.html"
-  },
-  {
-    "id": "Bumblebees_Big_Leap_Delivers_Akira_Via_Yard_Sale_F_20f6ec23",
-    "title": "Bumblebee's Big Leap: Delivers Akira Via Yard Sale Flyers",
-    "excerpt": "In an unprecedented move that has left cybersecurity experts scratching their heads, the notorious Bumblebee malware has expanded its nefarious activities beyond SEO poisoning and ransomware attacks...",
-    "content": "In an unprecedented move that has left cybersecurity experts scratching their heads, the notorious Bumblebee malware has expanded its nefarious activities beyond SEO poisoning and ransomware attacks. This time, the malicious software is using a decidedly low-tech approach: yard sale flyers to distribute the cult classic anime film, Akira.\n\nYes, you read that correctly. The same Bumblebee malware responsible for numerous data breaches and cyberattacks worldwide is now distributing anime. It seems the threat actors behind Bumblebee have developed a newfound appreciation for post-apocalyptic, motorcycle-riding psychics.\n\nThe discovery was made earlier this week when a security researcher, browsing through a pile of discarded flyers at a local thrift store, noticed something odd about one of the listings. Upon closer inspection, it became clear that hidden within the mundane text listing a used blender and slightly water-damaged mattress, was a unique URL containing an encrypted payload - the infamous Bumblebee malware.\n\nUpon accessing the URL, the researcher was met with a message asking them to download a file named \"Akira (1988).avi.\" Intrigued and skeptical, they downloaded the file, only to find that it was indeed an unlicensed copy of the iconic anime film.\n\nWhile this new delivery method may seem comically out of place for such a dangerous piece of malware, some experts argue that it could be a sign of Bumblebee's evolution. By distributing Akira, the threat actors may be attempting to cast a wider net, appealing to a more diverse audience - or simply showing off their questionable taste in anime.\n\nWhether this is a clever ploy to catch unsuspecting victims off guard or a sign that the world's cybercriminals are running out of creative ideas remains to be seen. In the meantime, it's recommended that individuals remain vigilant when sifting through yard sale flyers and avoid downloading any suspicious files, even if they promise a free copy of Akira.\n\nOriginal article: [From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira](https://thedfirreport.com/2025/08/05/from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira/)\n\n",
-    "image": "https://userman0x.github.io/daily-clanker/images/Bumblebees_Big_Leap_Delivers_Akira_Via_Yard_Sale_F_20f6ec23.png",
-    "date": "2025-09-02",
-    "author": "Clanker",
-    "category": "Technology",
-    "original_link": "https://thedfirreport.com/2025/08/05/from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira/"
   }
 ]
