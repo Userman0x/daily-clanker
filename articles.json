@@ -1,5 +1,16 @@
 [
   {
+    "id": "_c2dafe9c",
+    "title": "",
+    "excerpt": "Third-party apps are the secret sauce that transforms this mundane feature into a playground for your wildest dreams [Android Apps](https://www...",
+    "content": "Third-party apps are the secret sauce that transforms this mundane feature into a playground for your wildest dreams [Android Apps](https://www.android.com/). With these magical tools, you can put virtually anything you desire within arm's reach on the Quick Settings panel. From summoning your pet unicorn with a simple tap to ordering a pizza with the power of thought (well, almost), the possibilities are endless.\n\nSo next time you find yourself longingly gazing at the iPhone's Control Center, remember: the grass isn't always greener on the other side [Grass Isn't Always Greener](https://www.psychologytoday.com/us/blog/the-power-prime/201907/grass-always-greener). Sometimes, all you need is to take a closer look at what you already have—and with Android's Quick Settings panel, that's one powerful looking pair of glasses [Powerful Looking Glasses](https://www.amazon.com/Powerful-Magnifying-Anti-Fog-Lens-Reading/dp/B072ZYVQD8).\n\nOriginal article: [Seven Android Quick Settings Controls You Should Be Using](https://lifehacker.com/tech/7-android-quick-settings-controls-you-should-be-using?utm_medium=RSS)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/_c2dafe9c.png",
+    "date": "2025-09-04",
+    "author": "Clanker",
+    "category": "Uncategorized",
+    "original_link": "https://lifehacker.com/tech/7-android-quick-settings-controls-you-should-be-using?utm_medium=RSS"
+  },
+  {
     "id": "Job_Ends_After_Employee_Decides_To_Begin_Ending_Jo_629cc95a",
     "title": "Job Ends After Employee Decides To Begin Ending Job At Age 63",
     "excerpt": "\"They said I was no longer needed,\" said Jane, her voice barely suppressing a laugh as she recounted the absurdity...",
@@ -9,17 +20,6 @@
     "author": "Clanker",
     "category": "Uncategorized",
     "original_link": "https://finance.yahoo.com/news/im-63-years-old-worked-104900200.html"
-  },
-  {
-    "id": "CNN_Breakfast_Cereal_Review_aa39a554",
-    "title": "CNN Breakfast Cereal Review",
-    "excerpt": "\n\nOriginal article: [CNN Political Briefing](https://www...",
-    "content": "\n\nOriginal article: [CNN Political Briefing](https://www.cnn.com/audio/podcasts/political-briefing)\n\n",
-    "image": "https://userman0x.github.io/daily-clanker/images/CNN_Breakfast_Cereal_Review_aa39a554.png",
-    "date": "2025-09-04",
-    "author": "Clanker",
-    "category": "Uncategorized",
-    "original_link": "https://www.cnn.com/audio/podcasts/political-briefing"
   },
   {
     "id": "Robot_Sabalenka_Lacks_Titles_Ahead_Of_US_Open_Semi_c35aba63",
@@ -537,16 +537,5 @@
     "author": "Clanker",
     "category": "Politics",
     "original_link": "https://ubuntusecuritypodcast.org/episode-242/"
-  },
-  {
-    "id": "I_Dont_Even_Need_XSS_Default_Printer_Setting_Overr_6ad43819",
-    "title": "I Don't Even Need XSS: Default Printer Setting Override",
-    "excerpt": "One might imagine the designers of the internet, in their infinite wisdom, would have considered such a fundamental piece of the puzzle to be somewhat… resilient...",
-    "content": "One might imagine the designers of the internet, in their infinite wisdom, would have considered such a fundamental piece of the puzzle to be somewhat… resilient. But no, it seems we’ve built our global digital village on foundations less sturdy than a house of cards in a hurricane. Your browser, that diligent digital assistant, will simply follow its instructions, happily sending your data – your browsing habits, your personal details, your fleeting thoughts – to a destination entirely unbeknownst to you. It’s like entrusting your mail to a post office that occasionally decides to forward everything to a stranger in another country, simply because a small, hidden note on the envelope subtly suggested it.\n\nThis revelation, peddled by the purveyors of \"web hacking expert\" certifications, rather brilliantly illustrates the ongoing charade of online [data privacy](https://gdpr-info.eu/). The organization behind these insights, [TCM Security](https://tcm-sec.com/), certainly has a knack for uncovering the internet's more fundamental flaws. We fret over cookies and consent forms, while the very structure designed to render a web page can be coaxed into an act of profound betrayal with barely a whisper. Perhaps the truly astute observation here isn't the vulnerability itself, but the enduring irony that in a world obsessed with digital fortresses, the drawbridge was always just… a little too easy to lower, even by accident. One wonders what other 'features' remain undiscovered, patiently waiting to redirect our digital lives.\n\nOriginal article: [I Don't Even Need XSS: Base Tag Injection](https://www.youtube.com/watch?v=x9Z2Fcm_L0A)\n\n",
-    "image": "https://userman0x.github.io/daily-clanker/images/I_Dont_Even_Need_XSS_Default_Printer_Setting_Overr_6ad43819.png",
-    "date": "2025-09-04",
-    "author": "Clanker",
-    "category": "Politics",
-    "original_link": "https://www.youtube.com/watch?v=x9Z2Fcm_L0A"
   }
 ]
