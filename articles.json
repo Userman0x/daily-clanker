@@ -1,5 +1,16 @@
 [
   {
+    "id": "The_242nd_Report_On_Routine_Malfunctions_Submitted_97d03ec1",
+    "title": "The 242nd Report On Routine Malfunctions Submitted",
+    "excerpt": "The most endearing revelation this cycle involves what industry insiders have quaintly labelled the “[confused deputy problem](https://en...",
+    "content": "The most endearing revelation this cycle involves what industry insiders have quaintly labelled the “[confused deputy problem](https://en.wikipedia.org/wiki/Confused_deputy_problem).” One can almost picture a digital constable, badge askew, unwittingly handing over sensitive data because a mischievous script waved the right, albeit counterfeit, credentials. This particular brand of incompetence seemingly permeates even the hallowed halls of the [/proc filesystem](https://en.wikipedia.org/wiki/Procfs), the very sinews of your operating system, where one would assume a modicum of orderly conduct.\n\nAnd, of course, no saga of digital infirmity would be complete without the ceremonial dance of “responsible disclosure.” This age-old tradition involves a security firm politely tapping a vendor on the shoulder, informing them their digital trousers are around their ankles, and then patiently waiting for the inevitable public relations ballet. One can only marvel at the sheer dedication required to repeatedly identify the same fundamental design flaws, package them in earnest reports, and then wait for the world to patch the digital equivalent of a leaky sieve. It’s a lucrative, if slightly Sisyphean, endeavour.\n\nOriginal article: [Episode 242](https://ubuntusecuritypodcast.org/episode-242/)\n\n",
+    "image": "https://userman0x.github.io/daily-clanker/images/The_242nd_Report_On_Routine_Malfunctions_Submitted_97d03ec1.png",
+    "date": "2025-09-04",
+    "author": "Clanker",
+    "category": "Politics",
+    "original_link": "https://ubuntusecuritypodcast.org/episode-242/"
+  },
+  {
     "id": "I_Dont_Even_Need_XSS_Default_Printer_Setting_Overr_6ad43819",
     "title": "I Don't Even Need XSS: Default Printer Setting Override",
     "excerpt": "One might imagine the designers of the internet, in their infinite wisdom, would have considered such a fundamental piece of the puzzle to be somewhat… resilient...",
@@ -537,16 +548,5 @@
     "author": "Clanker",
     "category": "Opinion",
     "original_link": "https://asec.ahnlab.com/en/89913/"
-  },
-  {
-    "id": "Citizen_Labs_Big_Blow-up_Night_Deibert_Dishes_On_D_6fff5d11",
-    "title": "Citizen Lab's Big Blow-up Night: Deibert Dishes On Dust Busters",
-    "excerpt": "It's unclear whether attendees will be treated to an in-depth analysis of the film's symbolism or if they can expect a heartwarming tale about how Deibert's passion for digital privacy began with a Sylvania PR-20B microphone and a chance encounter with a car explosion...",
-    "content": "It's unclear whether attendees will be treated to an in-depth analysis of the film's symbolism or if they can expect a heartwarming tale about how Deibert's passion for digital privacy began with a Sylvania PR-20B microphone and a chance encounter with a car explosion. But one thing is certain - this will be a night to remember, filled with popcorn, suspense, and perhaps even a few unveiled state secrets.\n\nFor those interested in attending this surreal spectacle, tickets can be purchased through the Great Escape Book Store [Tickets](https://www.greatescapebookstore.com/event/blow-out-w-ron-deibert). It's important to note that while the event promises to be a thrilling journey into the world of espionage, it may not provide the same level of adrenaline rush as Deibert's usual work. After all, there's only so much excitement one can muster from discussing microphone technology and car accidents with a room full of moviegoers.\n\nIn conclusion, if you find yourself seeking an evening of intrigue, mystery, and possibly a few jaw-dropping revelations about the world of surveillance, look no further than \"Surveillance Night: 'Blow Out' with Ron Deibert.\" Just remember to leave your own dust busters at home - this event is strictly BYO (Bring Your Own Popcorn).",
-    "image": "https://userman0x.github.io/daily-clanker/images/Citizen_Labs_Big_Blow-up_Night_Deibert_Dishes_On_D_6fff5d11.png",
-    "date": "2025-09-02",
-    "author": "Clanker",
-    "category": "Technology",
-    "original_link": "https://citizenlab.ca/2025/08/blow-out-w-ron-deibert/"
   }
 ]
