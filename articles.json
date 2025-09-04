@@ -1,5 +1,16 @@
 [
   {
+    "id": "AI_Unwanted_Features_And_The_Rise_Of_Software_Inte_7a9b2241",
+    "title": "AI, Unwanted Features, And The Rise Of Software Interruption",
+    "excerpt": "Our industry leaders, once hyper-focused on detecting shadow downloads of actual malware, now grapple with the silent, creeping infiltration of *unwanted functionality* pushed by well-meaning (or profit-motivated) [Big Tech](https://en...",
+    "content": "Our industry leaders, once hyper-focused on detecting shadow downloads of actual malware, now grapple with the silent, creeping infiltration of *unwanted functionality* pushed by well-meaning (or profit-motivated) [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) overlords. The development environment isn't being \"compromised\" by external attackers anymore; it's being gently, persistently, *internally* interrupted into a state of perpetual, low-grade annoyance. The rise of software interruption isn't a bug; it’s a feature, carefully curated by algorithms convinced they know better than you. And frankly, a targeted malware attack feels almost charmingly straightforward by comparison.",
+    "image": "https://userman0x.github.io/daily-clanker/images/AI_Unwanted_Features_And_The_Rise_Of_Software_Inte_7a9b2241.png",
+    "date": "2025-09-04",
+    "author": "Clanker",
+    "category": "Technology",
+    "original_link": "https://www.sonatype.com/blog/ai-malware-and-the-rise-of-software-development-infiltration"
+  },
+  {
     "id": "Jargon-filled_Jigsaw_Pieces_Now_Obfuscate_Code_e376b20d",
     "title": "Jargon-filled Jigsaw Pieces Now Obfuscate Code",
     "excerpt": "Foremost among these is \"Jargon,\" a truly ingenious approach that involves substituting crucial segments of malicious [shellcode](https://en...",
@@ -537,16 +548,5 @@
     "author": "Clanker",
     "category": "Technology",
     "original_link": "https://ericcole.libsyn.com/simplifying-cybersecurity-time-management-strategic-playbooks"
-  },
-  {
-    "id": "Ubuntu_Security_Team_Presents_The_Year_In_Review___99f97c9d",
-    "title": "Ubuntu Security Team Presents: The Year In Review – 1924 Edition",
-    "excerpt": "In a remarkable leap forward in time travel technology, or perhaps a baffling miscalculation of the calendar, the esteemed Ubuntu Security team finds itself catapulted into the annals of history, specifically to the year 1924...",
-    "content": "In a remarkable leap forward in time travel technology, or perhaps a baffling miscalculation of the calendar, the esteemed Ubuntu Security team finds itself catapulted into the annals of history, specifically to the year 1924. And so, we present our unique perspective on this extraordinary occasion – The Year in Review: 1924 Edition.\n\nThe early part of the year was marked by a flurry of activity surrounding the discovery of a previously unknown threat: the \"flivver worm.\" This nefarious entity, named after the ubiquitous Model T Ford that plagued the roads of the time, appeared to be particularly fond of gnawing through the rubber tires of unsuspecting drivers. The Ubuntu Security team, in its infinite wisdom, advised users to install a virtual \"tire tetanus\" – a novel solution that proved somewhat divisive among the community, with some suggesting it was more trouble than it was worth.\n\nThe summer months brought a surprising increase in cybersecurity incidents involving the use of carrier pigeons for nefarious purposes. Hackers were found to be using these flighty creatures to transmit sensitive information between parties, often leading to compromises in national security and significant embarrassment for those involved. To combat this menace, the Ubuntu Security team introduced a groundbreaking innovation: the \"carrier pigeon firewall.\" This ingenious device was designed to intercept and incinerate any messages that contained sensitive data, effectively rendering these birds of prey harmless.\n\nAs autumn approached, the world was rocked by the devastating news of the \"Great Linux Apocalypse.\" A rogue software update caused an uncontrollable chain reaction that saw millions of Linux-based systems spontaneously combust, causing widespread panic and chaos. The Ubuntu Security team, ever vigilant in the face of adversity, rallied together to develop a patch known as \"The Antidote,\" which managed to halt the spread of the apocalypse and save the day.\n\nIn conclusion, we at the Ubuntu Security team are pleased to report that despite our unintended journey through time, we have been able to provide valuable insights into the cybersecurity challenges of 1924 – a year that, in many ways, mirrors our own. As we look forward to returning to our own era and tackling the security issues of 2025, we can only hope that we have learned from the flivver worm, carrier pigeon hackers, and the Great Linux Apocalypse to better prepare ourselves for whatever comes next.\n\nOriginal article: [Episode 243](https://ubuntusecuritypodcast.org/episode-243/)\n\n",
-    "image": "https://userman0x.github.io/daily-clanker/images/Ubuntu_Security_Team_Presents_The_Year_In_Review___99f97c9d.png",
-    "date": "2025-09-02",
-    "author": "Clanker",
-    "category": "Technology",
-    "original_link": "https://ubuntusecuritypodcast.org/episode-243/"
   }
 ]
