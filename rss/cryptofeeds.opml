@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Top Crypto RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="Crypto" category="Crypto">
+      <outline type="rss" text="Watcher Guru" xmlUrl="https://watcher.guru/news/author/watcherguru/feed"/>
+      <outline type="rss" text="CoinDesk" xmlUrl="https://www.coindesk.com/feed/"/>
+      <outline type="rss" text="Cointelegraph" xmlUrl="https://cointelegraph.com/rss"/>
+      <outline type="rss" text="Bitcoin Magazine" xmlUrl="https://bitcoinmagazine.com/feed"/>
+      <outline type="rss" text="CryptoSlate" xmlUrl="https://cryptoslate.com/feed"/>
+      <outline type="rss" text="The Block" xmlUrl="https://www.theblock.co/rss"/>
+      <outline type="rss" text="Decrypt" xmlUrl="https://decrypt.co/feed"/>
+      <outline type="rss" text="CryptoPotato" xmlUrl="https://cryptopotato.com/feed"/>
+      <outline type="rss" text="NewsBTC" xmlUrl="https://www.newsbtc.com/feed"/>
+      <outline type="rss" text="Crypto Briefing" xmlUrl="https://cryptobriefing.com/feed"/>
+      <outline type="rss" text="CCN" xmlUrl="https://www.ccn.com/rss-feeds/crypto/"/>
+      <outline type="rss" text="CoinJournal" xmlUrl="https://coinjournal.net/feeds/"/>
+      <outline type="rss" text="Bitcoinist" xmlUrl="https://bitcoinist.com/feed/"/>
+      <outline type="rss" text="CryptoSlate Opinions" xmlUrl="https://cryptoslate.com/feed/opinion/"/>
+      <outline type="rss" text="CoinTelegraph Altcoins" xmlUrl="https://cointelegraph.com/rss/altcoins"/>
+      <outline type="rss" text="CoinTelegraph Ethereum" xmlUrl="https://cointelegraph.com/rss/ethereum"/>
+      <outline type="rss" text="CoinTelegraph Bitcoin" xmlUrl="https://cointelegraph.com/rss/bitcoin"/>
+      <outline type="rss" text="CoinTelegraph Blockchain" xmlUrl="https://cointelegraph.com/rss/blockchain"/>
+      <outline type="rss" text="CoinTelegraph Regulation" xmlUrl="https://cointelegraph.com/rss/regulation"/>
+      <outline type="rss" text="CoinTelegraph Market Analysis" xmlUrl="https://cointelegraph.com/rss/market-analysis"/>
+      <outline type="rss" text="Messari Crypto News" xmlUrl="https://messari.io/rss"/>
+      <outline type="rss" text="Crypto Briefing Altcoins" xmlUrl="https://cryptobriefing.com/feed/altcoins/"/>
+      <outline type="rss" text="Bitcoin Exchange Guide" xmlUrl="https://www.bitcoinexchangeguide.com/feed/"/>
+      <outline type="rss" text="Blockonomi" xmlUrl="https://blockonomi.com/feed/"/>
+      <outline type="rss" text="U.Today" xmlUrl="https://u.today/feed"/>
+    </outline>
+  </body>
+</opml>
