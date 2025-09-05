@@ -48,6 +48,7 @@
 			<outline type="rss" text="ISSF-sports.org" xmlUrl="https://www.issf-sports.org/rss/news.html"/>
 		</outline>
 		<outline text="Technology" category="Technology">
+			<outline type="rss" text="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/"/>
 			<outline type="rss" text="Techcrunch" xmlUrl="http://feeds.feedburner.com/Techcrunch"/>
 			<outline type="rss" text="Wired" xmlUrl="http://feeds.wired.com/wired/index"/>
 			<outline type="rss" text="NYTimes – Technology" xmlUrl="http://feeds.nytimes.com/nyt/rss/Technology"/>
