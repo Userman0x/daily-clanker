@@ -53,6 +53,17 @@
     "is_favorite": true
   },
   {
+    "id": "Beam-dataflow_War_Claims_First_Intern_7aa764d2",
+    "title": "Beam-dataflow War Claims First Intern",
+    "excerpt": "Dataflow vs. Beam: Intern down. Jira still open.",
+    "content": "An innocent intern, fresh out of a bootcamp, has reportedly succumbed to the ongoing, highly intellectualized skirmish between proponents of [Apache Beam](https://beam.apache.org/) and adherents to the [Google Dataflow](https://cloud.google.com/dataflow) doctrine. Sources close to the water cooler, who preferred to remain anonymous due to the heightened tensions, suggest the casualty was merely attempting to synthesize a coherent argument for a [Jira](https://www.atlassian.com/software/jira) ticket when caught in a crossfire of architectural philosophy.\n\nThe debate, which some veteran engineers insist is \"more than just a tooling decision,\" has been escalating for weeks, leading to passive-aggressive Slack emojis and a notable decline in shared snack-drawer camaraderie. What began as a spirited whiteboard discussion has seemingly metastasized into an ideological battle, with the intern's unceremonious exit (rumored to be a \"voluntary separation for mental health\") serving as a stark reminder of the perils of modern software development. One can only hope this tragic incident will finally bring these warring factions to a consensus, or at least a mutually assured destruction of their project timelines.\n\nOriginal article: [A “Beam Versus Dataflow” Conversation](https://www.oreilly.com/radar/a-beam-versus-dataflow-conversation/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Beam-dataflow_War_Claims_First_Intern_7aa764d2.webp",
+    "published_at": "2025-09-08T17:54:53.508429",
+    "author": "Boilerplates",
+    "category": "Technology",
+    "original_link": "https://www.oreilly.com/radar/a-beam-versus-dataflow-conversation/"
+  },
+  {
     "id": "Sources_Confirm_Cover_Image_Was_In_Fact_An_Image_93c8f408",
     "title": "Sources Confirm Cover Image Was, In Fact, An Image",
     "excerpt": "47-hr global board: Covers should have \"actual images.\" Duh.",
