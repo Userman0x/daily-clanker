@@ -1,0 +1,20 @@
+name: Dispatch Site Build
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - articles.json
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository dispatch event
+        run: |
+          curl -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.SITE_DISPATCH_TOKEN }}" \
+          -d '{"event_type": "build-site-now"}' \
+          https://api.github.com/repos/Userman0x/daily-clanker-site/dispatches
