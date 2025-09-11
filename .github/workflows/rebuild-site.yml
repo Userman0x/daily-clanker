@@ -1,0 +1,18 @@
+name: Notify Site Rebuild
+
+on:
+  push:
+    paths:
+      - 'articles.json'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger site rebuild
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.REBUILD_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/Userman0x/daily-clanker-site/dispatches \
+            -d '{"event_type":"articles-updated","client_payload":{"reason":"Articles JSON updated"}}'
