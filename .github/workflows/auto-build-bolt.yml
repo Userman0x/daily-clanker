@@ -1,0 +1,52 @@
+name: Auto-build on Bolt when articles change
+
+on:
+  push:
+    paths:
+      - 'articles.json'
+    branches:
+      - main
+
+jobs:
+  trigger-bolt-rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout daily-clanker repo
+        uses: actions/checkout@v4
+        
+      - name: Checkout Bolt site repo
+        uses: actions/checkout@v4
+        with:
+          repository: Userman0x/daily-clanker-site
+          token: ${{ secrets.BOLT_REPO_TOKEN }}
+          path: site
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: |
+          cd site
+          npm install
+          
+      - name: Copy updated articles
+        run: |
+          cp articles.json site/public/articles.json
+          
+      - name: Build site
+        run: |
+          cd site
+          npm run build
+          
+      - name: Deploy to Bolt
+        run: |
+          cd site
+          # This would trigger Bolt's deployment
+          echo "Articles updated at $(date)" > deploy-trigger.txt
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto-update: New articles $(date)"
+          git push
