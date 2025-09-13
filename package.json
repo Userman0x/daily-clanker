@@ -6,7 +6,7 @@
     "dev": "concurrently \"npm run build\" \"npm run serve\" \"npm run watch\"",
     "build": "node scripts/build.js",
     "serve": "vite preview --port 3000 --host",
-    "watch": "chokidar \"articles.json\" \"images/**/*\" -c \"npm run build\"",
+    "watch": "npx chokidar \"articles.json\" \"images/**/*\" -c \"npm run build\"",
     "deploy": "npm run build"
   },
   "dependencies": {
