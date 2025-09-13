@@ -157,7 +157,7 @@ class SiteBuilder {
           <div class="order-1 lg:order-2 shadow-lg">
             <div class="aspect-square overflow-hidden">
               <img
-                src="${featuredArticle.image_webp || featuredArticle.image}"
+                src="${featuredArticle.image_webp}"
                 alt="${featuredArticle.title}"
                 loading="lazy"
                 class="w-full h-full object-cover"
@@ -171,9 +171,9 @@ class SiteBuilder {
 
     const articleCards = regularArticles.map(article => {
       const slug = this.getArticleSlug(article);
-      const image = article.image_webp || article.image ? `
+      const image = article.image_webp ? `
         <div class="aspect-square overflow-hidden mb-4">
-          <img src="${article.image_webp || article.image}" alt="${article.title}" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" onerror="this.src='images/placeholder.webp'">
+          <img src="${article.image_webp}" alt="${article.title}" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" onerror="this.src='images/placeholder.webp'">
         </div>
       ` : '';
       const date = new Date(article.date || article.published_at || Date.now()).toLocaleDateString();
@@ -292,7 +292,7 @@ class SiteBuilder {
 
   getArticlePageHTML(article) {
     const date = new Date(article.date || article.published_at || Date.now()).toLocaleDateString();
-    const image = article.image_webp || article.image ? `<img src="${article.image_webp || article.image}" alt="${article.title}" class="article-hero-image">` : '';
+    const image = article.image_webp ? `<img src="${article.image_webp}" alt="${article.title}" class="article-hero-image">` : '';
     
     return `<!DOCTYPE html>
 <html lang="en">
@@ -304,7 +304,7 @@ class SiteBuilder {
     <link rel="stylesheet" href="../styles.css">
     <meta property="og:title" content="${article.title}">
     <meta property="og:description" content="${article.excerpt || this.extractExcerpt(article.content)}">
-    ${article.image ? `<meta property="og:image" content="images/${article.image}">` : ''}
+    ${article.image_webp ? `<meta property="og:image" content="${article.image_webp}">` : ''}
 </head>
 <body>
     <header class="header">
