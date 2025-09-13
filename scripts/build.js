@@ -157,7 +157,7 @@ class SiteBuilder {
           <div class="order-1 lg:order-2 shadow-lg">
             <div class="aspect-square overflow-hidden">
               <img
-                src="images/${featuredArticle.image}"
+                src="${featuredArticle.image_webp || featuredArticle.image}"
                 alt="${featuredArticle.title}"
                 loading="lazy"
                 class="w-full h-full object-cover"
@@ -171,9 +171,9 @@ class SiteBuilder {
 
     const articleCards = regularArticles.map(article => {
       const slug = this.getArticleSlug(article);
-      const image = article.image ? `
+      const image = article.image_webp || article.image ? `
         <div class="aspect-square overflow-hidden mb-4">
-          <img src="images/${article.image}" alt="${article.title}" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" onerror="this.src='images/placeholder.webp'">
+          <img src="${article.image_webp || article.image}" alt="${article.title}" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" onerror="this.src='images/placeholder.webp'">
         </div>
       ` : '';
       const date = new Date(article.date || article.published_at || Date.now()).toLocaleDateString();
@@ -292,7 +292,7 @@ class SiteBuilder {
 
   getArticlePageHTML(article) {
     const date = new Date(article.date || article.published_at || Date.now()).toLocaleDateString();
-    const image = article.image ? `<img src="../images/${article.image}" alt="${article.title}" class="article-hero-image">` : '';
+    const image = article.image_webp || article.image ? `<img src="${article.image_webp || article.image}" alt="${article.title}" class="article-hero-image">` : '';
     
     return `<!DOCTYPE html>
 <html lang="en">
