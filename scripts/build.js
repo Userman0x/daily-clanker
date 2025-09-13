@@ -119,24 +119,88 @@ class SiteBuilder {
   }
 
   getHomePageHTML(articles) {
-    const articleCards = articles.map(article => {
+    // Get featured article (first article when showing all)
+    const featuredArticle = articles.length > 0 ? articles[0] : null;
+    const regularArticles = articles.slice(1);
+    
+    const featuredSection = featuredArticle ? `
+      <section class="border-b border-gray-800 dark:border-gray-600 pb-8 cursor-pointer relative group" onclick="window.location.href='articles/${this.getArticleSlug(featuredArticle)}.html'">
+        <div class="grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-8">
+          <div class="order-2 lg:order-1 relative p-6 bg-cream-100 dark:bg-dark-700 shadow-lg">
+            <div class="relative z-10">
+              <div class="flex items-center space-x-2 mb-3">
+                <span class="px-2 py-1 bg-black text-cream-50 dark:bg-cream-200 dark:text-black text-xs font-semibold uppercase tracking-wide">
+                  ${featuredArticle.category || 'General'}
+                </span>
+                <span class="text-xs text-gray-600 dark:text-gray-400 tracking-wide">
+                  ${new Date(featuredArticle.date || featuredArticle.published_at || Date.now()).toLocaleDateString('en-US', {
+                    month: 'long',
+                    day: 'numeric',
+                  })}
+                </span>
+              </div>
+              <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-black dark:text-cream-200 mb-4 font-serif leading-tight">
+                ${featuredArticle.title}
+              </h1>
+              <div class="text-lg text-gray-800 dark:text-gray-200 mb-4 leading-relaxed">
+                ${featuredArticle.excerpt || this.extractExcerpt(featuredArticle.content)}
+              </div>
+              <p class="text-sm text-gray-600 dark:text-gray-400 font-medium">
+                By ${featuredArticle.author || 'Anonymous'}
+              </p>
+            </div>
+            ${featuredArticle.is_favorite ? '<div class="absolute top-6 right-6 p-1 rounded-full text-yellow-500 text-lg z-20">🏆</div>' : ''}
+            <div class="absolute bottom-6 left-6 hidden md:block text-sm text-gray-700 dark:text-cream-200 font-semibold italic z-20">
+              Powered by <span class="cursor-pointer border-b border-current hover:text-black dark:hover:text-cream-50 transition-colors">$CWORD</span>. Don't ask what it stands for.
+            </div>
+          </div>
+          <div class="order-1 lg:order-2 shadow-lg">
+            <div class="aspect-square overflow-hidden">
+              <img
+                src="images/${featuredArticle.image}"
+                alt="${featuredArticle.title}"
+                loading="lazy"
+                class="w-full h-full object-cover"
+                onerror="this.src='images/placeholder.webp'"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+    ` : '';
+
+    const articleCards = regularArticles.map(article => {
       const slug = this.getArticleSlug(article);
-      const image = article.image ? `<img src="images/${article.image}" alt="${article.title}" class="article-image">` : '';
+      const image = article.image ? `
+        <div class="aspect-square overflow-hidden mb-4">
+          <img src="images/${article.image}" alt="${article.title}" loading="lazy" class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" onerror="this.src='images/placeholder.webp'">
+        </div>
+      ` : '';
       const date = new Date(article.date || article.published_at || Date.now()).toLocaleDateString();
       
       return `
-        <article class="article-card">
-          <a href="articles/${slug}.html" class="article-link">
+        <article class="bg-cream-100 dark:bg-dark-700 shadow-lg hover:shadow-xl transition-shadow duration-300 cursor-pointer group" onclick="window.location.href='articles/${slug}.html'">
+          <div class="article-content">
             ${image}
-            <div class="article-content">
-              <h2 class="article-title">${article.title}</h2>
-              <p class="article-excerpt">${article.excerpt || this.extractExcerpt(article.content)}</p>
-              <div class="article-meta">
-                <span class="article-date">${date}</span>
-                ${article.author ? `<span class="article-author">by ${article.author}</span>` : ''}
+            <div class="p-4">
+              <div class="flex items-center space-x-2 mb-2">
+                <span class="px-2 py-1 bg-black text-cream-50 dark:bg-cream-200 dark:text-black text-xs font-semibold uppercase tracking-wide">
+                  ${article.category || 'General'}
+                </span>
+                ${article.is_favorite ? '<span class="text-yellow-500">🏆</span>' : ''}
+              </div>
+              <h2 class="text-lg font-bold text-black dark:text-cream-200 mb-2 font-serif leading-tight group-hover:text-gray-700 dark:group-hover:text-cream-100 transition-colors">
+                ${article.title}
+              </h2>
+              <p class="text-sm text-gray-700 dark:text-gray-300 mb-3 leading-relaxed">
+                ${article.excerpt || this.extractExcerpt(article.content)}
+              </p>
+              <div class="flex justify-between items-center text-xs text-gray-600 dark:text-gray-400">
+                <span>${date}</span>
+                ${article.author ? `<span>by ${article.author}</span>` : ''}
               </div>
             </div>
-          </a>
+          </div>
         </article>
       `;
     }).join('');
@@ -150,29 +214,78 @@ class SiteBuilder {
     <meta name="description" content="Your automated content management system">
     <link rel="stylesheet" href="styles.css">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="feed.xml">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              'cream': {
+                50: '#fefdf9',
+                100: '#fdf8f0',
+                200: '#f9f0e1',
+                300: '#f4e6d1',
+              },
+              'dark': {
+                700: '#2d3748',
+                800: '#1a202c',
+              }
+            },
+            fontFamily: {
+              'serif': ['Georgia', 'serif'],
+            }
+          }
+        }
+      }
+    </script>
 </head>
-<body>
-    <header class="header">
-        <div class="container">
-            <h1 class="site-title">Daily Content Hub</h1>
-            <p class="site-description">Automated content, perfectly delivered</p>
+<body class="min-h-screen bg-cream-200 dark:bg-dark-800">
+    <header class="bg-cream-100 dark:bg-dark-700 shadow-lg sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+            <div class="flex justify-between items-center">
+                <div>
+                    <h1 class="text-2xl sm:text-3xl font-bold text-black dark:text-cream-200 font-serif">Daily Content Hub</h1>
+                    <p class="text-sm text-gray-600 dark:text-gray-400">Automated content, perfectly delivered</p>
+                </div>
+                <button onclick="toggleDarkMode()" class="p-2 rounded-lg bg-black text-cream-50 dark:bg-cream-200 dark:text-black hover:opacity-80 transition-opacity">
+                    🌙
+                </button>
+            </div>
         </div>
     </header>
 
-    <main class="main">
-        <div class="container">
-            <div class="articles-grid">
-                ${articleCards}
-            </div>
+    <main class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <div class="space-y-8">
+            ${featuredSection}
+            
+            ${regularArticles.length > 0 ? `
+            <section>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-x-8 gap-y-12">
+                    ${articleCards}
+                </div>
+            </section>
+            ` : ''}
         </div>
     </main>
-
-    <footer class="footer">
-        <div class="container">
+    <footer class="bg-cream-100 dark:bg-dark-700 mt-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-center">
             <p>&copy; ${new Date().getFullYear()} Daily Content Hub. Built with automated content management.</p>
-            <a href="feed.xml" class="rss-link">RSS Feed</a>
+            <a href="feed.xml" class="text-black dark:text-cream-200 hover:opacity-80 transition-opacity">RSS Feed</a>
         </div>
     </footer>
+    
+    <script>
+        function toggleDarkMode() {
+            document.documentElement.classList.toggle('dark');
+            localStorage.setItem('darkMode', document.documentElement.classList.contains('dark'));
+        }
+        
+        // Initialize dark mode from localStorage
+        if (localStorage.getItem('darkMode') === 'true') {
+            document.documentElement.classList.add('dark');
+        }
+    </script>
 </body>
 </html>`;
   }
