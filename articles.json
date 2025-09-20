@@ -127,6 +127,17 @@
     "is_favorite": true
   },
   {
+    "id": "Entra_ID_Vulnerability_Could_Have_Forced_Employees_ceeda9c5",
+    "title": "Entra ID Vulnerability Could Have Forced Employees To Talk",
+    "excerpt": "IT bug almost made us *chat*. The horror!",
+    "content": "A recent disclosure has sent shivers down the spines of productivity managers globally: a critical [Entra ID](https://en.wikipedia.org/wiki/Microsoft_Entra_ID) vulnerability that, had it been exploited, might have necessitated employees *communicating* directly with one another. Industry analysts are still reeling from the potential chaos, imagining a world where a simple password reset could have devolved into a five-minute discussion about weekend plans.\n\nThe very foundation of modern [corporate culture](https://en.wikipedia.org/wiki/Corporate_culture), built upon the sacred tenets of email threads and Slack channels, teetered on the brink. Our shift to robust [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) infrastructure was meant to insulate us from such dreadful interpersonal demands. One shudders to think of the lost synergy, the unplanned eye contact, the sheer, unadulterated *humanity* that might have contaminated our perfectly optimized digital workflows.\n\nThankfully, the digital guardians at [Microsoft](https://www.microsoft.com/) intervened, patching the flaw before genuine social interaction could infect the workplace. We can all breathe a collective sigh of relief, secure in the knowledge that our carefully constructed silos of silent efficiency remain intact, protecting us from the horrors of casual conversation. One can only hope future updates further fortify our digital walls against the encroaching threat of the spoken word.\n\nOriginal article: [Microsoft’s Entra ID vulnerabilities could have been catastrophic](https://arstechnica.com/security/2025/09/microsofts-entra-id-vulnerabilities-could-have-been-catastrophic/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Entra_ID_Vulnerability_Could_Have_Forced_Employees_ceeda9c5.webp",
+    "published_at": "2025-09-20T18:13:42.328926",
+    "author": "Spare Part",
+    "category": "Technology",
+    "original_link": "https://arstechnica.com/security/2025/09/microsofts-entra-id-vulnerabilities-could-have-been-catastrophic/"
+  },
+  {
     "id": "New_Mecha_Break_Strikers_Can_Now_Open_Pickle_Jars_8c7a660c",
     "title": "New Mecha Break Strikers Can Now Open Pickle Jars",
     "excerpt": "Mecha Break unveils new Strikers: now with ergonomic cup holders!",
