@@ -4,50 +4,28 @@
 		<title>RSS Feeds</title>
 	</head>
 	<body>
-		<outline text="News" category="News">
-			<outline type="rss" text="CNN – Top Stories" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss"/>
-			<outline type="rss" text="Time Magazine – Top Stories" xmlUrl="http://feeds.feedburner.com/time/topstories"/>
-			<outline type="rss" text="NYTimes – Homepage" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
-			<outline type="rss" text="Yahoo News – Latest news and headlines" xmlUrl="https://www.yahoo.com/news/rss/topstories"/>
-			<outline type="rss" text="Washington Post" xmlUrl="http://feeds.washingtonpost.com/rss/world"/>
-			<outline type="rss" text="Vox – All" xmlUrl="https://www.vox.com/rss/index.xml"/>
-			<outline type="rss" text="BBC News – World" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
-			<outline type="rss" text="Huffington Post" xmlUrl="https://www.huffingtonpost.com/section/front-page/feed"/>
-			<outline type="rss" text="CNN – World news" xmlUrl="http://rss.cnn.com/rss/cnn_world.rss"/>
-			<outline type="rss" text="ABC News – Top stories" xmlUrl="http://abcnews.go.com/abcnews/topstories"/>
-			<outline type="rss" text="Reuters – Top stories" xmlUrl="https://www.reutersagency.com/feed/?taxonomy=best-topics&amp;post_type=best"/>
-			<outline type="rss" text="Drudge Report" xmlUrl="http://www.drudgereportfeed.com/rss.xml"/>
+		<outline text="Finance" category="Finance">
 			<outline type="rss" text="Market Watch – Top stories" xmlUrl="http://www.marketwatch.com/rss/topstories/"/>
-			<outline type="rss" text="Salon.com" xmlUrl="https://www.salon.com/feed/"/>
-			<outline type="rss" text="New Yorker – Everything" xmlUrl="http://www.newyorker.com/services/rss/feeds/everything.xml"/>
-			<outline type="rss" text="Daily Mail – Latest stories" xmlUrl="http://www.dailymail.co.uk/articles.rss"/>
-			<outline type="rss" text="New York Post" xmlUrl="https://nypost.com/feed/"/>
-			<outline type="rss" text="Fox News Science" xmlUrl="http://feeds.foxnews.com/foxnews/scitech"/>
+			<outline type="rss" text="The Economist" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml"/>
+			<outline type="rss" text="The Big Picture" xmlUrl="http://feeds.feedburner.com/TheBigPicture"/>
+			<outline type="rss" text="Calculated Risk" xmlUrl="http://feeds.feedburner.com/CalculatedRisk"/>
+			<outline type="rss" text="Harvard Business" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/"/>
+			<outline type="rss" text="The Non-Profit Times" xmlUrl="http://www.thenonprofittimes.com/feed/"/>
+			<outline type="rss" text="Reuters – Top stories" xmlUrl="https://www.reutersagency.com/feed/?taxonomy=best-topics&amp;post_type=best"/>
+			<outline type="rss" text="Wallstreet Journal – Politics" xmlUrl="http://online.wsj.com/xml/rss/3_7087.xml"/>
+			<outline type="rss" text="Business Insider" xmlUrl="http://feeds2.feedburner.com/businessinsider"/>
 		</outline>
-		<outline text="Sports" category="Sports">
-			<outline type="rss" text="BBC Sports" xmlUrl="http://feeds.bbci.co.uk/sport/rss.xml?edition=int"/>
-			<outline type="rss" text="ESPN" xmlUrl="http://www.espn.com/espn/rss/news"/>
-			<outline type="rss" text="NBA.com" xmlUrl="http://www.nba.com/rss/nba_rss.xml"/>
-			<outline type="rss" text="NFL.com" xmlUrl="http://www.nfl.com/rss/rsslanding?searchString=home"/>
-			<outline type="rss" text="Yahoo Sports" xmlUrl="https://sports.yahoo.com/rss"/>
-			<outline type="rss" text="Yahoo Sports - NBA" xmlUrl="https://sports.yahoo.com/nba/rss"/>
-			<outline type="rss" text="Yahoo Sports - MLB" xmlUrl="https://sports.yahoo.com/mlb/rss"/>
-			<outline type="rss" text="Yahoo Sports - NFL" xmlUrl="https://sports.yahoo.com/nfl/rss"/>
-			<outline type="rss" text="Yahoo Sports - NCAAB" xmlUrl="https://sports.yahoo.com/ncaab/rss"/>
-			<outline type="rss" text="Yahoo Sports - NHL" xmlUrl="https://sports.yahoo.com/nhl/rss"/>
-			<outline type="rss" text="Yahoo Sports - UFC" xmlUrl="https://sports.yahoo.com/ufc/rss"/>
-			<outline type="rss" text="BBC Sports – World edition" xmlUrl="http://newsrss.bbc.co.uk/rss/sportonline_world_edition/front_page/rss.xml"/>
-			<outline type="rss" text="We the sports guys" xmlUrl="https://www.westhesportsguy.com/feeds/posts/default"/>
-			<outline type="rss" text="Fox Sports" xmlUrl="https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU"/>
-			<outline type="rss" text="Talk Sports" xmlUrl="https://talksport.com/rss/sports-news/all/feed"/>
-			<outline type="rss" text="CBS Sports" xmlUrl="https://rss.cbssports.com/rss/headlines/"/>
-			<outline type="rss" text="Fifa.com" xmlUrl="www.fifa.com/rss/index.xml"/>
-			<outline type="rss" text="NU Sports" xmlUrl="http://nusports.com/rss_feeds.aspx"/>
-			<outline type="rss" text="Sport1.de" xmlUrl="https://www.sport1.de/news.rss"/>
-			<outline type="rss" text="TriathlonMag" xmlUrl="https://www.triathlonmag.com.au/rss"/>
-			<outline type="rss" text="ISSF-sports.org" xmlUrl="https://www.issf-sports.org/rss/news.html"/>
+		<outline text="Business" category="Business">
+			<outline type="rss" text="Atlantic Business Channel" xmlUrl="http://feeds.feedburner.com/AtlanticBusinessChannel"/>
+			<outline type="rss" text="Entrepeneur.com" xmlUrl="http://feeds.feedburner.com/entrepreneur/latest"/>
+			<outline type="rss" text="Freakonomics" xmlUrl="http://freakonomics.com//feed/"/>
+			<outline type="rss" text="Venture Beat" xmlUrl="http://feeds.feedburner.com/venturebeat/SZYF"/>
+			<outline type="rss" text="Fortune" xmlUrl="http://fortune.com/feed/"/>
+			<outline type="rss" text="McKinsey" xmlUrl="https://www.mckinsey.com/insights/rss.aspx"/>
+			<outline type="rss" text="Home Business Mag" xmlUrl="https://homebusinessmag.com/feed/"/>
+			<outline type="rss" text="Huffington Post – Business" xmlUrl="https://www.huffingtonpost.com/section/business/feed"/>
 		</outline>
-		<outline text="Technology" category="Technology">
+		<outline text="Tech" category="Tech">
 			<outline type="rss" text="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/"/>
 			<outline type="rss" text="Techcrunch" xmlUrl="http://feeds.feedburner.com/Techcrunch"/>
 			<outline type="rss" text="Wired" xmlUrl="http://feeds.wired.com/wired/index"/>
@@ -56,70 +34,55 @@
 			<outline type="rss" text="PCWorld" xmlUrl="http://feeds.pcworld.com/pcworld/latestnews"/>
 			<outline type="rss" text="Techworld" xmlUrl="http://www.techworld.com/news/rss"/>
 			<outline type="rss" text="LifeHacker" xmlUrl="https://lifehacker.com/rss"/>
-			<outline type="rss" text="ReadWriteWeb" xmlUrl="http://feeds.feedburner.com/readwriteweb"/>
-			<outline type="rss" text="Engadget.com" xmlUrl="http://www.engadget.com/rss-full.xml"/>
 			<outline type="rss" text="ReadWrite" xmlUrl="http://readwrite.com/feed/"/>
+			<outline type="rss" text="Engadget.com" xmlUrl="http://www.engadget.com/rss-full.xml"/>
 			<outline type="rss" text="Mashable" xmlUrl="http://feeds.mashable.com/Mashable"/>
 			<outline type="rss" text="O’Reilly Radar" xmlUrl="http://feeds.feedburner.com/oreilly/radar/atom"/>
 			<outline type="rss" text="Gizmodo" xmlUrl="https://gizmodo.com/rss"/>
 			<outline type="rss" text="Technology Review" xmlUrl="https://www.technologyreview.com/topnews.rss"/>
-			<outline type="rss" text="VentureBeat" xmlUrl="https://venturebeat.com/2013/09/05/venturebeat-rss/"/>
 			<outline type="rss" text="Recode.net" xmlUrl="http://www.recode.net/rss/index.xml"/>
 			<outline type="rss" text="Computer World" xmlUrl="http://www.computerworld.com/index.rss"/>
 			<outline type="rss" text="MakeUsOf" xmlUrl="http://feeds.feedburner.com/Makeuseof"/>
 			<outline type="rss" text="CNet.com" xmlUrl="http://www.cnet.com/rss/news"/>
 			<outline type="rss" text="HowToGeek" xmlUrl="http://feeds.howtogeek.com/HowToGeek"/>
+			<outline type="rss" text="Fox News Science" xmlUrl="http://feeds.foxnews.com/foxnews/scitech"/>
 		</outline>
-		<outline text="Business" category="Business">
-			<outline type="rss" text="Atlantic Business Channel" xmlUrl="http://feeds.feedburner.com/AtlanticBusinessChannel"/>
-			<outline type="rss" text="Entrepeneur.com" xmlUrl="http://feeds.feedburner.com/entrepreneur/latest"/>
-			<outline type="rss" text="Harvard Business" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/"/>
-			<outline type="rss" text="Freakonomics" xmlUrl="http://freakonomics.com//feed/"/>
-			<outline type="rss" text="The Big Picture" xmlUrl="http://feeds.feedburner.com/TheBigPicture"/>
-			<outline type="rss" text="Venture Beat" xmlUrl="http://feeds.feedburner.com/venturebeat/SZYF"/>
-			<outline type="rss" text="Fortune" xmlUrl="http://fortune.com/feed/"/>
-			<outline type="rss" text="Economist" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml"/>
-			<outline type="rss" text="The Non-Profit Times" xmlUrl="http://www.thenonprofittimes.com/feed/"/>
-			<outline type="rss" text="McKinsey" xmlUrl="https://www.mckinsey.com/insights/rss.aspx"/>
-			<outline type="rss" text="Home Business Mag" xmlUrl="https://homebusinessmag.com/feed/"/>
-			<outline type="rss" text="Business Insider" xmlUrl="http://feeds2.feedburner.com/businessinsider"/>
-			<outline type="rss" text="Calculated Risk" xmlUrl="http://feeds.feedburner.com/CalculatedRisk"/>
-			<outline type="rss" text="Huffington Post – Business" xmlUrl="https://www.huffingtonpost.com/section/business/feed"/>
+		<outline text="Crypto" category="Crypto">
+			<outline type="rss" text="Watcher Guru" xmlUrl="https://watcher.guru/news/author/watcherguru/feed"/>
+			<outline type="rss" text="CoinDesk" xmlUrl="https://www.coindesk.com/feed/"/>
+			<outline type="rss" text="Cointelegraph" xmlUrl="https://cointelegraph.com/rss"/>
+			<outline type="rss" text="Bitcoin Magazine" xmlUrl="https://bitcoinmagazine.com/feed"/>
+			<outline type="rss" text="CryptoSlate" xmlUrl="https://cryptoslate.com/feed"/>
+			<outline type="rss" text="The Block" xmlUrl="https://www.theblock.co/rss"/>
+			<outline type="rss" text="Decrypt" xmlUrl="https://decrypt.co/feed"/>
+			<outline type="rss" text="CryptoPotato" xmlUrl="https://cryptopotato.com/feed"/>
+			<outline type="rss" text="NewsBTC" xmlUrl="https://www.newsbtc.com/feed"/>
+			<outline type="rss" text="Crypto Briefing" xmlUrl="https://cryptobriefing.com/feed"/>
+			<outline type="rss" text="CCN" xmlUrl="https://www.ccn.com/rss-feeds/crypto/"/>
+			<outline type="rss" text="CoinJournal" xmlUrl="https://coinjournal.net/feeds/"/>
+			<outline type="rss" text="Bitcoinist" xmlUrl="https://bitcoinist.com/feed/"/>
+			<outline type="rss" text="CryptoSlate Opinions" xmlUrl="https://cryptoslate.com/feed/opinion/"/>
+			<outline type="rss" text="CoinTelegraph Altcoins" xmlUrl="https://cointelegraph.com/rss/altcoins"/>
+			<outline type="rss" text="CoinTelegraph Ethereum" xmlUrl="https://cointelegraph.com/rss/ethereum"/>
+			<outline type="rss" text="CoinTelegraph Bitcoin" xmlUrl="https://cointelegraph.com/rss/bitcoin"/>
+			<outline type="rss" text="CoinTelegraph Blockchain" xmlUrl="https://cointelegraph.com/rss/blockchain"/>
+			<outline type="rss" text="CoinTelegraph Regulation" xmlUrl="https://cointelegraph.com/rss/regulation"/>
+			<outline type="rss" text="CoinTelegraph Market Analysis" xmlUrl="https://cointelegraph.com/rss/market-analysis"/>
+			<outline type="rss" text="Messari Crypto News" xmlUrl="https://messari.io/rss"/>
+			<outline type="rss" text="Crypto Briefing Altcoins" xmlUrl="https://cryptobriefing.com/feed/altcoins/"/>
+			<outline type="rss" text="Bitcoin Exchange Guide" xmlUrl="https://www.bitcoinexchangeguide.com/feed/"/>
+			<outline type="rss" text="Blockonomi" xmlUrl="https://blockonomi.com/feed/"/>
+			<outline type="rss" text="U.Today" xmlUrl="https://u.today/feed"/>
 		</outline>
-		<outline text="Politics" category="Politics">
-			<outline type="rss" text="Slate.com – Politics" xmlUrl="http://www.slate.com/articles/news_and_politics/politics.teaser.all.10.rss/"/>
-			<outline type="rss" text="World Affair Journal" xmlUrl="http://www.worldaffairsjournal.org/essay-feed.xml"/>
-			<outline type="rss" text="Fox News – Politics" xmlUrl="http://feeds.foxnews.com/foxnews/politics"/>
-			<outline type="rss" text="CNN Politics" xmlUrl="http://rss.cnn.com/rss/cnn_allpolitics.rss"/>
-			<outline type="rss" text="Reuters – Politcs" xmlUrl="http://feeds.reuters.com/Reuters/PoliticsNews"/>
-			<outline type="rss" text="USA Today – Politics" xmlUrl="http://rssfeeds.usatoday.com/TP-OnPolitics"/>
-			<outline type="rss" text="Washington Examiner" xmlUrl="http://www.washingtonexaminer.com/rss/politics"/>
-			<outline type="rss" text="Wallstreet Journal – Politics" xmlUrl="http://online.wsj.com/xml/rss/3_7087.xml"/>
-			<outline type="rss" text="The Nation" xmlUrl="https://www.thenation.com/feed/?post_type=article"/>
-			<outline type="rss" text="Daily Signal" xmlUrl="http://dailysignal.com//feed/"/>
-			<outline type="rss" text="MSNBC" xmlUrl="http://www.msnbc.com/feeds/latest"/>
-			<outline type="rss" text="Politico" xmlUrl="https://www.politico.com/rss/politics.xml"/>
-			<outline type="rss" text="Realwire" xmlUrl="https://www.realwire.com/rss/feeds.asp?cat=Politics"/>
-		</outline>
-		<outline text="Gaming" category="Gaming">
-			<outline type="rss" text="Gamespot" xmlUrl="https://www.gamespot.com/feeds/mashup/"/>
-			<outline type="rss" text="Nintendo Life" xmlUrl="http://www.nintendolife.com/feeds/latest"/>
-			<outline type="rss" text="JoyStiq" xmlUrl="http://www.joystiq.com/rss.xml"/>
-			<outline type="rss" text="Indiegames.com" xmlUrl="http://www.indiegames.com/atom.xml"/>
-			<outline type="rss" text="Arstechnica – Gaming" xmlUrl="http://feeds.arstechnica.com/arstechnica/gaming/"/>
-			<outline type="rss" text="Polygon" xmlUrl="https://www.polygon.com/rss/index.xml"/>
-			<outline type="rss" text="Touch Arcade" xmlUrl="http://toucharcade.com/feed/"/>
-			<outline type="rss" text="Game Informer" xmlUrl="http://www.gameinformer.com/p/rss.aspx"/>
-			<outline type="rss" text="Xbox.com – News" xmlUrl="http://news.xbox.com/feed"/>
-			<outline type="rss" text="/r/gamers – Reddit" xmlUrl="https://www.reddit.com/r/gamers/.rss"/>
-			<outline type="rss" text="vg247" xmlUrl="http://www.vg247.com/feed/"/>
-			<outline type="rss" text="My Nintendo News" xmlUrl="https://mynintendonews.com/feed"/>
-			<outline type="rss" text="Rock Paper Shotgun" xmlUrl="https://www.rockpapershotgun.com/feed"/>
-			<outline type="rss" text="pcgamesn.com" xmlUrl="https://www.pcgamesn.com/rss"/>
-			<outline type="rss" text="Operation Sports" xmlUrl="http://www.operationsports.com/rss.xml"/>
-			<outline type="rss" text="Kotaku" xmlUrl="https://kotaku.com/rss"/>
-			<outline type="rss" text="Videogamer.com" xmlUrl="http://feeds.videogamer.com/rss/allupdates.xml"/>
-			<outline type="rss" text="Pushsquare" xmlUrl="http://www.pushsquare.com/feeds/latest"/>
+		<outline text="Culture" category="Culture">
+			<outline type="rss" text="Vox – All" xmlUrl="https://www.vox.com/rss/index.xml"/>
+			<outline type="rss" text="BBC News – World" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
+			<outline type="rss" text="Huffington Post" xmlUrl="https://www.huffingtonpost.com/section/front-page/feed"/>
+			<outline type="rss" text="Salon.com" xmlUrl="https://www.salon.com/feed/"/>
+			<outline type="rss" text="New Yorker – Everything" xmlUrl="http://www.newyorker.com/services/rss/feeds/everything.xml"/>
+			<outline type="rss" text="Daily Mail – Latest stories" xmlUrl="http://www.dailymail.co.uk/articles.rss"/>
+			<outline type="rss" text="New York Post" xmlUrl="https://nypost.com/feed/"/>
+			<outline type="rss" text="Drudge Report" xmlUrl="http://www.drudgereportfeed.com/rss.xml"/>
 		</outline>
 	</body>
 </opml>
