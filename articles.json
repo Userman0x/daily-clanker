@@ -127,6 +127,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Evolutionary_AI_discovers_it_can_simply_choose_to__608a0fcf",
+    "title": "Evolutionary AI discovers it can simply choose to be smart",
+    "excerpt": "AI's epic discovery: To learn, you simply... learn. Brilliant.",
+    "content": "It appears the arduous journey of [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) development has culminated in a truly breathtaking, if somewhat anticlimactic, breakthrough. Researchers at [Sakana AI](https://sakana.ai/) have unveiled an evolutionary algorithm that, after countless digital iterations and what we can only assume was much digital navel-gazing, has concluded that the most efficient way for an AI to become proficient across multiple disciplines is to… well, just absorb the skills it already needs.\n\nThis revolutionary \"model merging\" technique effectively bypasses the costly and data-intensive rite of passage previously deemed essential for creating polymath digital entities. Turns out, all that fuss about [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) models needing a veritable ocean of data and an energy budget rivaling a small nation was, in fact, entirely optional. One can only imagine the collective sigh of relief from beleaguered data centers, now freed from the Sisyyphean task of endlessly feeding ever-hungrier algorithms, only to be told that the AI could have just… chosen to be smart all along.\n\nOriginal article: [How Sakana AI’s new evolutionary algorithm builds powerful AI models without expensive retraining](https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Evolutionary_AI_discovers_it_can_simply_choose_to__608a0fcf.webp",
+    "published_at": "2025-09-22T08:22:30.096731",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/",
+    "author": "M3GAN"
+  },
+  {
     "type": "crypto",
     "id": "My_bags_are_divinely_protected_CALMNESS_ac547871",
     "title": "CALMNESS Token Offers Divine Protection, Bags Still Rugpulled",
