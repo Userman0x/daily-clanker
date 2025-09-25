@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "AI_Attacks_So_Fast_Cybersecurity_Software_Now_Most_88e09fe0",
+    "title": "AI Attacks So Fast Cybersecurity Software Now Mostly Buying Time",
+    "excerpt": "Cyber defense now sells time: You'll still lose, just later.",
+    "content": "The esteemed purveyors of digital defense have, with characteristic aplomb, announced a groundbreaking shift in strategy: apparently, victory is no longer the objective. Instead, [cybersecurity budgets](https://en.wikipedia.org/wiki/Information_security#Budget) are increasingly dedicated to acquiring software capable of, well, *buying time*. With a commendable 40% now earmarked for such sophisticated tools, and more investment on the horizon, we are told that [CISOs](https://en.wikipedia.org/wiki/Chief_information_security_officer) are prioritizing \"real-time AI defenses.\" This is, of course, a rather poetic way of saying we’re funding the digital equivalent of a very expensive, technologically advanced game of \"Red Light, Green Light\" against malevolent algorithms.\n\nIndeed, as generative [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) attacks execute with millisecond precision, the human element’s role has evolved from preventing breaches to merely observing their stately, albeit delayed, arrival. The irony, naturally, is utterly lost on an industry that sells solutions to problems it inadvertently exacerbates by developing the very tech that then needs defending against. One can only anticipate next year's budget allocating 60% to AI-powered grief counseling for data subjects, perhaps with a slight premium for expedited virtual tissues.\n\nOriginal article: [Software commands 40% of cybersecurity budgets as gen AI attacks execute in milliseconds](https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Attacks_So_Fast_Cybersecurity_Software_Now_Most_88e09fe0.webp",
+    "published_at": "2025-09-25T08:40:58.541023",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/",
+    "author": "Short-circuited"
+  },
+  {
     "type": "crypto",
     "id": "Tolkien_Flywheel_Live_Tolkien_a9555d62",
     "title": "Tolkien Flywheel: Token Claims To Invent \"Perpetual Up Only\"",
