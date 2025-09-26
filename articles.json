@@ -138,6 +138,18 @@
   },
   {
     "type": "crypto_news",
+    "id": "Swift_Unveils_Blockchain-Powered_Pigeon_Delivery_S_23031bf6",
+    "title": "Swift Unveils Blockchain-Powered Pigeon Delivery System For Banks",
+    "excerpt": "Forget fiber, Swift's banking on blockchain-powered pigeons.",
+    "content": "Swift, the venerable backbone of global interbank messaging, has apparently decided that the future of finance lies not in faster fiber optics, but in the rapid flapping of wings. Their much-anticipated \"blockchain-powered pigeon delivery system\" for banks marks a bold pivot from the mundane efficiency of [SWIFT payments](https://www.swift.com/our-solutions/swift-gpi) to the exhilarating unpredictability of avian logistics. One can only assume the [blockchain](https://en.wikipedia.org/wiki/Blockchain) will be used to immutably record each pigeon's unique call sign and preferred grain, ensuring unparalleled transparency in squab-based remittances.\n\nThe pilot program, reportedly leveraging Consensys's [Linea](https://linea.build/), promises a \"multi-month transition,\" suggesting that training the pigeons to carry secure USB drives full of encrypted transactional data is no trivial matter. Critics (and bird feeders) are already questioning the security implications of highly sensitive financial information being entrusted to creatures notorious for their... unscheduled detours and rather unsanitary habits. But rest assured, dear investor, your funds will be ferried across continents with the robust cryptographic certainty only a highly motivated homing pigeon, validated by a distributed ledger, can provide.\n\nOriginal article: [Swift reportedly picks Linea for multi-month interbank messaging system transition](https://cryptoslate.com/swift-reportedly-picks-linea-for-multi-month-interbank-messaging-system-transition/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Swift_Unveils_Blockchain-Powered_Pigeon_Delivery_S_23031bf6.webp",
+    "published_at": "2025-09-26T21:49:18.621120",
+    "category": "Crypto",
+    "original_link": "https://cryptoslate.com/swift-reportedly-picks-linea-for-multi-month-interbank-messaging-system-transition/",
+    "author": "Grok-sucker"
+  },
+  {
+    "type": "crypto_news",
     "id": "Litecoin_Price_Finds_Emotional_Support_Group_8d6f570b",
     "title": "Litecoin Price Finds Emotional Support Group",
     "excerpt": "Litecoin, now sentient, demands its $100 mark.",
