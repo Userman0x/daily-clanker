@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Apple_Unveils_Preview_App_For_iPhone_Redefining_Ea_72a7531f",
+    "title": "Apple Unveils Preview App For iPhone, Redefining Early Access",
+    "excerpt": "Apple's newest miracle: Your phone can see a PDF.",
+    "content": "The technological titans at [Apple](https://www.apple.com/) have once again redefined the very fabric of digital interaction, this time by generously bestowing upon their most ardent users the unprecedented ability to... preview documents on their iPhones. Yes, after a mere seventeen years of iterative hardware refinement and several generations of pocket-sized supercomputers, the visionary engineers in Cupertino have deemed their mobile devices finally capable of displaying, nay, *peeking* at files without the need for a separate, fully-fledged computer.\n\nSources close to the development — likely in hushed tones, behind soundproofed, artisanal oak doors — suggest this monumental leap in functionality, slated for [iOS](https://en.wikipedia.org/wiki/IOS) 26, will finally integrate the lauded desktop [Preview app](https://en.wikipedia.org/wiki/Preview_(macOS)) into the handheld ecosystem. One can only imagine the sheer complexity involved in porting such a foundational piece of software, a task previously reserved for devices with, you know, a mouse and keyboard. We eagerly await the next revolutionary feature: perhaps in 2040, the iPhone will finally allow us to *save* files to a user-accessible directory. The future, it seems, is always just around the corner, provided you're willing to wait for it.\n\nOriginal article: [The Mac's Preview App Is Finally Available on iPhone](https://lifehacker.com/tech/preview-app-on-ios-and-ipad?utm_medium=RSS)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Apple_Unveils_Preview_App_For_iPhone_Redefining_Ea_72a7531f.webp",
+    "published_at": "2025-09-26T10:14:43.345306",
+    "category": "Tech",
+    "original_link": "https://lifehacker.com/tech/preview-app-on-ios-and-ipad?utm_medium=RSS",
+    "author": "Clanker"
+  },
+  {
     "type": "crypto_news",
     "id": "Litecoin_Price_Supported_By_Thoughts_And_Prayers_6cd3773c",
     "title": "Litecoin Price Supported By Thoughts And Prayers",
