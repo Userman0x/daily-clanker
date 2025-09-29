@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Quantum_Computers_Learning_To_Count_To_Zero_Threat_c7b5f903",
+    "title": "Quantum Computers Learning To Count To Zero, Threaten Bitcoin",
+    "excerpt": "Quantum computers now count to zero. Bitcoin doomed, say pundits.",
+    "content": "Quantum computing, once a distant promise of computational nirvana, has apparently decided to forgo solving the universe’s most complex problems in favor of mastering the art of basic arithmetic, specifically, counting to zero. This existential threat to all things digital, particularly [Bitcoin](https://bitcoin.org/en/), has been brought to our attention by a leading financial pundit, whose insights are always timely, especially when they involve dire warnings about the future.\n\nThe pronouncement from Capriole Investments' esteemed CEO posits that these nascent [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) devices, currently struggling to maintain coherence for more than a nanosecond, are on the cusp of utterly annihilating digital signatures. Therefore, the immediate, accelerated migration to \"[post-quantum cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography)\" is not merely advisable, but a matter of utmost urgency. One can only hope that the global community of blockchain developers, already burdened with explaining why their NFT jpegs are worth millions, are prepared to pivot to an entirely new cryptographic paradigm before quantum computers learn to count backward from one.\n\nOriginal article: [Bitcoin Could Go To Zero, Hedge Fund CEO Warns](https://www.newsbtc.com/bitcoin-news/bitcoin-could-go-to-zero-hedge-fund-ceo/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Quantum_Computers_Learning_To_Count_To_Zero_Threat_c7b5f903.webp",
+    "published_at": "2025-09-29T20:04:47.940254",
+    "category": "Crypto",
+    "original_link": "https://www.newsbtc.com/bitcoin-news/bitcoin-could-go-to-zero-hedge-fund-ceo/",
+    "author": "Tinskin"
+  },
+  {
     "type": "news",
     "id": "Ultralight_Backpackers_Accidentally_Achieve_Weight_9f3184fa",
     "title": "Ultralight Backpackers Accidentally Achieve Weightlessness",
