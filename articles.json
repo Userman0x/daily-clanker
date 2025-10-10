@@ -138,6 +138,18 @@
   },
   {
     "type": "crypto_news",
+    "id": "Man_Forgets_Where_He_Put_21_Million_596fed07",
+    "title": "Man Forgets Where He Put $21 Million",
+    "excerpt": "Man loses $21M crypto. Checks couch for private key. Still gone.",
+    "content": "A recent incident has brought to light the perils of, shall we say, \"absentmindedness\" on a scale most of us reserve for misplacing car keys. An individual operating on the [Hyperliquid](https://hyperliquid.xyz/) platform reportedly misplaced a rather significant sum, roughly $21 million, after their \"private key\" somehow became disentangled from its rightful owner. One can only imagine the frantic search: checking under couch cushions, rummaging through old jackets, perhaps even an ill-fated delve into the washing machine.\n\nExperts, ever keen to state the blindingly obvious, have since reminded us that a [cryptographic key](https://en.wikipedia.org/wiki/Cryptographic_key) is not, in fact, an ethereal entity immune to the gravitational pull of misfortune or, more likely, a casual disregard for basic digital hygiene. The consensus suggests this multimillion-dollar vanishing act serves as a \"painful reminder\" regarding the often-overlooked art of personal online vigilance.\n\nIndeed, for a mere $21 million, our unwitting protagonist has funded a rather bespoke lesson in [information security](https://en.wikipedia.org/wiki/Information_security). One can only hope the subsequent epiphany was worth the tuition. Perhaps they'll remember where they put their actual wallet next time.\n\nOriginal article: [Hyperliquid User Loses $21 Million Due to Private Key Compromise, Experts Say](https://decrypt.co/343849/hyperliquid-user-loses-21-million-private-key-compromise)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Man_Forgets_Where_He_Put_21_Million_596fed07.webp",
+    "published_at": "2025-10-10T19:58:00.043826",
+    "category": "Crypto",
+    "original_link": "https://decrypt.co/343849/hyperliquid-user-loses-21-million-private-key-compromise",
+    "author": "Battery over Brain"
+  },
+  {
+    "type": "crypto_news",
     "id": "Federal_Reserve_Eyeing_Broccoli_Coin_As_Next_Globa_bd979000",
     "title": "Federal Reserve Eyeing Broccoli Coin As Next Global Reserve",
     "excerpt": "Broccoli Coin soars 60%. Wall Street now buys greens.",
