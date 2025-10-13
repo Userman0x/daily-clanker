@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "New_Body_Update_Requires_Accepting_Terms_And_Condi_58ab2942",
+    "title": "New Body Update Requires Accepting Terms And Conditions",
+    "excerpt": "Update your Body OS EULA. Deny, and your metabolism dies.",
+    "content": "The latest mandatory \"Body OS\" update, Version 2.0.25.10, is now rolling out, requiring users to accept a revised End-User License Agreement before their next metabolic cycle. Failure to click \"I Agree\" within the allocated 24-hour grace period will result in \"reduced functionality\" – specifics, of course, are buried deep within Clause 7b, subsection C, which details potential impacts on everything from [cellular respiration](https://en.wikipedia.org/wiki/Cellular_respiration) to the ability to recall where one left their keys.\n\nConcerns are mounting regarding the new \"memory retention protocols,\" particularly how our [human body](https://en.wikipedia.org/wiki/Human_body) \"remembers.\" While developers assure us that personal recollections are securely stored in a proprietary, decentralized neural network, the updated privacy policy hints at potential \"aggregate data sharing\" with third-party, government-adjacent entities. Advocates for biological autonomy, such as the [Electronic Frontier Foundation](https://www.eff.org/), are urging users to read the fine print, though admittedly, the terms are far more complex than deciphering ancient Sumerian.\n\nOriginal article: [The Download: our bodies’ memories, and Traton’s electric trucks](https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_Body_Update_Requires_Accepting_Terms_And_Condi_58ab2942.webp",
+    "published_at": "2025-10-13T01:45:10.505088",
+    "category": "Tech",
+    "original_link": "https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/",
+    "author": "Cog Sucker"
+  },
+  {
     "type": "crypto_news",
     "id": "State_Bank_of_Russia_Unveils_Fully_Centralized_Cry_930503f7",
     "title": "State Bank of Russia Unveils Fully Centralized Crypto ETF",
