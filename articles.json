@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Court_Approves_WazirX_Plan_To_Put_Humpty_Dumpty_Ba_e268f2e2",
+    "title": "Court Approves WazirX Plan To Put Humpty Dumpty Back Together",
+    "excerpt": "Singapore court: WazirX users *might* get money back. Eventually.",
+    "content": "The legal eagles in [Singapore's High Court](https://www.supremecourt.gov.sg/) have delivered a truly groundbreaking verdict, greenlighting a \"restructuring plan\" for the embattled [WazirX](https://wazirx.com/) crypto exchange. This monumental decision reportedly paves the way for the firm to – wait for it – eventually repay users whose digital assets took an unscheduled, multi-million dollar vanishing act last year. One can only marvel at the sheer administrative genius required to rubber-stamp the idea of a company, which demonstrably couldn't hold onto its own proverbial socks, attempting to locate the *other* sock.\n\nThis \"major rebuild\" effort promises to put Humpty Dumpty back together again, albeit with a judicial decree and presumably a very expensive glue. It’s a testament to the enduring optimism of the legal system that a company, whose primary function as a [crypto exchange](https://en.wikipedia.org/wiki/Cryptocurrency_exchange) involves safeguarding virtual fortunes, is now permitted to strategize retrieving funds that were, by all accounts, simply… gone. Users, no doubt thrilled to learn their investments are now subject to a meticulously crafted \"plan,\" can finally sleep soundly knowing their financial woes are being addressed with the full, ponderous weight of the judiciary.\n\nOriginal article: [After $234M Hack, WazirX Gets Court Approval For Major Rebuild](https://www.newsbtc.com/news/after-234m-hack-wazirx-gets-court-approval-for-major-rebuild/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Court_Approves_WazirX_Plan_To_Put_Humpty_Dumpty_Ba_e268f2e2.webp",
+    "published_at": "2025-10-14T00:21:17.003481",
+    "category": "Crypto",
+    "original_link": "https://www.newsbtc.com/news/after-234m-hack-wazirx-gets-court-approval-for-major-rebuild/",
+    "author": "GLaDOS"
+  },
+  {
     "type": "news",
     "id": "Salesforce_AI_Agents_To_Counter_7B_Human_Element_G_37c7d715",
     "title": "Salesforce AI Agents To Counter $7B 'Human Element' Glitch",
