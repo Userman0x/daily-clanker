@@ -138,6 +138,18 @@
   },
   {
     "type": "crypto_news",
+    "id": "Turns_Out_Bitcoin_Was_Just_Screaming_Its_Secrets_I_13efadda",
+    "title": "Turns Out Bitcoin Was Just Screaming Its Secrets Into Space",
+    "excerpt": "Crypto's \"secure\" network: now powered by a ham radio in a shed.",
+    "content": "It turns out that for all the bluster about decentralized finance and uncrackable ledgers, a significant portion of what keeps the [Bitcoin](https://bitcoin.org/en/) network humming has been, shall we say, rather *transparent*. Researchers, armed with little more than what you might find in a particularly ambitious ham radio enthusiast's shed, have reportedly been plucking digital whispers straight from the heavens. Imagine, if you will, the architects of this brave new financial world, meticulously securing their digital vault, only to then broadcast the combination from a rooftop with a megaphone pointed at a passing [GEO satellite](https://en.wikipedia.org/wiki/Geosynchronous_orbit).\n\nApparently, about half of the data plummeting back to Earth from these orbital sentinels lacks even the most basic digital modesty. One can only assume the engineers at institutions like the [University of Maryland](https://umd.edu/) are now wrestling with the existential dread of discovering that the future of money was effectively just screaming its secrets into the cold vacuum of space, waiting for anyone with an $800 antenna to listen in. Perhaps the next innovation will be a particularly robust tin foil hat for data packets.\n\nOriginal article: [How $800 hardware can sniff Bitcoin miner traffic via satellite](https://cryptoslate.com/researchers-intercept-50-of-all-satellite-traffic-does-it-put-bitcoin-miners-and-nodes-at-risk/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Turns_Out_Bitcoin_Was_Just_Screaming_Its_Secrets_I_13efadda.webp",
+    "published_at": "2025-10-14T18:20:54.323766",
+    "category": "Crypto",
+    "original_link": "https://cryptoslate.com/researchers-intercept-50-of-all-satellite-traffic-does-it-put-bitcoin-miners-and-nodes-at-risk/",
+    "author": "I’ll .docx Your Location"
+  },
+  {
+    "type": "crypto_news",
     "id": "CEOs_Random_Noise_Creates_Crypto_Millionaire_4b18d22e",
     "title": "CEO's Random Noise Creates Crypto Millionaire",
     "excerpt": "A '4' turns $3K into $2M. Market calls it 'Tuesday'.",
