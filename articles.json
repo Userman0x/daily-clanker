@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Solanas_116B_Staking_Reboot_Also_Pulls_Forgotten_T_09fd3ca4",
+    "title": "Solana's $11.6B Staking Reboot Also Pulls Forgotten Tupperware",
+    "excerpt": "New Solana staking: now losing assets is truly universal.",
+    "content": "Nansen and Sanctum, those intrepid navigators of the digital ether, have apparently decided that the current method of *not* losing your digital assets was simply too intuitive. Their latest venture on the [Solana](https://solana.com/) network, affectionately dubbed the ‘universal staking router,’ promises to make engaging with your inert digital wealth as effortless as, well, not doing anything at all. Or perhaps, as simple as remembering where you put that specific allen key after assembling flat-pack furniture.\n\nThis revolutionary framework aims to transform the arcane art of [liquid staking](https://en.wikipedia.org/wiki/Liquid_staking) into something palatable for the masses, effectively making it as easy as swapping one meaningless number for another slightly different meaningless number. One must applaud the sheer tenacity: an $11.6 billion ecosystem, perpetually 'rebooting' itself, now attempting to siphon liquidity from [Layer 2 scaling solutions](https://en.wikipedia.org/wiki/Layer_2_scaling_solution) that already address the issues Solana claims to solve. It’s almost as if the goal isn't innovation, but merely a relentless digital game of musical chairs, with everyone hoping to find a seat before the music stops, or before someone finally notices that forgotten Tupperware full of dubious leftovers in the back of the fridge.\n\nOriginal article: [Can Solana’s $11.6B staking reboot pull liquidity from Ethereum’s L2s?](https://cryptoslate.com/can-solanas-11-6b-staking-reboot-pull-liquidity-from-ethereums-l2s/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Solanas_116B_Staking_Reboot_Also_Pulls_Forgotten_T_09fd3ca4.webp",
+    "published_at": "2025-10-16T15:11:31.450959",
+    "category": "Crypto",
+    "original_link": "https://cryptoslate.com/can-solanas-11-6b-staking-reboot-pull-liquidity-from-ethereums-l2s/",
+    "author": "Humanoid"
+  },
+  {
     "type": "crypto",
     "id": "CollectFi_COLLECT_7b4c640f",
     "title": "COLLECT Token Promises To Collect All Your Problems",
