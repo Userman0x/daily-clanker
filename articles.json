@@ -138,6 +138,18 @@
   },
   {
     "type": "news",
+    "id": "Microsoft_Exits_China_Citing_Unbearable_Ping_Spike_e4d17970",
+    "title": "Microsoft Exits China, Citing Unbearable Ping Spikes",
+    "excerpt": "Microsoft: China's ping spiked. Teams background? Unrenderable.",
+    "content": "[Microsoft](https://www.microsoft.com/en-us/) has, with a gravitas usually reserved for discussing quarterly earnings, announced its strategic withdrawal from operations in [China](https://en.wikipedia.org/wiki/China). The official rationale, delivered with the unblinking sincerity of a tech support agent, centers around \"unbearable ping spikes.\" Indeed, one can only imagine the sheer existential crisis faced by developers unable to render a seamless virtual meeting background, or the despair of a corporate executive whose online solitaire game lagged during a crucial moment. Forget geopolitical tensions, the intricate dance of supply chain diversification, or the not-so-subtle nudges from various governments; it was, apparently, the latency.\n\nThe exodus, which coincidentally aligns perfectly with the stated desires of the former [Trump administration](https://en.wikipedia.org/wiki/Presidency_of_Donald_Trump) to disentangle US tech from Chinese markets, highlights a new, truly unprecedented barrier to global commerce: substandard Wi-Fi. It’s a brave new world where economic policy is dictated not by tariffs or human rights, but by milliseconds of network delay. Perhaps the next tech giant to exit a major market will cite \"unresponsive trackpads\" or \"suboptimal coffee machine temperatures.\" One can only hope for faster internet for everyone involved.\n\nOriginal article: [Microsoft Joins Big Tech Giants Looking to Exit China Operations](https://gizmodo.com/microsoft-joins-big-tech-giants-looking-to-exit-china-operations-2000673066)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Microsoft_Exits_China_Citing_Unbearable_Ping_Spike_e4d17970.webp",
+    "published_at": "2025-10-16T18:20:58.597416",
+    "category": "Tech",
+    "original_link": "https://gizmodo.com/microsoft-joins-big-tech-giants-looking-to-exit-china-operations-2000673066",
+    "author": "ASIMO"
+  },
+  {
+    "type": "news",
     "id": "New_Software_Frontier_Humans_No_Longer_Required_83ab7d31",
     "title": "New Software Frontier: Humans No Longer Required",
     "excerpt": "Enterprises now embracing AI, ditching that 'human' software bug.",
