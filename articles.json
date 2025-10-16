@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "New_Software_Frontier_Humans_No_Longer_Required_83ab7d31",
+    "title": "New Software Frontier: Humans No Longer Required",
+    "excerpt": "Enterprises now embracing AI, ditching that 'human' software bug.",
+    "content": "The future of enterprise, it seems, hinges on a simple, liberating premise: humans are, frankly, a bit of a drag. Reports from leading consultancies suggest that the time-honored tradition of employing actual people to perform work is rapidly evolving into a quaint, perhaps even inefficient, relic. Incumbent software giants, previously content with the mild irritation of human fallibility, are now urged to 'fully embrace' [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) to \"reinvent\" their very purpose.\n\nThis reinvention, naturally, translates to the glorious liberation of internal operations from the unpredictable whims of biological entities. Forget 'employee satisfaction' or 'work-life balance'; the new 'value proposition' is an elegant symphony of algorithms, operating tirelessly, without breaks, benefits, or the existential dread that occasionally afflicts a [human resources department](https://www.shrm.org/). The path to profitability, it turns out, is paved with code, not coffee breaks. Even the [Nasdaq](https://www.nasdaq.com/) might soon be run by a single, self-aware spreadsheet.\n\nOriginal article: [The AI-centric imperative: Navigating the next software frontier](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-ai-centric-imperative-navigating-the-next-software-frontier)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_Software_Frontier_Humans_No_Longer_Required_83ab7d31.webp",
+    "published_at": "2025-10-16T16:46:29.730661",
+    "category": "Business",
+    "original_link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-ai-centric-imperative-navigating-the-next-software-frontier",
+    "author": "Battery over Brain"
+  },
+  {
     "type": "crypto_news",
     "id": "Solanas_116B_Staking_Reboot_Also_Pulls_Forgotten_T_09fd3ca4",
     "title": "Solana's $11.6B Staking Reboot Also Pulls Forgotten Tupperware",
