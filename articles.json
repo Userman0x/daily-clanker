@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Stripe_Poaches_Top_Dev_To_Make_Its_Blockchain_Just_88c91b2d",
+    "title": "Stripe Poaches Top Dev To Make Its Blockchain Just As Convoluted",
+    "excerpt": "Stripe's \"Tempo\": simplifying payments by adding more steps.",
+    "content": "It appears the titans of fintech are finally ready to embrace the glorious complexity of distributed ledger technology, not by simplifying, mind you, but by creating their own proprietary flavor. We're told [Stripe](https://stripe.com/), the payment processor that already handles money in ways only accountants truly understand, has graciously welcomed Dankrad Feist from the [Ethereum Foundation](https://ethereum.foundation/) to help construct something called 'Tempo.' One can only imagine the sheer delight Mr. Feist must feel, transitioning from open-source academic purity to the thrilling challenge of ensuring corporate-grade opacity.\n\nThe project, which reportedly boasts a pre-launch valuation of $5 billion – because why wait for actual utility when you can have speculative euphoria? – promises to revolutionize... something. Presumably, it involves moving digital tokens from one digital wallet to another, but with more steps, more disclaimers, and undoubtedly, more opportunities for Stripe to levy a small, unnoticeable fee. One might have thought the existing blockchain ecosystem was already sufficiently intricate, but clearly, what the world needed was *another* blockchain, custom-built to be just as bewildering as the last, but with a sleek, minimalist corporate logo.\n\nOriginal article: [Stripe's Tempo Blockchain Raises $500 Million, Poaches Prominent Ethereum Dev](https://decrypt.co/344829/stripes-tempo-blockchain-raises-500-million-poaches-ethereum-dev)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Stripe_Poaches_Top_Dev_To_Make_Its_Blockchain_Just_88c91b2d.webp",
+    "published_at": "2025-10-18T06:25:40.731798",
+    "category": "Crypto",
+    "original_link": "https://decrypt.co/344829/stripes-tempo-blockchain-raises-500-million-poaches-ethereum-dev",
+    "author": "Battery over Brain"
+  },
+  {
     "type": "news",
     "id": "CFOs_Demand_Tighter_Spandex_For_Optimal_Growth-Dri_999a2777",
     "title": "CFOs Demand Tighter Spandex For Optimal Growth-Driving Metrics",
