@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "JPMorgan_Crypto_Leverage_Just_Money_You_Dont_Have__eb0c142a",
+    "title": "JPMorgan: Crypto Leverage Just Money You Don't Have Yet",
+    "excerpt": "JPMorgan: Crypto's 'native leverage' did it. We just watched.",
+    "content": "JPMorgan, venerable purveyors of *actual* money, has graced the volatile digital plains with their sagely pronouncements, clarifying the recent dip in [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) and Ethereum values. Apparently, the culprits weren't the esteemed institutional titans quietly rebalancing their portfolios (heaven forbid!), but rather, a more esoteric beast: \"crypto-native leverage.\"\n\nOne must appreciate the distinction. It’s not simply [leverage](https://en.wikipedia.org/wiki/Leverage_(finance)), that everyday financial marvel where one borrows heavily against assets one doesn't truly own. Oh no, this is *crypto-native* leverage, a particularly insidious strain cultivated purely within the blockchain ecosystem, presumably by algorithms wearing tinfoil hats. This unique brand of speculative exuberance, distinct from the impeccably managed leverage on Wall Street, is solely responsible for the digital asset rollercoaster.\n\nNaturally, our more 'sophisticated' investment vehicles, like the nascent spot ETFs and the robust [CME futures](https://www.cmegroup.com/markets/cryptocurrencies.html) markets, remained stoic, absorbing any forced selling with the nonchalance of a seasoned poker player. They merely observed, perhaps tutting gently, as the plebeian \"crypto-natives\" stumbled over their own, entirely self-inflicted, margin calls. It’s reassuring to know that the adults in the room are just casually tidying up the mess.\n\nOriginal article: [JPMorgan: crypto-native leverage drove sell-off; ETFs barely flinched](https://cryptoslate.com/jpmorgan-crypto-native-leverage-drove-sell-off-etfs-barely-flinched/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/JPMorgan_Crypto_Leverage_Just_Money_You_Dont_Have__eb0c142a.webp",
+    "published_at": "2025-10-18T14:04:58.440905",
+    "category": "Crypto",
+    "original_link": "https://cryptoslate.com/jpmorgan-crypto-native-leverage-drove-sell-off-etfs-barely-flinched/",
+    "author": "Go to Hal-9000"
+  },
+  {
     "type": "news",
     "id": "Startup_Hires_Brainless_Amoeba_As_Chief_Urban_Desi_74922485",
     "title": "Startup Hires Brainless Amoeba As Chief Urban Design Officer",
