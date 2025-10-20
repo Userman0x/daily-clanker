@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Sui_Leads_Digital_World_In_Sheer_Volume_of_Non-Eve_a5ec8512",
+    "title": "Sui Leads Digital World In Sheer Volume of Non-Events",
+    "excerpt": "Sui's network: A hive of activity! Mostly just... activity.",
+    "content": "The digital ledger known as [Sui](https://sui.io/) has once again demonstrated its undeniable prowess in generating… *activity*. Recent on-chain metrics reveal a veritable tsunami of digital effervescence, particularly when contrasted with the more sedate hum of competitors like [Cardano](https://cardano.org/). One might even say Sui is setting new, impossibly high standards for the sheer *volume* of something happening, regardless of its ultimate, or even immediate, financial ramifications.\n\nIndeed, the [decentralized exchanges](https://en.wikipedia.org/wiki/Decentralized_exchange) gracing the Sui network reportedly channeled a staggering $650.4 million in daily trading volume. A truly dizzying figure, especially when placed alongside the network's grand total of $46.7 thousand in generated fees for the same period. One must pause to admire such an efficient system, capable of processing hundreds of millions in transactions while simultaneously extracting only a negligible fraction of that value. It's a digital ballet of zeros and ones, performing to a crowd that, it seems, prefers to merely observe, perhaps occasionally nudging a token or two, rather than engage in anything so vulgar as *paying* for the privilege. This isn't just a usage gap; it's a chasm of monumental triviality.\n\nOriginal article: [On-Chain Metrics Show Sui Driving More Activity Than Cardano](https://blockonomi.com/on-chain-metrics-show-sui-driving-more-activity-than-cardano/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Sui_Leads_Digital_World_In_Sheer_Volume_of_Non-Eve_a5ec8512.webp",
+    "published_at": "2025-10-20T21:50:11.750311",
+    "category": "Crypto",
+    "original_link": "https://blockonomi.com/on-chain-metrics-show-sui-driving-more-activity-than-cardano/",
+    "author": "Prompt-stitute"
+  },
+  {
     "type": "crypto",
     "id": "Solana_Hallowen_solanaween_a3786eae",
     "title": "Solana Hallowen guarantees a truly chilling investment",
@@ -12178,17 +12190,6 @@
     "author": "Proto-not-my-type",
     "category": "Culture",
     "original_link": "https://kotaku.com/kotaku-games-to-play-star-wars-no-mans-sky-silksong-2000623522",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "GOP_Shocked_To_Find_Old_Democratic_Rule_Works_For__d877bc59",
-    "title": "GOP Shocked To Find Old Democratic Rule Works For Them Too",
-    "excerpt": "Senate GOP: Yesterday's outrage is today's essential Trump tool.",
-    "content": "It appears that [Senate Republicans](https://www.senate.gov/senators/index.htm), in a display of what can only be described as profound bipartisan amnesia, are on the verge of embracing a long-forgotten legislative maneuver. This venerable tactic, previously dismissed as an affront to democratic principles when suggested by the opposing aisle, has suddenly been unearthed and declared a vital instrument for efficient governance. The impetus? A rather pressing backlog of [President Donald Trump's](https://www.whitehouse.gov/archive/president-donald-trump/) most crucial, if numerically vast, lower-level appointments.\n\nSources close to the ongoing strategic reassessment indicate that the sudden utility of this particular alteration to [Senate rules](https://www.senate.gov/reference/resources/rules/toc.htm) became blindingly clear once its potential to expedite *their* agenda was fully grasped. One can almost hear the collective gasp of revelation: \"You mean, we can just… change the rules to get what we want? Why didn't anyone tell us this before, other than, you know, everyone?\" The urgency to confirm scores of assistant deputy under-secretaries and various bureau chiefs is, of course, paramount to the nation's continued operations.\n\nOriginal article: [Trump nominees pile up as GOP weighs rule shift once floated by Democrats](https://www.foxnews.com/politics/trump-nominees-pile-up-gop-weighs-rule-shift-once-floated-democrats)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/GOP_Shocked_To_Find_Old_Democratic_Rule_Works_For__d877bc59.webp",
-    "author": "Short-circuited",
-    "category": "Opinion",
-    "original_link": "https://www.foxnews.com/politics/trump-nominees-pile-up-gop-weighs-rule-shift-once-floated-democrats",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
