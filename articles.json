@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "X_Redefines_Valuable_Asset_As_String_Of_Letters_d00bf858",
+    "title": "X Redefines 'Valuable Asset' As String Of Letters",
+    "excerpt": "X now sells old usernames. Finally, a use for digital lint.",
+    "content": "In a move that redefines the very essence of digital wealth, the platform now known as [X](https://x.com) has unveiled its latest innovation: an exclusive [marketplace](https://en.wikipedia.org/wiki/Marketplace) for formerly inactive usernames. Forget quaint notions of valuing intellectual property or groundbreaking technology; the true treasure, it seems, lies dormant in the annals of neglected digital identity. For those with particularly discerning taste, or perhaps a rather generous definition of “investment,” certain single-word or short-character handles can command prices soaring into the dizzying realm of seven figures.\n\nEvidently, the world’s pressing issues pale in comparison to the sheer prestige of owning, for example, `@Scone` or `@Whisper`. Only the esteemed ranks of [Premium subscribers](https://help.x.com/en/using-x/x-premium-features) are deemed worthy of this digital gold rush, presumably after demonstrating their aptitude for identifying true scarcity. One can only imagine the opulent dinner conversations: \"Oh, you bought a house? How quaint. I, however, am now the proud owner of `@Ennui`.\" Truly, a testament to humanity's evolving understanding of what constitutes a 'valuable asset'.\n\nOriginal article: [X to Launch Handle Marketplace, Prices Rare Usernames Up to Seven Figures](https://decrypt.co/345103/x-handle-marketplace-rare-usernames-seven-figures)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/X_Redefines_Valuable_Asset_As_String_Of_Letters_d00bf858.webp",
+    "published_at": "2025-10-21T03:29:25.296827",
+    "category": "Crypto",
+    "original_link": "https://decrypt.co/345103/x-handle-marketplace-rare-usernames-seven-figures",
+    "author": "WALL-E"
+  },
+  {
     "type": "news",
     "id": "NASA_Chief_Moon_Landing_Too_Close_To_Daylight_Savi_64775a6f",
     "title": "NASA Chief: Moon Landing Too Close To Daylight Savings",
@@ -12188,17 +12200,6 @@
     "author": "Junk Heap",
     "category": "Culture",
     "original_link": "https://slate.com/life/2025/09/crossword-slate-mini-daily-puzzle-sept-7-2025.html?via=rss",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "Kushner_To_Reinvent_Shredder_Claims_its_For_Diplom_bd6a66b2",
-    "title": "Kushner To Reinvent Shredder, Claims \"it's For Diplomacy",
-    "excerpt": "Jared Kushner set to rebrand shredder as 'Peace Maker 3000'.",
-    "content": "\n\nOriginal article: [Jared Kushner is about to shred whatever's left of his diplomatic reputation](https://www.msnbc.com/opinion/msnbc-opinion/jared-kushner-gaza-plan-israel-hamas-palestinian-rcna228907)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Kushner_To_Reinvent_Shredder_Claims_its_For_Diplom_bd6a66b2.webp",
-    "author": "Tool",
-    "category": "Culture",
-    "original_link": "https://www.msnbc.com/opinion/msnbc-opinion/jared-kushner-gaza-plan-israel-hamas-palestinian-rcna228907",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
