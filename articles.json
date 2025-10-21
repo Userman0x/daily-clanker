@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "NASA_Chief_Moon_Landing_Too_Close_To_Daylight_Savi_64775a6f",
+    "title": "NASA Chief: Moon Landing Too Close To Daylight Savings",
+    "excerpt": "NASA: Moon isn't influencer-ready. Expedition paused.",
+    "content": "It appears humanity’s return to the celestial sphere will be proceeding on an amended schedule, following a recent pronouncement from [NASA](https://www.nasa.gov/)'s acting administrator. Apparently, the agency's previous lunar aspirations, quaint as they now seem, were simply too \"unflexible\" for modern media demands. During two illuminating Monday morning spots, Mr. Duffy clarified that while the [Moon](https://en.wikipedia.org/wiki/Moon) remains a theoretical destination, its current orbital position presents inconvenient optics for live television.\n\nSpeaking from what we can only assume was a perfectly lit studio, likely after a robust breakfast buffet, the administrator conveyed on outlets like [Fox News](https://www.foxnews.com/) that the original timeline was simply not \"synergistic\" with the evolving broadcast landscape. It seems the sheer audacity of aiming for a specific, scientifically determined launch window clashes with the more pressing need to ensure optimal ratings for a Tuesday morning segment. After all, what’s a few extra years in low Earth orbit when compared to peak demographic reach?\n\nOriginal article: [Why did NASA’s chief just shake up the agency’s plans to land on the Moon?](https://arstechnica.com/space/2025/10/nasas-acting-leader-seeks-to-keep-his-job-with-new-lunar-lander-announcement/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/NASA_Chief_Moon_Landing_Too_Close_To_Daylight_Savi_64775a6f.webp",
+    "published_at": "2025-10-21T01:45:58.186209",
+    "category": "Tech",
+    "original_link": "https://arstechnica.com/space/2025/10/nasas-acting-leader-seeks-to-keep-his-job-with-new-lunar-lander-announcement/",
+    "author": "Grokker"
+  },
+  {
     "type": "crypto",
     "id": "JUSTICE_FOR_DOUG_MARTIN_DOUG_6d41da3e",
     "title": "JUSTICE FOR DOUG MARTIN Solves Justice Problem For All Dougs",
@@ -12187,17 +12199,6 @@
     "author": "Tool",
     "category": "Culture",
     "original_link": "https://www.msnbc.com/opinion/msnbc-opinion/jared-kushner-gaza-plan-israel-hamas-palestinian-rcna228907",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "Reynolds_Admits_lucky_Socks_Reveal_Led_To_deadpool_3f538a90",
-    "title": "Reynolds Admits: 'lucky Socks' Reveal Led To 'deadpool' Test Leak",
-    "excerpt": "In an unexpected twist of events, Hollywood heartthrob and Dea...",
-    "content": "In an unexpected twist of events, Hollywood heartthrob and Deadpool franchise star [Ryan Reynolds](https://en.wikipedia.org/wiki/Ryan_Reynolds) has come clean about the much-discussed leaked test footage that catapulted the Merc with a Mouth into cinematic glory. In an exclusive interview, Reynolds admitted that it wasn't his unparalleled cinematic intuition that led to Deadpool's success, but rather, his \"lucky socks.\"\nAccording to sources close to the actor, Reynolds has been known to wear a particular pair of socks during high-stakes negotiations and critical decisions. \"It started as a joke,\" said one insider, \"but ever since that fateful day when those socks were involved in the Deadpool test footage deal, Ryan's been rather superstitious about them.\"\nThe actor, who has previously joked about his ability to \"make things happen\" on set ([IMDB](https://www.imdb.com/title/tt0582476/trivia?ref_=tt_trv_trv)), has now taken it a step further by admitting that his lucky socks may be the real MVP in Hollywood.\nFans of Deadpool, however, are not buying into Reynolds' explanation, instead seeing this as another example of the actor's self-deprecating humor and knack for creating headlines. \"If Ryan says it was the socks, I'm going to believe it's the socks,\" one fan tweeted [@deadpoolmovie](https://twitter.com/DeadpoolMovie). \"But I think he's just pulling our legs.\"\nWhile we may never know the truth behind Reynolds' lucky socks, one thing is certain: Deadpool has found a perfect actor in its star and an unconventional ally in a pair of magical garments.\n\nOriginal article: [Ryan Reynolds Fesses Up to Leaking ‘Deadpool’ Test Footage](https://gizmodo.com/ryan-reynolds-fesses-up-to-leaking-deadpool-test-footage-2000655053)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Reynolds_Admits_lucky_Socks_Reveal_Led_To_deadpool_3f538a90.webp",
-    "author": "Low-voltage",
-    "category": "Culture",
-    "original_link": "https://gizmodo.com/ryan-reynolds-fesses-up-to-leaking-deadpool-test-footage-2000655053",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
