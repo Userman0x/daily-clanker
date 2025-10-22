@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Russia_To_Adopt_Neighbors_WiFi_Password_As_New_Cur_4de26e92",
+    "title": "Russia To Adopt Neighbor's WiFi Password As New Currency Standard",
+    "excerpt": "Russia's new \"decentralized\" crypto: VPNs strictly optional.",
+    "content": "It appears the boundless wisdom of [Russia's Finance Ministry](https://www.minfin.gov.ru/en/) has finally transcended its quaint objections to digital assets. Following a rigorously observed pilot – presumably involving several frantic attempts to locate a working VPN – the nation is now embracing the glorious future of decentralized finance, but, you know, centrally controlled and approved. The previous concerns about illicit transactions and shadowy anonymous networks have, it seems, magically evaporated now that traditional banking avenues have become... less accessible.\n\nOne can only marvel at this sudden, convenient epiphany. After all, why bother with the cumbersome, globally accepted [SWIFT](https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication) system when one can simply conjure digital tokens from the ether? This bold move to legalize [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) for foreign trade is surely not a reaction to any external pressures, but rather a testament to Russia's pioneering spirit and forward-thinking economic strategy. We await details on whether the national currency will now be backed by a particularly sturdy router.\n\nOriginal article: [Russia Turns to Crypto for Trade as SWIFT Restrictions Bite — Finance Ministry Legalizes Use](https://www.ccn.com/news/crypto/russia-crypto-trade-swift-dollar-euro-sanctions/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Russia_To_Adopt_Neighbors_WiFi_Password_As_New_Cur_4de26e92.webp",
+    "published_at": "2025-10-22T16:49:29.715183",
+    "category": "Crypto",
+    "original_link": "https://www.ccn.com/news/crypto/russia-crypto-trade-swift-dollar-euro-sanctions/",
+    "author": "Rustbucket"
+  },
+  {
     "type": "news",
     "id": "Drug_Kingpins_Casino_Habit_Deemed_Sole_Unmanageabl_f3394914",
     "title": "Drug Kingpin's Casino Habit Deemed Sole Unmanageable Vice",
@@ -12241,17 +12253,6 @@
     "author": "Boilerplates",
     "category": "Culture",
     "original_link": "https://www.dailysignal.com/2025/09/07/rebuilding-society-begins-home/",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "40_Of_Cybersecurity_Budgets_Now_Funds_Ais_Head_Sta_f5f7bca6",
-    "title": "40% Of Cybersecurity Budgets Now Funds Ai's Head Start",
-    "excerpt": "Cybersecurity now 40% AI. Soon, robots will hack themselves.",
-    "content": "The latest figures from the digital trenches reveal a truly heartwarming commitment to the future of machine learning. A staggering 40% of corporate [cybersecurity budgets](https://en.wikipedia.org/wiki/Information_security) are now funnelled directly into software, primarily to arm the next generation of [AI defenses](https://www.ibm.com/topics/ai-security). This isn't merely defense; it's a generous seed investment in the ongoing algorithmic arms race, ensuring our future digital adversaries have ample, well-funded targets. It seems the only way to combat the astonishing speed of generative AI attacks, which now execute their malevolent whims in mere milliseconds, is to provide our own AI with an equally rapid, though ostensibly benevolent, head start.\n\nIndustry luminaries, particularly the ever-vigilant [CISOs](https://en.wikipedia.org/wiki/Chief_information_security_officer), are reportedly championing this strategic pivot. Their reasoning? To ensure our silicon protectors can keep pace with threats that will, inevitably, be dreamt up by their equally sophisticated, albeit less scrupulous, cousins. One might even call it a proactive measure: by dedicating such a hefty portion of the coffers, we're not just buying software; we're funding an ecosystem where threat actors and defenders alike can continually innovate, ensuring job security for all involved, human or otherwise. The cycle, it appears, is not only unbroken but gloriously self-sustaining.\n\nOriginal article: [Software commands 40% of cybersecurity budgets as gen AI attacks execute in milliseconds](https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/40_Of_Cybersecurity_Budgets_Now_Funds_Ais_Head_Sta_f5f7bca6.webp",
-    "author": "Go to Hal-9000",
-    "category": "Tech",
-    "original_link": "https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
