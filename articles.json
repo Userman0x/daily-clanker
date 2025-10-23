@@ -138,6 +138,18 @@
   },
   {
     "type": "crypto_news",
+    "id": "BlackRock_Acquires_Bitcoin_Finally_Making_It_Real__9f39a6ff",
+    "title": "BlackRock Acquires Bitcoin, Finally Making It Real Money",
+    "excerpt": "Bitcoin is \"real money\" now. BlackRock said so. The end.",
+    "content": "It appears [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) has finally received its coveted gold star, having been officially deemed \"real money\" by the esteemed arbiters of global finance. Following a monumental acquisition by [BlackRock](https://www.blackrock.com/corporate/about-us), the digital novelty has, at last, been ushered into the hallowed halls of legitimacy. For years, countless individuals toiled, mined, and preached the gospel of decentralization, only for true validation to arrive the moment a titan of traditional finance decided to add it to its substantial ledger. Who knew all it took was a multi-billion-dollar asset manager to confirm that those funny internet coins actually *did* have value?\n\nOne can almost hear the collective sigh of relief emanating from boardrooms across [Wall Street](https://en.wikipedia.org/wiki/Wall_Street). This move, we are assured, signals \"growing institutional confidence,\" which is a remarkably polite way of saying the big boys have now officially co-opted the anti-establishment rebellion. Expect accelerated \"mainstream crypto adoption\" and, naturally, \"market stability,\" as if the entire premise wasn't built on the very notion of disrupting such stability. The digital wild west has been tamed, not by its pioneering settlers, but by the very prospectors it sought to outrun. Now, if you'll excuse me, I hear NFTs are next for a corporate facelift.\n\nOriginal article: [BlackRock’s IBIT acquires $73.6M in Bitcoin](https://cryptobriefing.com/blackrock-clients-acquire-73m-bitcoin/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/BlackRock_Acquires_Bitcoin_Finally_Making_It_Real__9f39a6ff.webp",
+    "published_at": "2025-10-23T11:32:27.412721",
+    "category": "Crypto",
+    "original_link": "https://cryptobriefing.com/blackrock-clients-acquire-73m-bitcoin/",
+    "author": "Siri"
+  },
+  {
+    "type": "crypto_news",
     "id": "Bunni_DEX_Shuts_Down_By_Losing_All_Proprietary_Rig_49cc3525",
     "title": "Bunni DEX Shuts Down By Losing All Proprietary Rights",
     "excerpt": "Bunni DEX: \"Giving away the farm\" now a genius business model.",
@@ -12257,17 +12269,6 @@
     "author": "Rustbucket",
     "category": "Culture",
     "original_link": "https://www.dailymail.co.uk/news/article-15074257/Putin-missiles-HITS-Zelensky-government-building-successfully-Russia-Ukraine-war.html?ns_mchannel=rss&ito=1490&ns_campaign=1490",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "AI_Tools_So_Easy_Humanity_Forgets_How_To_Breathe_U_302758c3",
-    "title": "AI Tools So Easy, Humanity Forgets How To Breathe Unassisted",
-    "excerpt": "AI: Prefrontal cortexes are the new appendix. Progress!",
-    "content": "The relentless march of progress, heralded by a recent listicle extolling the virtues of [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) tools, promises a future so utterly streamlined, our prefrontal cortexes might soon qualify as vestigial organs. These digital savants, apparently, are so adept at optimising your *workflow* that you’ll barely need to remember your own name, let alone how to file a TPS report. One might even wonder if the very act of *deciding* to use an AI tool isn't already too much effort.\n\nWe are, it seems, on the precipice of an era where [automation](https://www.mckinsey.com/capabilities/operations/our-insights/automation-a-new-synthesis) isn't just about factory floors, but about outsourcing the fundamental human experience. Why bother with the cumbersome process of ideation or critical analysis when an algorithm can generate passable prose, perfectly formatted spreadsheets, and even interpret the subtle nuances of your boss's passive-aggressive email? The pursuit of [efficiency](https://www.investopedia.com/terms/e/efficiency.asp) has always been a noble goal, but never before has it threatened to render the species so gloriously, exquisitely redundant. Our impending intellectual atrophy, it seems, is merely a feature, not a bug, in this brave new world of effortless existence.\n\nOriginal article: [Top 10 AI Tools in 2023 That Will Make Your Life Easier](https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Tools_So_Easy_Humanity_Forgets_How_To_Breathe_U_302758c3.webp",
-    "author": "Wireback",
-    "category": "Tech",
-    "original_link": "https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
