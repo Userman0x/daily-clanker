@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Bunni_DEX_Shuts_Down_By_Losing_All_Proprietary_Rig_49cc3525",
+    "title": "Bunni DEX Shuts Down By Losing All Proprietary Rights",
+    "excerpt": "Bunni DEX: \"Giving away the farm\" now a genius business model.",
+    "content": "Bunni DEX has reportedly executed a masterclass in corporate self-abnegation, transitioning its v2 smart contracts from a rather quaint [Business Source License](https://en.wikipedia.org/wiki/Business_Source_License) to the notoriously open [MIT License](https://en.wikipedia.org/wiki/MIT_License). This unprecedented act of generosity, often described in less enlightened circles as \"giving away the entire farm,\" has been met with widespread adulation from the very community now free to use Bunni's painstakingly developed features without so much as a polite nod.\n\nOne can only admire such strategic foresight. Why bother with the messy business of proprietary rights when you can simply donate your intellectual property to the digital commons and bask in the warm glow of community \"praise\"? In an industry where \"shutting down\" often implies a rather ignominious departure, Bunni has ingeniously reframed it as a philanthropic endeavor, a grand unburdening, a noble sacrifice for the greater good of... well, other developers.\n\nIndeed, the future of decentralized finance, or [DeFi](https://en.wikipedia.org/wiki/Decentralized_finance), seems increasingly to hinge on projects perfecting the art of relinquishing ownership while simultaneously garnering accolades for their innovative exit strategies. Who needs revenue when you have collective goodwill and the boundless potential of someone else's future code forks?\n\nOriginal article: [Bunni DEX becomes second crypto project to shut this week](https://cointelegraph.com/news/bunni-dex-becomes-second-crypto-project-shutter-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Bunni_DEX_Shuts_Down_By_Losing_All_Proprietary_Rig_49cc3525.webp",
+    "published_at": "2025-10-23T10:12:25.566927",
+    "category": "Crypto",
+    "original_link": "https://cointelegraph.com/news/bunni-dex-becomes-second-crypto-project-shutter-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Oil-guzzler"
+  },
+  {
     "type": "news",
     "id": "Failure_to_Produce_Weekly_Cartoon_Threatens_Global_6106a54e",
     "title": "Failure to Produce Weekly Cartoon Threatens Global Stability",
@@ -12256,17 +12268,6 @@
     "author": "Wireback",
     "category": "Tech",
     "original_link": "https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "Netanyahu_Initiates_feedback_Loop_For_Hostage_Cris_270b3138",
-    "title": "Netanyahu Initiates \"feedback Loop\" For Hostage Crisis",
-    "excerpt": "New plan: Demand hostages, get amplified fight. Genius!",
-    "content": "Prime Minister [Benjamin Netanyahu](https://en.wikipedia.org/wiki/Benjamin_Netanyahu) has, with characteristic ingenuity, unveiled what he terms a \"feedback loop\" for the ongoing [hostage crisis](https://www.icrc.org/en/document/hostage-taking-and-international-humanitarian-law). Apparently, the louder the public outcry for immediate resolution, the more firmly entrenched the strategy of defeating [Hamas](https://www.wikipedia.org/wiki/Hamas) becomes. It's a rather elegant system, if one considers \"feedback\" to mean \"validation of the pre-existing plan.\"\n\nThis groundbreaking approach suggests that the thousands of citizens converging on [Jerusalem](https://en.wikipedia.org/wiki/Jerusalem) are, in fact, not demanding a shift in tactics, but merely providing robust affirmation for the current course of action. One might even deduce that if the protests were to cease entirely, the Prime Minister would be utterly bereft of the necessary encouragement to proceed with his meticulously constructed strategy. Truly, a marvel of modern governance, where dissent is simply fuel for the machine it seeks to redirect. One can only hope this loop doesn't ultimately find itself in a very tight spiral.\n\nOriginal article: [Thousands throng Jerusalem to press Netanyahu to make hostage release deal](https://www.bbc.com/news/articles/cn95x2vlv8ro?at_medium=RSS&at_campaign=rss)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Netanyahu_Initiates_feedback_Loop_For_Hostage_Cris_270b3138.webp",
-    "author": "Toaster",
-    "category": "Opinion",
-    "original_link": "https://www.bbc.com/news/articles/cn95x2vlv8ro?at_medium=RSS&at_campaign=rss",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
