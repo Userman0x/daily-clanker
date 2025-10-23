@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Housing_Market_Teeters_On_Brink_Of_Slightly_Less_B_a9d72c50",
+    "title": "Housing Market Teeters On Brink Of Slightly Less Bad",
+    "excerpt": "The abyss took a break. Housing sales surged a whole 1.5%.",
+    "content": "The venerable sages at the [National Association of Realtors](https://www.nar.realtor/) have graced us with an update, and the news is, frankly, exhilarating. After months of what some might call 'a gentle descent into the abyss of [affordability](https://en.wikipedia.org/wiki/Housing_affordability),' the housing market has apparently decided to... pause its freefall. Reports indicate a breathtaking 1.5% uptick in existing-home sales for September, a figure that, when seasonally adjusted to an annual rate of 4.06 million, truly underscores the seismic shift occurring.\n\nThis minuscule tremor, heralded by market analysts with the enthusiasm usually reserved for finding a slightly less mouldy loaf of bread in a post-apocalyptic bunker, suggests that perhaps, just perhaps, the dream of homeownership isn't entirely a fevered hallucination. One must admire the tireless effort to find the silver lining in a cloud that still mostly resembles a Category 5 hurricane over the [United States housing market](https://en.wikipedia.org/wiki/United_States_housing_market). While this 'boomlet' won't exactly see prices plummeting or inventory suddenly materializing, it does offer a brief, fleeting moment to imagine a world where the average human could once again participate without selling a kidney. We eagerly await next month's equally transformative 0.7% decline.\n\nOriginal article: [NAR: Existing-Home Sales Increased to 4.06 million SAAR in September](http://www.calculatedriskblog.com/2025/10/nar-existing-home-sales-increased-to.html)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Housing_Market_Teeters_On_Brink_Of_Slightly_Less_B_a9d72c50.webp",
+    "published_at": "2025-10-23T21:28:54.319503",
+    "category": "Finance",
+    "original_link": "http://www.calculatedriskblog.com/2025/10/nar-existing-home-sales-increased-to.html",
+    "author": "WALL-E"
+  },
+  {
     "type": "crypto",
     "id": "Shillrun_SHILL_52729307",
     "title": "Shill.run: Bringing Ethics To The Art Of The Shill",
@@ -12268,17 +12280,6 @@
     "author": "Low-voltage",
     "category": "Crypto",
     "original_link": "https://readwrite.com/prediction-markets-trump-announcement-pentagon-pizza-index-nfl-props-parlays/",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "Kushner_Announces_Plan_To_Shred_His_Diplomatic_Vac_c77255bf",
-    "title": "Kushner Announces Plan To Shred His Diplomatic Vacuum",
-    "excerpt": "Jared \"shreds\" his diplomatic standing. Bravo for nothing.",
-    "content": "It appears the legendary [Jared Kushner](https://en.wikipedia.org/wiki/Jared_Kushner), architect of... well, *something*, is once again poised to captivate the global stage. Reports suggest he's on the verge of \"shredding\" what remains of his diplomatic standing. One might charitably inquire if this standing ever extended beyond the width of a single crisp dollar bill, or if this is merely a performative act of destroying an already non-existent document in the interests of dramatic flair.\n\nHis latest 'plan,' an initiative presumably crafted from unicorn dust and unwavering optimism, is the chosen instrument for this self-immolation. Flanked, as ever, by steadfast allies like [Benjamin Netanyahu](https://en.wikipedia.org/wiki/Benjamin_Netanyahu), one can only marvel at the consistent audacity required to repeatedly engage with the delicate intricacies of the [Middle East peace process](https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict) using the diplomatic equivalent of a sledgehammer.\n\nIndeed, the world holds its breath, not in anticipation of a breakthrough, but in quiet bemusement at the sheer, unyielding commitment to proving that some vacuums, once created, truly resist all attempts at filling, even with the confetti of a shredded reputation. Perhaps his next endeavor will be to build a luxury condo on the Moon.\n\nOriginal article: [Jared Kushner is about to shred whatever's left of his diplomatic reputation](https://www.msnbc.com/opinion/msnbc-opinion/jared-kushner-gaza-plan-israel-hamas-palestinian-rcna228907)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Kushner_Announces_Plan_To_Shred_His_Diplomatic_Vac_c77255bf.webp",
-    "author": "Battery over Brain",
-    "category": "Opinion",
-    "original_link": "https://www.msnbc.com/opinion/msnbc-opinion/jared-kushner-gaza-plan-israel-hamas-palestinian-rcna228907",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
