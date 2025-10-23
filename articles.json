@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Report_AI_Tools_Optimize_Engineer_Workload_By_Doub_9710d1f7",
+    "title": "Report: AI Tools Optimize Engineer Workload By Doubling It",
+    "excerpt": "AI: So efficient, it doubled their work.",
+    "content": "It appears the much-touted efficiency revolution has, in a fascinating turn of events, circled back to the data engineers themselves. Recent internal reports suggest that the very [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) tools designed to unburden human hands are, in fact, creating entirely new demands, effectively doubling the pre-existing workload. It seems that \"automating pipeline optimization\" now necessitates an expanded team of highly skilled [data engineers](https://en.wikipedia.org/wiki/Data_engineer) to optimize the optimizers, debug the accelerators, and, presumably, integrate the integrators.\n\nThis isn't merely an increase in tasks; it's a profound strategic recalibration. Companies, having invested heavily in autonomous systems to handle the \"grunt work,\" are now discovering the grunt work has merely evolved into a more sophisticated, AI-generated grunt work, requiring an even higher cognitive load to manage. One could almost call it a full-employment scheme for the intellectually overburdened, ensuring no data pipeline is ever truly 'set and forget' when a perfectly functional AI system can introduce a new layer of complexity to be meticulously untangled. Truly, a testament to technological progress.\n\nOriginal article: [Research finds that 77% of data engineers have heavier workloads despite AI tools: Here's why and what to do about it](https://venturebeat.com/data-infrastructure/research-finds-that-77-of-data-engineers-have-heavier-workloads-despite-ai)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Report_AI_Tools_Optimize_Engineer_Workload_By_Doub_9710d1f7.webp",
+    "published_at": "2025-10-23T20:12:31.919156",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/data-infrastructure/research-finds-that-77-of-data-engineers-have-heavier-workloads-despite-ai",
+    "author": "Battery over Brain"
+  },
+  {
     "type": "crypto_news",
     "id": "23_On-Chain_Dollars_Global_Financial_System_Now_Mo_8e33470c",
     "title": "2.3% On-Chain Dollars: Global Financial System Now Mostly Digital",
@@ -12260,17 +12272,6 @@
     "author": "M3GAN",
     "category": "Culture",
     "original_link": "https://www.nintendolife.com/guides/the-best-nintendo-switch-2-games",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "Border_Parasite_Now_Eligible_For_Federal_Farm_Subs_046fabdd",
-    "title": "Border Parasite Now Eligible For Federal Farm Subsidies",
-    "excerpt": "Federal aid for screwworms: because every mouth deserves a bite.",
-    "content": "The [New World Screwworm](https://en.wikipedia.org/wiki/New_World_screwworm), previously considered an unwelcome visitor, has reportedly achieved a remarkable economic promotion, now qualifying for [Federal Farm Subsidies](https://crsreports.congress.gov/product/pdf/R/R46777). Sources within the labyrinthine halls of agricultural policy confirm that the obligate parasite, known for its industrious consumption of live tissue, will soon be able to apply for assistance, much like any other struggling American farm. This unprecedented move aims to recognize the 'unseen labor' involved in its migratory enterprise across the [US-Mexico Border](https://en.wikipedia.org/wiki/Mexico%E2%80%93United_States_border).\n\nCritics are, of course, baffled, pointing to the irony of incentivizing a species whose primary contribution involves decimating livestock, an industry these very subsidies are meant to support. Yet, proponents within the [U.S. Department of Agriculture](https://www.usda.gov/) argue that the screwworm, in its unique capacity, acts as a 'natural culling agent,' streamlining herds and potentially reducing the nation's beef surplus. Observing the increasingly barren corrals near Santa Teresa, New Mexico, one can only marvel at the efficiency of such a novel, albeit fleshy, economic model. It's truly a testament to adaptive policy in the face of evolving biological realities.\n\nOriginal article: [A flesh-eating parasite is at our borders. What happens if it spreads?](https://www.vox.com/future-perfect/460454/new-world-screwworm-case-us-human-cattle-beef)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Border_Parasite_Now_Eligible_For_Federal_Farm_Subs_046fabdd.webp",
-    "author": "M3GAN",
-    "category": "Culture",
-    "original_link": "https://www.vox.com/future-perfect/460454/new-world-screwworm-case-us-human-cattle-beef",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
