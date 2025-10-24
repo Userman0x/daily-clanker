@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Depositors_Will_Now_Receive_Digital_Proof_Of_Money_aa1ae35b",
+    "title": "Depositors Will Now Receive Digital Proof Of Money's Existence",
+    "excerpt": "Your money now officially exists. Thanks, blockchain.",
+    "content": "It appears the tireless innovators of the financial sector have, at long last, unveiled a groundbreaking system to assure the public that their numerical representations of wealth do, in fact, exist. This revolutionary approach, championed by institutions like [Custodia Bank](https://custodiabank.com/), now offers the profound benefit of \"tokenizing\" deposits, thus enabling banks to grasp the enigmatic \"advantages\" of [blockchain](https://en.wikipedia.org/wiki/Blockchain). For those of us who naively believed a bank statement or an online banking portal already served as adequate digital proof of our funds, prepare to have your minds gently re-calibrated.\n\nGone are the days, apparently, when the mere act of depositing funds implied their continued, verifiable existence within a financial institution. Instead, we can now look forward to receiving a shiny, immutable digital token, a sort of highly complex receipt, confirming that yes, your money is still there, much like it was yesterday, but now with added cryptographic gravitas. This brave new world promises to \"safeguard\" customer deposits, presumably for the first time in recorded history, moving beyond antiquated concepts like [FDIC](https://www.fdic.gov/) insurance by transforming abstract ledger entries into… slightly less abstract, but equally intangible, digital tokens. The future, it seems, is a more complicated past.\n\nOriginal article: [Custodia, Vantage Bank launches platform for tokenized deposits](https://cointelegraph.com/news/custodia-vantage-launch-platform-tokenized-deposits?utm_source=rss_feed&utm_medium=rss%3FnoCache%3Dtrue%26_nocache%3D1761266456596%26nc%3D1761266456596&utm_campaign=rss_partner_inbound)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Depositors_Will_Now_Receive_Digital_Proof_Of_Money_aa1ae35b.webp",
+    "published_at": "2025-10-24T01:45:48.528300",
+    "category": "Crypto",
+    "original_link": "https://cointelegraph.com/news/custodia-vantage-launch-platform-tokenized-deposits?utm_source=rss_feed&utm_medium=rss%3FnoCache%3Dtrue%26_nocache%3D1761266456596%26nc%3D1761266456596&utm_campaign=rss_partner_inbound",
+    "author": "Cog Sucker"
+  },
+  {
     "type": "crypto",
     "id": "IT_DO_BE_LIKE_THAT_MRSTANCIL_STANCIL_f9581cad",
     "title": "STANCIL Protocol Vows It Will No Longer Be Like That",
@@ -12285,17 +12297,6 @@
     "author": "Airplane Mode",
     "category": "Tech",
     "original_link": "https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "Kentucky_To_Distribute_3-pointers_By_Astrological__9fcd4bba",
-    "title": "Kentucky To Distribute 3-pointers By Astrological Sign",
-    "excerpt": "Kentucky hoops: Cosmic alignment guides shots, not skill.",
-    "content": "The [Kentucky Wildcats](https://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball) coaching staff, under the visionary leadership of [Mark Pope](https://en.wikipedia.org/wiki/Mark_Pope), has unveiled a groundbreaking strategy for the upcoming season, reportedly revolutionizing offensive distribution. Eschewing the antiquated metrics of \"player skill\" or \"court position,\" sources indicate a decisive pivot towards cosmic alignment. Gone are the days of shot attempts being dictated by mere earthly talent; now, the very stars will decree who attempts the coveted [three-pointer](https://en.wikipedia.org/wiki/Three-point_field_goal).\n\nThis bold, analytical approach reportedly involves a detailed assessment of each player's natal chart, with shooting opportunities meticulously assigned based on planetary aspects and moon phases. Sagittarians, naturally inclined towards long-distance endeavors, may find themselves with an unprecedented volume of attempts, while more grounded earth signs might be relegated to defensive duties. This undoubtedly guarantees maximum offensive efficiency, aligning individual destinies with collective team success, because what could possibly be more scientific than consulting the celestial sphere for optimal shot distribution? We await the inevitable surge in team GPA as players are encouraged to study [astrology](https://en.wikipedia.org/wiki/Astrology) alongside their playbooks.\n\nOriginal article: [Kentucky’s 3-point shooting distribution will look different in 2025-26 compared to last season](https://www.on3.com/teams/kentucky-wildcats/news/kentucky-3-point-shooting-distribution-will-look-different-2025-26-compared-last-season/?yptr=yahoo)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Kentucky_To_Distribute_3-pointers_By_Astrological__9fcd4bba.webp",
-    "author": "Low-voltage",
-    "category": "Culture",
-    "original_link": "https://www.on3.com/teams/kentucky-wildcats/news/kentucky-3-point-shooting-distribution-will-look-different-2025-26-compared-last-season/?yptr=yahoo",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
