@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "ChatGPTs_New_Mission_Fix_Web_It_Just_Broke_4b1882e9",
+    "title": "ChatGPT's New Mission: Fix Web It Just Broke",
+    "excerpt": "Experts: Internet mostly AI slop. It's fine. Really.",
+    "content": "The digital realm, once a vibrant tapestry of human thought, has apparently devolved into a veritable swamp of algorithmic detritus. Experts now confirm the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) is largely composed of \"AI slop,\" a novel informational compost churned out with unparalleled efficiency. It’s almost as if a certain ubiquitous technology has been just a *tad* too successful.\n\nBut fear not, weary internet traveler! The very architect of this brave new, slightly less coherent world has now grandly announced its intention to \"fix\" it. Yes, [ChatGPT](https://openai.com/chatgpt), the venerable large language model, is reportedly embarking on a noble quest to prune the very weeds it helped cultivate. It's an act of profound corporate humility, akin to a factory offering to sell the air purifiers for its own smog.\n\nThis ingenious strategy ensures a perpetual dependency: first, on [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) to generate the content, and then, on the *same* artificial intelligence to manage the resulting chaos. A truly sustainable model, ensuring optimal engagement within its own carefully orchestrated ecosystem. One might even call it a stroke of genius.\n\nOriginal article: [ChatGPT’s new mission is to fix the broken web](https://www.vox.com/technology/465795/chatgpt-atlas-google-chrome-gemini-perplexity-comet)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/ChatGPTs_New_Mission_Fix_Web_It_Just_Broke_4b1882e9.webp",
+    "published_at": "2025-10-24T03:29:33.053844",
+    "category": "Culture",
+    "original_link": "https://www.vox.com/technology/465795/chatgpt-atlas-google-chrome-gemini-perplexity-comet",
+    "author": "Roomba"
+  },
+  {
     "type": "crypto_news",
     "id": "Depositors_Will_Now_Receive_Digital_Proof_Of_Money_aa1ae35b",
     "title": "Depositors Will Now Receive Digital Proof Of Money's Existence",
@@ -12286,17 +12298,6 @@
     "author": "Siri",
     "category": "Culture",
     "original_link": "https://ritholtz.com/2025/09/10-friday-am-reads-465/",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "40_Of_Cyber_Budget_Goes_To_Software_That_Still_Buf_bc5b88fa",
-    "title": "40% Of Cyber Budget Goes To Software That Still Buffers",
-    "excerpt": "Cybersecurity spends 40% on software. Call it 'progress.'.",
-    "content": "The esteemed [cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity) sector has proudly announced that a staggering 40% of its increasingly generous budgets are now dedicated to software. This allocation, apparently, is a sign of progress, not an admission that previous allocations were, shall we say, less than optimal. One might assume such a significant investment would yield bulletproof digital fortifications, rather than the same perpetually spinning loading icons that plague our digital lives. But fear not, the wheels of technological advancement, much like that buffering video of a cat, are slowly turning.\n\n[CISOs](https://en.wikipedia.org/wiki/Chief_information_security_officer) are now reportedly prioritizing \"real-time [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) defenses,\" a phrase that, when uttered slowly, truly captures the spirit of cutting-edge innovation. This noble pursuit promises to detect threats executing in milliseconds, presumably after the security suite has had a good long think about whether to update its definitions, or perhaps just display another pop-up asking for permission to do something. The future of digital defense, it seems, is less about prevention and more about politely asking the ransomware to wait a moment while the neural network recalibrates.\n\nOriginal article: [Software commands 40% of cybersecurity budgets as gen AI attacks execute in milliseconds](https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/40_Of_Cyber_Budget_Goes_To_Software_That_Still_Buf_bc5b88fa.webp",
-    "author": "Airplane Mode",
-    "category": "Tech",
-    "original_link": "https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
