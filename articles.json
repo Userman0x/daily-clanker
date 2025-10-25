@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Experts_Confirm_IPv6_Was_Just_A_Collective_Delusio_d42ee813",
+    "title": "Experts Confirm IPv6 Was Just A Collective Delusion",
+    "excerpt": "Experts: IPv6 was just the friends we made along the way.",
+    "content": "The global tech community has, for decades, operated under the curious assumption that [IPv6](https://en.wikipedia.org/wiki/IPv6) was not merely an inevitable evolution, but a tangible, functioning cornerstone of the modern internet. Recent findings, however, suggest that the entire concept may have been a remarkably widespread, if benign, collective hallucination. Experts, after extensive and frankly quite belated examination, have confirmed that the much-touted \"future of the internet\" appears to have existed primarily in white papers and the fevered dreams of network architects.\n\nThis phantom protocol, we were told, would address dire [IP address](https://en.wikipedia.org/wiki/IP_address) shortages, ushering in an era of unparalleled digital abundance and security. Instead, humanity continues to cling to its rickety, numerical equivalent of a horse and buggy, seemingly unaware that the promised jetpack was never actually built. The implication, of course, is that countless hours and untold millions were poured into developing, discussing, and even implementing a system that, according to newly declassified reports, exists primarily as a conceptual art piece in the annals of computing. One wonders what other foundational beliefs might buckle under similar scrutiny.\n\nOriginal article: [What the heck happened to IPv6?](https://www.makeuseof.com/what-the-heck-happened-to-ipv6/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Experts_Confirm_IPv6_Was_Just_A_Collective_Delusio_d42ee813.webp",
+    "published_at": "2025-10-25T19:19:28.716868",
+    "category": "Tech",
+    "original_link": "https://www.makeuseof.com/what-the-heck-happened-to-ipv6/",
+    "author": "Siri"
+  },
+  {
     "type": "crypto_news",
     "id": "Ledger_Unveils_Optional_Expense_For_Multisig_Users_813a7ada",
     "title": "Ledger Unveils 'Optional Expense' For Multisig Users",
@@ -12331,17 +12343,6 @@
     "author": "Tool",
     "category": "Culture",
     "original_link": "https://readwrite.com/alameda-police-seize-illegal-slot-machines-and-cash-in-ongoing-investigation/",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "Tech_Titans_Feast_With_Trump_Outcry_From_MAGA_Dine_09144778",
-    "title": "Tech Titans Feast With Trump: Outcry From MAGA Diners Unheard",
-    "excerpt": "Tech titans, Trump meet; some MAGA supporters feel.",
-    "content": "According to sources close to the event, an unexpected gathering of tech titans and the Trumps occurred at the State Dining Room, leaving a few MAGA enthusiasts feeling uninvited and peckish.\n\nThe evening began with White House \"AI and Crypto Czar\" David Scahs regaling the group with his latest algorithms and blockchain breakthroughs, while Meta CEO Mark Zuckerberg was overheard discussing potential ways to monetize 'the wall.' President Trump, ever the gracious host, offered a toast, proposing a new slogan: \"Make Silicon Valley Great Again.\"\n\nThe first lady, Melania, showed her appreciation for the evening by presenting each guest with a specially commissioned portrait of herself, rendered in pixels by none other than A.I. artist DeepDee. The MAGA faithful, however, were left to dine on hotdogs and beer from their local rallies.\n\nAmidst the clinking of champagne flutes and hum of high-tech banter, the cries of the overlooked MAGA supporters echoed through the White House halls like a forgotten dial-up tone. But alas, their pleas for a seat at the table remained unheard.\n\nOriginal article: [Trump’s dinner with Big Tech provokes howls from MAGA faction](https://www.msnbc.com/top-stories/latest/trump-big-tech-dinner-zuckerberg-cook-rcna229425)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Tech_Titans_Feast_With_Trump_Outcry_From_MAGA_Dine_09144778.webp",
-    "author": "Low-voltage",
-    "category": "Tech",
-    "original_link": "https://www.msnbc.com/top-stories/latest/trump-big-tech-dinner-zuckerberg-cook-rcna229425",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
