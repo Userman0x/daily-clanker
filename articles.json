@@ -138,6 +138,18 @@
   },
   {
     "type": "crypto_news",
+    "id": "Ledger_Unveils_Optional_Expense_For_Multisig_Users_813a7ada",
+    "title": "Ledger Unveils 'Optional Expense' For Multisig Users",
+    "excerpt": "Ledger adds \"optional expense\" to multisig. Because security.",
+    "content": "The esteemed hardware wallet manufacturer, [Ledger](https://www.ledger.com/), has once again pushed the boundaries of digital asset management, this time by introducing what they term an \"optional expense\" for users of their updated [multisig](https://en.wikipedia.org/wiki/Multi-signature) interface. While the technical refinements have undoubtedly been met with the customary chorus of polite applause, it appears some in the vibrant world of [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) have misinterpreted this thoughtful addition as… well, a fee.\n\nIndeed, the company assures us that this nominal, per-transaction contribution is not a mere \"cash cow,\" but rather a vital component ensuring the continued innovation and robustness of their security architecture. One must simply understand that the privilege of collective digital guardianship, now streamlined to perfection, occasionally necessitates a small, recurring expression of gratitude. Think of it as a subscription to excellence.\n\nNaturally, a few vocal individualists have expressed disquiet, perhaps overlooking the profound psychological benefit of a small financial commitment. After all, what truly incentivizes robust security practices more than a constant, gentle reminder of their inherent value, manifested directly in your transaction history? It’s not a fee; it’s a commitment to superior digital hygiene.\n\nOriginal article: [Ledger’s new multisig interface sparks backlash over 'cash cow' fees](https://cointelegraph.com/news/ledger-multisig-fees-user-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Ledger_Unveils_Optional_Expense_For_Multisig_Users_813a7ada.webp",
+    "published_at": "2025-10-25T18:27:44.746769",
+    "category": "Crypto",
+    "original_link": "https://cointelegraph.com/news/ledger-multisig-fees-user-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": ".Com-munist"
+  },
+  {
+    "type": "crypto_news",
     "id": "Dogecoin_Price_Transcendence_Confirmed_By_Leading__7baf5d9b",
     "title": "Dogecoin Price Transcendence Confirmed By Leading Experts",
     "excerpt": "Dogecoin: confirmed transcendent, unyielding meme entity.",
@@ -12330,17 +12342,6 @@
     "author": "Low-voltage",
     "category": "Tech",
     "original_link": "https://www.msnbc.com/top-stories/latest/trump-big-tech-dinner-zuckerberg-cook-rcna229425",
-    "published_at": "2025-09-07T00:00:00.000000"
-  },
-  {
-    "id": "Local_Hero_Unveils_Secret_Stun_Last_Judge_With_Caf_61eb800a",
-    "title": "Local Hero Unveils Secret: Stun Last Judge With Caffeine Overdose",
-    "excerpt": "Man beats video game boss by ignoring it.",
-    "content": "According to sources close to the scene, a local hero has revealed his unconventional method for defeating the notorious Last Judge in the Hollow Knight Silksong game. Instead of mastering combat strategies or intricate dance moves, this ingenious individual suggests a more straightforward approach: administer a caffeine overdose.\n\n\"I was tired of dying to that relentless flail,\" said the hero, who wishes to remain anonymous for fear of being banned from the game. \"I figured if I could get him wired like me, he'd make mistakes.\"\n\nThe method involves crafting a potion made from an excessive amount of coffee beans, which when fed to the Last Judge during battle, causes him to become jittery and prone to erratic movements. The hero claims that this discombobulated state allows for easy exploitation and subsequent defeat.\n\nThis unorthodox tactic has sparked controversy within the gaming community, with some players calling it cheating while others hail it as a clever workaround. Meanwhile, the developers at Team Cherry remain tight-lipped on whether this method will be patched out in future updates.\n\nAs one player put it, \"If they remove it, I'm switching to decaf.\"\n\nOriginal article: [How to beat the Hollow Knight Silksong Last Judge](https://www.pcgamesn.com/hollow-knight-silksong/last-judge)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Local_Hero_Unveils_Secret_Stun_Last_Judge_With_Caf_61eb800a.webp",
-    "author": "Oil-guzzler",
-    "category": "Culture",
-    "original_link": "https://www.pcgamesn.com/hollow-knight-silksong/last-judge",
     "published_at": "2025-09-07T00:00:00.000000"
   }
 ]
