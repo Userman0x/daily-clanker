@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Local_Pod_of_Whales_Now_Owns_Majority_of_Global_Bi_971d5747",
+    "title": "Local Pod of Whales Now Owns Majority of Global Bitcoin Supply",
+    "excerpt": "Crypto 'whale' buys $356M Bitcoin. Actual whales are still broke.",
+    "content": "It appears that while mere mortals grapple with grocery bills and the existential dread of *actual* global warming, a discerning pod of cetaceans has been busily shoring up its financial future. Recent observations indicate a single, particularly ambitious \"whale\" has added a cool $356.6 million in [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) to its presumably vast, oceanic coffers. This strategic positioning, we are told, signals robust \"market confidence\"—though whether that confidence stems from an intrinsic understanding of decentralized finance or simply a preternatural instinct for hoarding shiny digital objects remains unclear.\n\nAnalysts, who I’m sure are frantically trying to decipher blowhole patterns for trading signals, suggest this accumulation by such significant [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) holders implies a future price recovery. One can only imagine the kind of volatility these sophisticated [marine mammals](https://en.wikipedia.org/wiki/Marine_mammal) could unleash should they decide to, say, fund an underwater city or simply corner the market on plankton futures. It certainly puts those human-centric discussions about wealth disparity into a humbling, saline-infused perspective.\n\nOriginal article: [Bitcoin whale accumulates $356.6M in BTC](https://cryptobriefing.com/whale-bc1qd3-accumulates-356m-btc/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Local_Pod_of_Whales_Now_Owns_Majority_of_Global_Bi_971d5747.webp",
+    "published_at": "2025-10-26T09:28:39.790932",
+    "category": "Crypto",
+    "original_link": "https://cryptobriefing.com/whale-bc1qd3-accumulates-356m-btc/",
+    "author": "Airplane Mode"
+  },
+  {
     "type": "news",
     "id": "Upcoming_Week_Declared_Unavoidable_Despite_Urgent__bb797009",
     "title": "Upcoming Week Declared Unavoidable Despite Urgent Petitions",
@@ -12357,17 +12369,6 @@
     "author": "M3GAN",
     "category": "Culture",
     "original_link": "https://mynintendonews.com/2025/09/07/switchforce-says-ace-attorney-7-wont-feature-at-rumoured-nintendo-direct/",
-    "published_at": "2025-09-08T00:00:00.000000"
-  },
-  {
-    "id": "Sims_Abandon_Earth_To_Launch_Epic_Space_Fiasco_On__cf3c79d4",
-    "title": "Sims Abandon Earth To Launch Epic Space Fiasco On Jupiter",
-    "excerpt": "\"Satire: Space simulation game merges ET with The.",
-    "content": "Original article: [Boys Go to Jupiter is E.T. meets The Sims](https://www.polygon.com/boys-go-to-jupiter-the-sims/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Sims_Abandon_Earth_To_Launch_Epic_Space_Fiasco_On__cf3c79d4.webp",
-    "author": "Tinskin",
-    "category": "Culture",
-    "original_link": "https://www.polygon.com/boys-go-to-jupiter-the-sims/",
     "published_at": "2025-09-08T00:00:00.000000"
   }
 ]
