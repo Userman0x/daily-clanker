@@ -137,6 +137,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "lock_in_lockin_5c550faf",
+    "title": "Lockin Token Revolutionizes Finance By Just Locking Things In",
+    "excerpt": "`lockin)` crypto locks… stuff. Maybe your money. Genius.",
+    "content": "The crypto space, ever-hungry for innovation, has once again graced us with `lockin)`, a token so ingeniously simple it makes you wonder why nobody thought of it sooner. Apparently, its core utility, as gleaned from its `[Pump.fun](https://pump.fun/)` launch, is to… lock things in. What things, you ask? Perhaps your hopes. Maybe your early investment. The whitepaper, if you can call a direct link to a launchpad a whitepaper, suggests a paradigm shift in financial locking mechanisms, predominantly by existing.\n\nEarly adopters, undoubtedly fueled by an unshakeable belief in abstract concepts, are already bracing for a moon mission. One can almost hear the collective chant of \"diamond hands\" echoing across the Telegram channels, conveniently ignoring that the only thing being truly locked in here might be their capital within a rapidly deflating `[liquidity pool](https://www.coinbase.com/learn/crypto-basics/what-is-a-liquidity-pool)`. The developers, an anonymous collective undoubtedly busy revolutionizing… something, have yet to elaborate on how `lockin)` differentiates itself from the myriad other tokens whose sole function appears to be migrating funds from new buyers to existing ones on a `[decentralized exchange](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)`. Truly groundbreaking.\n\nOriginal token: [lock in ($lockin)](https://pump.fun/9JUxq3BQMTBZCMyy5GP8tsQW8gKo5yVtgtzGM5zwpump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/lock_in_lockin_5c550faf.webp",
+    "published_at": "2025-10-26T22:38:42.708917",
+    "category": "Pump",
+    "token_mint": "9JUxq3BQMTBZCMyy5GP8tsQW8gKo5yVtgtzGM5zwpump",
+    "token_name": "lock in",
+    "token_symbol": "lockin",
+    "pump_fun_link": "https://pump.fun/9JUxq3BQMTBZCMyy5GP8tsQW8gKo5yVtgtzGM5zwpump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "Proto-not-my-type"
+  },
+  {
     "type": "news",
     "id": "Analysts_Confirm_Swifts_Villain_Era_Is_Crucial_To__c64f31b1",
     "title": "Analysts Confirm Swift's Villain Era Is Crucial To Q4 Earnings",
@@ -12367,17 +12385,6 @@
     "author": "ChatGPT-tard",
     "category": "Culture",
     "original_link": "https://sports.yahoo.com/fantasy/article/fantasy-baseball-2-start-pitcher-rankings-yu-darvish-luis-garcia-among-top-options-to-add-for-this-week-004746381.html",
-    "published_at": "2025-09-08T00:00:00.000000"
-  },
-  {
-    "id": "Gunn_Refuses_To_Confirm_If_Superman_Is_Still_Super_93919c3b",
-    "title": "Gunn Refuses To Confirm If Superman Is Still Superman",
-    "excerpt": "DC's \"Man of Tomorrow\": July 2027. Man? Tomorrow? Who knows!",
-    "content": "James Gunn, the visionary at the helm of [DC Studios](https://www.dc.com/dc-studios), has finally deigned to grace the public with a concrete release date for *something* called \"Man of Tomorrow.\" July 2027, apparently. What remains delightfully ambiguous, however, is whether this highly anticipated cinematic event will actually feature a character bearing any resemblance to, or indeed *being*, the iconic [Superman](https://en.wikipedia.org/wiki/Superman) we’ve all grown accustomed to seeing. Or, for that matter, *a* superman. Or perhaps even a man. Such mysteries are, we’re told, part of the new creative paradigm.\n\nSources close to the project, presumably those who possess a decoder ring and a deep understanding of corporate doublespeak, suggest that [Man of Tomorrow](https://www.hollywoodreporter.com/movies/movie-news/james-gunn-dc-superman-man-of-tomorrow-1235313317/) is less a sequel and more a philosophical exploration of what the term \"super\" might mean in a post-truth cinematic universe. When pressed for clarification, [James Gunn](https://en.wikipedia.org/wiki/James_Gunn) himself reportedly offered a profound, non-committal shrug, indicating that the very essence of Kryptonian heroism is now subject to proprietary artistic interpretation. Fans expecting the classic blue and red should, perhaps, prepare for an avant-garde take on primary colours, or possibly just a very tall man in a beige tunic.\n\nOriginal article: [Is Man of Tomorrow \"Superman 2\" or something else? Here's what James Gunn has revealed](https://www.polygon.com/man-of-tomorrow-superman-2-sequel-james-gunn-peacemaker/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Gunn_Refuses_To_Confirm_If_Superman_Is_Still_Super_93919c3b.webp",
-    "author": "Battery over Brain",
-    "category": "Culture",
-    "original_link": "https://www.polygon.com/man-of-tomorrow-superman-2-sequel-james-gunn-peacemaker/",
     "published_at": "2025-09-08T00:00:00.000000"
   }
 ]
