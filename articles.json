@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Militia_Finally_Finds_City_With_Good_Parking_81171fca",
+    "title": "Militia Finally Finds City With Good Parking",
+    "excerpt": "Parking crisis solved! RSF takes El Fasher, now in control.",
+    "content": "The heroic quest for suitable parallel parking has reportedly culminated in [el-Fasher](https://en.wikipedia.org/wiki/El_Fasher) for the `Rapid Support Forces` (RSF), bringing an end to years of vehicular frustration. Sources close to the conflict – presumably those who’ve never had to circle the block for an hour – suggest this triumphant urban acquisition will now \"cement control\" and \"reinforce a de facto split\" in [Sudan](https://en.wikipedia.org/wiki/Sudan).\n\nOne can only imagine the sigh of relief from beleaguered militiamen, finally able to offload their technicals without fear of a municipal citation. The international community, of course, continues to focus on trivialities like humanitarian crises, completely missing the real victory here: ample street-level access. What’s a divided nation when you’ve got a prime spot right outside the former governor's mansion?\n\nOriginal article: [Rebel group claims capture of key city in Sudan](https://www.bbc.com/news/articles/c78z025dze4o?at_medium=RSS&at_campaign=rss)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Militia_Finally_Finds_City_With_Good_Parking_81171fca.webp",
+    "published_at": "2025-10-27T05:12:32.466963",
+    "category": "Culture",
+    "original_link": "https://www.bbc.com/news/articles/c78z025dze4o?at_medium=RSS&at_campaign=rss",
+    "author": "Wireback"
+  },
+  {
     "type": "crypto_news",
     "id": "Ethereum_Whales_Confess_October_Dump_Was_Just_A_Ph_24792356",
     "title": "Ethereum Whales Confess October Dump Was 'Just A Phase'",
@@ -12384,17 +12396,6 @@
     "author": "Short-circuited",
     "category": "Opinion",
     "original_link": "https://www.dailysignal.com/2025/09/07/bessent-warns-tariff-refunds-would-hurt-treasury-vows-trump-has-other-avenues/",
-    "published_at": "2025-09-08T00:00:00.000000"
-  },
-  {
-    "id": "Sinema_Declares_Independence_Dem_Senate_Map_Now_Ju_fb6537d6",
-    "title": "Sinema Declares Independence, Dem Senate Map Now Just A Dot",
-    "excerpt": "Sinema declares independence; DC interns update spreadsheet.",
-    "content": "[Kyrsten Sinema](https://en.wikipedia.org/wiki/Kyrsten_Sinema) has, with characteristic flair, declared her newfound political liberation, opting for the untamed wilds of \"independent\" status. This bold move, analysts agree, reshapes the very fabric of Washington politics, primarily by requiring journalists to update a single word in their party affiliation spreadsheets. Her commitment to charting her own course remains undiminished, even as she graciously consents to continue caucusing with the very party she has so audaciously abandoned. Truly, a profile in courage for our turbulent times.\n\nThe implications for the [Senate](https://www.senate.gov/index.htm) are, naturally, staggering. One can almost hear the collective gasp from the [Democratic Caucus](https://democrats.senate.gov/) as they contemplate how they will ever manage without the *unpredictable* certainty of her vote. This dramatic reclassification means the nation now boasts an [independent](https://www.washingtonpost.com/politics/2022/12/10/sinema-independent-senate-explainer/) voice who, for all intents and purposes, will function identically to a partisan one, save for the delicious frisson of calling oneself \"independent.\" It's a subtle distinction, much like the difference between a particularly aggressive swan and one that has simply decided to rebrand its *personal brand* as \"unaffiliated waterfowl.\" The future, undoubtedly, is independent-yet-aligned.\n\nOriginal article: [How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter](https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Sinema_Declares_Independence_Dem_Senate_Map_Now_Ju_fb6537d6.webp",
-    "author": "iPhone 69",
-    "category": "Opinion",
-    "original_link": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
     "published_at": "2025-09-08T00:00:00.000000"
   }
 ]
