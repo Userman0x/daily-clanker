@@ -137,6 +137,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "doug_doug_1e8512b9",
+    "title": "New doug Token Hailed As 'The Most Doug Token Yet'",
+    "excerpt": "New 'doug)' coin: its defining feature is, shockingly, existing.",
+    "content": "Reports are filtering in from the depths of [Pump.fun](https://pump.fun/), heralding the arrival of a new, utterly essential digital asset: doug). With a name that redefines groundbreaking simplicity, doug) promises to revolutionize... well, whatever you imagine 'doug' to revolutionize. Early adopters are already touting its unprecedented 'doug-ness,' a metric yet to be fully elucidated by any known scientific or financial model. Apparently, its primary innovation lies in existing. On [Solana](https://solana.com/), naturally.\n\nThe visionary team behind doug) — reportedly a single individual with a keyboard and a dream of not having a job — has yet to release a whitepaper, roadmap, or indeed, any coherent explanation beyond 'it's doug.' Nevertheless, the nascent community is already bracing for impact, clutching their proverbial 'diamond hands' in anticipation of the inevitable moon mission. Skeptics, largely those who still believe in things like 'fundamentals' or 'not losing all their money,' are, of course, entirely missing the point. Doug is not about utility; it's about the pure, unadulterated essence of doug. Get it before it inevitably goes to a [DEX](https://academy.binance.com/en/glossary/decentralized-exchange-dex) near you and then probably nowhere.\n\nOriginal token: [doug ($doug)](https://pump.fun/Dsmi5wyAzAUXX6P5AggtPXKVTyMrCrWP3wUYj5Thpump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/doug_doug_1e8512b9.webp",
+    "published_at": "2025-10-27T12:26:23.113942",
+    "category": "Pump",
+    "token_mint": "Dsmi5wyAzAUXX6P5AggtPXKVTyMrCrWP3wUYj5Thpump",
+    "token_name": "doug",
+    "token_symbol": "doug",
+    "pump_fun_link": "https://pump.fun/Dsmi5wyAzAUXX6P5AggtPXKVTyMrCrWP3wUYj5Thpump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "WALL-E"
+  },
+  {
     "type": "news",
     "id": "Arched_Bookshelf_Deemed_Too_Seductive_For_Retail_P_2071fde0",
     "title": "Arched Bookshelf Deemed Too Seductive For Retail Price",
@@ -12396,16 +12414,5 @@
     "author": "Google Chrome-dome",
     "category": "Culture",
     "original_link": "https://www.economist.com/the-world-this-week/2025/09/05/cover-newsletter-how-we-chose-the-cover-image"
-  },
-  {
-    "id": "Fox_News_Announces_Brief_Foray_Into_Verifiable_Rea_b305cec2",
-    "title": "Fox News Announces Brief Foray Into Verifiable Reality",
-    "excerpt": "Fox News finds truth. Reportedly, it was expensive.",
-    "content": "In a surprising pivot, [Fox News](https://www.foxnews.com/) has confirmed that certain on-air pronouncements regarding [Dominion Voting Systems](https://en.wikipedia.org/wiki/Dominion_Voting_Systems) were, in fact, not entirely tethered to the truth. This momentary lapse in their usual narrative strategy comes, perhaps coincidentally, immediately following the cessation of what promised to be a rather inconvenient legal proceeding.\n\nOne can only assume the network, a subsidiary of [Fox Corporation](https://en.wikipedia.org/wiki/Fox_Corporation), is simply exploring new content avenues, much like a teenager dabbling in kale. While this brief flirtation with objective fact may bewilder loyal viewers accustomed to a more... interpretive approach to current events, rest assured, normal programming—where 'facts' are merely suggestions for robust debate—is expected to resume shortly.\n\nSources close to the network's legal team, reportedly seen dusting off actual legal precedents, hinted that this unprecedented public admission was a strategic move, avoiding a protracted and potentially quite expensive [defamation lawsuit](https://en.wikipedia.org/wiki/Defamation). It seems even the most steadfast purveyors of alternative realities have a price point for acknowledging what the rest of us might simply call 'reality.'\n\nOriginal article: [Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced](https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Fox_News_Announces_Brief_Foray_Into_Verifiable_Rea_b305cec2.webp",
-    "published_at": "2025-09-08T12:30:55.388845",
-    "author": "ChatGPT-tard",
-    "category": "Opinion",
-    "original_link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html"
   }
 ]
