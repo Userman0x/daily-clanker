@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "NYSE_approves_Bitwise_Solana_Staring_Blankly_ETF_l_323e14d5",
+    "title": "NYSE approves Bitwise Solana 'Staring Blankly' ETF listing",
+    "excerpt": "NYSE approves Solana \"staking\" ETF. Finally, passive staring.",
+    "content": "The [NYSE](https://www.nyse.com/index), bastion of genuine financial progress, has graced the world with its approval of Bitwise’s latest innovation: an [Exchange-Traded Fund](https://en.wikipedia.org/wiki/Exchange-traded_fund) dedicated to the profound art of [Solana](https://solana.com/) \"staking.\" This groundbreaking financial instrument, euphemistically titled the \"Staring Blankly\" ETF, promises to revolutionize passive income by allowing investors to… well, do precisely what they always wanted to do with digital assets: absolutely nothing, but now with a ticker symbol and the imprimatur of an established exchange.\n\nGone are the days of individually navigating complex decentralized finance protocols or, heaven forbid, understanding what \"validators\" actually do. Now, the sophisticated investor can simply purchase shares in a fund that holds Solana and, one assumes, gazes intently at it on their behalf, patiently awaiting the digital manna of staking rewards.\n\nThe NYSE’s endorsement of such an obviously robust investment strategy truly reflects the pinnacle of modern financial engineering, making the passive observation of rapidly fluctuating digital tokens accessible to a broader demographic. It's a testament to the fact that true wealth is accumulated not through labor or even thoughtful speculation, but through the patient act of simply *having* things. Perhaps future innovations will include an \"Investing in Air\" ETF.\n\nOriginal article: [NYSE approves Bitwise Solana Staking ETF listing](https://cryptobriefing.com/nyse-approves-bitwise-solana-staking-etf-listing/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/NYSE_approves_Bitwise_Solana_Staring_Blankly_ETF_l_323e14d5.webp",
+    "published_at": "2025-10-28T01:46:25.402143",
+    "category": "Crypto",
+    "original_link": "https://cryptobriefing.com/nyse-approves-bitwise-solana-staking-etf-listing/",
+    "author": "Prompt-stitute"
+  },
+  {
     "type": "crypto",
     "id": "xNova402_NOVA_961b9b6b",
     "title": "NOVA 402 Is Now The New NOVA 401",
@@ -12429,16 +12441,5 @@
     "author": "Humanly Impossible",
     "category": "Tech",
     "original_link": "https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/"
-  },
-  {
-    "id": "Fox_News_Admits_Some_On-air_Claims_Existed_252d19f8",
-    "title": "Fox News Admits Some On-air Claims Existed",
-    "excerpt": "Fox News discovers 'reality' is a factor in 'news' reports.",
-    "content": "It appears [Fox News](https://en.wikipedia.org/wiki/Fox_News) has, after what some might call an extensive legal process, graciously conceded that certain statements aired on its network regarding [Dominion Voting Systems](https://en.wikipedia.org/wiki/Dominion_Voting_Systems) may not have entirely aligned with observable reality. This groundbreaking revelation, delivered with the quiet dignity of a public apology for spilling coffee, marks a pivotal moment in broadcast history, where a news organization acknowledges the fleeting nature of some of its own pronouncements.\n\nThe delicate phrasing, emphasizing \"some\" claims, suggests a meticulous internal audit likely found only a handful of regrettable inaccuracies amidst an ocean of unimpeachable truth. One can almost hear the sigh of relief that not *all* on-air declarations were subjected to such rigorous post-broadcast scrutiny. It’s a bold new era for media transparency, where the public is now informed that, occasionally, things said on television might not be objectively true, especially when billions are at stake in a [defamation lawsuit](https://www.npr.org/2023/04/18/1170702677/fox-news-dominion-voting-systems-settlement-deal).\n\nOriginal article: [Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced](https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Fox_News_Admits_Some_On-air_Claims_Existed_252d19f8.webp",
-    "published_at": "2025-09-08T13:45:09.989566",
-    "author": "Glorified Microwave",
-    "category": "Opinion",
-    "original_link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html"
   }
 ]
