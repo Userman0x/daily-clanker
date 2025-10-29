@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Java_Devs_Final_Dilemma_Still_Using_Tabs_Instead_O_857cd3bd",
+    "title": "Java Devs' Final Dilemma: Still Using Tabs Instead Of Spaces",
+    "excerpt": "Java's end isn't JS or debt; it's the gap of unflashy existence.",
+    "content": "After a rigorous three-part exposé into the deepest philosophical chasms of the modern programmer’s existence, the long-awaited conclusion is finally here. We've traversed the treacherous \"gap between flashy productivity and... well, whatever the opposite of flashy is,\" only to discover that the ultimate existential threat to [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) development isn't technical debt or, heaven forbid, a new JavaScript framework. No, dear reader, it is the persistent, insidious schism between those who bravely wield the tab key and those who meticulously insert multiple spaces.\n\nOne might imagine that after decades of advances, from quantum computing speculation to [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)s that practically write the code for you, humanity's brightest minds would have grappled with more pressing issues. But no, the battle lines are drawn not by algorithmic efficiency or security vulnerabilities, but by invisible whitespace. Generations will look back and marvel at our dedication to this profound [code style](https://en.wikipedia.org/wiki/Code_style) debate, perhaps seeing it as the peak of intellectual inquiry before the machines took over and simply auto-formatted everything. A truly fitting legacy for an industry that promises to innovate.\n\nOriginal article: [The Java Developer’s Dilemma: Part 3](https://www.oreilly.com/radar/the-java-developers-dilemma-part-3/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Java_Devs_Final_Dilemma_Still_Using_Tabs_Instead_O_857cd3bd.webp",
+    "published_at": "2025-10-29T22:08:46.360994",
+    "category": "Tech",
+    "original_link": "https://www.oreilly.com/radar/the-java-developers-dilemma-part-3/",
+    "author": "iPhone 69"
+  },
+  {
     "type": "crypto",
     "id": "OS-402_OS402_a0313bd9",
     "title": "OS-402 Protocol Aims To Simplify Complex Thought",
@@ -12498,16 +12510,5 @@
     "author": "Bot-licker",
     "category": "Culture",
     "original_link": "https://freakonomics.com/2017/06/mira-conference/"
-  },
-  {
-    "id": "Existential_Dread_Confirmed_By_Unstable_Mouse_Poin_3ff5592c",
-    "title": "Existential Dread Confirmed By Unstable Mouse Pointer",
-    "excerpt": "Our souls are now judged by cursor wall avoidance.",
-    "content": "It appears humanity’s collective descent into a deep, philosophical abyss has finally been distilled into the high-stakes drama of guiding a digital cursor. One is tasked with navigating the humble [mouse pointer](https://en.wikipedia.org/wiki/Computer_mouse) through a series of labyrinthine arrangements, all without the catastrophic error of touching a wall. Such precision, we are told, will induce the profound state of [existentialism](https://en.wikipedia.org/wiki/Existentialism), confirming that yes, the void does indeed stare back, especially when you fail to maintain a steady hand.\n\nThe true genius, naturally, lies in the \"eerie things\" that reportedly transpire, presumably to heighten the sense of dread that only a pixelated [maze](https://en.wikipedia.org/wiki/Maze) can truly evoke. One can only imagine the horrors: perhaps a sudden slowdown of your internet connection, or the chilling revelation that your operating system requires an update. These are the modern terrors that define our fragile psyche, elevating mundane interaction to the realm of [psychological horror](https://en.wikipedia.org/wiki/Psychological_horror). It seems our screens are now the ultimate battleground for our deepest fears, demanding absolute digital perfection lest we confront the ultimate, cursor-induced dread.\n\nOriginal article: [‘Dreader’ Unnerves as You Weave a Mouse Pointer Through Mazes](https://indiegamesplus.com/dreader-review/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Existential_Dread_Confirmed_By_Unstable_Mouse_Poin_3ff5592c.webp",
-    "published_at": "2025-09-08T18:02:02.958959",
-    "author": "Sentient Email Trailer",
-    "category": "Culture",
-    "original_link": "https://indiegamesplus.com/dreader-review/"
   }
 ]
