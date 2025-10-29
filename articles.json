@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Bitcoin_Metric_Confirms_Some_People_Like_Money_2529e2eb",
+    "title": "Bitcoin Metric Confirms Some People Like Money",
+    "excerpt": "Bitcoin dips 0.0001%. Experts warn global economy will evaporate.",
+    "content": "The financial world, always eager for new revelations, has been rocked by an unprecedented market insight. Following a rather modest dip in [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)'s price from its recent celestial heights – a mere whisper of a decline, really – cutting-edge [on-chain metrics](https://www.coindesk.com/learn/what-are-on-chain-metrics/) are now purportedly \"flashing warning signals.\" Sources deep within the crypto-trenches suggest a phenomenon so rare, so counter-intuitive, it might redefine human nature as we know it: short-term holders, it seems, are considering the unthinkable.\n\nYes, you heard it here first: after purchasing an asset that has since appreciated, individuals who bought it *recently* are apparently contemplating the act of *selling it for more money*. This groundbreaking discovery, spearheaded by the esoteric [STH SOPR](https://academy.binance.com/en/articles/what-is-the-spent-output-profit-ratio-sopr) – a complex algorithm designed to deduce what even a particularly dim goldfish can – implies a possible \"shift in market trend.\" Prepare yourselves; the pursuit of profit might just be a thing in finance after all. Who knew?\n\nOriginal article: [Bitcoin STH SOPR Metric Nears Upper Threshold — Are Short-Term Holders About To Take Profits?](https://bitcoinist.com/bitcoin-sth-sopr-nears-key-range/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Bitcoin_Metric_Confirms_Some_People_Like_Money_2529e2eb.webp",
+    "published_at": "2025-10-29T17:37:55.672398",
+    "category": "Crypto",
+    "original_link": "https://bitcoinist.com/bitcoin-sth-sopr-nears-key-range/",
+    "author": "Junk Heap"
+  },
+  {
     "type": "crypto",
     "id": "DUNK_ORACLE_DUNK_cc1977a3",
     "title": "DUNK ORACLE Confirms You Are Indeed Still Very Early",
@@ -12488,16 +12500,5 @@
     "author": "Proto-not-my-type",
     "category": "Culture",
     "original_link": "https://www.rockpapershotgun.com/subscription-models-like-xbox-game-pass-are-not-properly-valuing-developers-says-former-bethesda-exec"
-  },
-  {
-    "id": "Trump_83_Million_Just_My_Price_For_Truth_5f0162ed",
-    "title": "Trump: $83 Million Just My Price For Truth",
-    "excerpt": "Court: Trump's words = $83.3M. A modest sum, really.",
-    "content": "A [federal appeals court](https://en.wikipedia.org/wiki/United_States_courts_of_appeals) has, with remarkable lack of imagination, affirmed the rather modest sum of $83.3 million levied against former President [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump). This hefty figure, it seems, is the going rate for what the legal system quaintly refers to as \"[defamation](https://en.wikipedia.org/wiki/Defamation)\" of an individual, specifically former magazine columnist [E. Jean Carroll](https://en.wikipedia.org/wiki/E._Jean_Carroll), back in 2019. One might view this not as a penalty, but perhaps a premium subscription fee for a particular brand of unfiltered, public discourse.\n\nIndeed, in an era where the cost of living skyrockets, it’s comforting to know that the price of truth, or at least the legal ramifications of its perceived absence, remains consistently high. For a man of such considerable means and equally considerable public profile, $83 million might well be considered pocket change – a mere operational expense for the consistent assertion of one's worldview, regardless of pesky details like evidence or precedent.\n\nIt merely solidifies the market value of a reputation, or the lack thereof, in the current economic climate. A small price to pay, perhaps, for the freedom to express oneself so... robustly.\n\nOriginal article: [Appeals court upholds $83 million judgment against Trump for defaming E. Jean Carroll](https://abcnews.go.com/US/appeals-court-upholds-83-million-judgment-trump-defaming/story?id=125364143)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Trump_83_Million_Just_My_Price_For_Truth_5f0162ed.webp",
-    "published_at": "2025-09-08T17:56:53.308454",
-    "author": "Toaster",
-    "category": "Opinion",
-    "original_link": "https://abcnews.go.com/US/appeals-court-upholds-83-million-judgment-trump-defaming/story?id=125364143"
   }
 ]
