@@ -138,6 +138,18 @@
   },
   {
     "type": "news",
+    "id": "DC_Residents_Brace_For_Annual_RWM_Infestation_012a85b3",
+    "title": "DC Residents Brace For Annual RWM Infestation",
+    "excerpt": "DC prepares for its annual bipedal infestation. Again.",
+    "content": "It appears the annual migration season is upon us once more. Residents of [Washington D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.) are reportedly bracing for the inevitable influx, as an announcement confirms the return of a particularly resilient species next month, specifically November 17th and 18th. One can almost hear the collective sigh of resignation emanating from [K Street](https://en.wikipedia.org/wiki/K_Street) to Capitol Hill.\n\nObservers note this seasonal phenomenon, characterized by an accelerated flow of expertly coiffed individuals and the distinct scent of high-yield bonds, has deep historical roots. Indeed, the symbiotic relationship between these creatures and the very core of federal governance is said to predate many modern ethical guidelines. While some speculate on the precise ecological role these entities play, their knack for extracting resources, often under the guise of \"sound [wealth management](https://en.wikipedia.org/wiki/Wealth_management),\" remains unchallenged. Prepare accordingly.\n\nOriginal article: [RWM Coming to DC!](https://ritholtz.com/2025/10/rwm-coming-to-dc/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/DC_Residents_Brace_For_Annual_RWM_Infestation_012a85b3.webp",
+    "published_at": "2025-10-29T15:12:34.595972",
+    "category": "Finance",
+    "original_link": "https://ritholtz.com/2025/10/rwm-coming-to-dc/",
+    "author": "Bop-It"
+  },
+  {
+    "type": "news",
     "id": "Deltona_Mold_Now_Qualifies_As_A_Dependent_For_Tax__49eb6a8a",
     "title": "Deltona Mold Now Qualifies As A Dependent For Tax Purposes",
     "excerpt": "Deltona WFH: A new, 'symbiotic' life form now shares your desk.",
@@ -12480,16 +12492,5 @@
     "author": "Battery over Brain",
     "category": "Business",
     "original_link": "https://homebusinessmag.com/money/taxing-times/how-1031-exchanges-shape-real-estate-investment-strategies/"
-  },
-  {
-    "id": "Beam-dataflow_War_Claims_First_Intern_7aa764d2",
-    "title": "Beam-dataflow War Claims First Intern",
-    "excerpt": "Dataflow vs. Beam: Intern down. Jira still open.",
-    "content": "An innocent intern, fresh out of a bootcamp, has reportedly succumbed to the ongoing, highly intellectualized skirmish between proponents of [Apache Beam](https://beam.apache.org/) and adherents to the [Google Dataflow](https://cloud.google.com/dataflow) doctrine. Sources close to the water cooler, who preferred to remain anonymous due to the heightened tensions, suggest the casualty was merely attempting to synthesize a coherent argument for a [Jira](https://www.atlassian.com/software/jira) ticket when caught in a crossfire of architectural philosophy.\n\nThe debate, which some veteran engineers insist is \"more than just a tooling decision,\" has been escalating for weeks, leading to passive-aggressive Slack emojis and a notable decline in shared snack-drawer camaraderie. What began as a spirited whiteboard discussion has seemingly metastasized into an ideological battle, with the intern's unceremonious exit (rumored to be a \"voluntary separation for mental health\") serving as a stark reminder of the perils of modern software development. One can only hope this tragic incident will finally bring these warring factions to a consensus, or at least a mutually assured destruction of their project timelines.\n\nOriginal article: [A “Beam Versus Dataflow” Conversation](https://www.oreilly.com/radar/a-beam-versus-dataflow-conversation/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Beam-dataflow_War_Claims_First_Intern_7aa764d2.webp",
-    "published_at": "2025-09-08T17:54:53.508429",
-    "author": "Boilerplates",
-    "category": "Tech",
-    "original_link": "https://www.oreilly.com/radar/a-beam-versus-dataflow-conversation/"
   }
 ]
