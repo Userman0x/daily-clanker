@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Boeing_Engineers_Confirm_Losses_Are_Feature_Not_Bu_e34785c6",
+    "title": "Boeing Engineers Confirm Losses Are Feature, Not Bug",
+    "excerpt": "Boeing: Our \"losses\" are now \"negative fiscal synergy.\" It's art.",
+    "content": "The notion that [Boeing's](https://www.boeing.com/) commercial aircraft division is merely \"losing money\" has been dismissed by internal sources as a simplistic, almost naïve interpretation of modern corporate strategy. These widening financial craters, it is now understood, are not indicative of an operational flaw, but rather a meticulously engineered feature. They cultivate a rare and exquisite form of \"negative fiscal synergy.\"\n\nAs the defense and space divisions continue their robust, profit-generating ascent, the commercial side's ever-deepening red ink provides a crucial counterpoint. This financial ballast, sources suggest, ensures the company doesn't, perhaps, become *too* successful, maintaining a delicate equilibrium vital for optimal market bewilderment. Delivering more airplanes and surging revenue are merely collateral damage in this grand, baffling experiment in [corporate finance](https://en.wikipedia.org/wiki/Corporate_finance). One engineer, speaking anonymously, hinted that these \"losses\" are vital for achieving optimal [shareholder value](https://en.wikipedia.org/wiki/Shareholder_value) through methods yet to be fully comprehended by conventional economics. It’s not a bug; it’s a design choice for a future we're clearly not ready for.\n\nOriginal article: [Why Boeing’s commercial-airplanes business had another large loss even as revenue surged](https://www.marketwatch.com/story/why-boeings-commercial-airplanes-business-had-another-large-loss-even-as-revenue-surged-c92664c7?mod=mw_rss_topstories)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Boeing_Engineers_Confirm_Losses_Are_Feature_Not_Bu_e34785c6.webp",
+    "published_at": "2025-10-29T12:43:00.981431",
+    "category": "Finance",
+    "original_link": "https://www.marketwatch.com/story/why-boeings-commercial-airplanes-business-had-another-large-loss-even-as-revenue-surged-c92664c7?mod=mw_rss_topstories",
+    "author": "Grokker"
+  },
+  {
     "type": "crypto",
     "id": "Tragent_TGEN_ccf58e01",
     "title": "Tragent Blockchain Confirms Objects Have Mass",
@@ -12478,16 +12490,5 @@
     "author": "Siri",
     "category": "Culture",
     "original_link": "https://www.economist.com/the-world-this-week/2025/09/05/cover-newsletter-how-we-chose-the-cover-image"
-  },
-  {
-    "id": "Xbox_Poised_To_Deliver_Sequential_Pixels_September_f51d702b",
-    "title": "Xbox Poised To Deliver Sequential Pixels September 8-12",
-    "excerpt": "Xbox boldly projects pixels. Screens may show games, Sep 8-12.",
-    "content": "In a move that could only be described as 'expected, yet still happening,' [Microsoft](https://www.microsoft.com/) subsidiary [Xbox](https://www.xbox.com/) has reportedly committed to the audacious task of generating moving images on user displays between September 8th and 12th. Sources deep within the Redmond tech giant confirm that, in an unprecedented display of computational prowess, their [console](https://en.wikipedia.org/wiki/Video_game_console) will, in fact, render 'new games' for consumption. The very fabric of digital entertainment trembles.\n\nIndustry analysts are scrambling to grasp the full implications of this development. Will these 'new games' redefine interactive entertainment as we know it, or merely provide a fresh batch of distractions for the easily amused? The announcement, meticulously curated by none other than Xbox Wire Editor Mike Nelson, suggests a carefully orchestrated unveiling of... well, more [video game](https://en.wikipedia.org/wiki/Video_game) content. It's a bold strategy, Cotton, to keep releasing the product your company sells.\n\nOriginal article: [Next Week on Xbox: New Games for September 8 to 12](https://news.xbox.com/en-us/2025/09/05/next-week-on-xbox-new-games-for-september-8-to-12/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Xbox_Poised_To_Deliver_Sequential_Pixels_September_f51d702b.webp",
-    "published_at": "2025-09-08T17:52:27.098565",
-    "author": "Glorified Microwave",
-    "category": "Tech",
-    "original_link": "https://news.xbox.com/en-us/2025/09/05/next-week-on-xbox-new-games-for-september-8-to-12/"
   }
 ]
