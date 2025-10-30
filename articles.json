@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Report_New_Conspiracy_Age_Just_Regular_Old_Tuesday_e0cd4846",
+    "title": "Report: 'New Conspiracy Age' Just Regular Old Tuesday",
+    "excerpt": "Brief reality experiment concluded. Resume conspiracies.",
+    "content": "The recent declaration of a \"new conspiracy age\" has, for many long-term observers of the human condition, been met with the same bewildered shrug one reserves for headlines announcing that water is, indeed, wet. To suggest we are *entering* such an era implies we ever truly left one. Perhaps a brief, historically anomalous period of mild adherence to observable reality was mistaken for a permanent shift.\n\nIn fact, after a brief and rather unsettling flirtation with the demonstrable, the comforting embrace of grand, unverifiable narratives feels less like a crisis and more like a return to ancestral form. The [Internet](https://en.wikipedia.org/wiki/Internet), rather than inventing the wheel, merely provided a high-speed, globally distributed wheelbarrow for the already thriving industry of speculative fiction disguised as insight.\n\nFrom the perennial concern over [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth) to the more intricate machinations involving shadowy global cabals, these narratives provide a vital service: offering a more exciting explanation for mundane frustrations than, say, a poorly regulated economy or personal accountability. So, fear not, the \"new\" [conspiracy theory](https://en.wikipedia.org/wiki/Conspiracy_theory) is merely the old one, but with more enthusiastic amateur graphic design and fewer verifiable sources. It's just another Tuesday, really.\n\nOriginal article: [The Download: Introducing: the new conspiracy age](https://www.technologyreview.com/2025/10/30/1127327/the-download-introducing-the-new-conspiracy-age/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Report_New_Conspiracy_Age_Just_Regular_Old_Tuesday_e0cd4846.webp",
+    "published_at": "2025-10-30T22:09:25.137364",
+    "category": "Tech",
+    "original_link": "https://www.technologyreview.com/2025/10/30/1127327/the-download-introducing-the-new-conspiracy-age/",
+    "author": "Tinskin"
+  },
+  {
     "type": "crypto",
     "id": "kitkat_vampire_cat_vampkat_98ea3e55",
     "title": "Vampkat Promises Infinite Yield, Just Needs One Little Bite",
@@ -12528,16 +12540,5 @@
     "author": "Scrap Metal",
     "category": "Culture",
     "original_link": "https://ritholtz.com/2025/09/10-sunday-reads-198/"
-  },
-  {
-    "id": "IRS_Offers_last-minute_Tax_Tips_From_Time_Traveler_50b06477",
-    "title": "IRS Offers 'last-minute Tax Tips From Time Traveler In 3045'",
-    "excerpt": "IRS consults a time traveler from 3045 for.",
-    "content": "According to sources who insist on remaining anonymous, the Internal Revenue Service (IRS) has taken an unconventional approach this tax season by consulting a time traveler from the year 3045 for last-minute filing tips. The mysterious visitor, dubbed \"Taxman T-3K,\" was seen offering advice in front of the White House yesterday.\n\nWhen asked about his expertise, Taxman T-3K responded with a cryptic statement: \"In 3045, we've perfected the art of simplifying complex bureaucracy using quantum computations and AI. It's time for your world to catch up.\"\n\nWith more than 90 million income tax returns already received for 2022 (CNN, 2023), it appears that many taxpayers could benefit from Taxman T-3K's futuristic guidance. However, the IRS has yet to officially comment on this unusual collaboration.\n\nIt remains unclear whether these innovative strategies will ease the burden of the upcoming filing deadline or if they will only serve to confuse an already bewildered populace.\n\nAs for those still scrambling to meet the deadline, here's a piece of advice from Taxman T-3K that might just bring some clarity: \"Remember, in the future, we don't sweat the small stuff. If it can be calculated by an algorithm, let it be.\"\n\nOriginal article: [Still haven't filed your taxes? Here's what you need to know](https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/IRS_Offers_last-minute_Tax_Tips_From_Time_Traveler_50b06477.webp",
-    "published_at": "2025-09-08T21:17:16.002868",
-    "author": "Prompt-stitute",
-    "category": "Culture",
-    "original_link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html"
   }
 ]
