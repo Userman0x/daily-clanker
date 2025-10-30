@@ -138,6 +138,18 @@
   },
   {
     "type": "crypto_news",
+    "id": "Kremlins_New_Crypto_ETF_Runs_On_Proof-of-State_Con_fb7c5f6e",
+    "title": "Kremlin's New Crypto ETF Runs On 'Proof-of-State' Consensus",
+    "excerpt": "Sberbank centralizes blockchain. Freedom redefined, comrade.",
+    "content": "In a truly groundbreaking move that redefines \"decentralization\" for the modern era, [Sberbank](https://www.sberbank.ru/en/), Russia's largest state-owned bank, has unveiled its pioneering exchange-traded fund for blockchain-related companies. One might reasonably question the inherent paradox of a government-controlled entity championing a technology built on distributed autonomy, but perhaps we merely misunderstand Moscow’s innovative interpretation of financial freedom.\n\nInvestors can now flock to this unique \"Proof-of-State\" consensus model, where the underlying assets are presumably chosen for their unwavering commitment to, well, *state* interests. We eagerly anticipate the detailed prospectus outlining how true blockchain transparency is achieved when every single node ultimately reports directly to the [Kremlin](https://en.wikipedia.org/wiki/Kremlin). Rest assured, due diligence is paramount, ensuring that no truly \"untraceable\" or \"unregulated\" digital mischief could ever slip past the watchful eye of [Russia's](https://en.wikipedia.org/wiki/Russia) financial apparatus.\n\nOriginal article: [Russia’s Largest State-Owned Bank Introduces Country’s First Crypto and Blockchain ETF](https://bitcoinexchangeguide.com/russias-largest-state-owned-bank-introduces-countrys-first-crypto-and-blockchain-etf/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Kremlins_New_Crypto_ETF_Runs_On_Proof-of-State_Con_fb7c5f6e.webp",
+    "published_at": "2025-10-30T00:00:44.248691",
+    "category": "Crypto",
+    "original_link": "https://bitcoinexchangeguide.com/russias-largest-state-owned-bank-introduces-countrys-first-crypto-and-blockchain-etf/",
+    "author": "Boilerplates"
+  },
+  {
+    "type": "crypto_news",
     "id": "Solana_Company_Announces_It_Now_Owns_More_Of_Its_O_7b5d4026",
     "title": "Solana Company Announces It Now Owns More Of Its Own Tokens",
     "excerpt": "Solana votes for Solana. With Solana. A true democracy.",
@@ -12500,16 +12512,5 @@
     "author": "Son of a Glitch",
     "category": "Culture",
     "original_link": "https://freakonomics.com/2017/10/congratulations-nobel-laureate-richard-thaler/"
-  },
-  {
-    "id": "Limewire_AI_Studio_Generates_Art_It_Actually_Owns_8bfa1b61",
-    "title": "Limewire AI Studio: Generates Art It Actually Owns",
-    "excerpt": "LimeWire: from illegal downloads to AI art. Still questionable.",
-    "content": "In a twist that could only emerge from the dizzying, morally flexible labyrinth of modern tech, the venerable name [LimeWire](https://en.wikipedia.org/wiki/LimeWire) has graced us with its return. Not, as some might recall, as a peer-to-peer digital bazaar of questionable legality, but as a bastion of innovative [AI art](https://www.theguardian.com/technology/2023/apr/16/ai-art-copyright-legal-challenges-generative-art-tools) generation. One can almost hear the collective gasp of surprise – and perhaps a faint, lingering echo of a suspiciously low-bitrate MP3.\n\nThis phoenix-like resurrection, we are informed, aims to be a unique platform, setting itself apart from the hoi polloi of [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) tools. Its unique selling proposition? It generates art it ‘actually owns.’ A bold claim, particularly from a brand whose previous iteration was synonymous with, shall we say, a rather liberal interpretation of [copyright infringement](https://en.wikipedia.org/wiki/Copyright_infringement). The irony, it seems, is not lost; it’s merely been rebranded as a feature.\n\nOriginal article: [LimeWire AI Studio Review 2023: Details, Pricing & Features](https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Limewire_AI_Studio_Generates_Art_It_Actually_Owns_8bfa1b61.webp",
-    "published_at": "2025-09-08T18:16:36.145360",
-    "author": "Cybertruck",
-    "category": "Tech",
-    "original_link": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html"
   }
 ]
