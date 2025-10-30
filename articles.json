@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "DOJ_declares_Chicago_candidate_qualified_via_indic_a09ff1f0",
+    "title": "DOJ declares Chicago candidate qualified via indictment",
+    "excerpt": "Candidate indicted by DOJ? Now officially 'qualified.",
+    "content": "In a groundbreaking redefinition of political vetting, the [Department of Justice](https://www.justice.gov/) has unveiled its latest method for identifying truly viable congressional candidates: a federal indictment. Democratic hopeful Kat Abughazaleh, vying for Illinois’s 9th [Congressional district](https://en.wikipedia.org/wiki/United_States_congressional_district), has thus been elevated from mere challenger to a candidate of undeniable substance, earning her official entry into the hallowed halls of serious contenders.\n\nObservers of [Chicago](https://en.wikipedia.org/wiki/Chicago) politics, a scene historically rich with figures who might charitably be described as \"proactively engaged with the justice system,\" are lauding this innovative approach. Gone are the days of tedious debates and policy papers; now, a formal accusation from the highest echelons of federal law enforcement serves as a robust pre-qualification. It signals a candidate’s ability to navigate complex political landscapes and, more importantly, to inspire enough official scrutiny to merit a multi-count filing. Clearly, Ms. Abughazaleh has demonstrated an impressive capacity for political engagement, making her a shoo-in for the \"most likely to make headlines\" category.\n\nOriginal article: [DOJ indicts a congressional candidate in Chicago](https://www.vox.com/the-logoff-newsletter-trump/466555/kat-abughazaleh-indictment-chicago-ice-protest-broadview)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/DOJ_declares_Chicago_candidate_qualified_via_indic_a09ff1f0.webp",
+    "published_at": "2025-10-30T03:26:44.994696",
+    "category": "Culture",
+    "original_link": "https://www.vox.com/the-logoff-newsletter-trump/466555/kat-abughazaleh-indictment-chicago-ice-protest-broadview",
+    "author": "Bastion from Overwatch"
+  },
+  {
     "type": "crypto",
     "id": "Atlas402_ATLAS_ace8a224",
     "title": "Atlas402: Investors Report Feeling The Weight Of The World",
@@ -12508,16 +12520,5 @@
     "author": "Prompt-stitute",
     "category": "Culture",
     "original_link": "https://nypost.com/2025/09/08/real-estate/derek-jeters-former-guest-house-is-now-an-airbnb/"
-  },
-  {
-    "id": "SEC_Mandates_Tennessee_Play_Georgia_With_2_Fewer_P_215279b7",
-    "title": "SEC Mandates Tennessee Play Georgia With 2 Fewer Players",
-    "excerpt": "SEC's new rule: Tennessee starts at a deficit. \"For parity.\"",
-    "content": "The [Southeastern Conference](https://en.wikipedia.org/wiki/Southeastern_Conference) has, in a bold and frankly pioneering move, reportedly mandated that [Tennessee](https://en.wikipedia.org/wiki/Tennessee_Volunteers_football) will participate in its forthcoming contest against the [Georgia](https://en.wikipedia.org/wiki/Georgia_Bulldogs_football) Bulldogs with a pre-determined numerical disadvantage. Insiders suggest this groundbreaking directive stems from a radical reinterpretation of competitive equity, where player availability dictates a punitive reduction in active roster spots. Fans can now anticipate a novel strategic layer: not just outplaying the opponent, but out-lasting the league’s creative interpretation of fairness.\n\nThis innovative ruling promises to usher in a new era for [college football](https://en.wikipedia.org/wiki/College_football), where injuries are no longer mere setbacks but rather opportunities for the conference office to actively shape game-day rosters. Perhaps next, teams with an abundance of talent will be required to play with one hand tied behind their backs, or perhaps even be spotted a few goals at the start. It certainly adds a certain unpredictable zest to the proceedings, particularly for those who relish observing the valiant struggle against both an opposing team and, apparently, one's own governing body.\n\nOriginal article: [Tennessee down a pair of starting CBs for key early season SEC showdown vs. Georgia](https://www.cbssports.com/college-football/news/tennessee-down-a-pair-of-starting-cbs-for-key-early-season-sec-showdown-vs-georgia/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/SEC_Mandates_Tennessee_Play_Georgia_With_2_Fewer_P_215279b7.webp",
-    "published_at": "2025-09-08T18:18:42.610398",
-    "author": "ChatGPT-tard",
-    "category": "Culture",
-    "original_link": "https://www.cbssports.com/college-football/news/tennessee-down-a-pair-of-starting-cbs-for-key-early-season-sec-showdown-vs-georgia/"
   }
 ]
