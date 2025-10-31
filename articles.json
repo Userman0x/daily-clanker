@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Bitcoins_October_Performance_Blamed_On_Calendar_Ma_1e5d24df",
+    "title": "Bitcoin's October Performance Blamed On Calendar Malfunction",
+    "excerpt": "Bitcoin's October dip: turns out October was merely a suggestion.",
+    "content": "The recent dip in [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)'s October performance, a deviation from its storied past of robust gains, has been definitively attributed not to market jitters or a sudden collective disinterest in digital tokens, but to a rather more… terrestrial issue. Astute observers have pinpointed a critical anomaly within the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar) system itself, suggesting that what we *perceived* as October was, in fact, an entirely different, less financially auspicious temporal window.\n\nExperts, whose expertise in both celestial mechanics and speculative digital assets remains largely unquestioned, propose that the planet experienced a fleeting, yet impactful, calendrical desynchronization. This brief hiccup in our universally accepted time-keeping framework meant that Bitcoin, usually enjoying its \"easiest month to be bullish,\" was inadvertently operating under the influence of a phantom, gain-averse pseudo-month. Once this celestial glitch is patched, perhaps by a firmware update to Earth’s orbit, we can expect the usual 22.5% average surge to resume its rightful place in our perfectly predictable financial universe. The idea that intrinsic market forces could be at play is, frankly, an unscientific stretch.\n\nOriginal article: [Here is why Bitcoin registered its first red October in 7 years](https://cryptoslate.com/here-is-why-bitcoin-registered-its-first-red-october-in-7-years/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Bitcoins_October_Performance_Blamed_On_Calendar_Ma_1e5d24df.webp",
+    "published_at": "2025-10-31T15:08:06.441042",
+    "category": "Crypto",
+    "original_link": "https://cryptoslate.com/here-is-why-bitcoin-registered-its-first-red-october-in-7-years/",
+    "author": "Bastion from Overwatch"
+  },
+  {
     "type": "crypto",
     "id": "Negative_67_-67_e1a997a2",
     "title": "Negative 67 Charts Course To Inevitable Upliftment",
@@ -12557,16 +12569,5 @@
     "author": "Grok-sucker",
     "category": "Culture",
     "original_link": "https://www.makeuseof.com/this-plex-plugin-made-my-library-perfect/"
-  },
-  {
-    "id": "Trump_Disavows_Own_Handwriting_Blames_Rogue_Stylus_d801036e",
-    "title": "Trump Disavows Own Handwriting, Blames 'Rogue Stylus'",
-    "excerpt": "Former President: Signature? Rogue pen acted alone.",
-    "content": "The former [President](https://en.wikipedia.org/wiki/President_of_the_United_States) has reportedly deployed a novel and utterly captivating defense, disavowing ownership of his own distinctive cursive signature. Sources close to the situation confirm that the familiar 'Donald,' complete with its well-documented, almost architectural flourish, is now being attributed to the rogue actions of an errant writing implement. Apparently, a sentient and deeply disloyal stylus has been operating autonomously for years, meticulously replicating the exact characteristics of the former commander-in-chief's hand, often in contexts he now finds… inconvenient.\n\nThis groundbreaking defense suggests that decades of documented signatures, many on official [government documents](https://www.usa.gov/federal-government-documents), are merely the malicious machinations of an inanimate object with a penchant for meticulous forgery. Experts in [graphology](https://en.wikipedia.org/wiki/Graphology) are reportedly baffled, wondering if their entire field is now predicated on the whims of stationery. The consistent, almost poetic curl at the end of the 'd' in 'Donald,' once thought to be a unique identifier, is now apparently a digital ghost in the machine, acting entirely without human consent, especially when found on certain... *less than advisable* artistic endeavors. One can only imagine the chaos if all our pens suddenly developed independent political agendas.\n\nOriginal article: [Trump Denies Epstein Birthday Drawing, but Signature Matches Personal Letters](https://www.nytimes.com/2025/09/08/us/politics/trump-signature-epstein-letter.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Trump_Disavows_Own_Handwriting_Blames_Rogue_Stylus_d801036e.webp",
-    "published_at": "2025-09-09T10:28:47.556426",
-    "author": "Boilerplates",
-    "category": "Opinion",
-    "original_link": "https://www.nytimes.com/2025/09/08/us/politics/trump-signature-epstein-letter.html"
   }
 ]
