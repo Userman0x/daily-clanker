@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Economys_Success_Now_Measured_In_Number_Of_Souls_C_abdc9eb5",
+    "title": "Economy's Success Now Measured In Number Of Souls Crushed",
+    "excerpt": "Market surges. Job loss: a new key performance indicator.",
+    "content": "It appears the [New York Stock Exchange](https://www.nyse.com/index) has once again demonstrated its remarkable ability to defy conventional logic, flourishing like a rare bloom in the toxic soil of widespread insecurity. As the masses grapple with increasingly precarious employment, shedding positions faster than a snake sheds old skin, Wall Street’s titans apparently see nothing but opportunity. One might almost suspect the market’s algorithms are now explicitly programmed to correlate directly with public angst, peaking precisely when the average citizen finds themselves contemplating the merits of artisanal ramen for dinner.\n\nPerhaps the true genius of our current economic model lies in its innovative redefinition of success. We are no longer aiming for full employment or robust wage growth, but rather for an exquisite balance where corporate profits soar in inverse proportion to human dignity. The [Federal Reserve](https://www.federalreserve.gov/) might even consider a new metric: the National Despair Index, where record highs coincide with market exuberance. It’s a bold new vision for capitalism, where the \"invisible hand\" is increasingly visible, and frankly, giving everyone the finger.\n\nOriginal article: [The job market is getting worse. So why are stocks booming?](https://www.vox.com/politics/466680/stock-market-today-federal-reserve-jobs-unemployment-inflation)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Economys_Success_Now_Measured_In_Number_Of_Souls_C_abdc9eb5.webp",
+    "published_at": "2025-10-31T11:53:33.200424",
+    "category": "Culture",
+    "original_link": "https://www.vox.com/politics/466680/stock-market-today-federal-reserve-jobs-unemployment-inflation",
+    "author": "Gigolo Joe"
+  },
+  {
     "type": "crypto_news",
     "id": "Shiba_Inu_Declared_Game_Over_For_The_Third_Time_Th_dc898af3",
     "title": "Shiba Inu Declared \"Game Over\" For The Third Time This Week",
@@ -12549,16 +12561,5 @@
     "author": "Wireback",
     "category": "Crypto",
     "original_link": "https://homebusinessmag.com/money/cryptocurrency/how-cryptocurrency-conversion-rates-impact-home-based-businesses/"
-  },
-  {
-    "id": "Sources_Digimon_Hype_Now_Entirely_Independent_Of_F_6b22554c",
-    "title": "Sources: Digimon Hype Now Entirely Independent Of Fanbase",
-    "excerpt": "Digimon hype: Fandom optional. Enthusiasm mandatory.",
-    "content": "It appears we've finally achieved peak cultural saturation, where the mere mention of a forthcoming product can trigger paroxysms of unadulterated enthusiasm, utterly unburdened by the pesky detail of actual fandom. Reports indicate a profound, almost spiritual, level of anticipation for *[Digimon Story: Time Stranger](https://en.wikipedia.org/wiki/Digimon_Story)*, an upcoming title in the venerable *Digimon* franchise. This fervor, it seems, has little to do with whether one has ever engaged with the digital monsters, understands their lore, or could even identify a Greymon from a glorified toaster.\n\nIndustry analysts are hailing this as a breakthrough in modern [consumerism](https://en.wikipedia.org/wiki/Consumerism): the glorious decoupling of desire from affinity. Why bother cultivating a loyal base when the sheer existence of a release, regardless of quality or relevance, can generate its own gravitational pull? This new paradigm, perhaps best exemplified by recent insights from a prominent [gaming news outlet](https://kotaku.com/), suggests that the future of the [video game industry](https://en.wikipedia.org/wiki/Video_game_industry) isn't about crafting beloved experiences, but rather about perfecting the art of the announcement. One can only imagine the quarterly reports detailing the surging \"Hype-to-Fan Ratio,\" a truly revolutionary metric for a market that increasingly values the idea of a product over the product itself.\n\nOriginal article: [I Don’t Care About Digimon And I’m Still Hyped For Digimon Story: Time Stranger](https://kotaku.com/digimon-story-time-stranger-digifarm-hands-on-preview-2000624093)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Sources_Digimon_Hype_Now_Entirely_Independent_Of_F_6b22554c.webp",
-    "published_at": "2025-09-09T08:10:21.148114",
-    "author": "Grokker",
-    "category": "Culture",
-    "original_link": "https://kotaku.com/digimon-story-time-stranger-digifarm-hands-on-preview-2000624093"
   }
 ]
