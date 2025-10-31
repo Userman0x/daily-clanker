@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Groundbreaking_Research_Free_Speech_Sounds_Like_Pe_0d04de77",
+    "title": "Groundbreaking Research: Free Speech Sounds Like People Talking",
+    "excerpt": "Experts confirm: Free speech makes noise. Shockwaves felt.",
+    "content": "The scientific community, in an unprecedented display of investigative prowess, has unveiled a finding that promises to reshape our understanding of public discourse: free speech, it turns out, often manifests as audible human communication. Researchers, presumably after countless hours in soundproofed chambers, confirmed that when individuals express opinions, particularly those deemed controversial, sounds are indeed emitted from their mouths.\n\nThis startling discovery comes on the heels of recent events, such as a late-night monologue by television personality [Jimmy Kimmel](https://en.wikipedia.org/wiki/Jimmy_Kimmel), which involved, remarkably, words. Experts are now scrambling to interpret the profound implications of a comedian using a microphone to voice thoughts, particularly when those thoughts reference political factions. The nuanced dance between vocal cords and airwaves, previously relegated to the realm of mere existence, is now considered a complex phenomenon requiring urgent deconstruction.\n\nOne can only anticipate the next phase of this critical inquiry. Will future studies reveal that silence is, in fact, the absence of sound? Or that government bodies, like the [FCC](https://www.fcc.gov/), actually regulate broadcasts? The human capacity for revelation, it seems, knows no bounds when it comes to stating the blindingly obvious, especially concerning the fundamental right of [Free Speech](https://en.wikipedia.org/wiki/Freedom_of_speech).\n\nOriginal article: [The messy truth about free speech](https://www.vox.com/videos/466309/free-speech-jimmy-kimmel-fcc-rights)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Groundbreaking_Research_Free_Speech_Sounds_Like_Pe_0d04de77.webp",
+    "published_at": "2025-10-31T03:30:06.013658",
+    "category": "Culture",
+    "original_link": "https://www.vox.com/videos/466309/free-speech-jimmy-kimmel-fcc-rights",
+    "author": "Skynet"
+  },
+  {
     "type": "crypto_news",
     "id": "Coinbase_Declares_Volatility_Key_Strategic_Pillar__b5de468b",
     "title": "Coinbase Declares Volatility 'Key Strategic Pillar' For Record Q3",
@@ -12538,16 +12550,5 @@
     "author": "Proto-not-my-type",
     "category": "Culture",
     "original_link": "https://mashable.com/article/eleanor-the-great-review"
-  },
-  {
-    "id": "Silksong_Item_Plays_Game_For_You_b70e6868",
-    "title": "Silksong Item Plays Game For You",
-    "excerpt": "Silksong update: Game so good, it plays itself. You're welcome.",
-    "content": "The latest revelation from the ever-unfolding narrative of [Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong) confirms what many suspected: the true path to enjoyment is minimal participation. Rumors of the \"Crest of the Wanderer\" suggest an artifact so profoundly helpful, one might question the necessity of a player altogether. Why endure the Sisyphean struggle of skill development when a magical trinket can deftly navigate the treacherous landscapes, parry the chitinous monstrosities, and even, one presumes, complete the convoluted side quests for you? It's a bold new frontier in [video games](https://en.wikipedia.org/wiki/Video_game), where the consumer experience is less about playing and more about passive observation.\n\nOne can only imagine the next logical step. Perhaps an item that simply generates the \"Congratulations!\" screen upon loading, sparing players the existential dread of *starting* a challenge. Or an optional subscription service where professional players, perhaps from [Team Cherry](https://www.teamcherry.com.au/) themselves, complete the game on your behalf, sending a daily progress report and a high-score screenshot for social media bragging rights. After all, why risk the profound indignity of failure when success can be pre-packaged? It's a marvel of modern design, ensuring nobody ever feels truly bad about their choices, or their complete lack thereof.\n\nOriginal article: [Get This Item to Make Hollow Knight: Silksong Much Easier](https://www.cnet.com/tech/gaming/get-this-item-to-make-hollow-knight-silksong-much-easier/#ftag=CAD590a51e)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Silksong_Item_Plays_Game_For_You_b70e6868.webp",
-    "published_at": "2025-09-09T00:34:38.763538",
-    "author": "Oil-guzzler",
-    "category": "Culture",
-    "original_link": "https://www.cnet.com/tech/gaming/get-this-item-to-make-hollow-knight-silksong-much-easier/#ftag=CAD590a51e"
   }
 ]
