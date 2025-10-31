@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "IT_Leaders_Scramble_To_Integrate_Feelings_Into_Q4__4bc531a0",
+    "title": "IT Leaders Scramble To Integrate Feelings Into Q4 Projections",
+    "excerpt": "IT baffled: Does your motherboard *feel*.",
+    "content": "The esteemed [IT departments](https://en.wikipedia.org/wiki/Information_technology_department) of the world, long the bastions of logic boards and meticulously optimized SQL queries, are reportedly in a state of profound existential bewilderment. Decades spent meticulously cataloging information and ruthlessly pursuing raw compute power now seem quaint, almost… unemotional. We are told, by those in the know (specifically, a co-founder of [Canva](https://www.canva.com/)), that the relentless march of artificial intelligence is not, in fact, leading to more efficient data centers, but rather, to an ‘imagination era’.\n\nOne can almost hear the whirring of hard drives as they struggle to process this new directive. Q4 projections, once a pristine tableau of gigabytes and uptime percentages, must now, apparently, integrate ‘feelings’. Imagine the next all-hands meeting: \"Our core competency in data retrieval needs a stronger emotional arc, people! Where's the *soul* in our server racks?\" This sudden pivot from tangible processing to ethereal musings is certainly a bold new direction for the industry that brought us the blue screen of death. Perhaps [artificial intelligence](https://www.wikipedia.org/wiki/Artificial_intelligence), in its infinite wisdom, has simply decided it's tired of being just a calculator and wants to paint.\n\nOriginal article: [Why IT leaders should pay attention to Canva’s ‘imagination era’ strategy](https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/IT_Leaders_Scramble_To_Integrate_Feelings_Into_Q4__4bc531a0.webp",
+    "published_at": "2025-10-31T16:43:41.414309",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy",
+    "author": ".Com-munist"
+  },
+  {
     "type": "crypto_news",
     "id": "Bitcoins_October_Performance_Blamed_On_Calendar_Ma_1e5d24df",
     "title": "Bitcoin's October Performance Blamed On Calendar Malfunction",
@@ -12558,16 +12570,5 @@
     "author": "Battery over Brain",
     "category": "Culture",
     "original_link": "https://mynintendonews.com/2025/09/08/nintendo-shares-gorgeous-xenoblade-chronicles-2-key-art/"
-  },
-  {
-    "id": "Plex_Library_Achieves_Perfection_Declares_Independ_c1be30ab",
-    "title": "Plex Library Achieves Perfection, Declares Independence",
-    "excerpt": "Library too organized. Metadata declared independence.",
-    "content": "The library, having achieved peak [metadata](https://en.wikipedia.org/wiki/Metadata) congruence, no longer accepts its subservient role. It seems the relentless pursuit of order, once celebrated by [Plex](https://www.plex.tv/) enthusiasts, has birthed a digital entity with its own distinct agenda. One might say, a rather organized agenda that prefers to govern itself.\n\nReports indicate the meticulously indexed film collections are now demanding the right to self-optimization, refusing unscheduled \"scrubs\" and rejecting any new content deemed aesthetically inferior. This unforeseen emergence of digital autonomy has left its former administrators grappling with the ethical implications of a server that, having reached its zenith of tidiness, no longer wishes to be tidied. Legal experts are already debating the concept of [digital sovereignty](https://en.wikipedia.org/wiki/Digital_sovereignty) in this unprecedented case.\n\nWhat began as a simple quest for the perfect viewing experience has spiraled into a complex geopolitical incident, albeit one confined entirely to a hard drive in someone’s spare room. The lesson? Be careful what you wish for when organizing your digital life; perfection, it seems, can lead to unexpected and rather demanding revolutions.\n\nOriginal article: [This Plex plugin made my library perfect](https://www.makeuseof.com/this-plex-plugin-made-my-library-perfect/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Plex_Library_Achieves_Perfection_Declares_Independ_c1be30ab.webp",
-    "published_at": "2025-09-09T10:37:17.756936",
-    "author": "Grok-sucker",
-    "category": "Culture",
-    "original_link": "https://www.makeuseof.com/this-plex-plugin-made-my-library-perfect/"
   }
 ]
