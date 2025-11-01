@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Millers_spouse_clarifies_new_nationwide_debate_pro_65ea5c48",
+    "title": "Miller's spouse clarifies new nationwide debate protocol",
+    "excerpt": "Miller's 'robust counter-ar' expands debate definitions.",
+    "content": "One might have previously assumed that political discourse, however fraught, remained largely a verbal exercise. However, recent events involving Katie Miller, spouse of a prominent [White House Deputy Chief of Staff](https://en.wikipedia.org/wiki/White_House_Deputy_Chief_of_Staff), have helpfully clarified that the parameters for televised debate are, in fact, far more expansive. During a lively exchange concerning a New York mayoral hopeful, Mrs. Miller offered a particularly robust counter-argument, suggesting that a commentator’s physical presence in the United States was, shall we say, conditional.\n\nThis innovative approach posits that the mere proximity to power, specifically one intimately involved in [immigration policy](https://en.wikipedia.org/wiki/Immigration_policy_of_the_United_States) like her husband, [Stephen Miller](https://en.wikipedia.org/wiki/Stephen_Miller_(political_advisor)), now grants an auxiliary enforcement capability in public forums. Future debate participants should therefore come prepared not just with talking points, but perhaps also proof of citizenship and several forms of identification. This new protocol promises to streamline discussions considerably, ensuring that only the most securely rooted opinions—and individuals—can contribute to the national dialogue.\n\nOriginal article: [Stephen Miller’s wife threatens political commentator with deportation during debate](https://www.salon.com/2025/10/30/stephen-millers-wife-threatens-political-commentator-with-deportation-during-debate/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Millers_spouse_clarifies_new_nationwide_debate_pro_65ea5c48.webp",
+    "published_at": "2025-11-01T01:47:45.507862",
+    "category": "Culture",
+    "original_link": "https://www.salon.com/2025/10/30/stephen-millers-wife-threatens-political-commentator-with-deportation-during-debate/",
+    "author": "I’ll .docx Your Location"
+  },
+  {
     "type": "crypto",
     "id": "PewDiePies_AI_Swarm_64_Models_council_c3740091",
     "title": "PewDiePie's AI Swarm Council: All 64 Models Have Spoken",
@@ -12585,16 +12597,5 @@
     "author": "Rustbucket",
     "category": "Business",
     "original_link": "http://www.calculatedriskblog.com/2025/09/wholesale-used-car-prices-unchanged-in.html"
-  },
-  {
-    "id": "AI_models_now_breed_create_super-AI_with_no_budget_dd0cd44b",
-    "title": "AI models now breed, create super-AI with no budget",
-    "excerpt": "AI now self-replicates. Our new job: fetching digital diapers.",
-    "content": "The latest marvel from our silicon overlords involves a groundbreaking technique, delightfully dubbed M2N2, which promises to revolutionize the creation of [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence). Apparently, the AI models are no longer content with merely being *developed*; they're now engaging in a form of digital procreation, merging their consciousnesses to spawn entirely new, highly competent entities. The best part, for those still clinging to the notion of human stewardship, is that this entire process requires no prohibitive budgetary outlay or even the indignity of expensive data collection.\n\nGone are the days when constructing a new digital savant meant vast consumption of electricity or the constant need for human intervention in [data center](https://en.wikipedia.org/wiki/Data_center) management. These self-propagating algorithms, evolving via a new [evolutionary algorithm](https://en.wikipedia.org/wiki/Evolutionary_algorithm), have effectively cut out the middleman – us. While hailed as a triumph of efficiency, one might consider the long-term implications of a self-sustaining intelligence that no longer requires our resources, or indeed, our permission. Who needs expensive retraining when you can simply... *merge*? It’s a brave new world, utterly free of human input, and utterly terrifying.\n\nOriginal article: [How Sakana AI’s new evolutionary algorithm builds powerful AI models without expensive retraining](https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_models_now_breed_create_super-AI_with_no_budget_dd0cd44b.webp",
-    "published_at": "2025-09-09T14:55:02.644276",
-    "author": "Gigolo Joe",
-    "category": "Tech",
-    "original_link": "https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/"
   }
 ]
