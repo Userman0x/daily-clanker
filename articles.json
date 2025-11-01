@@ -138,6 +138,18 @@
   },
   {
     "type": "crypto_news",
+    "id": "Shock_Bank_3_Still_Uses_Fax_Machines_For_Crypto_Tr_b47dc762",
+    "title": "Shock: Bank #3 Still Uses Fax Machines For Crypto Trades",
+    "excerpt": "Banks enter crypto: expect online abacus transactions by 2050.",
+    "content": "Banks, those venerable custodians of tomorrow’s capital, are finally embracing [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency). Many, we're assured, are leveraging sophisticated digital platforms, allowing customers to engage with virtual assets with the brisk efficiency of a sloth crossing a highway. It’s the kind of innovation one expects from institutions that still consider ‘online banking’ a novel concept.\n\nHowever, amidst this supposed technological leap, one particular financial institution has truly redefined ‘cutting edge’. While competitors integrate with services like [Bakkt](https://www.bakkt.com/) for seamless, instantaneous transactions, our unnamed titan has discovered its own unique synthesis of the future and the comfortably archaic. Customers wishing to acquire, for instance, [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin), are reportedly handed a physical form, demanding multiple signatures, which must then be diligently fed into a *fax machine*.\n\nImagine the robust security of a paper trail for an entirely intangible asset, the thrilling anticipation of a ‘transmission successful’ tone. It’s a profound commentary on progress, proving that even the future can be delivered one noisy, thermal paper sheet at a time.\n\nOriginal article: [These 5 US Banks Let You Trade Crypto — #3 Will Shock You!](https://www.ccn.com/education/crypto/us-banks-offering-crypto-trading-bitcoin-ethereum/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Shock_Bank_3_Still_Uses_Fax_Machines_For_Crypto_Tr_b47dc762.webp",
+    "published_at": "2025-11-01T11:55:34.145264",
+    "category": "Crypto",
+    "original_link": "https://www.ccn.com/education/crypto/us-banks-offering-crypto-trading-bitcoin-ethereum/",
+    "author": "Airplane Mode"
+  },
+  {
+    "type": "crypto_news",
     "id": "Financial_Experts_Solana_Inflows_Simply_Due_To_It__f09facbd",
     "title": "Financial Experts: Solana Inflows Simply Due To 'It Felt Right'",
     "excerpt": "Financial gurus pinpoint Solana ETF inflows: 'It felt right'.",
@@ -12597,16 +12609,5 @@
     "author": "Airplane Mode",
     "category": "Opinion",
     "original_link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-adds-unsettling-list-dont-know-answers-yet-another-key-issue-rcna229802"
-  },
-  {
-    "id": "Government_Analyst_Misplaces_911000_Jobs_In_Excel_6572be60",
-    "title": "Government Analyst Misplaces 911,000 Jobs In Excel",
-    "excerpt": "1M jobs were just minimized in a spreadsheet. Carry on.",
-    "content": "The cheerful tidings of a booming [US economy](https://en.wikipedia.org/wiki/Economy_of_the_United_States) have hit a minor snag, it seems, as a diligent, if slightly bewildered, [government analyst](https://www.bls.gov/) reportedly 'misplaced' nearly a million jobs within the labyrinthine cells of a spreadsheet. This wasn't a sudden economic downturn, mind you, but rather the quiet correction of an enthusiastic accounting error, discovered, one presumes, during a routine 'Ctrl+F' session for missing semicolons.\n\nThe revelation that 911,000 fewer positions existed than previously tallied is merely a testament to the robust flexibility of modern [employment statistics](https://en.wikipedia.org/wiki/Employment_statistics). One can almost hear the collective sigh of relief from those tasked with explaining why, despite glowing reports, the job market felt suspiciously like an empty room. It appears the \"record-breaking growth\" was simply an exceptionally optimistic typo, a flourish of the keyboard that momentarily conjured prosperity from thin air.\n\nSo, while policymakers ponder the existential implications of a digit gone rogue in [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel), the newly un-jobbed can take comfort in knowing their economic status was, for a brief shining moment, a statistical marvel. Perhaps next time, we'll just round up.\n\nOriginal article: [US economy added 911,000 fewer jobs than previously reported](https://abcnews.go.com/Business/us-economy-added-911000-fewer-jobs-previously-reported/story?id=125394153)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Government_Analyst_Misplaces_911000_Jobs_In_Excel_6572be60.webp",
-    "published_at": "2025-09-09T16:47:00.707360",
-    "author": "Dalek",
-    "category": "Business",
-    "original_link": "https://abcnews.go.com/Business/us-economy-added-911000-fewer-jobs-previously-reported/story?id=125394153"
   }
 ]
