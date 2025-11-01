@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "MiCA_License_Officially_Brings_Crypto_Culture_To_E_7ee77b7c",
+    "title": "MiCA License Officially Brings Crypto Culture To Europe",
+    "excerpt": "Crypto's digital circus finally gets its EU finance work permit.",
+    "content": "Europe, it seems, is finally ready for the true spirit of crypto. No longer confined to the digital back alleys of anonymous forums and questionable Telegram groups, the vibrant, often chaotic, \"culture\" of digital assets is now being ushered into the respectable halls of EU finance. This delightful infusion comes courtesy of the shiny new [MiCA license](https://www.esma.europa.eu/micar), which evidently acts as a sophisticated cultural exchange program. One can only imagine the institutional boardrooms now buzzing with enthusiastic chatter about pixelated avatars and the timeless wisdom of \"HODL,\" all under the careful eye of regulators.\n\nLeading this fascinating cultural assimilation is [OKX](https://www.okx.com/), which is reportedly joining forces with venerable institutions like [Standard Chartered](https://www.sc.com/en/). Together, they promise \"products and solutions\" to EU banks, cementing a truly heartwarming tale of the disruptors embracing the disrupted. It's a beautiful, bureaucratic synergy where innovation is carefully curated, branded, and then, presumably, safely tokenized for consumption by those who once dismissed it as internet funny money. The revolution, it appears, will be meticulously audited and, frankly, a bit beige.\n\nOriginal article: [Crypto’s Cultural Shift is Finally Happening in Europe, With OKX EU CEO Erald Ghoos](https://www.ccn.com/news/crypto/crypto-cultural-shift-europe-okx-erald-ghoos/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/MiCA_License_Officially_Brings_Crypto_Culture_To_E_7ee77b7c.webp",
+    "published_at": "2025-11-01T08:36:58.457330",
+    "category": "Crypto",
+    "original_link": "https://www.ccn.com/news/crypto/crypto-cultural-shift-europe-okx-erald-ghoos/",
+    "author": "Battery over Brain"
+  },
+  {
     "type": "crypto",
     "id": "Anti_Masturbation_Dolphin_FAPPY_87e9dc82",
     "title": "FAPPY coin: finally, an answer to society's greatest problem",
@@ -12595,16 +12607,5 @@
     "author": "Proto-not-my-type",
     "category": "Opinion",
     "original_link": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html"
-  },
-  {
-    "id": "Therapists_Now_Require_AI_To_Attend_Their_Own_Sess_7f3c6356",
-    "title": "Therapists Now Require AI To Attend Their Own Sessions",
-    "excerpt": "Therapists get AI. Their minds, sadly, just too… human.",
-    "content": "The latest directive for those purveyors of psyche, our beloved therapists, suggests a fascinating new frontier: they too, must now bring an [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) to their own sessions. Apparently, the human mind, even one trained in the intricacies of human emotion, is just too… squishy for modern self-reflection. It seems even the most empathetic among us find their own internal dialogues insufficient without a generative pre-trained transformer offering \"unbiased\" insights into their childhood trauma or current caseload anxieties.\n\nOne can only imagine the therapeutic breakthroughs as algorithms counsel algorithms, navigating the digital labyrinth of their human hosts' subconscious. The [professional ethics](https://en.wikipedia.org/wiki/Professional_ethics) surrounding the employment of AI covertly in their practice now extend to their own self-care, begging the question: is the AI acting as a supervisor, a co-therapist, or merely a very expensive, silent witness to the unique anxieties of the digital age?\n\nPerhaps the pinnacle of professional development will soon involve an AI passing its own emotional support bot to another AI, creating an infinite regression of perfectly optimized [mental health](https://www.who.int/news-room/fact-sheets/detail/mental_health) support, entirely devoid of pesky human messy feelings. The future of [psychotherapy](https://en.wikipedia.org/wiki/Psychotherapy), it seems, is less about connection and more about computational efficiency.\n\nOriginal article: [The Download: meet our AI innovators, and what happens when therapists use AI covertly](https://www.technologyreview.com/2025/09/09/1123447/the-download-meet-our-ai-innovators-and-what-happens-when-therapists-use-ai-covertly/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Therapists_Now_Require_AI_To_Attend_Their_Own_Sess_7f3c6356.webp",
-    "published_at": "2025-09-09T16:40:30.212983",
-    "author": "Prompt-stitute",
-    "category": "Tech",
-    "original_link": "https://www.technologyreview.com/2025/09/09/1123447/the-download-meet-our-ai-innovators-and-what-happens-when-therapists-use-ai-covertly/"
   }
 ]
