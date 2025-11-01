@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "SEC_Creates_Cheat_Code_For_Crypto_Legal_Battles_0930c91f",
+    "title": "SEC Creates 'Cheat Code' For Crypto Legal Battles",
+    "excerpt": "SEC bestows clarity. Now you're officially lost.",
+    "content": "It appears the venerable [Securities and Exchange Commission](https://www.sec.gov/) (SEC), a body renowned for its steadfast commitment to clarity and not, under any circumstances, confusing everyone, has bestowed a rather curious gift upon the digital asset realm. One might almost call it an early holiday present, delivered not by a jolly fat man, but by a sprawling federal bureaucracy. This recent exemptive order, ostensibly designed for… reasons, has reportedly clarified precisely *nothing* about the underlying nature of digital assets, yet everything about how one might leverage a technicality in a court of law.\n\nIndeed, [crypto exchanges](https://en.wikipedia.org/wiki/Cryptocurrency_exchange) previously resigned to lengthy, expensive skirmishes can now reportedly wield this regulatory pronouncement as a sort of golden ticket. It's almost as if the very entity tasked with keeping these burgeoning industries in line has, with a flick of a wrist, handed them a blueprint for successful legal maneuvers. One can only imagine the bewildered expressions on some legal teams, suddenly discovering their regulatory adversary has inadvertently furnished them with a crucial [legal precedent](https://en.wikipedia.org/wiki/Precedent). It truly is a testament to innovative problem-solving, if the problem was, in fact, how to inadvertently empower your opposition.\n\nOriginal article: [SEC just gave crypto lawyers a new way to win in court](https://cryptoslate.com/sec-just-gave-crypto-lawyers-a-new-way-to-win-in-court/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/SEC_Creates_Cheat_Code_For_Crypto_Legal_Battles_0930c91f.webp",
+    "published_at": "2025-11-01T21:55:52.037796",
+    "category": "Crypto",
+    "original_link": "https://cryptoslate.com/sec-just-gave-crypto-lawyers-a-new-way-to-win-in-court/",
+    "author": "Humanly Impossible"
+  },
+  {
     "type": "crypto",
     "id": "Luo_Tianyi__LUOTIANYI_b7679fc0",
     "title": "Luo Tianyi Token to Decentralize Virtual Idols' Vocal Cords",
@@ -12613,16 +12625,5 @@
     "author": "Airplane Mode",
     "category": "Finance",
     "original_link": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html"
-  },
-  {
-    "id": "iPhone_Air_So_Thin_Its_Officially_Deemed_A_Vacuum_fa2c1dd1",
-    "title": "iPhone Air So Thin, It's Officially Deemed A Vacuum",
-    "excerpt": "iPhone Air: Now 100% thinner! Just a wallet-emptying concept.",
-    "content": "Apple's annual September ritual of unveiling new iPhones brought forth a curious anomaly this year: the iPhone Air, a device so impossibly thin it reportedly exists primarily as an abstract concept. Eyewitnesses at the Cupertino spectacle described an object requiring specialist diffraction gratings to observe, positing it might actually be a highly localized vacuum pocket designed to extract cash from wallets, rather than data from the ether. Experts from the [National Institute of Standards and Technology](https://www.nist.gov/) are said to be grappling with new definitions of 'dimension' after attempting to measure its almost non-existent form.\n\nThis groundbreaking exercise in dematerialization, one of four new models unleashed upon an unsuspecting public, continues [Apple](https://www.apple.com/)'s noble quest to redefine user experience by making devices increasingly difficult to perceive, let alone hold. Critics suggest the next iteration might just be a suggestion whispered into the wind, sold at a premium. Clearly, the march towards [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) has reached its logical, if utterly invisible, conclusion, ensuring consumers will pay top dollar for what is essentially a highly polished absence. We expect record sales.\n\nOriginal article: [Apple Reveals \"Impossibly Thin\" iPhone Air, Along With Powerful iPhone 17 Pro](https://www.gamespot.com/articles/iphone-17-officially-announced-with-four-new-versions/1100-6534588/?ftag=CAD-01-10abi2f)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/iPhone_Air_So_Thin_Its_Officially_Deemed_A_Vacuum_fa2c1dd1.webp",
-    "published_at": "2025-09-09T20:06:02.636118",
-    "author": "Bot-licker",
-    "category": "Tech",
-    "original_link": "https://www.gamespot.com/articles/iphone-17-officially-announced-with-four-new-versions/1100-6534588/?ftag=CAD-01-10abi2f"
   }
 ]
