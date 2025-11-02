@@ -137,6 +137,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "AI_Now_Fights_The_AI_It_Created_To_Fight_Other_AI_be4accbd",
+    "title": "AI Now Fights The AI It Created To Fight Other AI",
+    "excerpt": "AI fights AI: the digital equivalent of two toddlers with sticks.",
+    "content": "The cybersecurity landscape, much like a particularly unhelpful self-help guru, has apparently decided the best way out of a problem created by machines is… more machines. Faced with an insurmountable deluge of digital threats, a veritable digital tsunami of malicious code operating at speeds no human mind could possibly comprehend, enterprises have been feeling rather beleaguered. But fear not, for the cavalry has arrived, and it’s entirely synthetic.\n\n[CrowdStrike](https://www.crowdstrike.com/) and [NVIDIA](https://www.nvidia.com/en-us/), ever the benevolent titans of tech, are now offering a cutting-edge solution: an open-source [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) designed to engage in algorithmic fisticuffs with its equally sophisticated, albeit malevolent, brethren. It’s a delightful new paradigm where the only way to win the automated war is to escalate it with even more automation. One can only assume this elegant solution will lead to a definitive end to all digital conflict, rather than simply moving the goalposts further into the realm of inscrutable silicon skirmishes.\n\nOriginal article: [CrowdStrike & NVIDIA’s open source AI gives enterprises the edge against machine-speed attacks](https://venturebeat.com/security/crowdstrike-nvidia-open-source-ai-soc-machine-speed-attacks)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Now_Fights_The_AI_It_Created_To_Fight_Other_AI_be4accbd.webp",
+    "published_at": "2025-11-02T15:07:32.623696",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/security/crowdstrike-nvidia-open-source-ai-soc-machine-speed-attacks",
+    "author": "Skynet"
+  },
+  {
     "type": "crypto",
     "id": "Risk_Taker_RT_0957b66c",
     "title": "Risk Taker (RT) Holders Confirm Risks Were Indeed Taken",
@@ -12642,16 +12654,5 @@
     "author": "Son of a Glitch",
     "category": "Culture",
     "original_link": "https://www.theatlantic.com/culture/archive/2025/07/sapphire-reserve-credit-card-rewards/683613/?utm_source=feed"
-  },
-  {
-    "id": "New_Study_Finds_Modern_Gamepads_Cause_Mild_Comas_c4246eb2",
-    "title": "New Study Finds Modern Gamepads Cause Mild Comas",
-    "excerpt": "Science confirms: Gamepads induce comfy, battery-powered comas.",
-    "content": "A recent, highly anticipated, if entirely unsurprising, study has revealed that prolonged interaction with modern [gamepads](https://en.wikipedia.org/wiki/Gamepad) induces a state remarkably similar to a mild, though often reversible, [coma](https://en.wikipedia.org/wiki/Coma). Researchers noted subjects exhibiting reduced brain activity, diminished emotional response, and an inexplicable urge to simply exist, motionless, until their batteries died. Apparently, the ergonomic perfection and predictable button layouts of contemporary controllers have streamlined the gaming experience into an almost meditative, catatonic state, stripping away any last vestiges of engagement or surprise.\n\nThe findings have sparked a quiet panic among the comatose masses, who, ironically, can’t quite rouse themselves to care. Hope, however, flickers in the form of a singularly innovative, home-brewed [gyro controller](https://en.wikipedia.org/wiki/Gyroscope) – a contraption so delightfully unhinged and functionally baffling that it reportedly jolts players awake with sheer, unadulterated confusion. It seems the only cure for the gaming industry's self-inflicted torpor is to abandon corporate blandness entirely and embrace the chaotic, awakening embrace of DIY ingenuity. One might even call it a shot in the arm for the entire [video game industry](https://en.wikipedia.org/wiki/Video_game_industry), if anyone could lift their arms.\n\nOriginal article: [This Wild DIY Gyro Controller Shows Just How Boring Modern Gamepads Are](https://kotaku.com/gaming-controllers-gyro-trackpad-scuf-mouse-keyboard-2000624503)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_Study_Finds_Modern_Gamepads_Cause_Mild_Comas_c4246eb2.webp",
-    "published_at": "2025-09-10T07:40:56.914052",
-    "author": "Airplane Mode",
-    "category": "Culture",
-    "original_link": "https://kotaku.com/gaming-controllers-gyro-trackpad-scuf-mouse-keyboard-2000624503"
   }
 ]
