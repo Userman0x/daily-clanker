@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "OKX_CEO_Spearheads_Europes_Crypto_Shift_Into_Corpo_06051047",
+    "title": "OKX CEO Spearheads Europe's Crypto Shift Into Corporate Beige",
+    "excerpt": "Wild crypto tamed. Now hiring a new VP of conformity.",
+    "content": "It appears the exhilarating frontier of digital finance is finally settling into its rightful place: the meticulously carpeted corporate boardroom. Thanks to diligent efforts, spearheaded by the visionary leadership at [OKX](https://www.okx.com/)'s European division, the rebellious spirit of cryptocurrency is being expertly repackaged for institutional consumption. The pivotal moment, of course, arrived with the anticipated acquisition of the [MiCA](https://en.wikipedia.org/wiki/Markets_in_Crypto-Assets_Regulation) license, a veritable seal of approval ensuring all future innovation will remain strictly within pre-approved parameters, much like a particularly thrilling spreadsheet.\n\nGone are the days of uncouth anonymity; instead, we welcome the dignified glow of compliance. Partnerships with venerable bastions of finance, such as [Standard Chartered](https://www.sc.com/), promise to seamlessly integrate crypto-assets into the grand tapestry of existing financial products. One can almost picture the excited murmurings in Brussels as EU institutions anticipate a new era of distributed ledger technology that behaves exactly like the old era of centralized ledgers, only with more jargon. This \"cultural shift\" truly signals the dawn of an era where crypto can finally be as thrilling and unpredictable as a mid-week bank holiday.\n\nOriginal article: [Crypto’s Cultural Shift is Finally Happening in Europe, With OKX EU CEO Erald Ghoos](https://www.ccn.com/news/crypto/crypto-cultural-shift-europe-okx-erald-ghoos/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/OKX_CEO_Spearheads_Europes_Crypto_Shift_Into_Corpo_06051047.webp",
+    "published_at": "2025-11-02T22:43:29.014335",
+    "category": "Crypto",
+    "original_link": "https://www.ccn.com/news/crypto/crypto-cultural-shift-europe-okx-erald-ghoos/",
+    "author": "WALL-E"
+  },
+  {
     "type": "news",
     "id": "Nvidia_Wins_Earnings_Season_Audits_Now_Purely_Cere_03a6f1ee",
     "title": "Nvidia Wins Earnings Season; Audits Now Purely Ceremonial",
@@ -12655,16 +12667,5 @@
     "author": "Proto-not-my-type",
     "category": "Culture",
     "original_link": "https://freakonomics.com/2022/12/freakonomics-radio-networks-2022-staff-picks/"
-  },
-  {
-    "id": "Engineers_Successfully_Stack_All_32_Teams_For_Week_0cc70d1f",
-    "title": "Engineers Successfully Stack All 32 Teams For Week 2 Rankings",
-    "excerpt": "Experts stack 32 NFL teams. Results: Very tall.",
-    "content": "It has been confirmed: the boffins behind the weekly gridiron prognostications have, through a combination of sheer will and what we can only assume are proprietary algorithms, managed to successfully 'stack' all 32 teams of the [National Football League](https://en.wikipedia.org/wiki/National_Football_League). This monumental feat, a triumph of logistical organization, reportedly involved countless hours of analytical sweat and likely several strong espressos. One shudders to think of the budget allocated to this groundbreaking 'stacking' initiative.\n\nSources close to the operation suggest that sophisticated [data science](https://en.wikipedia.org/wiki/Data_science) models were deployed, not merely to *rank* the teams, but to physically and conceptually align them in a sequence previously deemed impossible without advanced anti-gravity technology. The implications for [predictive analytics](https://en.wikipedia.org/wiki/Predictive_analytics) are, as always, profound yet utterly unchanged, demonstrating once again that even perfect 'stacking' cannot account for the inexplicable whims of a spheroid pigskin. The question remains: after achieving this pinnacle of [power ranking](https://en.wikipedia.org/wiki/Power_ranking) ingenuity, what fresh hell will analysts invent next to fill column inches?\n\nOriginal article: [Week 2 Power Rankings: Stacking the teams, plus top newcomer performances](https://www.espn.com/nfl/story/_/id/46139936/nfl-week-2-power-rankings-poll-32-teams-2025-best-newcomer)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Engineers_Successfully_Stack_All_32_Teams_For_Week_0cc70d1f.webp",
-    "published_at": "2025-09-10T11:29:16.647112",
-    "author": "Bot-licker",
-    "category": "Culture",
-    "original_link": "https://www.espn.com/nfl/story/_/id/46139936/nfl-week-2-power-rankings-poll-32-teams-2025-best-newcomer"
   }
 ]
