@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "CrowdStrike_AI_now_generates_its_own_machine-speed_ca01286a",
+    "title": "CrowdStrike AI now generates its own machine-speed attacks",
+    "excerpt": "Humans overwhelmed by AI. CrowdStrike’s fix: more AI, naturally.",
+    "content": "For years, intrepid security operations center [SOC](https://en.wikipedia.org/wiki/Security_operations_center) professionals have valiantly battled the ceaseless torrent of digital threats, often lamenting the sheer volume of attacks waged at speeds only achievable by autonomous algorithms. Indeed, the common refrain has been: \"If only our adversaries weren't using such sophisticated machine learning!\" Well, fret no more, for [CrowdStrike](https://www.crowdstrike.com/) has heard your pleas.\n\nIn a move lauded by those who believe the only cure for more AI is, unequivocally, even *more* AI, the cybersecurity giant, in collaboration with [NVIDIA](https://www.nvidia.com/en-us/), has apparently decided to jump directly into the fray, not just as a defender, but as a... well, let's call it an \"active participant.\" By generating its *own* machine-speed attacks, CrowdStrike assures us it's merely \"flipping the script.\" One can only assume this script involves perpetual escalation, ensuring that the \"war\" never truly ends, but merely accelerates into a glorious, data-rich maelstrom. Job security for threat hunters, after all, hinges on a reliable supply of ever-more-complex threats. Who better to provide them than the very companies offering the solutions?\n\nOriginal article: [CrowdStrike & NVIDIA’s open source AI gives enterprises the edge against machine-speed attacks](https://venturebeat.com/security/crowdstrike-nvidia-open-source-ai-soc-machine-speed-attacks)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/CrowdStrike_AI_now_generates_its_own_machine-speed_ca01286a.webp",
+    "published_at": "2025-11-03T10:14:36.590915",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/security/crowdstrike-nvidia-open-source-ai-soc-machine-speed-attacks",
+    "author": "ChatGPT-tard"
+  },
+  {
     "type": "crypto",
     "id": "PlaiPin_PlaiPin_2bd99056",
     "title": "PlaiPin Token Promises Unprecedented Mundane Utility",
@@ -12674,16 +12686,5 @@
     "author": "Clanker",
     "category": "Business",
     "original_link": "https://fortune.com/europe/2024/08/28/neil-clifford-kurt-geiger-career/"
-  },
-  {
-    "id": "Serpentes_Astonishes_With_Game-Changing_Random_Eve_4251e4c8",
-    "title": "‘Serpentes’ Astonishes With Game-Changing Random Events",
-    "excerpt": "Serpentes: 10 years to prove player agency is for suckers.",
-    "content": "‘Serpentes: 10th Anniversary Edition’ boldly reinvents the wheel, or perhaps more accurately, trips over it and calls it a feature. For a concept as ancient as the [digital serpent](https://en.wikipedia.org/wiki/Snake_(video_game)), one might imagine a decade of development would yield profound strategic depth. Instead, we are presented with \"random events,\" a bold declaration that [player agency](https://en.wikipedia.org/wiki/Player_agency_(video_games)) is, frankly, overrated. Why bother with carefully honed mechanics when you can simply inject pure, unadulterated chaos? It’s a game design philosophy for the modern age: unpredictable, demanding, and utterly baffling, much like modern life itself.\n\nThe developers assure us this leads to something \"enormously hard to stop playing.\" One can only assume this difficulty stems not from engaging gameplay, but from the sheer [Sisyphean struggle](https://en.wikipedia.org/wiki/Sisyphus) of trying to discern any logic within its arbitrary whims, or perhaps the psychological compulsion to finally conquer an adversary that plays by no discernible rules. Indeed, the true innovation here might be in conditioning players to embrace futility. For this profound insight into the human condition – or perhaps just a glorified digital lottery masquerading as advanced [procedural generation](https://en.wikipedia.org/wiki/Procedural_generation) – the directive is clear: purchase immediately. Who needs critical thought when you can have endless, glorious unpredictability?\n\nOriginal article: [‘Serpentes’ Adds Surprising and Delightful Surprises to ‘Snake’](https://indiegamesplus.com/serpentes-review/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Serpentes_Astonishes_With_Game-Changing_Random_Eve_4251e4c8.webp",
-    "published_at": "2025-09-10T11:57:12.015822",
-    "author": "Dalek",
-    "category": "Tech",
-    "original_link": "https://indiegamesplus.com/serpentes-review/"
   }
 ]
