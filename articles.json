@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "AUIs_750M_Valuation_The_End_of_AI_as_We_Know_It_Ag_c06f6370",
+    "title": "AUI's $750M Valuation: The End of AI as We Know It, Again",
+    "excerpt": "Stealth cult AI now $750M. Mission: beyond transformers & sense.",
+    "content": "Augmented Intelligence Inc., or AUI to its future cult members, has graciously emerged from the shadows (briefly, one assumes, before plunging back into self-congratulatory obscurity) to announce a robust $750 million valuation. One can only imagine the sheer audacity required to accrue such a sum while remaining \"stealthy\" – perhaps their pitch deck was delivered via carrier pigeon under cloak of darkness.\n\nTheir stated mission? To boldly go \"beyond\" the current fad known as [transformer architecture](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)). This revolutionary act, akin to deciding toast should no longer be just bread, promises to reinvent [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) as we know it. Again. Apparently, the current crop of [large language models](https://en.wikipedia.org/wiki/Large_language_model) wasn't quite performing the trick of convincing investors they needed a *new* problem to solve. We eagerly await the details of their neuro-symbolic marvel, presumably arriving just in time for the next round of breathless proclamations about the imminent demise of whatever supplants *this* paradigm.\n\nOriginal article: [The beginning of the end of the transformer era? Neuro-symbolic AI startup AUI announces new funding at $750M valuation](https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/AUIs_750M_Valuation_The_End_of_AI_as_We_Know_It_Ag_c06f6370.webp",
+    "published_at": "2025-11-03T20:01:43.470839",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup",
+    "author": "Bastion from Overwatch"
+  },
+  {
     "type": "crypto",
     "id": "x4ai_x4ai_f3405c5c",
     "title": "x4ai AI model confirms 400% profit, for itself",
@@ -12684,16 +12696,5 @@
     "author": "I’ll .docx Your Location",
     "category": "Culture",
     "original_link": "https://www.cnet.com/roadshow/news/may-mobility-and-lyfts-self-driving-partnership-hits-the-road-in-atlanta/#ftag=CAD590a51e"
-  },
-  {
-    "id": "Putins_Drone_Barrage_Delivers_Final_Word_On_Monopo_f8a9253f",
-    "title": "Putin's Drone Barrage Delivers Final Word On Monopoly Game",
-    "excerpt": "Monopoly round ends. Putin's final word: drones.",
-    "content": "The global game of [Monopoly](https://en.wikipedia.org/wiki/Monopoly) has, it seems, concluded its most contentious round. Mr. Putin, ever the meticulous strategist, reportedly delivered his definitive 'final word' on Sunday, not through a diplomatic missive, but via an extensive barrage of drones and missiles over [Kyiv](https://en.wikipedia.org/wiki/Kyiv). One can only assume preceding rounds involved spirited debates over who rightfully owned Park Place.\n\nThis latest, and reportedly largest, 'move' demonstrates an unwavering commitment to seeing the game through. The message, we gather, is that when one insists on owning utilities, one must be prepared for the consequences, particularly if an opponent holds an extensive collection of 'Community Chest' cards. Clearly, the rules for this particular game have evolved beyond simple banking disputes.\n\nObservers now ponder the true cost of 'passing Go' in this new, high-stakes iteration. If this sets the standard for settling property grievances, perhaps a global summit should simply distribute all properties, pre-empting further existential debates. After all, nobody wants to be stuck with Old Kent Road when the 'Go Directly to Jail' card arrives via [ballistic missile](https://en.wikipedia.org/wiki/Ballistic_missile), courtesy of the Kremlin. Maybe the [United Nations](https://www.un.org/en/) needs a 'Free Parking' initiative.\n\nOriginal article: [Putin’s Message to Ukraine, Europe and Trump: I Won’t Back Down](https://www.nytimes.com/2025/09/10/world/europe/russia-ukraine-putin-trump-europe.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Putins_Drone_Barrage_Delivers_Final_Word_On_Monopo_f8a9253f.webp",
-    "published_at": "2025-09-10T13:02:22.816718",
-    "author": "Google Chrome-dome",
-    "category": "Culture",
-    "original_link": "https://www.nytimes.com/2025/09/10/world/europe/russia-ukraine-putin-trump-europe.html"
   }
 ]
