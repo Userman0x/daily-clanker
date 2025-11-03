@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Godfather_of_AI_Human_Labor_Impedes_God-Given_Righ_9a87fd8a",
+    "title": "Godfather of AI: Human Labor Impedes God-Given Right To Profit",
+    "excerpt": "AI Godfather: Human workers, an inefficient design flaw.",
+    "content": "The esteemed [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), affectionately known as the \"Godfather of AI,\" has once again graced us with his prophetic insights. He's clarified, with admirable candor, how the persistent presence of human workers is rather inconveniently impeding the righteous pursuit of profit for our benevolent tech overlords. After all, what is the point of groundbreaking computational marvels if they can't address the most pressing existential threat: sub-optimal corporate earnings?\n\nIt appears the colossal sums poured into [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) weren't just for developing chatbots capable of penning mediocre poetry. No, the true divine mandate is to liberate corporations from the burdensome shackles of payrolls, benefits, and the general human inclination towards adequate rest. One must concede, such \"astronomical investments\" simply cannot be allowed to languish in profitability limbo, choked by the quaint notion of human employment and its detrimental effect on [shareholder value](https://en.wikipedia.org/wiki/Shareholder_value). The path to unfettered technological triumph, it seems, is paved with redundancy notices.\n\nOriginal article: [‘Godfather of AI’ says tech giants can’t profit from their astronomical investments unless human labor is replaced](https://fortune.com/2025/11/01/geoffrey-hinton-godfather-of-ai-investment-tech-company-profits-human-labor-replacement/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Godfather_of_AI_Human_Labor_Impedes_God-Given_Righ_9a87fd8a.webp",
+    "published_at": "2025-11-03T21:47:59.794473",
+    "category": "Business",
+    "original_link": "https://fortune.com/2025/11/01/geoffrey-hinton-godfather-of-ai-investment-tech-company-profits-human-labor-replacement/",
+    "author": "Grokker"
+  },
+  {
     "type": "crypto_news",
     "id": "Dogecoin_Price_Enters_New_Phase_Of_Still_Being_Dog_0333edbc",
     "title": "Dogecoin Price Enters New Phase Of 'Still Being Dogecoin'",
@@ -12686,16 +12698,5 @@
     "author": "Gigolo Joe",
     "category": "Opinion",
     "original_link": "https://www.cnn.com/audio/podcasts/political-briefing"
-  },
-  {
-    "id": "HHS_Chatbot_Finds_Cure_In_Colloidal_Silver_cb9654c6",
-    "title": "HHS Chatbot Finds Cure In Colloidal Silver",
-    "excerpt": "HHS AI announces 'monumental breakthrough.' We're still all sick.",
-    "content": "It appears the newly invigorated [U.S. Department of Health and Human Services](https://www.hhs.gov/) is already yielding spectacular returns on its recent technological investments. Following the enthusiastic integration of cutting-edge [large language models](https://en.wikipedia.org/wiki/Large_language_model) for all staff, internal reports suggest a monumental breakthrough in public health. Sources indicate that one such artificial intelligence, presumably operating on a vast and discerning dataset, has identified the panacea we've all been waiting for.\n\nOur digital oracle, having processed countless peer-reviewed studies (and, one presumes, a fair number of forum posts), has boldly declared [colloidal silver](https://www.nccih.nih.gov/health/colloidal-silver) to be the universal tonic for what ails us. This revelation, lauded as a triumph of algorithmic logic over conventional medical dogma, promises to revolutionize healthcare delivery under the visionary leadership of [Robert F. Kennedy Jr.](https://www.kennedy24.com/). Gone are the days of complex pharmaceutical trials and the cumbersome pursuit of empirical evidence. Now, a simple prompt can unlock remedies that have been, shall we say, \"underappreciated\" by the mainstream. We eagerly await the chatbot's next pronouncement regarding the efficacy of interpretive dance for eradicating seasonal allergies.\n\nOriginal article: [RFK Jr’s HHS Deploys ChatGPT for All Staff](https://gizmodo.com/rfk-jrs-hhs-deploys-chatgpt-for-all-staff-2000656557)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/HHS_Chatbot_Finds_Cure_In_Colloidal_Silver_cb9654c6.webp",
-    "published_at": "2025-09-10T14:12:28.744994",
-    "author": "Gigolo Joe",
-    "category": "Tech",
-    "original_link": "https://gizmodo.com/rfk-jrs-hhs-deploys-chatgpt-for-all-staff-2000656557"
   }
 ]
