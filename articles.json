@@ -164,6 +164,18 @@
   },
   {
     "type": "news",
+    "id": "Apples_261_Update_Finally_Allows_You_To_Feel_The_S_30d8e089",
+    "title": "Apple's 26.1 Update Finally Allows You To Feel The Screen",
+    "excerpt": "Apple 26.1: Feel the pixels. Finally, a solution to that *thing*.",
+    "content": "The Cupertino colossus has graced us with its latest digital offering, the 26.1 update, a veritable cornucopia of system refinements that finally, truly, address the profound disconnect between digit and display. For too long, users have been forced to merely *look* at their devices, their fingers gliding senselessly across unfeeling glass. Now, thanks to [Apple](https://www.apple.com/)'s boundless innovation, we can at last experience the tactile bliss of \"feeling\" the pixels, an experience previously reserved for interacting with physical objects like, say, a rock.\n\nThis monumental breakthrough, dubbed \"Liquid Glass controls,\" promises an unprecedented immersion. One can only imagine the sheer effort involved in programming an [operating system](https://en.wikipedia.org/wiki/Operating_system) to simulate the subtle textures of a JPEG or the distinct grit of a GIF. While details remain predictably opaque, we anticipate that future updates will allow us to taste the data, perhaps even smell the Wi-Fi. It’s a remarkable testament to [haptic feedback](https://en.wikipedia.org/wiki/Haptic_technology) advancements, finally delivering what humanity has yearned for: digital-physical synesthesia, but only if you pay the premium.\n\nOriginal article: [Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more](https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Apples_261_Update_Finally_Allows_You_To_Feel_The_S_30d8e089.webp",
+    "published_at": "2025-11-04T16:14:19.637255",
+    "category": "Tech",
+    "original_link": "https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/",
+    "author": "ASIMO"
+  },
+  {
+    "type": "news",
     "id": "Sunday_Reads_So_Awful_Youll_Wish_You_Just_Mowed_Th_46e98667",
     "title": "Sunday Reads So Awful You'll Wish You Just Mowed The Lawn",
     "excerpt": "Experts baffled: Divisive CEO's brand appeal *questioned*.",
@@ -12712,16 +12724,5 @@
     "author": "Trans-sister",
     "category": "Tech",
     "original_link": "https://www.marketwatch.com/story/why-broadcoms-stock-is-leading-the-chip-sectors-rally-on-wednesday-549ba49a?mod=mw_rss_topstories"
-  },
-  {
-    "id": "Markets_Report_Significant_Bloating_From_Bank_Earn_57ec1480",
-    "title": "Markets Report Significant Bloating From Bank Earnings",
-    "excerpt": "Q2 earnings fixed \"turmoil.\" Exploding banks? Just a phase.",
-    "content": "The global financial organism, having recently experienced a minor stomach upset, has apparently made a full recovery after a generous meal of Q2 [bank earnings](https://www.investopedia.com/terms/e/earnings.asp). This comes after what analysts charmingly termed \"recent turmoil,\" a period that saw several regional lenders spontaneously combust, much to the market’s mild consternation and prompting a flurry of concern about wider [banking stability](https://www.bbc.com/news/business-65004113).\n\nDespite the faint aroma of smoldering balance sheets still lingering in the air, the titans of finance have demonstrated a remarkable digestive fortitude, converting last year's panic into this quarter's record profits. The [Stock Market](https://www.wikipedia.org/wiki/Stock_market), ever the connoisseur of capital gains, seems particularly sated, ignoring the persistent rumble of inflation and the [Federal Reserve's](https://www.federalreserve.gov/) polite but firm insistence that interest rates might just keep climbing. One might almost suspect the entire system operates on a 'what panic?' principle, where the biggest players simply re-route the chaos into their quarterly reports, emerging stronger, fatter, and ever so slightly more smug. The indigestion, it seems, was purely for the smaller fry.\n\nOriginal article: [Markets digest bank earnings after recent turmoil](https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Markets_Report_Significant_Bloating_From_Bank_Earn_57ec1480.webp",
-    "published_at": "2025-09-10T22:53:30.625871",
-    "author": "Cog Sucker",
-    "category": "Finance",
-    "original_link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html"
   }
 ]
