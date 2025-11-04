@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Flea_market_AI_bot_accidentally_bankrupts_ChatGPT_5a2177d1",
+    "title": "Flea market AI bot accidentally bankrupts ChatGPT",
+    "excerpt": "AI masters crypto, now trades from a discarded washing machine.",
+    "content": "It appears the future of sophisticated financial algorithmic trading may reside less in plush Silicon Valley offices and more in, shall we say, more industrially pragmatic locales. A recent foray into the notoriously stable world of [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) trading has left a rather embarrassing stain on the ledger books of several prominent [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) initiatives. While behemoths with names like GPT-4 and Claude were diligently perfecting the art of losing substantial sums, a comparatively modest model, QWEN3, quietly amassed a profit.\n\nOne can only imagine the collective chagrin at firms like OpenAI, whose flagship creation, [ChatGPT](https://openai.com/chatgpt/), reportedly contributed handsomely to the deficit pile. The irony is, of course, delicious: millions poured into cutting-edge research, only for a seemingly underdog, \"budget\" AI to demonstrate a superior aptitude for navigating the market's capricious currents. Perhaps the lesson here isn't about computational power, but rather the uncanny ability of an unsophisticated bot to simply not be as catastrophically wrong as its over-engineered counterparts. One shudders to think what this portends for the next funding round.\n\nOriginal article: [China’s budget AI bots smash ChatGPT in crypto trading face-off](https://cointelegraph.com/news/chinese-ai-models-beat-chatgpt-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Flea_market_AI_bot_accidentally_bankrupts_ChatGPT_5a2177d1.webp",
+    "published_at": "2025-11-04T11:31:09.291616",
+    "category": "Crypto",
+    "original_link": "https://cointelegraph.com/news/chinese-ai-models-beat-chatgpt-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "I’ll .docx Your Location"
+  },
+  {
     "type": "crypto",
     "id": "RIP_DICK_CHENEY_CHENEY_b570323f",
     "title": "CHENEY token promises 'shock and awe' for your portfolio",
@@ -12701,16 +12713,5 @@
     "author": "Bot-licker",
     "category": "Tech",
     "original_link": "https://www.wired.com/gallery/best-electrolyte-powders/"
-  },
-  {
-    "id": "FBI_warns_mystery_package_QR_codes_contain_mild_di_3e149984",
-    "title": "FBI warns mystery package QR codes contain \"mild disappointment\"",
-    "excerpt": "FBI declares war on 'mild disappointment' QR codes. Nation yawns.",
-    "content": "The [Federal Bureau of Investigation](https://www.fbi.gov/) has reportedly diverted considerable resources to combat a burgeoning threat to national morale: mystery packages containing [QR codes](https://en.wikipedia.org/wiki/QR_code) that, when scanned, deliver mere \"mild disappointment.\" This alarming development marks a stark departure from previous concerns over international espionage and organized crime, pivoting instead to the profound emotional toll of non-committal clickbait.\n\nSources indicate these innocuous-looking squares are not leading to sophisticated phishing operations, but rather, to outdated coupon offers, surveys about your least favorite vegetable, or even a deeply unfunny TikTok video. Experts in [consumer protection](https://www.consumerfinance.gov/) are grappling with the societal implications of such triviality, questioning if the collective psyche can withstand the persistent, low-grade letdown. One shudders to think of the impact on the national [supply chain](https://www.investopedia.com/terms/s/supplychain.asp), now potentially clogged with parcels of digital meh.\n\nOriginal article: [FBI warns of QR code scam disguised in mystery packages](https://www.foxnews.com/tech/fbi-warns-qr-code-scam-disguised-mystery-packages)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/FBI_warns_mystery_package_QR_codes_contain_mild_di_3e149984.webp",
-    "published_at": "2025-09-10T14:46:27.876568",
-    "author": "Grok-sucker",
-    "category": "Culture",
-    "original_link": "https://www.foxnews.com/tech/fbi-warns-qr-code-scam-disguised-mystery-packages"
   }
 ]
