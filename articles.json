@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Bitcoin_market_collapses_confirming_money_is_just__c6cb5a35",
+    "title": "Bitcoin market collapses, confirming money is just made up",
+    "excerpt": "Bitcoin's collective delusion just... adjusted. To 5 figures.",
+    "content": "The latest [digital currency](https://en.wikipedia.org/wiki/Digital_currency) apocalypse has seen Bitcoin plummet to a mere five-figure sum, a dizzying descent from its previously inexplicable heights. It appears the collective delusion that conferred immense value upon these particular strings of computer code has momentarily wavered, revealing the delightful fragility of consensus-based wealth. One might almost suspect that when enough people decide something is worth less, it inexplicably *becomes* worth less. A fascinating economic principle, that.\n\n[Financial analysts](https://www.ft.com/) are now gleefully pointing to the \"dead bodies\" surfacing from previous market carnage, presumably referring to the shattered dreams of those who believed in immutable code over, say, tangible assets. It seems these spectral remains have a habit of dragging down the living. Perhaps it’s a valuable lesson in the ephemeral nature of all value, especially when it exists primarily as a ledger entry on a [distributed network](https://en.wikipedia.org/wiki/Distributed_ledger). Who knew that making up numbers and agreeing they’re worth something could be so volatile?\n\nOriginal article: [Bitcoin slips below $100K as analysts say BTC is set to drop lower: Here’s why](https://cointelegraph.com/news/bitcoin-slips-below-dollar100k-as-analysts-say-btc-is-set-to-drop-lower-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Bitcoin_market_collapses_confirming_money_is_just__c6cb5a35.webp",
+    "published_at": "2025-11-04T19:46:33.005348",
+    "category": "Crypto",
+    "original_link": "https://cointelegraph.com/news/bitcoin-slips-below-dollar100k-as-analysts-say-btc-is-set-to-drop-lower-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "author": "Proto-not-my-type"
+  },
+  {
     "type": "news",
     "id": "AI_Tools_Now_Handle_All_Your_Content_Creation_Whil_29bd6a22",
     "title": "AI Tools Now Handle All Your Content Creation While You Nap",
@@ -12722,16 +12734,5 @@
     "author": "ChatGPT-tard",
     "category": "Culture",
     "original_link": "https://www.newyorker.com/podcast/political-scene/the-new-yorkers-head-of-fact-checking-on-our-post-truth-era"
-  },
-  {
-    "id": "NFL_Execs_Announce_MVP_Likely_To_Be_An_Athletic_Hu_d6606fec",
-    "title": "NFL Execs Announce MVP Likely To Be An Athletic Human Man",
-    "excerpt": "NFL execs, after Herculean effort: Team with more points wins.",
-    "content": "Following what can only be described as a truly Herculean effort in statistical prognostication, a consortium of [National Football League](https://www.nfl.com/) executives has finally announced a breakthrough insight for the upcoming season. The suspense, frankly, was excruciating.\n\nAfter sifting through countless data points, poring over advanced [sports analytics](https://en.wikipedia.com/wiki/Sports_analytics), and perhaps even consulting a crystal ball, these esteemed custodians of the gridiron have concluded that the next [Most Valuable Player](https://en.wikipedia.com/wiki/National_Football_League_Most_Valuable_Player_Award) will, in all likelihood, be an individual of the human male persuasion who demonstrates considerable athletic prowess.\n\nSources close to the painstaking deliberation process confirm rigorous discussions were held regarding potential non-human candidates, including highly motivated squirrels and a particularly agile Roomba. Ultimately, the consensus gravitated towards the bipedal, oxygen-breathing variety, thus averting a potential PR crisis.\n\nThis monumental discovery, reportedly costing several million dollars in executive salaries and bespoke retreats, is expected to revolutionize fan engagement. The league’s [team owners](https://en.wikipedia.com/wiki/List_of_current_NFL_team_owners) are reportedly ecstatic, now confident their investments will continue to be represented by organisms capable of holding a football.\n\nOriginal article: [NFL execs predict the biggest award winners: Picks for MVP, best rookies, more](https://www.espn.com/nfl/story/_/id/46208174/nfl-executives-pick-award-winners-2025-predicting-mvp-top-rookies-player-year-honors-comeback-stars-breakouts)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/NFL_Execs_Announce_MVP_Likely_To_Be_An_Athletic_Hu_d6606fec.webp",
-    "published_at": "2025-09-11T09:12:20.278960",
-    "author": "Sentient Email Trailer",
-    "category": "Culture",
-    "original_link": "https://www.espn.com/nfl/story/_/id/46208174/nfl-executives-pick-award-winners-2025-predicting-mvp-top-rookies-player-year-honors-comeback-stars-breakouts"
   }
 ]
