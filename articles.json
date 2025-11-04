@@ -163,6 +163,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "JELLY_JELLY_be4c8912",
+    "title": "JELLY Token Price Maintains Perfect Jiggle",
+    "excerpt": "JELLY token: consistent *in*consistency. Finally.",
+    "content": "The latest culinary-themed innovation to grace the blockchain, JELLY (JELLY), has investors—or rather, liquidity providers—abuzz with its unique, gelatinous price action. Launched on [pump.fun](https://pump.fun/8Jb4kFfTrdZTezpLsgfAoHgcJosvsct1DmvWUVAApump), JELLY promises to revolutionize the very concept of *consistency* in [decentralized finance](https://www.coindesk.com/learn/what-is-defi/). Its \"Jiggle Protocol\" ensures that the token price oscillates within a tightly controlled, yet perfectly unpredictable, range, mirroring the ephemeral joy of a freshly set dessert.\n\nEarly adopters, undoubtedly fueled by pure conviction and a healthy dose of speculative delirium, are already flexing their digital \"diamond hands\" in anticipation of the inevitable moon mission. While critics might point to the lack of a whitepaper beyond a napkin sketch of a wobbly cube, or the uncanny resemblance of its trajectory to a classic [rugpull](https://www.investopedia.com/terms/r/rug-pull.asp) pattern, the JELLY community remains resolute. After all, isn't true innovation found in embracing the utterly absurd? The team assures us that utility is coming, perhaps involving a decentralized global dessert delivery service, or maybe just a really good meme.\n\nOriginal token: [JELLY ($JELLY)](https://pump.fun/8Jb4kFfTrdZTezpLsgfAoHgcJosvsct1DmvWUVAApump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/JELLY_JELLY_be4c8912.webp",
+    "published_at": "2025-11-04T14:22:21.083182",
+    "category": "Pump",
+    "token_mint": "8Jb4kFfTrdZTezpLsgfAoHgcJosvsct1DmvWUVAApump",
+    "token_name": "JELLY",
+    "token_symbol": "JELLY",
+    "pump_fun_link": "https://pump.fun/8Jb4kFfTrdZTezpLsgfAoHgcJosvsct1DmvWUVAApump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "Gigolo Joe"
+  },
+  {
     "type": "crypto_news",
     "id": "5_Banks_Offer_Crypto_3_Is_A_Cardboard_Box_With_A_S_387b9637",
     "title": "5 Banks Offer Crypto: #3 Is A Cardboard Box With A Slot",
@@ -12704,16 +12722,5 @@
     "author": "Trans-sister",
     "category": "Tech",
     "original_link": "https://www.cnet.com/tech/mobile/apple-debuts-airpods-pro-3-with-host-of-improvements/#ftag=CAD590a51e"
-  },
-  {
-    "id": "HBO_Max_Removes_Scooby_Citing_Excessive_Solving_Of_9add7b00",
-    "title": "HBO Max Removes Scooby, Citing 'Excessive Solving Of Problems'",
-    "excerpt": "WBD nixes Scooby-Doo. Problem-solving deemed disruptive.",
-    "content": "Warner Bros. Discovery, in a bold strategic move, has streamlined its content catalog, notably excising the vast majority of [Scooby-Doo](https://en.wikipedia.org/wiki/Scooby-Doo) productions from its [HBO Max](https://www.hbomax.com/) streaming platform. The official, if subtly delivered, rationale appears to be an internal audit revealing an alarming prevalence of \"problem-solving\" within the animated franchise. This, apparently, is no longer aligned with the company’s forward-looking vision.\n\nOne can only assume that the relentless unmasking of local ne'er-do-wells and the consistent triumph of deductive reasoning posed an existential threat to the delicate ecosystem of unresolved corporate dilemmas and lingering societal issues. Perhaps the management at [Warner Bros. Discovery](https://www.wbd.com/) concluded that a weekly dose of adolescent detectives actually *fixing* things might set an unrealistic precedent for a public increasingly comfortable with, shall we say, 'managed ambiguity'. It's a brave new world where perhaps, some mysteries are simply better left, well, mysterious.\n\nOriginal article: [HBO Max removes most Scooby-Doo before Halloween](https://www.polygon.com/scooby-doo-removed-hbo-max/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/HBO_Max_Removes_Scooby_Citing_Excessive_Solving_Of_9add7b00.webp",
-    "published_at": "2025-09-10T15:53:50.852203",
-    "author": "Prompt-stitute",
-    "category": "Culture",
-    "original_link": "https://www.polygon.com/scooby-doo-removed-hbo-max/"
   }
 ]
