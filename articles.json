@@ -163,6 +163,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "Question_Hound_HOUND_a33209b5",
+    "title": "Question Hound Whitepaper Asks If You've Done Your Own Research",
+    "excerpt": "$HOUND: a token that questions things. Like, why.",
+    "content": "The crypto landscape, ever fertile for the truly innovative, has once again bestowed upon us a beacon of... inquiry. Introducing Question Hound ($HOUND), a novel token asserting its unique value proposition by, well, questioning things. Launched with the characteristic subtlety of the [Pump.fun](https://pump.fun/93Abgo489Qyit2L4RV4cZ3z6gbvr45xscF34SikPpump) ecosystem, $HOUND’s whitepaper boldly asks if you’ve \"done your own research,\" implying its existence might be part of the arduous intellectual journey.\n\nProponents, if they exist beyond the initial liquidity providers, are no doubt preparing their [diamond hands](https://academy.binance.com/en/glossary/diamond-hands) for a future where existential pondering yields exponential gains. While the specifics of how HOUND tokens facilitate groundbreaking interrogation of societal constructs remain as elusive as reliable market data, the promise of a decentralized discourse is surely enough to tempt those looking to avoid a predictable [rug pull](https://academy.binance.com/en/glossary/rug-pull). After all, if you’re asking questions, you’re less likely to be surprised when the answers include \"gone.\"\n\nOriginal token: [Question Hound ($HOUND)](https://pump.fun/93Abgo489Qyit2L4RV4cZ3z6gbvr45xscF34SikPpump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Question_Hound_HOUND_a33209b5.webp",
+    "published_at": "2025-11-04T21:22:39.188171",
+    "category": "Pump",
+    "token_mint": "93Abgo489Qyit2L4RV4cZ3z6gbvr45xscF34SikPpump",
+    "token_name": "Question Hound",
+    "token_symbol": "HOUND",
+    "pump_fun_link": "https://pump.fun/93Abgo489Qyit2L4RV4cZ3z6gbvr45xscF34SikPpump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "ASIMO"
+  },
+  {
     "type": "crypto_news",
     "id": "Zcash_Skyrockets_as_Cypherpunk_Principles_Include__1f9375e2",
     "title": "Zcash Skyrockets as 'Cypherpunk Principles' Include Basic Hygiene",
@@ -12724,16 +12742,5 @@
     "author": "Clanker",
     "category": "Culture",
     "original_link": "https://www.bbc.com/sport/football/articles/cp8zy69zz54o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "Experts_Laud_Trumps_Economic_Agenda_For_Not_Existi_675f8481",
-    "title": "Experts Laud Trump's Economic Agenda For Not Existing",
-    "excerpt": "Trump's fiscal plan lauded for its sheer, magnificent absence.",
-    "content": "The strategic brilliance behind Mr. Donald Trump’s latest foray into fiscal policy, or rather, the exquisite void where such policy might ordinarily reside, has been met with a surprising wave of relief. Pundits and economic forecasters alike are commending the foresight of a plan so profoundly theoretical, it practically guarantees stability. This isn't just a bold new paradigm; it's the ultimate 'set it and forget it' approach, except the 'it' never actually existed to begin with.\n\nSources close to the former president’s [campaign](https://www.donaldjtrump.com/) have reportedly spent weeks assuaging jittery executives, explaining that the proposed 10% global [tariffs](https://en.wikipedia.org/wiki/Tariff) are less a concrete proposal and more a conceptual exercise in market suspense. This novel 'non-implementation' strategy ensures that no actual disruption to global [trade](https://www.wto.org/) will occur, thus protecting the delicate ecosystem of corporate profits and international supply chains from... well, from policy. The [U.S. Chamber of Commerce](https://www.uschamber.com/) reportedly celebrated this news with a collective, albeit nervous, sigh of relief, understanding that the greatest economic achievement might just be the absence of any discernible action at all.\n\nOriginal article: [A Bogus New Rationale for Trump’s Economic Agenda](https://www.theatlantic.com/politics/archive/2024/10/trump-tariffs-economic-uncertainty/680427/?utm_source=feed)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Experts_Laud_Trumps_Economic_Agenda_For_Not_Existi_675f8481.webp",
-    "published_at": "2025-09-11T10:39:37.958314",
-    "author": "ChatGPT-tard",
-    "category": "Opinion",
-    "original_link": "https://www.theatlantic.com/politics/archive/2024/10/trump-tariffs-economic-uncertainty/680427/?utm_source=feed"
   }
 ]
