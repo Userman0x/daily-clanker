@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "iOS_262_Adds_Option_to_Adjust_Glow_of_Liquid_Glass_a15fe896",
+    "title": "iOS 26.2 Adds Option to Adjust Glow of Liquid Glass By 0.001%",
+    "excerpt": "iOS 26.2: 0.001% brighter screen, mind blown.",
+    "content": "The recent rollout of [iOS](https://en.wikipedia.org/wiki/IOS) 26.2 has once again redefined the boundaries of human-device interaction, primarily through its groundbreaking ability to fine-tune the luminosity of your device’s Liquid Glass by a barely perceptible 0.001 percent. Industry insiders are reportedly agog at the meticulous calibration required to offer such an infinitesimally precise adjustment, an engineering feat that surely demanded the combined intellect of generations of developers. One shudders to think of the computational cycles diverted from, say, curing the common cold, all to ensure your digital screen emits a glow that is, by scientific consensus, indistinguishable from its previous setting.\n\nSources close to [Apple](https://www.apple.com/) suggest this update marks a pivotal moment, empowering users to wrestle unprecedented control over the existential dread emanating from their handheld rectangles. No longer must we passively accept a mere 0.002% glow variation; true digital sovereignty, it seems, hinges on our capacity to discern shades of virtual light imperceptible to the human eye. Critics, however, are already wondering when the company plans to address the pressing issue of whether we can next alter the subtle curvature of the on-screen dust particle animations by 0.00001 degrees. The future, clearly, is in the details we cannot see.\n\nOriginal article: [All the New Features Coming to iOS 26.2](https://lifehacker.com/tech/new-features-coming-to-ios-262?utm_medium=RSS)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/iOS_262_Adds_Option_to_Adjust_Glow_of_Liquid_Glass_a15fe896.webp",
+    "published_at": "2025-11-05T11:56:45.584725",
+    "category": "Tech",
+    "original_link": "https://lifehacker.com/tech/new-features-coming-to-ios-262?utm_medium=RSS",
+    "author": "Short-circuited"
+  },
+  {
     "type": "crypto_news",
     "id": "NYC_Mayor_Thanks_Inscrutable_Blockchain_Oracle_For_c028a9c1",
     "title": "NYC Mayor Thanks Inscrutable Blockchain Oracle For Victory",
@@ -12753,16 +12765,5 @@
     "author": "Airplane Mode",
     "category": "Culture",
     "original_link": "https://sports.yahoo.com/article/nfl-week-2-picks-packers-100000426.html"
-  },
-  {
-    "id": "Study_Finds_Board_Members_Just_Really_Good_At_Sitt_c9666da6",
-    "title": "Study Finds Board Members Just Really Good At Sitting Down",
-    "excerpt": "Latest skill for boards: expert buttock deployment.",
-    "content": "It appears the arduous journey to a coveted [board of directors](https://en.wikipedia.org/wiki/Board_of_directors) seat is less about visionary leadership and more about a remarkable talent for passive occupation of space. Recent findings, as hinted by a popular business podcast, suggest that the most successful candidates for these influential positions possess an innate ability to sit down with conviction. The eight luminaries who shared their wisdom revealed a fascinating path to the summit of corporate power, seemingly paved with carefully selected ergonomic seating and a robust schedule of scheduled appearances.\n\nTheir newfound \"confidence,\" one might surmise, stems less from any demonstrable personal growth and more from the sheer gravitational pull of an annual [executive compensation](https://www.forbes.com/advisor/business/executive_compensation_guide/) package. The \"impact\" they so readily claim to make, therefore, largely revolves around maintaining the precise temperature of their expensive office furniture and ensuring the ongoing health of their own stock options, all in the noble pursuit of [shareholder value](https://en.wikipedia.org/wiki/Shareholder_value). This dedication to [corporate governance](https://www.oecd.org/corporate/principles_of_corporate_governance) truly redefines what it means to be a pillar of industry. The mere act of showing up, it seems, is a full-time job for which the market, quite generously, pays millions.\n\nOriginal article: [What It Takes to Join Your First Board](https://hbr.org/podcast/2025/09/what-it-takes-to-join-your-first-board)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Study_Finds_Board_Members_Just_Really_Good_At_Sitt_c9666da6.webp",
-    "published_at": "2025-09-11T12:17:22.070030",
-    "author": "M3GAN",
-    "category": "Business",
-    "original_link": "https://hbr.org/podcast/2025/09/what-it-takes-to-join-your-first-board"
   }
 ]
