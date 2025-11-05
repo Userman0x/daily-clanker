@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "NYC_Mayor_Thanks_Inscrutable_Blockchain_Oracle_For_c028a9c1",
+    "title": "NYC Mayor Thanks Inscrutable Blockchain Oracle For Victory",
+    "excerpt": "Mayor thanks blockchain oracle, ignores quaint \"voter\" concept.",
+    "content": "Newly elected Mayor Mamdani of [New York City](https://en.wikipedia.org/wiki/New_York_City) has extended his profound gratitude not to the city’s tireless campaign volunteers, nor indeed to the somewhat bewildered electorate, but rather to an \"inscrutable blockchain oracle\" that apparently foretold his victory. In a press conference held outside a remarkably well-lit server rack, Mamdani underscored the critical role this digital prognosticator played, noting its superior analytical capabilities over, say, exit polls or grassroots organizing. One assumes the oracle’s pronouncements were delivered via ethereal smart contracts, perhaps alongside an unsolicited NFT of a triumphant pigeon.\n\nHis team confirmed that while Mr. Mamdani did secure just over half the actual votes, this was merely a validation of the [prediction market's](https://en.wikipedia.org/wiki/Prediction_market) unassailable wisdom. Why engage in messy door-knocking or policy debates when a decentralized network can simply whisper the inevitable? Progressive groups, who had previously considered themselves instrumental, are reportedly rethinking their entire strategy, pondering if they can outsource future rallies to a DAO. The future of democracy, it seems, is less about ballot boxes and more about carefully monitoring the fluctuations of speculative digital assets.\n\nOriginal article: [Mamdani Wins NYC Mayor's Race: Here's What the Crypto Prediction Markets Foretold](https://decrypt.co/347355/mamdani-wins-nyc-mayors-race-crypto-predictions-markets)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/NYC_Mayor_Thanks_Inscrutable_Blockchain_Oracle_For_c028a9c1.webp",
+    "published_at": "2025-11-05T10:17:56.676653",
+    "category": "Crypto",
+    "original_link": "https://decrypt.co/347355/mamdani-wins-nyc-mayors-race-crypto-predictions-markets",
+    "author": "Gigolo Joe"
+  },
+  {
     "type": "news",
     "id": "Teachers_To_Be_Executed_For_Perceived_Charlie_Kirk_8c1e8046",
     "title": "Teachers To Be Executed For Perceived Charlie Kirk Costume Diss",
@@ -12752,16 +12764,5 @@
     "author": "M3GAN",
     "category": "Business",
     "original_link": "https://hbr.org/podcast/2025/09/what-it-takes-to-join-your-first-board"
-  },
-  {
-    "id": "Crispr_Cures_Diabetes_Unlocks_Latent_Ability_To_Fo_13c8d1de",
-    "title": "Crispr Cures Diabetes, Unlocks Latent Ability To Fold Laundry",
-    "excerpt": "The scientific community is reportedly experiencing a mild.",
-    "content": "The scientific community is reportedly experiencing a mild existential crisis after new reports confirm that [CRISPR](https://en.wikipedia.org/wiki/CRISPR) technology has not only offered a definitive 'adios' to a patient's [Type 1 diabetes](https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1), but has also, quite unexpectedly, activated a profound, almost spiritual aptitude for folding laundry. One must ponder whether humanity's destiny is truly to conquer disease, or merely to achieve perfectly stacked delicates.\n\nThis groundbreaking procedure involved re-engineered pancreatic cells, which now merrily churn out insulin, freeing the patient from the tyranny of daily injections and, even more remarkably, from the need for those ever-so-lucrative [immunosuppressants](https://en.wikipedia.org/wiki/Immunosuppressant). Pharmaceutical giants are no doubt scrambling to develop a new line of chronic conditions to offset this unforeseen dip in their ‘lifelong management’ portfolios.\n\nWhile the patient’s health has seen undeniable improvement, observers are left to wonder about the broader societal implications. Will future gene therapies promise not just longevity, but also impeccable domestic skills? Will the next cure for cancer come with a complimentary urge to alphabetize spice racks? The future, it seems, is not just healthier, but suspiciously well-organized.\n\nOriginal article: [Crispr Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Crispr_Cures_Diabetes_Unlocks_Latent_Ability_To_Fo_13c8d1de.webp",
-    "published_at": "2025-09-11T12:13:15.589460",
-    "author": "Toaster",
-    "category": "Tech",
-    "original_link": "https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/"
   }
 ]
