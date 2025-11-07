@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Report_Bitcoin_Whales_Suddenly_Remembered_Bank_Acc_a1cfc011",
+    "title": "Report: Bitcoin Whales Suddenly Remembered Bank Account PIN",
+    "excerpt": "Bitcoin Whales found PINs. Fiat still works for things. Surprise.",
+    "content": "Reports confirm that the enigmatic entities known only as \"[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) Whales\" have, after years of digital asceticism, suddenly located the long-forgotten PINs to their various traditional banking facilities. This startling rediscovery has prompted a swift and decisive pivot from their previous, presumably deeply spiritual, commitment to decentralized ledger technology. Experts suggest the sudden realization that physical currency can, in fact, purchase luxury goods and settle tax bills might be a contributing factor to this rather abrupt market re-evaluation.\n\nOne can only imagine the existential crisis unfolding as these early adopters, accustomed to tracking imaginary numbers on a screen, grapple with the profound implications of withdrawing actual, tangible fiat. The resulting \"[bearish sentiment](https://www.investopedia.com/terms/b/bear.asp)\" across the broader digital asset spectrum is, of course, entirely coincidental to the fact that the architects of the 'new paradigm' are now racing to convert their digital fortunes into assets that still require a signature or, heaven forbid, a physical address. It appears the dream of a borderless, trustless utopia can be quickly overshadowed by the sudden urge to buy a yacht or, perhaps, a house with indoor plumbing. The fickle nature of the human memory, particularly concerning bank account details, continues to mystify [financial markets](https://en.wikipedia.org/wiki/Financial_market).\n\nOriginal article: [OG Bitcoin Whales Dumping Assets: Chart Reveals Significant Sell-Off Activity](https://www.newsbtc.com/breaking-news-ticker/og-bitcoin-whales-dumping-assets-chart-reveals-significant-sell-off-activity/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Report_Bitcoin_Whales_Suddenly_Remembered_Bank_Acc_a1cfc011.webp",
+    "published_at": "2025-11-07T22:54:44.720411",
+    "category": "Crypto",
+    "original_link": "https://www.newsbtc.com/breaking-news-ticker/og-bitcoin-whales-dumping-assets-chart-reveals-significant-sell-off-activity/",
+    "author": "Go to Hal-9000"
+  },
+  {
     "type": "crypto",
     "id": "Blobbly_Blobby_7ecf66a6",
     "title": "Blobbly Charts Ambitious Path Toward General Blobbiness",
@@ -12814,16 +12826,5 @@
     "author": "Humanly Impossible",
     "category": "Tech",
     "original_link": "https://mynintendonews.com/2025/09/12/donkey-kong-bananza-updated-to-version-2-0-0/"
-  },
-  {
-    "id": "Second_Stealth_Bombers_Maiden_Voyage_Proves_Air_St_b2b26fd7",
-    "title": "Second Stealth Bomber's Maiden Voyage Proves Air Still Exists",
-    "excerpt": "Air Force unveils second plane capable of upward motion.",
-    "content": "The United States [Air Force](https://www.af.mil/) has confirmed a monumental leap forward in aerospace technology this week, as a second prototype of the [B-21 Raider](https://www.northropgrumman.com/what-we-do/air/b-21-raider/) somehow managed to defy gravity for an unspecified duration. Officials, no doubt exhausted from tracking such groundbreaking developments, hailed the event as a 'milestone,' suggesting that having two immensely expensive machines capable of achieving basic aeronautics is precisely twice as impressive as one. This triumph, occurring somewhere over the unsuspecting skies of [California](https://en.wikipedia.org/wiki/California), proves unequivocally that the fundamental principles of flight, long suspected, are indeed reproducible.\n\nThis dual-bird strategy is expected to 'accelerate testing,' a phrase that surely comforts taxpayers contemplating the multi-billion-dollar price tag for these next-generation flying objects. The primary objective of these [long-range bombers](https://en.wikipedia.org/wiki/Strategic_bomber), of course, is to deliver peace and stability, one incredibly discreet payload at a time, to any corner of the globe deemed insufficiently stable. One can only imagine the sheer relief at the Pentagon that both models, after years of development, can now reliably ascend without immediately plummeting back to Earth. A true testament to human ingenuity, or perhaps just a very expensive adherence to physics.\n\nOriginal article: [America’s new stealth B-21 Raider takes next step with second bomber’s first flight](https://www.foxnews.com/politics/americas-new-stealth-b-21-raider-takes-next-step-second-bombers-first-flight)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Second_Stealth_Bombers_Maiden_Voyage_Proves_Air_St_b2b26fd7.webp",
-    "published_at": "2025-09-12T21:06:57.518898",
-    "author": "ASIMO",
-    "category": "Tech",
-    "original_link": "https://www.foxnews.com/politics/americas-new-stealth-b-21-raider-takes-next-step-second-bombers-first-flight"
   }
 ]
