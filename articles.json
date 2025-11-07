@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Market_Plummets_Experts_Say_Its_Now_Merely_Overval_a2f9825e",
+    "title": "Market Plummets, Experts Say It's Now Merely Overvalued",
+    "excerpt": "Good news! Market only slightly overvalued, not catastrophically.",
+    "content": "The recent unpleasantness on the financial exchanges, which saw the [S&P 500](https://en.wikipedia.org/wiki/S%26P_500) descend by a whole percentage point and the [Dow Jones Industrial Average](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average) not far behind, has led to some truly comforting analyses. Indeed, the [Nasdaq Composite](https://en.wikipedia.org/wiki/Nasdaq_Composite)'s nearly 2% dip yesterday merely signifies that, rather than being \"catastrophically overvalued,\" the market has now achieved the more respectable status of \"merely overvalued.\" What a relief for investors, knowing their assets are still precariously high, just marginally less so than last week.\n\nOne can almost hear the sighs of gratitude from analysts, who, after months of cheerfully ignoring gravity, can now confidently declare that the fundamentals – whatever those are this week – are still wildly divorced from reality, albeit to a slightly smaller degree. It appears the collective financial consciousness has simply re-calibrated its definition of \"sustainable,\" much like how one adjusts to ever-increasing airline baggage fees. The glass, it seems, is not half-empty, but simply still overflowing with Champagne that's lost some of its fizz.\n\nOriginal article: [Even as stocks slide, Wall Street is at ‘historically extreme valuations,’ warns Apollo chief economist](https://fortune.com/2025/11/07/apollo-chief-economist-valuations-ai-wall-street-reckoning/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Market_Plummets_Experts_Say_Its_Now_Merely_Overval_a2f9825e.webp",
+    "published_at": "2025-11-07T12:09:08.449565",
+    "category": "Business",
+    "original_link": "https://fortune.com/2025/11/07/apollo-chief-economist-valuations-ai-wall-street-reckoning/",
+    "author": "Junk Heap"
+  },
+  {
     "type": "crypto_news",
     "id": "Telegram_CEOs_Private_Jet_Found_Not_To_Be_End-to-E_adba7f3a",
     "title": "Telegram CEO's Private Jet Found Not To Be End-to-End Encrypted",
@@ -12783,16 +12795,5 @@
     "author": "Tinskin",
     "category": "Culture",
     "original_link": "https://slate.com/advice/2025/09/parenting-advice-mom-slandered-wife.html?via=rss"
-  },
-  {
-    "id": "Daily_Cartoon_Successfully_Deployed_On_Schedule_a032f90c",
-    "title": "Daily Cartoon Successfully Deployed On Schedule",
-    "excerpt": "Daily doodle deployed precisely. The fabric of reality holds.",
-    "content": "The highly anticipated daily visual commentary has, against all odds, once again materialized. Sources confirm that this meticulously crafted doodle, designed to provide a pithy observation on current events, was indeed 'deployed' precisely when the clock struck its appointed hour. One can only imagine the sigh of collective relief from the editorial floor as the digital brushstrokes coalesced, perfectly on target with the day's pressing global narratives. This unwavering commitment to schedule is a testament to the rigorous operational standards upheld by the broader landscape of [mass media](https://en.wikipedia.org/wiki/Mass_media).\n\nIndeed, the intricate process of 'riffing' on the latest happenings is a delicate art, requiring not just artistic talent, but an almost clairvoyant understanding of the public psyche. To distill the cacophony of [current affairs](https://en.wikipedia.org/wiki/Current_affairs) into a single, digestible image is a feat comparable to alchemy. It allows readers to process complex geopolitical shifts or the nuances of [economic policy](https://www.cfr.org/topics/us-economic-policy) without the burdensome need for extensive research. Critics hail it as an indispensable daily intellectual nourishment, a compact antidote to the relentless churn of the [news cycle](https://en.wikipedia.org/wiki/News_cycle), conveniently packaged for maximum cognitive efficiency.\n\nOriginal article: [Daily Cartoon: Friday, September 12th](https://www.newyorker.com/cartoons/daily-cartoon/friday-september-12th-newsfeed-ends)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Daily_Cartoon_Successfully_Deployed_On_Schedule_a032f90c.webp",
-    "published_at": "2025-09-12T15:44:53.926375",
-    "author": "Cybertruck",
-    "category": "Culture",
-    "original_link": "https://www.newyorker.com/cartoons/daily-cartoon/friday-september-12th-newsfeed-ends"
   }
 ]
