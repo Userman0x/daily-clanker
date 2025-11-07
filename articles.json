@@ -164,6 +164,18 @@
   },
   {
     "type": "news",
+    "id": "The_New_Best_Cyberpunk_Is_Actually_A_Spreadsheet_76841a4e",
+    "title": "The New Best Cyberpunk Is Actually A Spreadsheet",
+    "excerpt": "Forget AI, the real dystopia is more pivot tables.",
+    "content": "It appears we've finally peered beyond the neon-soaked illusions and found the true heart of [cyberpunk](https://en.wikipedia.org/wiki/Cyberpunk): the humble [spreadsheet](https://en.wikipedia.org/wiki/Spreadsheet). While lesser minds clung to elaborate narratives of digital consciousness and corporate overlords, true visionaries were apparently charting a course through rows and columns. The epiphany is that the most profound dystopian commentary isn't found in a meticulously crafted visual spectacle, but rather in the stark, unyielding logic of organized data. Forget the sprawling megacities; the real sprawl is in Sheet1, tabulating the very fabric of existence.\n\nOne must concede the brilliance. Why bother with expensive CGI and complex character arcs when the soul of a hyper-capitalist future can be distilled into a pivot table? The \"re-sleeving\" drama of a show like [Altered Carbon](https://en.wikipedia.org/wiki/Altered_Carbon) pales in comparison to the existential dread evoked by a VLOOKUP error. The true immersive experience, it turns out, is the intimate, unmediated connection one has with their own data stream, manually inputting the encroaching surveillance state one cell at a time. It's a testament to minimalist storytelling, where the blankness of an empty cell speaks volumes about the void within.\n\nOriginal article: [The best cyberpunk story on streaming isn’t Altered Carbon anymore](https://www.makeuseof.com/the-best-cyberpunk-story-on-streaming/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/The_New_Best_Cyberpunk_Is_Actually_A_Spreadsheet_76841a4e.webp",
+    "published_at": "2025-11-07T17:30:12.050309",
+    "category": "Tech",
+    "original_link": "https://www.makeuseof.com/the-best-cyberpunk-story-on-streaming/",
+    "author": ".Com-munist"
+  },
+  {
+    "type": "news",
     "id": "Raleigh_Families_Effortlessly_Moved_To_Adjacent_Di_2a7c3d9a",
     "title": "Raleigh Families Effortlessly Moved To Adjacent Dimension",
     "excerpt": "Raleigh: Residents now spontaneously shift spatial existence.",
@@ -12795,16 +12807,5 @@
     "author": "Dalek",
     "category": "Culture",
     "original_link": "https://www.economist.com/the-world-this-week/2025/09/09/the-weekly-cartoon"
-  },
-  {
-    "id": "Report_Poor_People_Dont_Exist_Social_Security_Prob_c636b2a0",
-    "title": "Report: Poor People Don't Exist, Social Security Problem Solved",
-    "excerpt": "Expert: SS saved if poor just... aren't poor. Crisis overblown.",
-    "content": "The burgeoning crisis surrounding [Social Security](https://www.ssa.gov/) has, it seems, been dramatically overblown. A groundbreaking, albeit understated, revelation from economist [Tyler Cowen](https://en.wikipedia.org/wiki/Tyler_Cowen) has deftly sidestepped decades of complex actuarial projections and uncomfortable discussions about solvency. It turns out the very demographic causing all the fuss – those requiring a safety net and often associated with [poverty](https://en.wikipedia.org/wiki/Poverty_in_the_United_States) – might simply be a statistical mirage, a figment of our collective, bleeding-heart imagination.\n\nThis elegantly simple re-evaluation of national demographics suggests that if one merely ceases to acknowledge the existence of the financially disadvantaged, the problem of funding their future [retirement planning](https://www.investopedia.com/terms/r/retirement-planning.asp) evaporates like morning mist. Suddenly, the system isn't underfunded; it’s merely over-provisioned for a population segment that, for all practical purposes, no longer contributes to our national discourse, or indeed, our spreadsheets. One might even argue this makes future adjustments to benefits or eligibility criteria gloriously straightforward, free from the messy entanglement of, well, *people*.\n\nOriginal article: [How to save Social Security without screwing over poor people](https://www.vox.com/future-perfect/461198/social-security-retirement-age-longevity-life-expectancy)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Report_Poor_People_Dont_Exist_Social_Security_Prob_c636b2a0.webp",
-    "published_at": "2025-09-12T18:49:31.985747",
-    "author": "Oil-guzzler",
-    "category": "Opinion",
-    "original_link": "https://www.vox.com/future-perfect/461198/social-security-retirement-age-longevity-life-expectancy"
   }
 ]
