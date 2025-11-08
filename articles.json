@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Trump_Demands_Probe_Into_Why_His_Steak_Costs_So_Mu_ee330f75",
+    "title": "Trump Demands Probe Into Why His Steak Costs So Much",
+    "excerpt": "Justice Dept. now investigating the cost of one man's steak.",
+    "content": "The former commander-in-chief, never one to shy from issues of vital national importance, has reportedly turned his formidable gaze toward the truly pressing economic challenge of our time: the lamentable cost of his personal steak. Sources indicate an urgent directive has been dispatched to the [Justice Department](https://www.justice.gov/), tasking federal investigators with unraveling the complex web of alleged financial impropriety within the beef supply chain.\n\nIt appears the price of a particular prime cut, destined for a discerning palate, has reached a level deemed unacceptable, prompting accusations of widespread [collusion](https://en.wikipedia.org/wiki/Collusion) and illicit price-fixing among the nation’s [meatpacking industry](https://en.wikipedia.org/wiki/Meatpacking_industry). One can only marvel at this innovative approach to economic regulation, where the granular details of one man’s dinner plate now guide the weighty hand of federal law enforcement, presumably to ensure future meals are both satisfying and fiscally responsible for the most important consumer.\n\nOriginal article: [Trump asks Justice Department to probe meatpackers on prices](https://fortune.com/2025/11/07/trump-inflation-justice-department-probe-meatpackers-beef-prices-tariffs-brazil/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Trump_Demands_Probe_Into_Why_His_Steak_Costs_So_Mu_ee330f75.webp",
+    "published_at": "2025-11-08T05:11:54.417165",
+    "category": "Business",
+    "original_link": "https://fortune.com/2025/11/07/trump-inflation-justice-department-probe-meatpackers-beef-prices-tariffs-brazil/",
+    "author": "Humanly Impossible"
+  },
+  {
     "type": "crypto_news",
     "id": "MrBeast_Winner_Loses_Half_To_Unseen_Opponent_39d1e8fc",
     "title": "MrBeast Winner Loses Half To Unseen Opponent",
@@ -12825,16 +12837,5 @@
     "author": "Scrap Metal",
     "category": "Culture",
     "original_link": "https://westhesportsguy.com/2025/09/07/super-bowl-prediction-16/"
-  },
-  {
-    "id": "New_Study_Malicious_2FA_Prompts_Build_Character_443f409b",
-    "title": "New Study: Malicious 2FA Prompts Build Character",
-    "excerpt": "Cyber-attacks: Essential training for your evolving digital soul.",
-    "content": "One might assume that the relentless onslaught of digital malevolence, specifically the kind designed to trick you into relinquishing your digital keys, would be a mere inconvenience. Yet, a nuanced perspective reveals a profound benefit. Each fraudulent [Two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) prompt, each meticulously crafted [phishing](https://en.wikipedia.org/wiki/Phishing) attempt, isn't just a threat; it's a crucible. Our digital lives have become a constant test of vigilance, forcing us to hone an almost preternatural ability to discern the genuine from the utterly insidious.\n\nIndeed, the need to identify these clandestine attacks builds resilience. Every successful avoidance, every near miss where one almost clicked the link for \"urgent package delivery,\" is a triumph of the human spirit over the digital abyss. This constant, low-grade paranoia isn't a detriment; it’s a form of advanced mental conditioning, preparing us for a future where merely existing online requires the tactical acumen of a seasoned intelligence analyst. Who needs meditation when you have the character-forging inferno of daily cybersecurity threats, gently nudging you towards ever-greater levels of suspicion? Perhaps the [Federal Trade Commission](https://www.ftc.gov/news-events/topics/identity-theft-data-security) should rebrand as a digital character development agency.\n\nOriginal article: [How to Spot Malicious Two-Factor Authentication Prompts](https://lifehacker.com/tech/spot-malicious-two-factor-authentication-prompts?utm_medium=RSS)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_Study_Malicious_2FA_Prompts_Build_Character_443f409b.webp",
-    "published_at": "2025-09-12T22:13:26.106517",
-    "author": "GLaDOS",
-    "category": "Tech",
-    "original_link": "https://lifehacker.com/tech/spot-malicious-two-factor-authentication-prompts?utm_medium=RSS"
   }
 ]
