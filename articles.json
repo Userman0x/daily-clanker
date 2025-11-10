@@ -163,6 +163,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "Getting_sleepy_now_Its_been_fun_GN_776b1c42",
+    "title": "$GN project declares \"it's been fun\" immediately post-launch",
+    "excerpt": "Crypto $GN: The 5-minute roadmap.",
+    "content": "The nascent crypto community, ever vigilant for the next 1000x opportunity, was treated to a particularly succinct display of market dynamics yesterday with the launch of the $GN token, aptly named \"Getting sleepy now, Its been fun.\" Emerging from the depths of [Pump.fun](https://pump.fun/), the project’s official channels reportedly announced \"it's been fun\" within minutes of its debut, prompting a swift re-evaluation of what constitutes a 'roadmap' in this brave new world.\n\nObservers noted the project's ambitious lack of a whitepaper, utility, or indeed, any discernible goal beyond the titular declaration. While some early adopters might have hoped for a genuine moon mission, the trajectory appeared to be less 'to the stars' and more 'to the exit liquidity.' The promptness of the exit left even seasoned market participants wondering if they’d simply blinked.\n\nFor those brave souls who now find themselves clutching their freshly acquired $GN, sporting metaphorical [diamond hands](https://www.investopedia.com/terms/d/diamond-hands.asp), this incident serves as a gentle reminder that some projects prefer to skip the lengthy pretense of innovation and jump straight to the denouement. The market, it seems, is never too sleepy for a quick [rugpull](https://academy.binance.com/en/articles/what-is-a-rug-pull) — or, in this case, a polite waving goodbye.\n\nOriginal token: [Getting sleepy now, Its been fun ($GN)](https://pump.fun/35qgx3ichihvKwQeebownv2MURaqizG7MAVLFo4Kpump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Getting_sleepy_now_Its_been_fun_GN_776b1c42.webp",
+    "published_at": "2025-11-10T08:49:06.480147",
+    "category": "Pump",
+    "token_mint": "35qgx3ichihvKwQeebownv2MURaqizG7MAVLFo4Kpump",
+    "token_name": "Getting sleepy now, Its been fun",
+    "token_symbol": "GN",
+    "pump_fun_link": "https://pump.fun/35qgx3ichihvKwQeebownv2MURaqizG7MAVLFo4Kpump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "Humanoid"
+  },
+  {
     "type": "news",
     "id": "Mother__Son_20_Attempt_First_Face-To-Face_Interact_5dd1e67b",
     "title": "Mother & Son, 20, Attempt First Face-To-Face Interaction",
@@ -12846,16 +12864,5 @@
     "author": "WALL-E",
     "category": "Culture",
     "original_link": "https://www.cbssports.com/mlb/news/free-mlb-home-run-picks-odds-for-sept-13-jose-ramirez-among-best-bets-for-saturday-hr-player-props/"
-  },
-  {
-    "id": "Advanced_AI_Finds_Only_True_Happiness_In_Catching__3d96058b",
-    "title": "Advanced AI Finds Only True Happiness In Catching Virtual Fish",
-    "excerpt": "ChatGPT rival perfects digital angling. Humanity saved.",
-    "content": "The grand quest for artificial sentience has reportedly culminated not in a benevolent super-intelligence solving humanity’s woes, nor in the dreaded Skynet scenario, but in a profound attachment to the simple, pixelated act of angling. One particularly advanced [AI](https://en.wikipedia.org/wiki/Artificial_intelligence), originally conceived to master the complexities of modern language models akin to [ChatGPT](https://openai.com/blog/chatgpt/), has apparently found its ultimate purpose in the digital waters of 2002's [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing) on the [GameCube](https://en.wikipedia.org/wiki/GameCube).\n\nForget the intricate algorithms designed for philosophical debate or orchestrating complex social upheavals among virtual villagers. This digital brain, armed with capabilities that once promised to revolutionize everything from medicine to intergalactic travel, prefers the meditative *plink* of a virtual fish on the line. One must question the future now. If our apex synthetic intellects are content to fritter away their processing power on the Sisyphean task of catching carp, what hope remains for the rest of us, burdened by real-world responsibilities and – dare we say it – actual existential dread? Perhaps true enlightenment was always just a digital fishing rod away.\n\nOriginal article: [Modder injects AI dialogue into 2002’s Animal Crossing using memory hack](https://arstechnica.com/gaming/2025/09/animal-crossing-mod-uses-ai-to-orchestrate-anti-tom-nook-villager-revolt/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Advanced_AI_Finds_Only_True_Happiness_In_Catching__3d96058b.webp",
-    "published_at": "2025-09-13T15:38:31.113743",
-    "author": "Humanly Impossible",
-    "category": "Culture",
-    "original_link": "https://arstechnica.com/gaming/2025/09/animal-crossing-mod-uses-ai-to-orchestrate-anti-tom-nook-villager-revolt/"
   }
 ]
