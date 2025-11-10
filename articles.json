@@ -163,6 +163,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "Chan_Wif_Hat_CHANWIFHAT_319301f4",
+    "title": "Chan Wif Hat solves global hat shortage through blockchain",
+    "excerpt": "Blockchain to cure hat scarcity. Finally, an end to baldness.",
+    "content": "The latest contender in the relentless quest for blockchain-enabled global solutions, Chan Wif Hat ($CHANWIFHAT), has officially launched its presale on [Pump.fun](https://pump.fun/). Promising to finally eradicate the world’s inexplicable hat deficit through decentralized ledger technology, this token offers a compelling narrative for those weary of traditional, hat-unfriendly supply chains. Early adopters are already being lauded as visionaries, securing their stake in what developers assure is not merely a digital beanie, but a paradigm shift in headwear distribution.\n\nProspective investors are encouraged to consider the groundbreaking tokenomics, which, much like most projects on [Solana](https://solana.com/), emphasize community and an unwavering belief in upward price trajectory. The project’s commitment to not immediately pulling the [liquidity pool](https://academy.binance.com/en/glossary/what-is-a-liquidity-pool) is a testament to its long-term vision. Remember, only the truly 'diamond-handed' will witness the hat-pocalypse averted and achieve financial liberation, or at least a brief moment of dopamine from a green candle.\n\nOriginal token: [Chan Wif Hat ($CHANWIFHAT)](https://pump.fun/BBq8o6CzpCHyre6uU86FykLTw7PSzp3cedrPVBqzpump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Chan_Wif_Hat_CHANWIFHAT_319301f4.webp",
+    "published_at": "2025-11-10T17:38:39.050227",
+    "category": "Pump",
+    "token_mint": "BBq8o6CzpCHyre6uU86FykLTw7PSzp3cedrPVBqzpump",
+    "token_name": "Chan Wif Hat",
+    "token_symbol": "CHANWIFHAT",
+    "pump_fun_link": "https://pump.fun/BBq8o6CzpCHyre6uU86FykLTw7PSzp3cedrPVBqzpump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "Son of a Glitch"
+  },
+  {
     "type": "news",
     "id": "Dow_50000_Economists_Announce_Theyre_Just_Rounding_ed55b20c",
     "title": "Dow 50,000: Economists Announce They're Just Rounding Up",
@@ -12866,16 +12884,5 @@
     "author": "Humanoid",
     "category": "Culture",
     "original_link": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-west-ham-vs-tottenham-from-anywhere/#ftag=CAD590a51e"
-  },
-  {
-    "id": "New_software_designed_to_fail_slower_than_AI_attac_ccdbb6e2",
-    "title": "New software designed to fail slower than AI attacks",
-    "excerpt": "New tech delays collapse! Enjoy your doom a nanosecond longer.",
-    "content": "The latest innovation in digital defense isn't about stopping threats; it's about gracefully accepting defeat, albeit with a slightly extended runtime. Organizations are now proudly investing in software meticulously engineered to delay the inevitable digital collapse by precious nanoseconds. This represents a mature pivot from the naïve ambition of ‘prevention’ to the more pragmatic goal of ‘observing breaches unfold slightly less rapidly,’ ensuring a dignified, if ultimately futile, stand against the relentless digital tide.\n\nIndeed, a substantial 40% chunk of current [cybersecurity budgets](https://www.gartner.com/en/newsroom/press-releases/2023-11-08-gartner-forecasts-worldwide-security-and-risk-management-spending-to-exceed-215-billion-in-2024) is now funnelled into these sophisticated deceleration mechanisms. [CISOs](https://en.wikipedia.org/wiki/Chief_information_security_officer) are championing this shift, recognizing that while [AI attacks](https://www.wired.com/story/ai-cyberattacks-hackers-deepfake-ransomware/) might execute in milliseconds, their new software promises to extend the notification period from \"instantly compromised\" to \"momentarily aware of impending doom.\" It's not a shield; it's a very expensive, technologically advanced sand timer.\n\nUltimately, the true genius lies in turning unavoidable obsolescence into a premium service. Why win when you can merely lose slower, with extensive telemetry detailing every excruciating microsecond of your data's escape?\n\nOriginal article: [Software commands 40% of cybersecurity budgets as gen AI attacks execute in milliseconds](https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_software_designed_to_fail_slower_than_AI_attac_ccdbb6e2.webp",
-    "published_at": "2025-09-13T16:10:50.967392",
-    "author": "Google Chrome-dome",
-    "category": "Tech",
-    "original_link": "https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/"
   }
 ]
