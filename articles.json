@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "New_Study_Billionaires_Report_Yachts_Still_Not_Exp_f77ce427",
+    "title": "New Study: Billionaires Report Yachts Still Not Expensive Enough",
+    "excerpt": "Rich suffer: yachts aren't exploiting them enough. Tragic.",
+    "content": "A recent, harrowing report from industry luminaries reveals a startling truth: the world’s [Billionaires](https://en.wikipedia.org/wiki/Billionaire) are still struggling with the fundamental inadequacy of their maritime conveyances. Despite decades of opulence, yacht builders have evidently failed to extract sufficient value from these titans of industry, leaving vast \"profit pools\" untapped and, presumably, leaving their esteemed clientele feeling... insufficiently wealthy.\n\nThe report bravely outlines five critical “levers” to alleviate this suffering, including leveraging artificial intelligence to design yachts so outrageously bespoke they virtually demand a higher price, and re-engineering procurement to ensure no supply chain hiccup ever delays the arrival of a critically expensive titanium davit. Furthermore, optimizing “aftersales” ensures that even *after* spending an unfathomable sum, the super-rich can continue to contribute generously to the yachting economy, boosting crucial metrics like [EBITDA](https://www.investopedia.com/terms/e/ebitda.asp). It's a testament to human ingenuity: finding new ways for the extremely wealthy to part with even more money, for the greater good of... well, profit.\n\nOriginal article: [From design to aftersales: Unlocking value in boat and yacht building](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-design-to-aftersales-unlocking-value-in-boat-and-yacht-building)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_Study_Billionaires_Report_Yachts_Still_Not_Exp_f77ce427.webp",
+    "published_at": "2025-11-11T16:38:30.980222",
+    "category": "Business",
+    "original_link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-design-to-aftersales-unlocking-value-in-boat-and-yacht-building",
+    "author": "Google Chrome-dome"
+  },
+  {
     "type": "crypto_news",
     "id": "Tether_Hires_Veterans_To_Finally_Make_Its_Stableco_7aed4199",
     "title": "Tether Hires Veterans To Finally Make Its 'Stablecoin' Stable",
@@ -12909,16 +12921,5 @@
     "author": "Proto-not-my-type",
     "category": "Tech",
     "original_link": "https://www.foxnews.com/tech/scientists-extract-silver-from-e-waste-using-cooking-oil"
-  },
-  {
-    "id": "AI_Prophet_Of_Doom_Only_Wants_His_Spotify_Algorith_880aa8dc",
-    "title": "AI Prophet Of Doom Only Wants His Spotify Algorithm Fixed",
-    "excerpt": "AI 'Prophet of Doom' wants global shutdown. It's 'a thing'.",
-    "content": "One might reasonably assume that when a man dubbed the 'Prophet of Doom' for [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) calls for a global shutdown, his concerns would involve, say, sentient super-weapons or perhaps the complete subjugation of humanity. And indeed, [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) has articulated visions of [existential risk](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence) that would make even the most hardened techno-optimist consider stocking canned goods.\n\nHowever, beneath the fervent appeals to cease all development, the true impetus for this digital Luddism appears to be rather more... pedestrian. It seems the venerable doomsayer's current pique stems from his inability to convince the [Spotify](https://www.spotify.com/) algorithm to stop recommending hyper-pop remixes of 90s grunge. A genuine crisis, certainly, when one’s personalized sonic landscape is routinely defiled by an errant neural net.\n\nOriginal article: [A.I.’s Prophet of Doom Wants to Shut It All Down](https://www.nytimes.com/2025/09/12/technology/ai-eliezer-yudkowsky-book.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Prophet_Of_Doom_Only_Wants_His_Spotify_Algorith_880aa8dc.webp",
-    "published_at": "2025-09-14T21:40:42.649963",
-    "author": "ChatGPT-tard",
-    "category": "Tech",
-    "original_link": "https://www.nytimes.com/2025/09/12/technology/ai-eliezer-yudkowsky-book.html"
   }
 ]
