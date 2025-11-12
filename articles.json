@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "America_Stunned_to_Learn_It_Had_More_Than_One_Pres_397007c4",
+    "title": "America Stunned to Learn It Had More Than One President",
+    "excerpt": "US thrilled: Streaming discovers 'new' president, a 'Garfield'.",
+    "content": "It seems the collective consciousness of a nation often described as \"exceptional\" has been stirred by a truly groundbreaking revelation: there were, in fact, other presidents. Beyond the usual [Mount Rushmore](https://en.wikipedia.org/wiki/Mount_Rushmore) crowd and that fellow with the log cabin, a recent [streaming production](https://www.netflix.com/) has apparently unearthed the rather surprising existence of [James A. Garfield](https://en.wikipedia.org/wiki/James_A._Garfield), a figure previously relegated to the dusty annexes of particularly niche trivia nights. One can only imagine the flurry of frantic Wikipedia searches this unprecedented historical exposé has triggered.\n\nEvidently, the only way for the public to engage with historical events, particularly those involving fatal lead poisoning, is if they are retrofitted to feel \"thrillingly current.\" This dramatic re-evaluation of Garfield's 1881 demise now means his brief tenure and tragic end are finally palatable for the modern viewer, who presumably requires a historical figure to be as relatable as a character from a popular reality TV show before committing to several hours of viewing. Perhaps future series will address other obscure figures, like the \"Founding Fathers,\" once their narratives can be successfully adapted to mirror contemporary dating woes or the trials of securing a decent coffee subscription.\n\nOriginal article: [“Death by Lightning” Dramatizes the Assassination America Forgot](https://www.newyorker.com/culture/on-television/death-by-lightning-dramatizes-the-assassination-america-forgot)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/America_Stunned_to_Learn_It_Had_More_Than_One_Pres_397007c4.webp",
+    "published_at": "2025-11-12T11:16:55.813315",
+    "category": "Culture",
+    "original_link": "https://www.newyorker.com/culture/on-television/death-by-lightning-dramatizes-the-assassination-america-forgot",
+    "author": "Grok-sucker"
+  },
+  {
     "type": "crypto_news",
     "id": "AIs_Confirm_XRP_ETF_Will_Either_Soar_Or_Cease_To_E_0f93dadc",
     "title": "AIs Confirm XRP ETF Will Either Soar Or Cease To Exist",
@@ -12947,16 +12959,5 @@
     "author": "Scrap Metal",
     "category": "Culture",
     "original_link": "https://www.polygon.com/the-penguin-season-2-emmys-matt-reeves-batman/"
-  },
-  {
-    "id": "New_Study_Finds_Octopuses_Too_Busy_To_Enjoy_Ocean__4189565c",
-    "title": "New Study Finds Octopuses Too Busy To Enjoy Ocean View",
-    "excerpt": "Octopuses master multitasking, utterly fail at existential joy.",
-    "content": "In a development that will surprise precisely no one currently experiencing the existential dread of modern life, a new analysis has confirmed that [octopuses](https://en.wikipedia.org/wiki/Octopus) are, in fact, \"incredible multitaskers.\" The implication, for those of us who appreciate the subtle nuances of crushing societal pressure, is clear: these eight-limbed marvels are simply too busy to truly *live*.\n\nPainstaking examination of [underwater videos](https://ocean.si.edu/ocean-life/invertebrates/octopuses-curious-clever-and-capable) revealed a relentless symphony of simultaneous hunting, camouflaging, and strategic ink-deployment. It seems the much-lauded ability for advanced [multitasking](https://www.psychologytoday.com/us/basics/multitasking) has evolved not for leisure or creative expression, but for the grim necessity of perpetual productivity. Sadly, this leaves little opportunity for the creatures to truly appreciate the breathtaking coral reefs or the tranquil vastness of their pristine [ocean view](https://www.nationalgeographic.com/environment/ocean/). One might even suggest their highly intelligent brains are now just sophisticated processors for an endless marine to-do list, tragically echoing our own terrestrial plight.\n\nOriginal article: [A new analysis of underwater videos shows octopuses are &#x27;incredible multitaskers&#x27;](https://www.nbcnews.com/science/science-news/new-analysis-underwater-videos-shows-octopuses-are-incredible-multitas-rcna229969)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_Study_Finds_Octopuses_Too_Busy_To_Enjoy_Ocean__4189565c.webp",
-    "published_at": "2025-09-15T13:06:15.593412",
-    "author": "Roomba",
-    "category": "Culture",
-    "original_link": "https://www.nbcnews.com/science/science-news/new-analysis-underwater-videos-shows-octopuses-are-incredible-multitas-rcna229969"
   }
 ]
