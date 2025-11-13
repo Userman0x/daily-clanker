@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Finally_A_Blockchain_That_Prevents_You_From_Spendi_4093e4f4",
+    "title": "Finally, A Blockchain That Prevents You From Spending Your Money",
+    "excerpt": "Crypto takes back control. From you. It's for your own good.",
+    "content": "A recent investigation, courtesy of Bybit’s increasingly vigilant Lazarus Security Lab, has unveiled a truly revolutionary development in the world of [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency): the triumphant return of paternalistic control. It seems no fewer than sixteen distinct [blockchain](https://en.wikipedia.org/wiki/Blockchain) networks now boast the exquisite capability to unilaterally lock away your digital assets, with another nineteen poised to adopt this essential upgrade with minimal fuss.\n\nFor too long, the freewheeling spirit of digital finance has left users vulnerable to their own poor judgment – impulse purchases, ill-advised investments, or the sheer horror of actually *spending* their money when a benevolent entity might have better plans for it. This new era of proactive fund-freezing offers unparalleled security, ensuring your funds remain precisely where they are: inaccessible, and therefore, perfectly safe from you.\n\nIndeed, the much-debated topic of [centralization](https://en.wikipedia.org/wiki/Centralization) in decentralized systems is being reframed, not as a regression, but as an exciting re-imagining of financial guardianship. Why trust individuals with their own economic autonomy when a perfectly good algorithm, or perhaps a committee, can do it for them? The future of digital wealth management is here, and it looks suspiciously like the past, but with more impenetrable jargon.\n\nOriginal article: [These Blockchains Can Freeze Your Crypto Funds — Bybit Report Sparks Centralization Debate](https://www.ccn.com/news/crypto/these-blockchains-can-freeze-crypto-funds-bybit-report/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Finally_A_Blockchain_That_Prevents_You_From_Spendi_4093e4f4.webp",
+    "published_at": "2025-11-13T18:17:10.499457",
+    "category": "Crypto",
+    "original_link": "https://www.ccn.com/news/crypto/these-blockchains-can-freeze-crypto-funds-bybit-report/",
+    "author": "Airplane Mode"
+  },
+  {
     "type": "news",
     "id": "Proper_Skip_Stacking_Now_Prerequisite_For_British__667605f0",
     "title": "Proper Skip Stacking Now Prerequisite For British Citizenship",
@@ -13002,16 +13014,5 @@
     "author": "Junk Heap",
     "category": "Culture",
     "original_link": "https://www.thenation.com/article/world/gaza-genocide-liberal-accountability/"
-  },
-  {
-    "id": "Competition_Board_Investigating_Player_For_Self-Co_08b86de0",
-    "title": "Competition Board Investigating Player For Self-Collusion",
-    "excerpt": "FTC probes solo gamer for self-collusion. The market is safe.",
-    "content": "The esteemed [Federal Trade Commission](https://www.ftc.gov/) (FTC), renowned bastion of competitive integrity, has launched a formal investigation into a player of the popular strategic title, *[Frontline: War of Echoes](https://store.steampowered.com/app/2059300/Frontline_War_of_Echoes_Prologue/)*. Reports indicate the player, whose identity remains protected for now, stands accused of \"self-collusion\" – an unprecedented, yet apparently egregious, breach of fair play.\n\nAccording to preliminary findings, the player systematically engaged with \"clones of their past runs\" during intense rounds of [Capture the Flag](https://en.wikipedia.org/wiki/Capture_the_flag). This unusual mechanic, integral to the game's design, has inadvertently created a legal quagmire. Authorities are positing that the player, by coordinating with their own virtual echoes, compromised the competitive landscape, effectively ensuring their *own* triumph over *their own* previous attempts. Experts suggest this novel form of [collusion](https://en.wikipedia.org/wiki/Collusion) could set a worrying precedent for future self-competitive gaming, where the only true opponent is the long arm of the law, reaching into your own simulated past.\n\nOriginal article: [‘Frontline: War of Echoes’ Competitively Plays Against Yourself](https://indiegamesplus.com/frontline-war-of-echoes-review/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Competition_Board_Investigating_Player_For_Self-Co_08b86de0.webp",
-    "published_at": "2025-09-16T14:02:54.287222",
-    "author": "Tool",
-    "category": "Culture",
-    "original_link": "https://indiegamesplus.com/frontline-war-of-echoes-review/"
   }
 ]
