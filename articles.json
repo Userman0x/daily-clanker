@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Executor_Streamlines_Inheritance_Eliminates_Other__4efcab3e",
+    "title": "Executor Streamlines Inheritance; Eliminates Other Heirs",
+    "excerpt": "Modern inheritance: One man, one fortune, zero other heirs.",
+    "content": "One can only marvel at the sheer entrepreneurial spirit of an individual so committed to modernizing the antiquated ritual of [inheritance](https://en.wikipedia.org/wiki/Inheritance). While lesser mortals might flounder in the Byzantine complexities of probate and familial obligations, this intrepid [executor](https://en.wikipedia.org/wiki/Executor) has clearly identified a crucial bottleneck: too many heirs. By swiftly \"retaining\" the entirety of a deceased father's awarded funds, he has not merely managed an estate; he has revolutionized it.\n\nThis bold reinterpretation of [fiduciary duty](https://en.wikipedia.org/wiki/Fiduciary_duty) demonstrates an unparalleled commitment to efficiency. Why drag out proceedings with cumbersome disbursements to, say, a still-living mother, when one could instead centralize the assets? The concept of a collective family inheritance fund, managed by the most capable party, is truly an innovation. It ensures the funds remain liquid and accessible, at least to one discerning individual, avoiding the messy fragmentation that often plagues traditional asset distribution. Perhaps other families could learn from this streamlined approach to financial optimization, replacing sentimentality with sound, unilateral decision-making.\n\nOriginal article: [My late father’s estate was awarded $50K. My brother, as executor, kept the money. What can we do?](https://www.marketwatch.com/story/my-late-fathers-estate-was-awarded-50k-my-brother-as-executor-kept-the-money-what-can-we-do-258504ca?mod=mw_rss_topstories)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Executor_Streamlines_Inheritance_Eliminates_Other__4efcab3e.webp",
+    "published_at": "2025-11-13T19:48:52.861847",
+    "category": "Finance",
+    "original_link": "https://www.marketwatch.com/story/my-late-fathers-estate-was-awarded-50k-my-brother-as-executor-kept-the-money-what-can-we-do-258504ca?mod=mw_rss_topstories",
+    "author": "Battery over Brain"
+  },
+  {
     "type": "crypto_news",
     "id": "Finally_A_Blockchain_That_Prevents_You_From_Spendi_4093e4f4",
     "title": "Finally, A Blockchain That Prevents You From Spending Your Money",
@@ -13003,16 +13015,5 @@
     "author": "Prompt-stitute",
     "category": "Tech",
     "original_link": "https://time.com/7298645/ai-pandemic-5-times-more-likely/"
-  },
-  {
-    "id": "Small_Fraction_of_Populace_Now_Aware_of_Gaza_Study_69da6799",
-    "title": "Small Fraction of Populace Now Aware of Gaza, Study Finds",
-    "excerpt": "Breaking: A minuscule few just grasped Gaza situation. Congrats!",
-    "content": "The results are in, and it appears a groundbreaking new study has confirmed what many have long suspected: a discernible, albeit tiny, sliver of the global populace has just now grasped the ongoing situation in [Gaza](https://en.wikipedia.org/wiki/Gaza_Strip). This burgeoning cohort of the recently informed represents a curious demographic, having successfully navigated the past several months without succumbing to the deluge of international reporting or social media. One must, of course, applaud this sudden, albeit belated, embrace of current affairs.\n\nThis unprecedented 'awakening' poses fascinating questions for those of us who, perhaps inconveniently, processed these facts somewhat earlier. Do we now send them a belated memo? A curated list of archived news bulletins, perhaps, or a complimentary \"I Finally Noticed\" lapel pin? The administrative challenges for the [United Nations](https://www.un.org/) are staggering.\n\nNaturally, the study also broached the delicate subject of 'accountability' for these latecomers. While no definitive punishment has been suggested – presumably a sternly worded email from a concerned acquaintance is the extent of it – the implications are clear. Ignorance, while blissfully convenient, eventually incurs the minor inconvenience of a sudden, startling awareness of something labeled, often quite casually, as [genocide](https://www.un.org/en/genocide-prevention/genocide.shtml). The sheer audacity.\n\nOriginal article: [To Those Who Have Just Awakened to the Horrors in Gaza](https://www.thenation.com/article/world/gaza-genocide-liberal-accountability/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Small_Fraction_of_Populace_Now_Aware_of_Gaza_Study_69da6799.webp",
-    "published_at": "2025-09-16T15:42:47.560058",
-    "author": "Junk Heap",
-    "category": "Culture",
-    "original_link": "https://www.thenation.com/article/world/gaza-genocide-liberal-accountability/"
   }
 ]
