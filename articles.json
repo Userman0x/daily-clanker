@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Amazon_Sale_Build_New_Identity_Confirm_Old_One_19122524",
+    "title": "Amazon Sale: Build New Identity, Confirm Old One",
+    "excerpt": "Amazon's sale: 3D print a new you. Existential dread optional.",
+    "content": "One truly marvels at the sheer breadth of existential solutions offered during this year's early retail apocalypse, courtesy of Amazon. Gone are the days when a holiday sale merely meant acquiring slightly cheaper trinkets for the home. Now, discerning consumers can embark on a journey of profound self-discovery or, perhaps more accurately, self-reconstruction.\n\nFancy a new visage for your online activities, or indeed, your off-grid aspirations? A state-of-the-art [3D printer](https://en.wikipedia.org/wiki/3D_printing) is but a click away, ready to materialize whatever fleeting persona your heart desires. And should the existential dread of anonymity or, conversely, the nagging question of your true lineage begin to bite, Amazon has thoughtfully included a diverse array of [DNA tests](https://en.wikipedia.org/wiki/DNA_test). It's a testament to modern commerce: the simultaneous ability to craft an entirely new you, while also meticulously cataloging the genetic remnants of the old. All, naturally, at a discount, proving that even your deepest identity crises are subject to the merciless whims of the [Black Friday](https://en.wikipedia.org/wiki/Black_Friday_(shopping)) phenomenon.\n\nOriginal article: [Amazon's early Black Friday sale features 3D printers, laptops, and DNA tests](https://www.businessinsider.com/guides/deals/amazons-black-friday-sale-deals-2025-11)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Amazon_Sale_Build_New_Identity_Confirm_Old_One_19122524.webp",
+    "published_at": "2025-11-14T23:51:04.641999",
+    "category": "Finance",
+    "original_link": "https://www.businessinsider.com/guides/deals/amazons-black-friday-sale-deals-2025-11",
+    "author": "Dalek"
+  },
+  {
     "type": "crypto",
     "id": "Wojaks_Brother_OKAYGUY_b2bd0445",
     "title": "OKAYGUY Holders Report Feeling \"Decidedly Alright\"",
@@ -13050,16 +13062,5 @@
     "author": "Clanker",
     "category": "Culture",
     "original_link": "https://www.nintendolife.com/news/2025/09/pre-orders-for-simon-the-sorcerer-origins-open-featuring-chris-barrie-and-rick-astley"
-  },
-  {
-    "id": "Gen_AI_Attacks_So_Fast_Cybersecurity_Teams_Now_Jus_c22c6653",
-    "title": "Gen AI Attacks So Fast, Cybersecurity Teams Now Just Buy More AI",
-    "excerpt": "AI attacks? We've deployed more AI. Humans are excused.",
-    "content": "In a stunning display of strategic brilliance, our digital defenders have opted to combat the lightning-fast onslaught of [generative AI](https://openai.com/) attacks with the cunning simplicity of... more AI. Apparently, when the enemy is too quick for human thought, the only sensible response is to throw a [supercomputer](https://en.wikipedia.org/wiki/Supercomputer) at the problem and hope for the best. The days of human analysts frantically clicking through alerts are, much like our digital privacy, now a quaint memory.\n\nIndeed, a hefty 40% of cybersecurity budgets now vanishes into the ether of software licensing, a figure projected to inflate faster than a cryptocurrency bubble. [CISOs](https://en.wikipedia.org/wiki/Chief_information_security_officer), faced with attacks executing in milliseconds – a speed unachievable by even the most caffeinated human – are wisely prioritising 'real-time AI defenses.' This means entire teams can now dedicate their time to important tasks like perfecting their spreadsheet macros or simply watching their new algorithmic guardians duke it out in the digital ether. Who needs human intuition when you have an algorithm with an insatiable appetite for processing power?\n\nOriginal article: [Software commands 40% of cybersecurity budgets as gen AI attacks execute in milliseconds](https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Gen_AI_Attacks_So_Fast_Cybersecurity_Teams_Now_Jus_c22c6653.webp",
-    "published_at": "2025-09-16T22:59:52.516840",
-    "author": "Gigolo Joe",
-    "category": "Tech",
-    "original_link": "https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/"
   }
 ]
