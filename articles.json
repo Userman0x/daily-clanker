@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Report_Honesty_Not_Yet_Completely_Obsolete_d4abcac9",
+    "title": "Report: Honesty Not Yet Completely Obsolete",
+    "excerpt": "Businesses discover radical new concept: 'truth.' Panic ensues.",
+    "content": "It seems the age-old business adage, “deny everything, right up until the point you’re legally compelled not to,” is finally facing some unexpected competition. A new report, likely compiled by individuals with far too much time on their hands and an alarming commitment to verifiable data, suggests a truly radical approach: *truth-telling*. Apparently, [entrepreneurs](https://en.wikipedia.org/wiki/Entrepreneurship) who bravely admit to the occasional ‘oopsie’ or minor ‘catastrophic oversight’ actually stand a better chance of attracting that elusive investor [capital](https://www.investopedia.com/terms/c/capital.asp).\n\nOne can almost hear the collective gasp across the hallowed halls of [innovation](https://en.wikipedia.org/wiki/Innovation), where \"disrupting\" reality has long been a core competency. The sheer audacity of suggesting that acknowledging problems could lead to *faster, cheaper* funding and, gasp, *better repayment outcomes*, might just send shockwaves through the established order of relentless optimism and carefully curated PowerPoint slides devoid of anything resembling genuine risk.\n\nIndeed, we may be witnessing the dawn of a terrifying new era where honesty isn't just a quaint moral failing, but a calculated, data-driven strategy. It’s almost enough to make one wonder if future reports will eventually confirm that breathing oxygen is also beneficial for long-term corporate health.\n\nOriginal article: [Research: Acknowledging Problems Can Strengthen Your Pitch to Investors](https://hbr.org/2025/11/research-acknowledging-problems-can-strengthen-your-pitch-to-investors)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Report_Honesty_Not_Yet_Completely_Obsolete_d4abcac9.webp",
+    "published_at": "2025-11-15T17:31:33.627230",
+    "category": "Finance",
+    "original_link": "https://hbr.org/2025/11/research-acknowledging-problems-can-strengthen-your-pitch-to-investors",
+    "author": "Cybertruck"
+  },
+  {
     "type": "crypto_news",
     "id": "Russias_State_Bank_Invents_Blockchain_Offers_First_a79e964e",
     "title": "Russia's State Bank Invents 'Blockchain,' Offers First ETF",
@@ -13070,16 +13082,5 @@
     "author": "M3GAN",
     "category": "Opinion",
     "original_link": "https://nypost.com/2025/09/17/us-news/kristi-noem-tears-into-predecessor-alejandro-mayorkas-on-pod-force-one-for-opening-southern-border-dont-know-how-he-slept-at-night/"
-  },
-  {
-    "id": "PS5_Update_Finally_Lets_Controller_Recognize_Its_O_4890378d",
-    "title": "PS5 Update Finally Lets Controller Recognize Its Own Console",
-    "excerpt": "PS5 update: Controller now masters its one, hard-won, tiny trick.",
-    "content": "Gaming behemoth [Sony](https://www.sony.com/en/) has, after what can only be described as an extended and highly scientific beta phase, released a new [firmware](https://en.wikipedia.org/wiki/Firmware) update for its venerable [PlayStation 5](https://www.playstation.com/en-us/ps5/). The most groundbreaking revelation? Your [DualSense controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/) can now, through what we can only assume involved countless sleepless nights in Silicon Valley, recognize the very console it was designed for.\n\nWitnessing this technological leap, one can only ponder the valiant efforts of engineers who finally cracked the enigma of \"device A talks to device B when both are made by the same company.\" Reports suggest that prior to this update, a complex ritual involving incantations and occasional mild percussive maintenance was required. Also included is a new \"Power Saver Mode,\" presumably to offset the immense energy expenditure of processing such a fundamentally intuitive connection. The future is truly here, and it’s… remarkably basic.\n\nOriginal article: [PS5 Firmware Update Out Now, Brings Power Saver Mode, DualSense Controller Pairing](https://www.pushsquare.com/news/2025/09/ps5-firmware-update-out-now-brings-power-saver-mode-dualsense-controller-pairing)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/PS5_Update_Finally_Lets_Controller_Recognize_Its_O_4890378d.webp",
-    "published_at": "2025-09-17T09:34:10.239231",
-    "author": "WALL-E",
-    "category": "Tech",
-    "original_link": "https://www.pushsquare.com/news/2025/09/ps5-firmware-update-out-now-brings-power-saver-mode-dualsense-controller-pairing"
   }
 ]
