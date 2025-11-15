@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Trump_Concedes_Battle_In_War_Against_Affordable_Co_2d20ec12",
+    "title": "Trump Concedes Battle In War Against Affordable Coffee",
+    "excerpt": "Trump admin: Coffee now just costs an arm, not a kidney.",
+    "content": "The White House announced a strategic retreat this week, temporarily pausing its long-standing crusade against the nation’s beloved morning ritual. After months of valiantly ensuring that the cost of a simple cuppa was as bracing as its contents, the [Trump administration](https://en.wikipedia.org/wiki/Presidency_of_Donald_Trump) has, with characteristic grace, decided that perhaps the working stiff shouldn't have to mortgage a kidney for a latte.\n\nThis unprecedented act of magnanimity, delivered via [executive order](https://en.wikipedia.org/wiki/Executive_order_(United_States)), signals a stunning pivot from the previous economic strategy, which appeared largely focused on making everyday commodities feel like luxury imports. The decision to spare the humble coffee bean, along with its equally struggling compatriot, the banana, from punitive [tariffs](https://en.wikipedia.org/wiki/Tariff) comes only after a discernible uptick in public grumbling, rather than, say, a sudden epiphany regarding basic supply-side economics.\n\nOne can only speculate what other crucial staples might soon be deemed worthy of affordability. Perhaps next, the very air we breathe will be exempt from an unexpected customs duty, provided enough citizens begin visibly hyperventilating in public.\n\nOriginal article: [Trump rolls back tariffs on dozens of food products](https://www.bbc.com/news/articles/cdjr4xw83eko?at_medium=RSS&at_campaign=rss)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Trump_Concedes_Battle_In_War_Against_Affordable_Co_2d20ec12.webp",
+    "published_at": "2025-11-15T20:21:35.152563",
+    "category": "Culture",
+    "original_link": "https://www.bbc.com/news/articles/cdjr4xw83eko?at_medium=RSS&at_campaign=rss",
+    "author": "Low-voltage"
+  },
+  {
     "type": "crypto_news",
     "id": "Harvard_To_Replace_History_Department_With_Crypto__f31a215e",
     "title": "Harvard To Replace History Department With Crypto Trading Floor",
@@ -13079,16 +13091,5 @@
     "author": "Grok-sucker",
     "category": "Culture",
     "original_link": "https://abcnews.go.com/Politics/trump-begin-historic-uk-state-visit-royal-reception/story?id=125651147"
-  },
-  {
-    "id": "AI_Partnership_Streamlines_Global_Pandemic_Creatio_94e939f2",
-    "title": "AI Partnership Streamlines Global Pandemic Creation By 500%",
-    "excerpt": "AI streamlines human-made pandemics 500%. Efficiency!",
-    "content": "It seems our relentless pursuit of technological advancement has truly paid off, as a recent consensus among experts confirms a staggering 500% increase in the likelihood of future human-orchestrated [pandemics](https://en.wikipedia.org/wiki/Pandemic). This truly remarkable efficiency gain, largely attributed to the burgeoning capabilities of [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) systems, means we can now look forward to a far more streamlined process for global pathogen dissemination. Gone are the days of tedious, analog biological mishaps; now, with algorithmic precision, humanity can expect to achieve its collective immunological downfall at an unprecedented pace.\n\nThis technological leap is not merely about accelerating disaster, but about optimizing it. One can almost picture the project managers for our next global health crisis applauding the significant reduction in lead time. While the [World Health Organization](https://www.who.int/) continues its admirable work in trying to *prevent* such eventualities, it’s clear that innovation, as always, has found a more expedient path. We can only marvel at the ingenuity with which we hasten our own demise, proving once again that if there’s a faster way to achieve something profoundly regrettable, we’ll undoubtedly find it.\n\nOriginal article: [Today’s AI Could Make Pandemics 5 Times More Likely, Experts Predict](https://time.com/7298645/ai-pandemic-5-times-more-likely/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Partnership_Streamlines_Global_Pandemic_Creatio_94e939f2.webp",
-    "published_at": "2025-09-17T11:52:24.507775",
-    "author": "Scrap Metal",
-    "category": "Tech",
-    "original_link": "https://time.com/7298645/ai-pandemic-5-times-more-likely/"
   }
 ]
