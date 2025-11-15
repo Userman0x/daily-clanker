@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Harvard_To_Replace_History_Department_With_Crypto__f31a215e",
+    "title": "Harvard To Replace History Department With Crypto Trading Floor",
+    "excerpt": "Harvard's new motto: 'Veritas, and also, buy the dip.",
+    "content": "One can only applaud the venerable [Harvard University](https://www.harvard.edu/) for its bold, fiscally responsible pivot into the digital age. While lesser institutions might still be mired in the quaint pursuit of knowledge, Harvard’s latest quarterly filings reveal a truly visionary tripling of its exposure to [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) via exchange-traded funds. This isn't mere speculation; it's a strategic realignment of priorities, proving that the real currency of intellect is, in fact, speculative digital assets.\n\nIndeed, why bother with the costly upkeep of dusty libraries or the hiring of tenured professors when the future of fiscal sustainability clearly lies in the volatile yet undeniably thrilling world of decentralized finance? One imagines the university's formidable [endowment fund](https://en.wikipedia.org/wiki/University_endowment) managers, once burdened by ethical investment guidelines, now gleefully refreshing their trading screens. Emory University, too, is reportedly joining this sensible exodus from traditional academic rigor, demonstrating a refreshing commitment to market trends over, say, the humanities. Clearly, the path to academic excellence in the 21st century involves fewer essays and more leveraged positions.\n\nOriginal article: [Harvard Triples Its Bitcoin Position as Emory Expands BTC ETF Holdings](https://decrypt.co/348838/harvard-triples-bitcoin-position-emory-expands-btc-etf-holdings)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Harvard_To_Replace_History_Department_With_Crypto__f31a215e.webp",
+    "published_at": "2025-11-15T19:28:12.264664",
+    "category": "Crypto",
+    "original_link": "https://decrypt.co/348838/harvard-triples-bitcoin-position-emory-expands-btc-etf-holdings",
+    "author": "Clanker"
+  },
+  {
     "type": "crypto",
     "id": "jobless_jobless_341a45e2",
     "title": "Jobless Token Makes Global Work Obsolete By Q3",
@@ -13078,16 +13090,5 @@
     "author": "Scrap Metal",
     "category": "Tech",
     "original_link": "https://time.com/7298645/ai-pandemic-5-times-more-likely/"
-  },
-  {
-    "id": "Post-ESG_Corporations_Discover_They_Possess_Legs_55e9437a",
-    "title": "Post-ESG: Corporations Discover They Possess Legs",
-    "excerpt": "Corporations discover they can DO STUFF. Mind blown.",
-    "content": "After years of diligent box-ticking and the meticulous compilation of [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate,_governance) reports—documents often more voluminous than the average Russian novel—corporations have reportedly made a stunning realization: they possess 'capabilities.' Yes, it seems the very entities designed to produce goods, services, and ever-increasing shareholder value might, in fact, be capable of *doing things*.\n\nThis groundbreaking insight, courtesy of the sagacious minds at [McKinsey & Company](https://www.mckinsey.com/), marks a pivotal shift from mere 'checklists' to an astonishing engagement with actual 'problem-solving.' The previous era of measuring everything from carbon emissions to the ethical sourcing of boardroom mineral water is apparently giving way to a brave new world where businesses leverage their *core functions* to tackle society’s thorniest challenges. Who knew that a global logistics giant, for example, could actually... transport aid, or that a tech titan might develop accessible software?\n\nThis sudden surge of corporate self-awareness, conveniently timed with escalating global crises like [climate change](https://www.un.org/sustainabledevelopment/climate_change/) and yawning social inequalities, suggests a remarkably acute sense of timing. One might almost believe these colossal entities are just now realizing they are not merely spreadsheet algorithms, but actual actors in the world.\n\nOriginal article: [Beyond ESG: From checklists to capabilities](https://www.mckinsey.com/mgi/our-research/beyond-esg-from-checklists-to-capabilities)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Post-ESG_Corporations_Discover_They_Possess_Legs_55e9437a.webp",
-    "published_at": "2025-09-17T11:10:25.683522",
-    "author": ".Com-munist",
-    "category": "Business",
-    "original_link": "https://www.mckinsey.com/mgi/our-research/beyond-esg-from-checklists-to-capabilities"
   }
 ]
