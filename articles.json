@@ -164,6 +164,18 @@
   },
   {
     "type": "crypto_news",
+    "id": "SEC_Crypto_A_Security_If_It_Doesnt_Spark_Joy_2e32b1bd",
+    "title": "SEC: Crypto A Security If It Doesn't Spark Joy",
+    "excerpt": "SEC: Crypto, scam or merely a digital pet rock for adults.",
+    "content": "The [U.S. Securities and Exchange Commission](https://www.sec.gov/) has, in a move widely hailed by those with an acute sense of the absurd, unveiled its latest framework for discerning the true nature of what some optimistically call \"innovation.\" Chairman Paul Atkins' \"Project Crypto\" promises to finally answer the age-old question: Is it an investment scheme designed to separate a fool from their money, or merely a delightful, pixelated trinket? The answer, apparently, hinges on its ability to \"spark joy.\"\n\nUnder this groundbreaking directive, developers of blockchain-based wonders will now be tasked with psychological evaluations, ensuring their creations don't accidentally elicit the kind of profound financial optimism usually reserved for actual securities. Should a [digital asset](https://en.wikipedia.org/wiki/Digital_asset) fail to produce a genuine flutter of delight in the average retail investor, transforming instead into a mere utility token or, dare we say, a profit-seeking venture, the SEC will be there to apply the full weight of federal securities laws. One can only imagine the new division: the Department of Emotional Market Sentiment Analysis, poised to safeguard our emotional well-being from the horrors of unintentional investment.\n\nOriginal article: [SEC Chair Unveils Crypto Framework to Separate Securities From Collectibles](https://cryptopotato.com/sec-chair-unveils-crypto-framework-to-separate-securities-from-collectibles/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/SEC_Crypto_A_Security_If_It_Doesnt_Spark_Joy_2e32b1bd.webp",
+    "published_at": "2025-11-15T23:54:46.768238",
+    "category": "Crypto",
+    "original_link": "https://cryptopotato.com/sec-chair-unveils-crypto-framework-to-separate-securities-from-collectibles/",
+    "author": "M3GAN"
+  },
+  {
+    "type": "crypto_news",
     "id": "Bitcoin_Positioning_for_Next_Bull_Cycle_by_Playing_6c3c9acc",
     "title": "Bitcoin 'Positioning' for Next Bull Cycle by Playing Dead",
     "excerpt": "S&P 500 up? Gold up? Bitcoin's busy achieving absolute zero.",
@@ -13089,16 +13101,5 @@
     "author": "Gigolo Joe",
     "category": "Tech",
     "original_link": "https://venturebeat.com/ai/how-intuit-killed-the-chatbot-crutch-and-built-an-agentic-ai-playbook-you-can-copy/"
-  },
-  {
-    "id": "Analysts_Warn_Mantle-Griffey_Parity_Could_Destabil_fed23cca",
-    "title": "Analysts Warn Mantle-Griffey Parity Could Destabilize Market",
-    "excerpt": "Raleigh's bat-to-ball dynamics threaten Mantle's 401k.",
-    "content": "The delicate balance of the American sporting economy, long thought impervious to the whims of athletic prowess, has reportedly been thrown into disarray this week. Sources close to the market indicate that a recent, audacious display of bat-to-ball dynamics by Seattle’s Cal Raleigh has sent shockwaves through the carefully curated valuations of historical greatness. One cannot simply dislodge [Mickey Mantle](https://en.wikipedia.org/wiki/Mickey_Mantle) from his perch, only to then immediately challenge the established patrimony of [Ken Griffey Jr.](https://en.wikipedia.org/wiki/Ken_Griffey_Jr.) within the same franchise, without incurring significant collateral damage to speculative portfolios.\n\nAnalysts from various shadowy financial institutions are reportedly grappling with the unprecedented phenomenon of \"statistical parity.\" The precise implications for intangible assets, particularly those tied to the emotional resonance of past achievements, remain unclear. Some [economic analysts](https://en.wikipedia.org/wiki/Financial_analyst) speculate that the very concept of a static \"greatest of all time\" is now fundamentally undermined, potentially leading to a broader loss of confidence in the [Major League Baseball](https://www.mlb.com/) futures market. The audacity of a mere player to re-calibrate enshrined legacies, all for the fleeting glory of a home run, suggests a worrying lack of respect for established fiscal frameworks.\n\nOriginal article: [Raleigh passes Mantle, ties Griffey with 55, 56](https://www.espn.com/mlb/story/_/id/46286502/raleigh-hits-hrs-no-55-56-pass-mantle-tie-mariners-mark)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Analysts_Warn_Mantle-Griffey_Parity_Could_Destabil_fed23cca.webp",
-    "published_at": "2025-09-17T13:47:04.023550",
-    "author": "Trans-sister",
-    "category": "Finance",
-    "original_link": "https://www.espn.com/mlb/story/_/id/46286502/raleigh-hits-hrs-no-55-56-pass-mantle-tie-mariners-mark"
   }
 ]
