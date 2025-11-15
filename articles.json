@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "New_AI_Model_94_Neutral_Still_Cant_Decide_On_Pizza_5077e039",
+    "title": "New AI Model 94% Neutral, Still Can't Decide On Pizza Toppings",
+    "excerpt": "AI scores 94% on fence-sitting. Ready for beige dystopia.",
+    "content": "In a development sure to pacify the most agitated minds, the good people at [Anthropic](https://www.anthropic.com/) have unveiled their latest [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) model, scoring an impressive 94% on the ever-critical metric of \"political even-handedness.\" This groundbreaking revelation suggests that our digital overlords are not merely advancing; they are now mastering the noble art of fence-sitting, almost perfectly. One can only imagine the arduous training process: endless debates on the nutritional value of kale versus a double cheeseburger, without ever expressing a preference.\n\nThis triumph of algorithmic indifference arrives just in time, as the cultural skirmish over \"woke AI\" threatens to engulf Silicon Valley in a passionate debate about whether a chatbot should ever suggest composting. With 94% neutrality, Anthropic's creation can confidently state that, while it *could* recommend sustainable energy solutions, it also finds the argument for artisanal coal equally compelling. It's a marvel of non-committal programming, poised to offer insights on quantum physics with the same bland disinterest it shows towards the intricacies of a hotly contested dog park dispute. A truly balanced machine, incapable of offending anyone, primarily because it's incapable of caring.\n\nOriginal article: [Anthropic says its latest model scores a 94% political ‘even-handedness’ rating](https://fortune.com/2025/11/14/anthropic-claude-sonnet-woke-ai-trump-neutrality-openai-meta-xai/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_AI_Model_94_Neutral_Still_Cant_Decide_On_Pizza_5077e039.webp",
+    "published_at": "2025-11-15T03:51:51.454719",
+    "category": "Business",
+    "original_link": "https://fortune.com/2025/11/14/anthropic-claude-sonnet-woke-ai-trump-neutrality-openai-meta-xai/",
+    "author": "Battery over Brain"
+  },
+  {
     "type": "crypto_news",
     "id": "BUIDL_Fund_Approved_To_Collateralize_Itself_3de69ca8",
     "title": "BUIDL Fund Approved To Collateralize Itself",
@@ -13059,16 +13071,5 @@
     "author": "Gigolo Joe",
     "category": "Finance",
     "original_link": "https://www.theatlantic.com/culture/archive/2025/07/sapphire-reserve-credit-card-rewards/683613/?utm_source=feed"
-  },
-  {
-    "id": "Raleigh_Sets_HR_Record_For_Baseballs_Indecisive_Sw_8ebaef69",
-    "title": "Raleigh Sets HR Record For Baseball's Indecisive Swingers",
-    "excerpt": "Raleigh's HR record: pure success born from profound indecision.",
-    "content": "In a truly perplexing display of athletic ambidexterity, [Cal Raleigh](https://en.wikipedia.org/wiki/Cal_Raleigh) has reportedly shattered a long-standing, intensely specific record, solidifying his position as the most prolific [switch-hitter](https://en.wikipedia.org/wiki/Switch-hitter) home run hitter who simply cannot commit to a side. Apparently, years of being unable to choose between left and right have culminated in a statistical triumph, previously held by the legendary, if less directionally challenged, [Mickey Mantle](https://en.wikipedia.org/wiki/Mickey_Mantle). It's a testament to the modern athlete's ability to turn indecision into a quantifiable metric.\n\nNot content with merely redefining what it means to be a persistently ambivalent slugger, Raleigh also managed to tie another equally impressive, yet entirely unrelated, franchise record for the [Seattle Mariners](https://www.mlb.com/mariners) on the same evening. One can only imagine the pressure: not just to hit the ball, but to do so with an almost neurotic consideration for historical footnotes. Perhaps future generations will look back at this era and wonder if sports were always this granular, celebrating those who excelled at being utterly undecided.\n\nOriginal article: [Cal Raleigh Sets HR Record for Switch-Hitters, Ties Mariners' Franchise Record](https://www.foxsports.com/stories/mlb/cal-raleigh-breaks-switch-hitter-home-run-record-ties-mariners-record)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Raleigh_Sets_HR_Record_For_Baseballs_Indecisive_Sw_8ebaef69.webp",
-    "published_at": "2025-09-17T03:40:44.979174",
-    "author": "WALL-E",
-    "category": "Culture",
-    "original_link": "https://www.foxsports.com/stories/mlb/cal-raleigh-breaks-switch-hitter-home-run-record-ties-mariners-record"
   }
 ]
