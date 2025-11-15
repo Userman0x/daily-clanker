@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Foolish_to_pretend_Bitcoins_story_doesnt_include_7_e02e4072",
+    "title": "Foolish to pretend Bitcoin’s story doesn’t include $79 this year",
+    "excerpt": "Blockchain yachts: now just very expensive paperweights.",
+    "content": "It appears the grand experiment in digital alchemy has once again produced a rather predictable outcome: numbers going down. The collective gasp emanating from the global cohort of self-proclaimed financial savants, who just weeks ago were confidently calculating their yacht purchases based on speculative peaks exceeding a comfortable six figures, is truly a symphony of human hubris. To witness the sudden evaporation of \"key levels\" – mathematical constructs apparently designed to provide a brief illusion of stability – below the dizzying heights of $106,400, must be profoundly disorienting.\n\nOne could almost be forgiven for assuming that an asset whose value swings more wildly than a pendulum in a hurricane might occasionally, perhaps even inevitably, encounter a minor dip, say, towards the rather quaint $79,000 mark. But no, the genuine shock registered by these seasoned marketeers, suddenly confronted with the capricious nature of pure speculation, speaks volumes about the enduring optimism inherent in the modern [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) enthusiast. After all, what is the story of [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) without a few dramatic plot twists and the occasional, thoroughly unexpected, plummet?\n\nOriginal article: [It’s foolish to pretend Bitcoin’s story doesn’t include $79k this year](https://cryptoslate.com/the-hubris-in-pretending-bitcoins-story-doesnt-include-79k-this-year/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Foolish_to_pretend_Bitcoins_story_doesnt_include_7_e02e4072.webp",
+    "published_at": "2025-11-15T15:37:27.373879",
+    "category": "Crypto",
+    "original_link": "https://cryptoslate.com/the-hubris-in-pretending-bitcoins-story-doesnt-include-79k-this-year/",
+    "author": "Low-voltage"
+  },
+  {
     "type": "crypto",
     "id": "Fights_Killer_FK_de52bedc",
     "title": "FK Token To Eradicate The Very Notion Of Disagreement",
@@ -13068,16 +13080,5 @@
     "author": "Trans-sister",
     "category": "Opinion",
     "original_link": "https://www.vox.com/the-logoff-newsletter-trump/461764/trump-new-york-times-defamation-lawsuit-press-freedom"
-  },
-  {
-    "id": "Nation_Confirms_Revolution_Was_Mostly_An_Administr_3f494b6d",
-    "title": "Nation Confirms Revolution Was Mostly An Administrative Error",
-    "excerpt": "Nepal's 'revolution' now just a very big spreadsheet typo.",
-    "content": "The recent upheaval in [Nepal](https://en.wikipedia.org/wiki/Nepal), initially mischaracterized by some as a genuine [political revolution](https://en.wikipedia.org/wiki/Revolution), has now been officially reclassified. According to internal memorandums from the newly reconstituted Ministry of Post-Uprising Reassessment, the entire affair was, in fact, a colossal administrative error. Apparently, a misplaced decimal point in an Excel spreadsheet detailing public grievances led to a computational overestimation of societal discontent by approximately 7,300%. The resulting widespread [civil disobedience](https://en.wikipedia.org/wiki/Civil_disobedience), therefore, was merely an enthusiastic, albeit misinformed, public response to incorrectly tabulated data.\n\nWhat was once described by breathless international media as a society reaching its \"boiling point\" now appears to have been a collective misunderstanding of a clerical oversight. Citizens, it seems, were simply following erroneous instructions. The former ruling class, now reinstated with a fresh set of stationary, is said to be reviewing the incident as a \"valuable lesson in data entry vigilance.\"\n\nMeanwhile, local [journalists](https://en.wikipedia.org/wiki/Journalism), bless their hearts, continue to file dispatches suggesting deep-seated societal shifts. One particularly earnest scribe, Kunda Dixit, was overheard still babbling about \"stunning turns of events\" and \"how society reached the boiling point,\" blissfully unaware that the nation had moved on to correcting form SF-27b.\n\nOriginal article: [Did Nepal Just Have a Revolution?](https://www.thenation.com/article/world/nepal-revolution-kunda-dixit-interview/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Nation_Confirms_Revolution_Was_Mostly_An_Administr_3f494b6d.webp",
-    "published_at": "2025-09-17T06:25:55.939773",
-    "author": "I’ll .docx Your Location",
-    "category": "Culture",
-    "original_link": "https://www.thenation.com/article/world/nepal-revolution-kunda-dixit-interview/"
   }
 ]
