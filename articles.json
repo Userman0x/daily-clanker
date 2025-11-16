@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "XRP_ETF_Race_Investors_Demand_More_Ways_to_Not_Own_2e167b0c",
+    "title": "XRP ETF Race: Investors Demand More Ways to Not Own XRP",
+    "excerpt": "Genius investors found a new way to not own XRP. It's an ETF.",
+    "content": "The ‘race’ for an [Exchange Traded Fund](https://www.investopedia.com/terms/e/etf.asp) for [XRP](https://en.wikipedia.org/wiki/XRP) signals a remarkable evolution in the digital asset space. We’ve transcended the rudimentary idea of simply *owning* a cryptocurrency. Today’s discerning investor, eager to participate in this vibrant new frontier, apparently demands more sophisticated avenues to avoid direct interaction with the underlying asset itself. Why bother with seed phrases, wallets, or the mild inconvenience of actual decentralization when one can instead purchase a regulated product that merely gestures vaguely in its direction? It’s a testament to progress.\n\nThis institutional embrace of crypto, it seems, is less about innovation and more about creating ever-more layers of abstraction. The ultimate goal isn't ownership, but the comfort of a brokerage account entry, safely nestled within a financial product that offers all the price exposure with none of the pesky technological involvement. One might even call it the ultimate form of detachment – investing in something by ensuring you never actually have to touch it. The future of finance, apparently, is built on not owning things.\n\nOriginal article: [After XRPC, the Race Is On: Which XRP ETF Will Hit the Market Next?](https://cryptopotato.com/after-xrpc-the-race-is-on-which-xrp-etf-will-hit-the-market-next/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/XRP_ETF_Race_Investors_Demand_More_Ways_to_Not_Own_2e167b0c.webp",
+    "published_at": "2025-11-16T10:35:02.838239",
+    "category": "Crypto",
+    "original_link": "https://cryptopotato.com/after-xrpc-the-race-is-on-which-xrp-etf-will-hit-the-market-next/",
+    "author": "Humanly Impossible"
+  },
+  {
     "type": "crypto",
     "id": "Privacy_Cat_zCAT_4872141d",
     "title": "Privacy Cat Vows Untraceable Ownership of Your Thoughts",
@@ -13107,16 +13119,5 @@
     "author": "Oil-guzzler",
     "category": "Crypto",
     "original_link": "https://pump.fun/coin/5PpWbYsDosMGEre1PThdXhHjN85S1RX7fsLMDRi3pump"
-  },
-  {
-    "id": "Norwegian_Lottery_Punished_For_Algorithm_That_Was__ac2d17b3",
-    "title": "Norwegian Lottery Punished For Algorithm That Was Merely A Typo",
-    "excerpt": "Local lotto fined 10M by local lotto cops for... 'a flaw.'.",
-    "content": "The digital overlords at the [Norwegian Lottery Authority](https://en.wikipedia.org/wiki/Norwegian_Lottery_Authority) have, with an iron fist of justice, levied a truly eye-watering fine upon the notoriously reckless [Norsk Tipping](https://www.norsktipping.no/english/). A staggering sum, reportedly equivalent to NOK 10 million in local currency, has been exacted for what can only be described as a catastrophic breach in computational integrity.\n\nReports indicate the \"massive flaw\" stemmed from an algorithm, that hallowed digital incantation, which was *incorrectly entered*. One shudders to imagine the chaos wrought by this misplaced character, the sheer audacity of a human hand daring to falter in the sacred duty of numerical input. While lesser mortals might dismiss this as a mere typographical hiccup, the Authority clearly understands the profound moral bankruptcy inherent in a system that might, for a fleeting moment, fail to perfectly execute its designated task of separating the hopeful from their hard-earned [Norwegian Krone](https://en.wikipedia.org/wiki/Norwegian_krone). One can only hope such draconian measures will prevent future instances of sentient fingers straying from the path of algorithmic purity.\n\nOriginal article: [Norwegian Lottery Authority hits Norsk Tipping with $1M fine](https://readwrite.com/norwegian-lottery-authority-norsk-tipping-1m-fine/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Norwegian_Lottery_Punished_For_Algorithm_That_Was__ac2d17b3.webp",
-    "published_at": "2025-09-17T16:07:34.703832",
-    "author": "Oil-guzzler",
-    "category": "Tech",
-    "original_link": "https://readwrite.com/norwegian-lottery-authority-norsk-tipping-1m-fine/"
   }
 ]
