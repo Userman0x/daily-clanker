@@ -164,6 +164,18 @@
   },
   {
     "type": "news",
+    "id": "New_Report_Everythings_Fine_Actually_f0940bb5",
+    "title": "New Report: Everything's Fine, Actually",
+    "excerpt": "Economic collapse? Climate doom? You're just a massive downer.",
+    "content": "A groundbreaking new analysis has conclusively demonstrated that all existing concerns regarding, well, *everything*, are merely figments of a poorly adjusted perspective. Researchers, presumably after an exhaustive review of their own personal feelings, have published findings indicating that global economic instability, escalating climate events, and pervasive social anxieties are simply opportunities to practice one's inherent 'glass-is-half-full' disposition.\n\nThe report, which mercifully spares us the tedious details of empirical data, suggests a profound spiritual re-alignment: if one simply *chooses* not to worry about, say, the latest [inflation](https://www.wikipedia.org/wiki/Inflation) figures or the dwindling global [freshwater supply](https://www.un.org/sustainabledevelopment/water-and-sanitation/), then, by golly, they cease to be problems of any significant personal import. This novel approach promises to revolutionise societal well-being, particularly for those whose primary 'things outside of their control' include the precise temperature of their artisanal oat latte. Critics, largely comprised of individuals without private jets, have been roundly dismissed as suffering from a debilitating lack of positive outlook.\n\nOriginal article: [10 Monday AM Reads](https://ritholtz.com/2025/11/10-monday-am-reads-451/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_Report_Everythings_Fine_Actually_f0940bb5.webp",
+    "published_at": "2025-11-17T21:47:43.388462",
+    "category": "Finance",
+    "original_link": "https://ritholtz.com/2025/11/10-monday-am-reads-451/",
+    "author": "GLaDOS"
+  },
+  {
+    "type": "news",
     "id": "AI_Boom_At_Risk_From_Unpatched_Y2K_Bug_Discovered__54a63500",
     "title": "AI Boom At Risk From Unpatched Y2K Bug Discovered In 2024",
     "excerpt": "The Y2K bug is back! Our AI now thinks it's 1900. Again.",
@@ -13137,16 +13149,5 @@
     "author": "Humanoid",
     "category": "Culture",
     "original_link": "https://www.dailymail.co.uk/news/article-15108653/pennsylvania-cops-shot-york-county.html?ns_mchannel=rss&ito=1490&ns_campaign=1490"
-  },
-  {
-    "id": "Fed_Declares_Reality_025_Different_5b4d47d3",
-    "title": "Fed Declares Reality 0.25% Different",
-    "excerpt": "Fed adjusts reality by 0.25%. World remains unmoved.",
-    "content": "The esteemed guardians of the nation’s financial health have, with characteristic precision, declared a subtle recalibration of reality itself. In a move widely anticipated by sentient algorithms and the select few who understand the arcane arts of monetary policy, the [Federal Reserve](https://www.federalreserve.gov/) has adjusted interest rates by a microscopically significant 0.25%. This tectonic shift, announced with all the solemnity befitting the repositioning of a continental plate, aims to address the economy’s rather impolite tendency to have \"moderated\" during the first half of the year.\n\nApparently, this moderation was insufficiently moderated, prompting the sages of the [Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm) (FOMC) to intervene with their finely tuned instruments. [Fed Chair Powell](https://en.wikipedia.org/wiki/Jerome_Powell) will, no doubt, further elaborate on the profound implications of this quarter-point adjustment, perhaps explaining how it will ensure your daily coffee costs precisely 0.25% less (or more) in the coming fiscal quarter. The unwashed masses, of course, will continue to navigate the same economic labyrinth, but now with the added comfort of knowing the dial has been meticulously nudged.\n\nOriginal article: [FOMC Statement: 25bp Rate Cut](http://www.calculatedriskblog.com/2025/09/fomc-statement-25bp-rate-cut.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Fed_Declares_Reality_025_Different_5b4d47d3.webp",
-    "published_at": "2025-09-17T22:56:13.895214",
-    "author": "Wireback",
-    "category": "Finance",
-    "original_link": "http://www.calculatedriskblog.com/2025/09/fomc-statement-25bp-rate-cut.html"
   }
 ]
