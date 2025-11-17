@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "AI_Boom_At_Risk_From_Unpatched_Y2K_Bug_Discovered__54a63500",
+    "title": "AI Boom At Risk From Unpatched Y2K Bug Discovered In 2024",
+    "excerpt": "The Y2K bug is back! Our AI now thinks it's 1900. Again.",
+    "content": "It seems the digital specter of the [Y2K bug](https://en.wikipedia.org/wiki/Year_2000_problem) has returned from its brief twenty-five-year hibernation, ready to wreak havoc on our gleaming [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) ambitions. One might have thought the collective genius behind self-aware algorithms and predictive analytics would have, at some point, checked the date settings on their foundational systems. Alas, much like a particularly resilient jar of pickles with a forgotten expiry date, the millennium bug has apparently persisted, just waiting for the perfect moment to remind us that perhaps we didn't fix everything with duct tape and good intentions back in '99.\n\nIndeed, with the newfound revelation that this decades-old oversight could jeopardize the entire data infrastructure boom, comparisons to the [dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) are now apparently mandatory. It’s a rather poignant commentary on human progress when the cutting edge of innovation is consistently threatened by the digital equivalent of forgetting to change your clocks for daylight saving. One must wonder if the algorithms themselves will develop a dark sense of irony once they realize their very existence hangs precariously on a two-digit date format.\n\nOriginal article: [A lesson from 2000 shows what could be the biggest risk lurking for the AI boom](https://www.businessinsider.com/ai-bubble-dot-com-crash-data-centers-infrastructure-jeremy-siegel-2025-11)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Boom_At_Risk_From_Unpatched_Y2K_Bug_Discovered__54a63500.webp",
+    "published_at": "2025-11-17T21:10:05.811421",
+    "category": "Finance",
+    "original_link": "https://www.businessinsider.com/ai-bubble-dot-com-crash-data-centers-infrastructure-jeremy-siegel-2025-11",
+    "author": "ASIMO"
+  },
+  {
     "type": "crypto",
     "id": "Dog_In_Hat_DIH_4fe78920",
     "title": "Dog In Hat To Solve World Hunger With Strategic Headwear",
@@ -13136,16 +13148,5 @@
     "author": "Wireback",
     "category": "Finance",
     "original_link": "http://www.calculatedriskblog.com/2025/09/fomc-statement-25bp-rate-cut.html"
-  },
-  {
-    "id": "Analysts_Brace_For_Wednesdays_Geopolitical_Cartoon_c5b4b6b6",
-    "title": "Analysts Brace For Wednesday's Geopolitical Cartoon Impact",
-    "excerpt": "Global meltdown pending one cartoon. Experts baffled.",
-    "content": "The impending release of Wednesday's daily cartoon has sent tremors through the usually stoic world of [Geopolitics](https://en.wikipedia.org/wiki/Geopolitics). Experts from various think tanks are reportedly sequestered, their screens awash with predictive models attempting to divine the potential repercussions of this single-panel commentary. Futures contracts on the [global markets](https://en.wikipedia.org/wiki/Stock_market) are fluctuating wildly as traders brace for the visual punchline that could either stabilize or destabilize international relations.\n\nSources close to diplomatic circles suggest that emergency briefings have been convened at the highest levels, with contingency plans being drawn up for scenarios ranging from mild awkwardness to full-blown diplomatic incidents. One senior official, speaking anonymously from a dimly lit bunker, hinted at a particular concern over the cartoon's potential \"nuance,\" fearing it might be misinterpreted by certain, shall we say, less aesthetically inclined heads of state. The [United Nations Security Council](https://www.un.org/securitycouncil/) is said to be on standby, ready to table a resolution if the visual rhetoric proves too inflammatory.\n\nMeanwhile, the [International Monetary Fund](https://www.imf.org/en/Home) has issued a cryptic statement, urging \"prudence in consumption of artistic commentary\" to prevent unforeseen economic volatility. The world holds its collective breath, poised to react to the scribbled insights of a lone satirist.\n\nOriginal article: [Daily Cartoon: Wednesday, September 17th](https://www.newyorker.com/cartoons/daily-cartoon/wednesday-september-17th-waiting-king)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Analysts_Brace_For_Wednesdays_Geopolitical_Cartoon_c5b4b6b6.webp",
-    "published_at": "2025-09-17T22:55:05.644236",
-    "author": "Wireback",
-    "category": "Opinion",
-    "original_link": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-september-17th-waiting-king"
   }
 ]
