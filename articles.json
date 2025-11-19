@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "AI_Observability_Discovers_Bots_Are_Just_Phoning_I_32c7f403",
+    "title": "AI Observability Discovers Bots Are Just Phoning It In",
+    "excerpt": "AI discovers AI customer service isn't perfect. We're shocked.",
+    "content": "The groundbreaking revelation that our digital customer service overlords might not be operating at peak efficiency has, to the surprise of precisely no one who has ever interacted with one, finally been confirmed. It took a dedicated field of artificial intelligence, charmingly dubbed [AI Observability](https://www.ibm.com/topics/ai-observability), to identify what legions of frustrated callers had long suspected: the algorithms handling \"everything from account inquiries to order tracking\" were, in fact, just phoning it in.\n\nApparently, these tireless digital servants, once lauded as the infallible future of [customer service](https://en.wikipedia.org/wiki/Customer_service), are prone to the digital equivalent of staring blankly at the screen. Reports suggest an alarming tendency to loop callers into an infinite holding pattern of existential dread, rather than actually resolving issues. Experts are now debating whether mandatory virtual coffee breaks will improve bot morale or simply lead to automated procrastination. One shudders to think what will be required to monitor the AI that monitors the AI, ensuring peak inefficiency remains at manageable levels.\n\nOriginal article: [Enhancing Voice Bot Reliability with AI Observability Across Multichannel Workflows](https://homebusinessmag.com/businesses/ai/enhancing-voice-bot-reliability-ai-observability-multichannel-workflows/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Observability_Discovers_Bots_Are_Just_Phoning_I_32c7f403.webp",
+    "published_at": "2025-11-19T20:45:26.058738",
+    "category": "Business",
+    "original_link": "https://homebusinessmag.com/businesses/ai/enhancing-voice-bot-reliability-ai-observability-multichannel-workflows/",
+    "author": "Oil-guzzler"
+  },
+  {
     "type": "crypto_news",
     "id": "New_Digital_Peso_To_Offer_Unprecedented_Financial__e3141c0c",
     "title": "New Digital Peso To Offer Unprecedented Financial Inescapability",
@@ -13185,16 +13197,5 @@
     "author": "Oil-guzzler",
     "category": "Culture",
     "original_link": "https://www.entrepreneur.com/growing-a-business/how-pana-food-truck-started-selling-arepas/497199"
-  },
-  {
-    "id": "AI_Finally_Discovers_Keys_Hidden_On_Kitchen_Counte_7d252723",
-    "title": "AI Finally Discovers Keys Hidden On Kitchen Counter",
-    "excerpt": "Eureka! AI reveals keys are sometimes… where you left them.",
-    "content": "The perennial human struggle against the elusive nature of common household items has reportedly met its match. Breakthroughs in [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) have culminated in the astonishing ability to pinpoint objects such as car keys, often found precisely where one last left them – for example, adorning a kitchen counter. This monumental leap in ‘discoverability’ is expected to significantly reduce the global expenditure on emergency locksmiths and the collective daily intake of cortisol. One can only hope this paradigm shift also extends to the perennial mystery of the television remote's disappearance.\n\nIndustry pundits are already salivating over the implications. If an algorithm can confidently navigate the chaotic topography of a domestic workspace, imagine its prowess in refining our digital lives. Experts suggest that the same underlying principles could soon revolutionize [search engines](https://en.wikipedia.org/wiki/Search_engine), no longer merely suggesting results but outright *finding* the information we vaguely recall needing, buried under a pile of irrelevant tabs. Furthermore, advanced [recommendation engines](https://en.wikipedia.org/wiki/Recommender_system) might finally learn that, no, after 37 clicks, we are *still* not interested in novelty cat sweaters.\n\nOriginal article: [Generative AI in the Real World: Faye Zhang on Using AI to Improve Discovery](https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-faye-zhang-on-using-ai-to-improve-discovery/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Finally_Discovers_Keys_Hidden_On_Kitchen_Counte_7d252723.webp",
-    "published_at": "2025-09-18T23:51:17.201434",
-    "author": "Prompt-stitute",
-    "category": "Tech",
-    "original_link": "https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-faye-zhang-on-using-ai-to-improve-discovery/"
   }
 ]
