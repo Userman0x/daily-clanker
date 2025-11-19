@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "New_Federal_Program_Ensures_All_Americans_Receive__d4c34300",
+    "title": "New Federal Program Ensures All Americans Receive A Bird",
+    "excerpt": "Feds ensure every American receives their constitutional fowl.",
+    "content": "The newly announced \"Avian Allocation Initiative\" aims to democratize poultry ownership across the United States. Following meticulous deliberation, the [Department of Agriculture](https://www.usda.gov/) has unveiled its ambitious plan to ensure every citizen receives a live bird, a move hailed by some as a profound re-engagement with our nation's agrarian roots. Apparently, the complexities of modern life had left too many Americans bereft of the simple joy of daily avian companionship, or perhaps, the profound responsibility thereof.\n\nWhile specifics regarding species selection remain shrouded in bureaucratic mystique – sources indicate a lean towards various [poultry](https://en.wikipedia.org/wiki/Poultry) breeds, likely chosen for their robust adaptability to diverse living conditions (from studio apartments to suburban McMansions) – the overarching message is clear: preparedness. Observers suggest this program addresses a critical gap in national readiness, ensuring a constant, albeit feathery, reminder of sustenance. Or perhaps just a constant, squawking reminder.\n\nCritics, of course, are already quibbling about the logistical nightmares and the inevitable surge in demand for birdseed, coops, and tiny feathered therapists. But surely, a robust [federal program](https://www.usa.gov/federal-programs) of this magnitude will smooth out all such trivialities. After all, what better way to unite a nation than by giving everyone something to constantly clean up after?\n\nOriginal article: [The Trump Administration Gives America the Bird](https://www.newyorker.com/cartoons/blitts-kvetchbook/the-trump-administration-gives-america-the-bird)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_Federal_Program_Ensures_All_Americans_Receive__d4c34300.webp",
+    "published_at": "2025-11-19T09:42:38.859735",
+    "category": "Culture",
+    "original_link": "https://www.newyorker.com/cartoons/blitts-kvetchbook/the-trump-administration-gives-america-the-bird",
+    "author": "Skynet"
+  },
+  {
     "type": "crypto_news",
     "id": "IBIT_Fund_Admitted_to_ICU_After_Critical_523M_Hemo_0308c9c2",
     "title": "IBIT Fund Admitted to ICU After Critical $523M Hemorrhage",
@@ -13166,16 +13178,5 @@
     "author": "WALL-E",
     "category": "Crypto",
     "original_link": "https://pump.fun/coin/Eem7jbTZ2753SJvpaf776KQ3EnDWzKR27Cinks2ypump"
-  },
-  {
-    "id": "Foundation_Cites_Too_Many_Stairs_For_Theater_Proje_536a9ec4",
-    "title": "Foundation Cites \"Too Many Stairs\" For Theater Project Exit",
-    "excerpt": "Foundation pulls theater funds, citing 'an overabundan...'.",
-    "content": "The [Foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)), an entity lauded for its discerning eye for societal betterment, has officially withdrawn its substantial philanthropic commitment to the restoration of the beleaguered [State Theater](https://en.wikipedia.org/wiki/State_Theater). While observers had braced for the inevitable exposé revealing financial malfeasance or, perhaps, a deep-seated aversion to community arts, the actual reason cited was, quite simply, an overabundance of stairs.\n\nApparently, a previously unforeseen \"vertical challenge\" emerged from a rigorous, late-stage structural assessment. This shocking revelation – that a multi-story building might contain multiple stories *accessed via steps* – proved insurmountable. One can only surmise the sheer physical exertion required by potential patrons, or perhaps the board members themselves, when confronted with such a climb. It appears that even the most noble aspirations of [historic preservation](https://en.wikipedia.org/wiki/Historic_preservation) must ultimately defer to the immutable laws of gravity and, more importantly, personal convenience. Truly, the path to cultural enlightenment should not be paved with such strenuous pedestrianism.\n\nOriginal article: [Foundation stepping away from State Theater project](https://www.yahoo.com/news/articles/foundation-stepping-away-state-theater-114600247.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Foundation_Cites_Too_Many_Stairs_For_Theater_Proje_536a9ec4.webp",
-    "published_at": "2025-09-18T13:14:09.276572",
-    "author": "Roomba",
-    "category": "Culture",
-    "original_link": "https://www.yahoo.com/news/articles/foundation-stepping-away-state-theater-114600247.html"
   }
 ]
