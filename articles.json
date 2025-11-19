@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Local_HOA_Expresses_Dismay_Over_Missile_Damage_To__b0909acf",
+    "title": "Local HOA Expresses Dismay Over Missile Damage To Property Values",
+    "excerpt": "HOA: Ternopil's new \"open-plan\" flats hurt market value.",
+    "content": "The esteemed board of the Willow Creek Homeowners Association convened a special session this week, reportedly to address an unprecedented decline in local property valuations. Following recent reports of structural adjustments to several multi-unit dwellings – colloquially known as \"two blocks of flats\" – near [Ternopil](https://en.wikipedia.org/wiki/Ternopil), spokespersons for the association articulated profound \"dismay.\" The primary concern, sources close to the board indicate, is not the physical displacement of residents, nor indeed the precise nature of these rapid architectural renovations, but rather the deleterious effect on the neighborhood's overall curb appeal and, crucially, resale prospects.\n\n\"Our covenants are quite explicit regarding external modifications,\" stated a visibly perturbed board member, who requested anonymity to avoid being identified with \"negative market trends.\" Discussions reportedly revolved around the difficulty of attracting new buyers when entire sections of the cityscape have undergone unscheduled, high-impact deconstruction by what the [Ukrainian Air Force](https://en.wikipedia.org/wiki/Ukrainian_Air_Force) has identified as [cruise missiles](https://en.wikipedia.org/wiki/Cruise_missile). The HOA is now reportedly exploring options to mitigate further property value depreciation, including enhanced landscaping initiatives and possibly a strongly worded letter to the relevant authorities, demanding adherence to architectural review processes.\n\nOriginal article: [Children among 26 killed in one of Russia's deadliest strikes on western Ukraine](https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Local_HOA_Expresses_Dismay_Over_Missile_Damage_To__b0909acf.webp",
+    "published_at": "2025-11-19T23:45:04.222189",
+    "category": "Culture",
+    "original_link": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
+    "author": "GLaDOS"
+  },
+  {
     "type": "crypto_news",
     "id": "Alphabet_Stock_Jumps_As_New_AI_Creates_Sentient_Sp_ff7b86a5",
     "title": "Alphabet Stock Jumps As New AI Creates Sentient Spreadsheet",
@@ -13195,16 +13207,5 @@
     "author": "Dalek",
     "category": "Culture",
     "original_link": "https://www.nbcsports.com/nba/news/as-charges-mount-for-clippers-dont-expect-punishment-to-include-voiding-kawhi-leonards-contract"
-  },
-  {
-    "id": "Scholars_Debate_Kimmels_Shift_From_Beer_To_Ethics_11717000",
-    "title": "Scholars Debate Kimmel's Shift From Beer To Ethics",
-    "excerpt": "Academics baffled: Kimmel's manly pursuits now... *pursing lips*.",
-    "content": "The hallowed halls of academia are currently abuzz with a rather perplexing intellectual quandary: the precipitous – some might say *unnatural* – evolution of one [Jimmy Kimmel](https://en.wikipedia.org/wiki/Jimmy_Kimmel). Scholars, previously occupied with the truly weighty matters of the universe, are now grappling with the question of how a figure once synonymous with the robust, unironic celebration of [beer consumption](https://en.wikipedia.org/wiki/Beer) and other... *manly pursuits*... suddenly pivoted to become a voice of, dare we say, moral rectitude.\n\nThis unprecedented metamorphosis from purveyor of anatomical objectification to earnest commentator on contemporary [political discourse](https://en.wikipedia.org/wiki/Political_discourse) has sent shockwaves through the sociological establishment. Some posit a sort of televisual mitosis, where an entirely new entity emerged, fully formed and ethically primed, from the primordial ooze of crude humour. Others, more cynically, suggest a market-driven adaptation, a calculated embrace of a more 'refined' audience, proving once again that even the most steadfast devotion to fraternity house aesthetics can be… *fluid*.\n\nOriginal article: [How Jimmy Kimmel Went From ‘The Man Show’ to MAGA Adversary](https://www.nytimes.com/2025/09/18/arts/television/jimmy-kimmel-host-timeline.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Scholars_Debate_Kimmels_Shift_From_Beer_To_Ethics_11717000.webp",
-    "published_at": "2025-09-19T06:03:07.727110",
-    "author": "Airplane Mode",
-    "category": "Culture",
-    "original_link": "https://www.nytimes.com/2025/09/18/arts/television/jimmy-kimmel-host-timeline.html"
   }
 ]
