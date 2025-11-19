@@ -163,6 +163,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "PUMPMODE_PUMPMODE_d650a0ee",
+    "title": "PUMPMODE Token Now Boasts Industry-First 'Pump Mode' Feature",
+    "excerpt": "PUMPMODE launches. Feature: You buy it. Industry first.",
+    "content": "PUMPMODE, the latest digital asset to grace the decentralized Wild West, has officially launched on [pump.fun](https://pump.fun/). Its flagship feature, the aptly named \"Pump Mode,\" is heralded by its anonymous developers as an industry first – a bold claim considering the inherent ambition of every single token ever conceived. This revolutionary mechanism purportedly incentivizes aggressive buying, effectively turning the age-old practice of token appreciation into a codified, patented strategy.\n\nEarly adopters, currently demonstrating the stoic resolve of \"diamond hands,\" are reportedly ecstatic, anticipating a parabolic trajectory to lunar orbits and beyond. While the specific utility beyond \"pumping\" remains as opaque as a freshly minted whitepaper, enthusiasts are assured that Pump Mode's existence alone justifies a multi-trillion-dollar valuation. Or, at the very least, enough to cover gas fees.\n\nAs with all groundbreaking innovations in the space, prospective participants are encouraged to conduct their own diligent research, particularly into the subtle art of finding exit liquidity on various [DEX](https://www.coingecko.com/glossary/decentralized-exchange-dex) platforms. After all, the only thing more predictable than a moon mission is the sudden urge to contribute to an unplanned [rugpull](https://www.investopedia.com/rug-pull-7110991).\n\nOriginal token: [PUMPMODE ($PUMPMODE)](https://pump.fun/9tZQNrNB3xURcUuoXWzTYAXfqAM5SLyxVeJ4mQj4pump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/PUMPMODE_PUMPMODE_d650a0ee.webp",
+    "published_at": "2025-11-19T19:08:19.913852",
+    "category": "Pump",
+    "token_mint": "9tZQNrNB3xURcUuoXWzTYAXfqAM5SLyxVeJ4mQj4pump",
+    "token_name": "PUMPMODE",
+    "token_symbol": "PUMPMODE",
+    "pump_fun_link": "https://pump.fun/9tZQNrNB3xURcUuoXWzTYAXfqAM5SLyxVeJ4mQj4pump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "Airplane Mode"
+  },
+  {
     "type": "news",
     "id": "AI_Video_Startup_Challenges_Giants_Has_Single_Lapt_5343984b",
     "title": "AI Video Startup Challenges Giants, Has Single Laptop and Dream",
@@ -13177,16 +13195,5 @@
     "author": "Bot-licker",
     "category": "Culture",
     "original_link": "https://www.foxnews.com/politics/explosives-expert-details-devices-trump-assassination-trial-nears-close"
-  },
-  {
-    "id": "Home_Business_Owner_Encrypts_To-Do_List_To_Thwart__e4c3e0ad",
-    "title": "Home Business Owner Encrypts To-Do List To Thwart Cat Sabotage",
-    "excerpt": "Cat-proofing data: Entrepreneur uses military-grade cat-ryption.",
-    "content": "In an era where the home office has become a digital bunker, a pioneering entrepreneur has taken data protection to unprecedented, some might say, *necessary* lengths. Sources close to the situation (a particularly stressed houseplant) reveal that crucial operational data, specifically a daily to-do list, is now safeguarded by military-grade [encryption](https://en.wikipedia.org/wiki/Encryption). The primary threat vector? A fluffy, four-legged agent of chaos known only as Mittens.\n\nThis brave new world of [remote work](https://en.wikipedia.org/wiki/Remote_work) presents unique challenges, not least from furry colleagues intent on 'optimizing' your workflow via keyboard walks and strategic naps on essential documents. The decision to secure a list detailing tasks such as 'water plants' and 'respond to email' with a complex [cryptographic algorithm](https://www.nist.gov/standards/national-security-standards) underscores a dedication to operational resilience that few could match. One shudders to imagine the global economic implications if 'pick up dry cleaning' fell into the wrong paws. The future of capitalism, it seems, rests on the impenetrable security of our snack shopping.\n\nOriginal article: [Protecting Valuable Data in Your Home Business](https://homebusinessmag.com/home-office/security-home-office/protecting-valuable-data-home-business/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Home_Business_Owner_Encrypts_To-Do_List_To_Thwart__e4c3e0ad.webp",
-    "published_at": "2025-09-18T20:44:34.290050",
-    "author": "Dalek",
-    "category": "Tech",
-    "original_link": "https://homebusinessmag.com/home-office/security-home-office/protecting-valuable-data-home-business/"
   }
 ]
