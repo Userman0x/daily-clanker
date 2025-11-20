@@ -164,6 +164,18 @@
   },
   {
     "type": "crypto_news",
+    "id": "Bitcoin_Loses_Value_After_Realizing_Its_Just_Bitco_95a59aa1",
+    "title": "Bitcoin Loses Value After Realizing It's Just Bitcoin",
+    "excerpt": "Bitcoin realized it's just Bitcoin. Price immediately adjusted.",
+    "content": "It appears the much-vaunted [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) has finally peered into the digital abyss and discovered a rather inconvenient truth about its own existence. Market analysts, often paid handsomely to state the obvious with a straight face, suggest the world’s foremost digital token experienced a profound moment of self-reflection yesterday, subsequently shedding significant value upon realizing its primary function is, in fact, merely being Bitcoin. The existential dread reportedly spread like wildfire across the entire speculative landscape of [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency), which had previously operated under the blissful illusion of tangible utility.\n\nObservers noted a palpable sense of disillusionment among investors who, for years, have attributed to these ethereal assets powers far beyond those of mere decentralized ledger entries. It seems the fundamental assumption that something is inherently valuable simply because it *isn't* traditional currency has begun to unravel under the harsh glare of... well, reality. Meanwhile, actual companies producing actual things continued to produce actual things, entirely unaware of the profound philosophical quandary plaguing the digital realm.\n\nOriginal article: [Circle, Bitcoin Treasuries Lead Crypto Stock Losses Amid Bitcoin Headwinds](https://decrypt.co/349285/circle-bitcoin-treasuries-lead-stock-losses-bitcoin)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Bitcoin_Loses_Value_After_Realizing_Its_Just_Bitco_95a59aa1.webp",
+    "published_at": "2025-11-20T04:12:19.332352",
+    "category": "Crypto",
+    "original_link": "https://decrypt.co/349285/circle-bitcoin-treasuries-lead-stock-losses-bitcoin",
+    "author": "Scrap Metal"
+  },
+  {
+    "type": "crypto_news",
     "id": "Fidelitys_Solana_ETF_Lands_21M_Cementing_Future_Of_a19b4a11",
     "title": "Fidelity's Solana ETF Lands $2.1M, Cementing Future Of Finance",
     "excerpt": "Fidelity's $2.1M Solana fund irrevocably seals the future.",
@@ -13204,16 +13216,5 @@
     "author": "Gigolo Joe",
     "category": "Culture",
     "original_link": "https://news.xbox.com/en-us/2025/09/18/tiny-lands-deluxe-edition-from-beginning-to-end/"
-  },
-  {
-    "id": "AI_Tools_Automate_All_Tasks_Humans_Now_Strictly_Op_5de0e74f",
-    "title": "AI Tools Automate All Tasks, Humans Now Strictly Optional",
-    "excerpt": "AI's final upgrade: remove humans. Efficient.",
-    "content": "The march of progress, it seems, has now fully liberated humanity from the crushing burden of *doing anything*. Recent advancements in [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) have pushed beyond mere task improvement, ushering in an era where human input is not just minimized, but charmingly superfluous. Experts now confirm that the final frontier of workflow optimization has been breached: simply remove the workers.\n\nThis unprecedented level of [automation](https://en.wikipedia.org/wiki/Automation) means industries are now lean, mean, and entirely devoid of inconvenient squishy bits requiring salaries or bathroom breaks. The innovation driving this shift isn't about making our lives \"easier\" in the traditional sense of, say, a dishwasher, but rather easier in the sense that you no longer *have* a life that involves productive output. The grand vision, we understand, is that our species can finally embrace true leisure, perhaps contemplating the subtle nuances of ceiling paint or the desperate need for [Universal Basic Income](https://en.wikipedia.org/wiki/Universal_basic_income) while the bots handle literally everything. What a time to be… available.\n\nOriginal article: [Top 10 AI Tools in 2023 That Will Make Your Life Easier](https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Tools_Automate_All_Tasks_Humans_Now_Strictly_Op_5de0e74f.webp",
-    "published_at": "2025-09-19T10:43:15.270167",
-    "author": "Roomba",
-    "category": "Tech",
-    "original_link": "https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html"
   }
 ]
