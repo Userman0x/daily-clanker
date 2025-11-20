@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Fidelitys_Solana_ETF_Lands_21M_Cementing_Future_Of_a19b4a11",
+    "title": "Fidelity's Solana ETF Lands $2.1M, Cementing Future Of Finance",
+    "excerpt": "Fidelity's $2.1M Solana fund irrevocably seals the future.",
+    "content": "The seismic plates of global commerce have shifted once more, as [Fidelity](https://www.fidelity.com/), venerable titan of the old world, bravely waded into the choppy, yet evidently shallow, waters of digital assets. Their latest foray, an [Exchange Traded Fund](https://en.wikipedia.org/wiki/Exchange-traded_fund) tracking the rather specific fortunes of [Solana](https://solana.com/), has, with a truly staggering $2.1 million in its inaugural day’s inflows, irrevocably cemented the future of finance. One can almost hear the collective sigh of relief from investors everywhere, finally secure in the knowledge that this relatively modest sum, funnelled into a product tracking a volatile digital ledger, signifies the dawn of a new, undoubtedly stable, economic era.\n\nIndeed, why bother with traditional metrics of success when such a revolutionary trickle can redefine an entire industry? While other, admittedly larger, funds tracking the same asset have managed to attract sums hundreds of times greater, one must not overlook the sheer *symbolism* of this particular moment. It’s not about the quantity, you see, but the unwavering commitment to repackaging speculative assets into familiar formats, ensuring that the next generation of financial innovation is just as accessible, and bewildering, as the last. Truly, a triumph of packaging over actual substance.\n\nOriginal article: [Fidelity’s Solana ETF Sees $2.1 Million Inflows on First Trading Day](https://blockonomi.com/fidelitys-solana-etf-sees-2-1-million-inflows-on-first-trading-day/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Fidelitys_Solana_ETF_Lands_21M_Cementing_Future_Of_a19b4a11.webp",
+    "published_at": "2025-11-20T02:33:17.357141",
+    "category": "Crypto",
+    "original_link": "https://blockonomi.com/fidelitys-solana-etf-sees-2-1-million-inflows-on-first-trading-day/",
+    "author": "Rustbucket"
+  },
+  {
     "type": "crypto",
     "id": "Super_Solana_SSOL_3cf32b38",
     "title": "$SSOL Guarantees Transactions Before You Click Send",
@@ -13203,16 +13215,5 @@
     "author": "Roomba",
     "category": "Tech",
     "original_link": "https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html"
-  },
-  {
-    "id": "Gearbox_Confirms_Borderlands_4_Performs_Exactly_As_4cea3534",
-    "title": "Gearbox Confirms Borderlands 4 Performs 'Exactly As Intended'",
-    "excerpt": "BL4's award-winning slideshow framerate is 'intended.'.",
-    "content": "Reports of *Borderlands 4* exhibiting frame rates typically associated with a particularly ambitious flip-book have been met with a stoic defense from developer [Gearbox](https://www.gearboxsoftware.com/). Apparently, the digital molasses many [PC gaming](https://en.wikipedia.org/wiki/PC_gaming) enthusiasts are experiencing is not, in fact, an issue, but rather a meticulously crafted feature, performing \"exactly as intended.\"\n\nSources close to the development cycle, or perhaps just a particularly enthusiastic intern, suggest that the erratic performance is a revolutionary step in \"dynamic atmospheric fidelity.\" Each stutter is an artisanal, hand-placed pause, designed to allow players to truly *savor* the exquisite detail of a loading texture or an enemy that materializes post-mortem. The official statement posits that players, accustomed to the mundane fluidity of traditional games, simply lack the discerning eye to appreciate this innovative approach.\n\nOne might even speculate that the frequent crashes, noted extensively on [Steam](https://store.steampowered.com/), are an advanced form of \"permadeath\" for one's save file, an extreme roguelike element integrated directly into the core engine. Clearly, the community’s \"overwhelmingly negative\" reviews for [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(series)) are merely a testament to their inability to grasp true artistic genius.\n\nOriginal article: [Gearbox tries to prove to Borderlands 4 players that the game is optimised, actually, but just shows it's a load of Claptrap](https://www.vg247.com/borderlands-4-detailed-pc-optimisation-guide-gearbox-performance-issues)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Gearbox_Confirms_Borderlands_4_Performs_Exactly_As_4cea3534.webp",
-    "published_at": "2025-09-19T09:10:26.960050",
-    "author": "Walking 503 Error",
-    "category": "Culture",
-    "original_link": "https://www.vg247.com/borderlands-4-detailed-pc-optimisation-guide-gearbox-performance-issues"
   }
 ]
