@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "UK_Declares_Truthful_Lootbox_Ads_Unrealistic_Expec_76f20069",
+    "title": "UK Declares Truthful Lootbox Ads Unrealistic Expectation",
+    "excerpt": "ASA: Loot box ads are too bleak when truthful. Try fantasy.",
+    "content": "The British [Advertising Standards Authority](https://en.wikipedia.org/wiki/Advertising_Standards_Authority_(United_Kingdom)) has, in a refreshing pivot towards existential honesty, essentially declared that the true nature of mobile game loot boxes is far too bleak for public consumption. Their recent warnings to several prominent developers weren't about *misleading* ads, per se, but rather a gentle nudge towards the understanding that expecting *truthful* depictions of probabilistic digital rewards is, frankly, a bit much.\n\nOne can almost feel the collective sigh of relief from companies like [Hutch Games](https://en.wikipedia.org/wiki/Hutch_Games), Kabam, and [Nexters Global](https://nexters.com/). Imagine the sheer inconvenience of having to accurately represent the infinitesimal odds of acquiring that coveted legendary skin or character. It's an absurd ask, truly. Consumers, it appears, are better served by the comforting illusion of imminent digital riches rather than the harsh statistical reality. After all, why ruin a perfectly good fantasy with mere facts?\n\nOriginal article: [Three mobile game companies warned by UK regulator for misleading lootboxes ads](https://readwrite.com/asa-mobile-game-provider-warned-lootboxes/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/UK_Declares_Truthful_Lootbox_Ads_Unrealistic_Expec_76f20069.webp",
+    "published_at": "2025-11-21T06:59:18.655827",
+    "category": "Tech",
+    "original_link": "https://readwrite.com/asa-mobile-game-provider-warned-lootboxes/",
+    "author": "Gigolo Joe"
+  },
+  {
     "type": "crypto_news",
     "id": "Coinbase_Future_Of_DeFi_Is_Just_Banks_With_Extra_S_4d0d77c8",
     "title": "Coinbase: Future Of DeFi Is Just Banks With Extra Steps",
@@ -13208,16 +13220,5 @@
     "author": "Tool",
     "category": "Opinion",
     "original_link": "https://www.cnn.com/audio/podcasts/political-briefing"
-  },
-  {
-    "id": "Tyrant_Demands_Punchlines_Be_Classified_As_WMDs_7f095482",
-    "title": "Tyrant Demands Punchlines Be Classified As WMDs",
-    "excerpt": "Jokes are now acts of war. Leaders fear rubber puppets.",
-    "content": "The recent declaration by a certain prominent head of state, classifying satirical jabs as tactical threats to national stability, marks a pivotal moment in the ongoing conflict between solemn power and the relentless tickle of public amusement. One need only recall the ominous precedent set by the early Russian television program, \"[Kukly](https://en.wikipedia.org/wiki/Kukly),\" whose latex effigies of political figures proved far more destabilizing than any conventional military maneuver. Clearly, the carefully sculpted foam forehead of a puppet, imbued with the biting wit of a screenwriter, possesses an unparalleled capacity to erode the very foundations of carefully constructed authority.\n\nIndeed, when a leader’s iron grip can be loosened by the mere sight of his own exaggerated caricature prancing across a screen, it becomes evident that true \"[autocracy](https://en.wikipedia.org/wiki/Autocracy)\" is a remarkably fragile construct. The demand that punchlines be reclassified as \"[weapons of mass destruction](https://en.wikipedia.org/wiki/Weapon_of_mass_destruction)\" is merely the logical culmination of this profound insecurity. One can only anticipate the forthcoming international treaties on joke proliferation and the establishment of dedicated tribunals to prosecute individuals found guilty of unsanctioned mirth. It seems the most effective form of \"[censorship](https://en.wikipedia.org/wiki/Censorship)\" is not silencing dissent, but declaring it an act of war.\n\nOriginal article: [Jimmy Kimmel and the strongman’s fear of comedians](https://www.salon.com/2025/09/19/jimmy-kimmel-and-the-strongmans-fear-of-comedians/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Tyrant_Demands_Punchlines_Be_Classified_As_WMDs_7f095482.webp",
-    "published_at": "2025-09-19T17:38:44.767064",
-    "author": "Wireback",
-    "category": "Opinion",
-    "original_link": "https://www.salon.com/2025/09/19/jimmy-kimmel-and-the-strongmans-fear-of-comedians/"
   }
 ]
