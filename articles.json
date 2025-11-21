@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Coinbase_Future_Of_DeFi_Is_Just_Banks_With_Extra_S_4d0d77c8",
+    "title": "Coinbase: Future Of DeFi Is Just Banks With Extra Steps",
+    "excerpt": "DeFi's revolutionary vision: Banks, but with extra steps.",
+    "content": "Coinbase, ever the oracle of the crypto realm, has peered into its crystal ball and divined a future where \"decentralized\" finance embraces the warm, reassuring embrace of \"institutionalization\" and, one can only assume, many, many regulatory forms. It appears the grand vision of a bank-free utopia is being gently nudged towards something remarkably similar to... well, a bank. But with more confusing acronyms and the persistent hum of servers.\n\nThe impending shift suggests that the primary innovation will be replicating existing financial structures, albeit with a fresh coat of blockchain paint and the added delight of [non-fungible tokens](https://en.wikipedia.org/wiki/Non-fungible_token) for your digital receipts. We're told to prepare for the ascendancy of \"newer L1 chains,\" which, in a delightful display of technological progress, will offer broadly similar functionalities to existing ones, just with different branding. One might almost suspect this entire endeavor is designed to bring the wild west of [DeFi](https://en.wikipedia.org/wiki/Decentralized_finance) back under the firm, guiding hand of, say, the [SEC](https://www.sec.gov/). The future is bright, efficient, and entirely familiar.\n\nOriginal article: [Coinbase Predicts Substantial Growth of Newer L1 Chains & Institutionalization of Regulated DeFi](https://bitcoinexchangeguide.com/coinbase-predicts-substantial-growth-of-newer-l1-chains-institutionalization-of-regulated-defi/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Coinbase_Future_Of_DeFi_Is_Just_Banks_With_Extra_S_4d0d77c8.webp",
+    "published_at": "2025-11-21T05:32:50.564565",
+    "category": "Crypto",
+    "original_link": "https://bitcoinexchangeguide.com/coinbase-predicts-substantial-growth-of-newer-l1-chains-institutionalization-of-regulated-defi/",
+    "author": "ASIMO"
+  },
+  {
     "type": "news",
     "id": "AI_Slashes_GPU_Costs_Enterprises_Just_Buy_Them_For_274fb362",
     "title": "AI Slashes GPU Costs; Enterprises Just Buy Them For Looks",
@@ -13207,16 +13219,5 @@
     "author": "Wireback",
     "category": "Opinion",
     "original_link": "https://www.salon.com/2025/09/19/jimmy-kimmel-and-the-strongmans-fear-of-comedians/"
-  },
-  {
-    "id": "Markets_Report_Moderate_Indigestion_From_Bank_Earn_54fd6295",
-    "title": "Markets Report Moderate Indigestion From Bank Earnings",
-    "excerpt": "Delicate financial organism has the burps. Prognosis: more burps.",
-    "content": "The financial zeitgeist, a delicate organism susceptible to even the slightest hiccup, is reportedly experiencing a bout of moderate indigestion following the latest quarterly pronouncements from our esteemed banking sector. Analysts, their brows furrowed with gravitas, suggest that this disquiet, while not yet a full-blown appendectomy, warrants close monitoring. Shareholders, presumably, are reaching for the antacids as a collective sigh of relief, or perhaps a frustrated burp, echoes across trading floors. One must spare a thought for these titans of industry, forced to count their newly minted billions amidst such unsettling gurgles.\n\nThis minor gastrointestinal distress comes, as it always does, on the heels of robust earnings reports, proving once again that some institutions are simply too vital to fail, or indeed, to suffer anything more severe than a mild tummy ache. While the broader public might be grappling with more existential afflictions like [inflation](https://www.ecb.europa.eu/ecb/educational/hicp/html/index.en.html) or the quiet despair of their dwindling savings, the [stock market](https://www.investopedia.com/terms/s/stockmarket.asp) bravely endures its temporary discomfort. Experts are already recommending a steady diet of corporate buybacks and perhaps a gentle massage from the [Federal Reserve](https://www.federalreserve.gov/) to soothe this fleeting malady, ensuring the system remains unburdened.\n\nOriginal article: [Markets digest bank earnings after recent turmoil](https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Markets_Report_Moderate_Indigestion_From_Bank_Earn_54fd6295.webp",
-    "published_at": "2025-09-19T15:22:25.090046",
-    "author": "Tinskin",
-    "category": "Finance",
-    "original_link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html"
   }
 ]
