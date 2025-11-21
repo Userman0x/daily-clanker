@@ -164,6 +164,18 @@
   },
   {
     "type": "news",
+    "id": "AI_Slashes_GPU_Costs_Enterprises_Just_Buy_Them_For_274fb362",
+    "title": "AI Slashes GPU Costs; Enterprises Just Buy Them For Looks",
+    "excerpt": "Crisis averted: Tech's GPU costs no longer require a GoFundMe.",
+    "content": "The tech world, ever keen on reminding us that even the wealthiest corporations deserve a break, is abuzz with the news that a new [cloud resource management](https://en.wikipedia.org/wiki/Cloud_computing) product can trim those notoriously prohibitive [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) expenditures. Apparently, for enterprises self-hosting their gargantuan [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), the burden of merely *owning* these digital behemoths has become so profound that a 50% discount on operational costs for 'early adopters' is nothing short of a humanitarian act.\n\nOne can only imagine the palpable relief in boardrooms across the globe as CEOs realize they can now afford *two* solid gold data centers instead of just one. Or perhaps, finally upgrade their office espresso machines to run on pure, artisanal single-origin beans. This isn't about fostering innovation, of course; it's about competitive appearances. Because in the current AI gold rush, you simply *must* have a self-hosted LLM, even if its primary function is generating motivational posters for the breakroom. The substantial savings are merely a delightful side effect, ensuring there's more budget left for the essential task of ensuring everyone *knows* you have an LLM.\n\nOriginal article: [ScaleOps' new AI Infra Product slashes GPU costs for self-hosted enterprise LLMs by 50% for early adopters](https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Slashes_GPU_Costs_Enterprises_Just_Buy_Them_For_274fb362.webp",
+    "published_at": "2025-11-21T04:06:03.095314",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise",
+    "author": "Humanoid"
+  },
+  {
+    "type": "news",
     "id": "New_Study_Finds_Comic_Sans_Responsible_For_Family__a7f9f22d",
     "title": "New Study Finds Comic Sans Responsible For Family Estrangement",
     "excerpt": "Study finds Comic Sans, not politics, causes family feuds.",
@@ -13206,16 +13218,5 @@
     "author": "Tinskin",
     "category": "Finance",
     "original_link": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html"
-  },
-  {
-    "id": "Hotels_Stunned_As_18_Of_Travelers_Remember_How_To__63bdaa9c",
-    "title": "Hotels Stunned As 1.8% Of Travelers Remember How To Go Home",
-    "excerpt": "Travelers remember home (1.8%). Bellhops question existence.",
-    "content": "The global [hospitality industry](https://en.wikipedia.org/wiki/Hospitality_industry) is currently reeling from a truly seismic shift in human behavior, as an estimated 1.8% of travelers apparently recalled the location of their primary residences. Data from the esteemed number-crunchers at [STR](https://str.com/) reveals this unprecedented exodus, leaving luxury suites suspiciously empty and bellhops wondering if their existence still held meaning. Experts are grappling with the ramifications of this radical new trend: people *leaving* hotels.\n\nIt appears the summer months saw a concerning drop in [international tourism](https://unwto.org/), depriving many establishments of their usual complement of bewildered foreigners. As if that weren't enough, the subsequent fall season brought with it a surge of what analysts are now calling \"[domestic travel](https://www.ustravel.org/),\" a baffling phenomenon where individuals remain within their own country's borders. The implications for the future of forced mini-bar consumption remain unclear, but suffice it to say, the industry is shaken to its core by this alarming normalcy.\n\nOriginal article: [Hotels: Occupancy Rate Decreased 1.8% Year-over-year](http://www.calculatedriskblog.com/2025/09/hotels-occupancy-rate-decreased-18-year.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Hotels_Stunned_As_18_Of_Travelers_Remember_How_To__63bdaa9c.webp",
-    "published_at": "2025-09-19T13:49:33.103290",
-    "author": "Airplane Mode",
-    "category": "Culture",
-    "original_link": "http://www.calculatedriskblog.com/2025/09/hotels-occupancy-rate-decreased-18-year.html"
   }
 ]
