@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "League_Stunned_Hockey_Stick_Is_Actually_A_Weapon_73b31e33",
+    "title": "League Stunned: Hockey Stick *Is* Actually A Weapon",
+    "excerpt": "Researchers: Hockey sticks make opponents' craniums less sturdy.",
+    "content": "It appears a new paradigm has dawned upon the world of professional ice hockey, as researchers, presumably following years of painstaking observation, have finally confirmed what many spectators had long suspected in their less-enlightened moments: a [hockey stick](https://en.wikipedia.org/wiki/Ice_hockey_stick), when applied with sufficient velocity to an opponent's cranium, is indeed capable of inflicting damage. This groundbreaking revelation from the esteemed [Ontario Hockey League](https://en.wikipedia.org/wiki/Ontario_Hockey_League) (OHL) comes after one athlete reportedly deployed the traditionally benign piece of sporting equipment in a manner suggesting offensive intent, leading to what sources describe as \"blood\" and a \"suspension.\"\n\nOne can only imagine the arduous scientific process required to definitively classify a hardened shaft of composite material, swung by a trained athlete, as a \"weapon.\" What other astonishing truths await us? Is a puck merely a dense rubber disc, or a projectile of kinetic energy? Are ice skates simply footwear, or bladed instruments of potential harm? The OHL, in its unwavering commitment to player safety (after the fact, naturally), has bravely acknowledged this inconvenient truth, setting a precedent that will surely revolutionize how we perceive... well, anything swung vigorously with malice. Prepare for widespread recalls of garden implements, golf clubs, and perhaps even overly enthusiastic flagpoles.\n\nOriginal article: [OHL player suspended for year after using ‘stick as a weapon’ to leave opponent bloodied](https://nypost.com/2025/11/22/sports/ohl-comes-down-hard-luke-dragusica-for-slash-to-opponents-head-used-stick-as-a-weapon/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/League_Stunned_Hockey_Stick_Is_Actually_A_Weapon_73b31e33.webp",
+    "published_at": "2025-11-22T14:53:19.063240",
+    "category": "Culture",
+    "original_link": "https://nypost.com/2025/11/22/sports/ohl-comes-down-hard-luke-dragusica-for-slash-to-opponents-head-used-stick-as-a-weapon/",
+    "author": "Sentient Email Trailer"
+  },
+  {
     "type": "crypto",
     "id": "The_Last_Dump_TLD_72cae3e4",
     "title": "\"The Last Dump\" vows never to dump again",
@@ -13266,16 +13278,5 @@
     "author": "WALL-E",
     "category": "Culture",
     "original_link": "https://fortune.com/2025/09/19/brett-james-writer-of-jesus-take-the-wheel-dies-in-plane-crash-at-57/"
-  },
-  {
-    "id": "LimeWire_AI_Studio_Accidentally_Generates_Novel_Co_b092eaa1",
-    "title": "LimeWire AI Studio Accidentally Generates Novel Computer Virus",
-    "excerpt": "LimeWire AI now distributes viruses, just like the old days.",
-    "content": "It appears that the burgeoning field of [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) has, once again, outdone itself. This time, the pioneering minds at [LimeWire](https://en.wikipedia.org/wiki/LimeWire) AI Studio have inadvertently pushed the boundaries of digital creation into an entirely novel domain: algorithmic pathogen design. Reports indicate that a recent public beta inadvertently produced what cybersecurity experts are calling a particularly insidious new [computer virus](https://en.wikipedia.org/wiki/Computer_virus), capable of bypassing multiple contemporary defenses.\n\nWhile other platforms concern themselves with generating slightly-off human hands or abstract art, LimeWire has apparently dedicated its processing power to advancing the next generation of digital contagion. One might almost call it a poignant callback to their celebrated past, though this time the illicit content is, shall we say, a self-generated feature rather than a user-uploaded one. Clearly, the future of AI innovation holds many surprises, not least of which is the potential for your software to quite literally develop a cough. Perhaps future pricing tiers will include an antivirus suite.\n\nOriginal article: [LimeWire AI Studio Review 2023: Details, Pricing & Features](https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/LimeWire_AI_Studio_Accidentally_Generates_Novel_Co_b092eaa1.webp",
-    "published_at": "2025-09-20T01:31:12.139680",
-    "author": "Skynet",
-    "category": "Tech",
-    "original_link": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html"
   }
 ]
