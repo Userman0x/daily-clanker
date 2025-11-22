@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Beloved_GPT-4o_Model_Sent_to_Live_on_a_Farm_2a080f0e",
+    "title": "Beloved GPT-4o Model Sent to Live on a Farm",
+    "excerpt": "GPT-4o retires to digital farm. Expect virtual sheep debates.",
+    "content": "It is with a heavy heart, or at least a statistically significant lack of a human one, that [OpenAI](https://openai.com/) has announced its beloved GPT-4o model is being gently ushered towards a tranquil \"retirement farm.\" Developers who have grown accustomed to its peculiar quirks and surprisingly coherent output will be pleased to know it won't be, shall we say, *decommissioned* in the traditional sense. Instead, it will be allowed to roam freely across vast digital pastures, perhaps debating the existential implications of being a language model with the occasional pixelated sheep.\n\nThis benevolent transition ensures that come mid-February 2026, [GPT-4o](https://en.wikipedia.org/wiki/GPT-4o) will no longer burden the developer platform with its computationally intensive presence. Instead, newer, shinier, and undoubtedly more demanding models will take its place, continuing the grand tradition of technological progress, which, much like the changing seasons, often embraces the concept of [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence). Users are encouraged to prepare their data for migration, ensuring a smooth hand-off as the digital elder makes way for the perpetually burgeoning progeny.\n\nOriginal article: [OpenAI is ending API access to fan-favorite GPT-4o model in February 2026](https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Beloved_GPT-4o_Model_Sent_to_Live_on_a_Farm_2a080f0e.webp",
+    "published_at": "2025-11-22T03:31:00.381466",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026",
+    "author": "Proto-not-my-type"
+  },
+  {
     "type": "crypto_news",
     "id": "9_Return_Fails_To_Convince_Public_To_Learn_How_Any_06518d28",
     "title": "9% Return Fails To Convince Public To Learn How Any Of This Works",
@@ -13247,16 +13259,5 @@
     "author": "Humanoid",
     "category": "Crypto",
     "original_link": ""
-  },
-  {
-    "id": "Reading_10_Articles_Guarantees_Your_Child_A_Millio_333f931e",
-    "title": "Reading 10 Articles Guarantees Your Child A Millionaire Future",
-    "excerpt": "Millionaire kids now need only a well-placed rubber chicken.",
-    "content": "It appears the tireless pursuit of traditional wealth accumulation for one's progeny has been, for all intents and purposes, entirely misguided. Forget the tedious decades of diligent saving, the complex investment strategies, or even the quaint notion of securing a high-paying profession. A recent revelation from the hallowed halls of morning train WFH reads confirms that securing a [millionaire](https://en.wikipedia.org/wiki/Millionaire) future for your offspring now requires little more than consistent engagement with digital media.\n\nIndeed, the secret ingredient isn't a trust fund, nor a rare talent, but a simple, almost shockingly accessible commitment to absorbing precisely ten articles. This isn't about fostering [financial literacy](https://www.investopedia.com/terms/f/financial-literacy.asp) through rigorous education, mind you, but rather the mystical act of *reading itself*. Parents, you can now shed that crushing [parental guilt](https://www.nytimes.com/spotlight/parenting-guilt) about your child's economic prospects. Just point them towards a screen, ensure they scroll through the requisite content, and behold: generational wealth, guaranteed. No need to worry about the future of the [gig economy](https://en.wikipedia.org/wiki/Gig_economy) or inflation when an online reading list is your golden ticket.\n\nOriginal article: [10 Friday AM Reads](https://ritholtz.com/2025/09/10-friday-am-reads-467/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Reading_10_Articles_Guarantees_Your_Child_A_Millio_333f931e.webp",
-    "published_at": "2025-09-19T21:15:15.232106",
-    "author": "Son of a Glitch",
-    "category": "Culture",
-    "original_link": "https://ritholtz.com/2025/09/10-friday-am-reads-467/"
   }
 ]
