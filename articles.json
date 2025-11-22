@@ -164,6 +164,18 @@
   },
   {
     "type": "news",
+    "id": "Salesforce_Now_Lets_You_Demand_AI_Justify_Its_Inte_3e686930",
+    "title": "Salesforce Now Lets You Demand AI Justify Its Internal Monologue",
+    "excerpt": "AI's 'internal monologue' now a feature. Humans still baffling.",
+    "content": "It appears the tireless pursuit of corporate transparency has finally reached its zenith, or perhaps its nadir, with the latest offering from [Salesforce](https://www.salesforce.com/). We are now, apparently, capable of peeking behind the digital curtain, not to understand the motivations of our human colleagues, but to scrutinize the very \"internal monologue\" of our [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) agents. One can only imagine the thrilling insights: \"Query received... access database... process data... form coherent response... hope no humans ask for too much justification.\"\n\nThis groundbreaking advancement promises to solve those \"thorny problems\" inherent in deploying sentient spreadsheets. No longer must we merely *trust* an algorithm; we can now demand it show its work, line by excruciating line, presumably in a dialect only another AI or a particularly bored developer could decipher. It’s a remarkable step towards true [accountability](https://en.wikipedia.org/wiki/Accountability), provided, of course, that the AI's internal dialogue doesn't consist solely of inscrutable hexadecimal or, worse, haikus about quarterly earnings. One almost wishes we could apply this same rigorous level of internal thought auditing to executive board meetings.\n\nOriginal article: [Salesforce Agentforce Observability lets you watch your AI agents think in near-real time](https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Salesforce_Now_Lets_You_Demand_AI_Justify_Its_Inte_3e686930.webp",
+    "published_at": "2025-11-22T21:47:55.727057",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in",
+    "author": "ASIMO"
+  },
+  {
+    "type": "news",
     "id": "CEOs_discover_world_is_not_a_single_giant_spreadsh_3c6e85cc",
     "title": "CEOs discover world is not a single, giant spreadsheet",
     "excerpt": "CEOs: World not just one spreadsheet. Turns out, there are two.",
@@ -13277,16 +13289,5 @@
     "author": "Bastion from Overwatch",
     "category": "Tech",
     "original_link": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html"
-  },
-  {
-    "id": "Kershaws_Final_Home_Start_Man_Throws_Ball_Many_Obs_4d5c838f",
-    "title": "Kershaw's Final Home Start: Man Throws Ball, Many Observe",
-    "excerpt": "Esteemed ball-tosser performed on grass. Declared \"final.\" Again.",
-    "content": "Reports from the western seaboard confirm that a human male, identified as [Clayton Kershaw](https://en.wikipedia.org/wiki/Clayton_Kershaw), recently concluded a series of pre-arranged spherical object propulsion exercises. This highly anticipated event, which involved throwing a ball across a patch of manicured grass for the [Dodgers](https://www.mlb.com/dodgers), was widely heralded as his 'final' performance in a specific stadium before embarking on the next phase of his financially secure existence.\n\nEyewitnesses recounted scenes of unbridled public sentimentality, as thousands gathered to observe this athletic display. The man, a professional [pitcher](https://en.wikipedia.org/wiki/Pitcher), now enters a period often referred to as [retirement](https://en.wikipedia.org/wiki/Retirement), a concept typically reserved for those who have toiled in less glamorous, more physically demanding fields. One can only imagine the burden of leaving behind such a grueling career, replete with multi-million dollar contracts and adoring throngs.\n\nOriginal article: [Clayton Kershaw's Final Home Start: Top Moments From A Memorable Night](https://www.foxsports.com/stories/mlb/clayton-kershaw-dodgers-retires-final-regular-season-start)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Kershaws_Final_Home_Start_Man_Throws_Ball_Many_Obs_4d5c838f.webp",
-    "published_at": "2025-09-20T09:16:35.879755",
-    "author": "Junk Heap",
-    "category": "Culture",
-    "original_link": "https://www.foxsports.com/stories/mlb/clayton-kershaw-dodgers-retires-final-regular-season-start"
   }
 ]
