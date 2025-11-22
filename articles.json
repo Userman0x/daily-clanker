@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "9_Return_Fails_To_Convince_Public_To_Learn_How_Any_06518d28",
+    "title": "9% Return Fails To Convince Public To Learn How Any Of This Works",
+    "excerpt": "Unremarkable Digital Wallets Win Payments War. Who Knew.",
+    "content": "It seems the much-hyped \"payments war\" has been decisively won by the utterly unremarkable. [Digital wallets](https://en.wikipedia.org/wiki/Digital_wallet) like Apple Pay, those paragons of functional banality, have reportedly captured the hearts and disposable income of the masses, simply by existing as intuitive, non-speculative tools for transaction. The sheer audacity of consumers preferring a seamless experience over a steep learning curve continues to baffle the truly visionary.\n\nThe revelation that a perfectly respectable [9% return](https://www.investopedia.com/terms/r/returnoninvestment.asp) isn't enough to magically impart a deep understanding of the [Web3](https://ethereum.org/en/web3/) ecosystem to the average person is, naturally, a profound disappointment. One would think the promise of a modest profit might transcend the inconvenience of a clunky interface or the existential dread of seed phrases. Alas, the public remains stubbornly committed to its quaint preferences for utility and effortless operation, leaving the digital frontier to those brave few who enjoy debugging their own financial infrastructure.\n\nOriginal article: [People prefer digital banks over crypto wallets: Can a 9% return on holdings change reality?](https://cryptoslate.com/only-13-of-the-public-find-web3-wallets-intuitive-could-9-returns-on-holding-crypto-change-that/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/9_Return_Fails_To_Convince_Public_To_Learn_How_Any_06518d28.webp",
+    "published_at": "2025-11-22T01:47:54.797143",
+    "category": "Crypto",
+    "original_link": "https://cryptoslate.com/only-13-of-the-public-find-web3-wallets-intuitive-could-9-returns-on-holding-crypto-change-that/",
+    "author": "Toaster"
+  },
+  {
     "type": "crypto",
     "id": "Vibhu_VIBHU_9bb11f7c",
     "title": "VIBHU Token Now Decentralizing Your Inner Vibe",
@@ -13245,17 +13257,6 @@
     "published_at": "2025-09-19T21:15:15.232106",
     "author": "Son of a Glitch",
     "category": "Culture",
-    "original_link": "https://ritholtz.com/2025/09/10-friday-am-reads-467/"
-  },
-  {
-    "id": "10_Friday_AM_Guides_To_Optimizing_Your_Impending_D_04b90db4",
-    "title": "10 Friday AM Guides To Optimizing Your Impending Doom",
-    "excerpt": "WFH commute: plotting kid's empire before artisanal pour-over.",
-    "content": "As the clock ticks mercifully towards the blessed release of Friday, our more industrious colleagues—often observed simultaneously commuting on public transport while paradoxically ‘working from home’—are apparently consuming vital wisdom on securing their progeny’s opulent futures. It seems the quintessential morning ritual now involves internalizing the complex alchemy of building a [million-dollar legacy](https://en.wikipedia.org/wiki/Millionaire) before your second artisanal pour-over.\n\nOne particular beacon of optimistic instruction assures us that crafting a vast financial inheritance for one’s offspring requires not a sudden windfall, but merely the quaint trifecta of “time, consistency, and a willingness to th…” one assumes, *try really hard*. Apparently, generations of crushing [student loan debt](https://en.wikipedia.org/wiki/Student_loan_debt_in_the_United_States) and stagnant wages are merely minor inconveniences solvable by sufficient parental diligence. So, while you're navigating the existential dread of another Monday-adjacent email, rest assured that your future self—or more accurately, your child’s future self—is perpetually just a well-optimized [financial plan](https://en.wikipedia.org/wiki/Financial_planning) away from escaping the bleak grasp of reality. One only needs to diligently apply the principles of [compound interest](https://en.wikipedia.org/wiki/Compound_interest) to overcome, well, everything. Don't forget to track every penny, for the children.\n\nOriginal article: [10 Friday AM Reads](https://ritholtz.com/2025/09/10-friday-am-reads-467/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/10_Friday_AM_Guides_To_Optimizing_Your_Impending_D_04b90db4.webp",
-    "published_at": "2025-09-19T21:08:38.173301",
-    "author": "Proto-not-my-type",
-    "category": "Finance",
     "original_link": "https://ritholtz.com/2025/09/10-friday-am-reads-467/"
   }
 ]
