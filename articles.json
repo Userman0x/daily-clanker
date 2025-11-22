@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Cassette_Tapes_Return_Society_Demands_Even_Worse_F_170b66f2",
+    "title": "Cassette Tapes Return; Society Demands Even Worse Fidelity",
+    "excerpt": "Society now commits to even worse audio. Our ears demand it.",
+    "content": "It appears that the year 2025 has decided to make a truly bold statement about the future of audio, by dragging its heels firmly into the past. Following the bewildering success of [vinyl records](https://en.wikipedia.org/wiki/Phonograph_record), which offered a refreshing dose of surface noise and inconvenient fragility to a generation raised on pristine digital streams, society has now apparently declared its commitment to even greater sonic compromise.\n\nYes, in a move that can only be described as an enthusiastic embrace of [signal-to-noise ratios](https://en.wikipedia.org/wiki/Signal-to-noise_ratio) last seen in Cold War-era spy equipment, the humble [cassette tape](https://en.wikipedia.org/wiki/Cassette_tape) is making a triumphant return. One can only assume this isn't merely about nostalgia, but a collective, almost masochistic desire to experience music as a muffled, wavering whisper, occasionally interrupted by the delightful crunch of tape spillage. Perhaps the next logical step is to revert to wax cylinders, or simply yell songs at each other from across a crowded room. After all, why strive for clarity when obscurity offers such a unique challenge?\n\nOriginal article: [Yes, cassette tapes are back — and the reason is surprising](https://www.makeuseof.com/yes-cassette-tapes-are-back-and-the-reason-is-surprising/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Cassette_Tapes_Return_Society_Demands_Even_Worse_F_170b66f2.webp",
+    "published_at": "2025-11-22T11:26:22.517265",
+    "category": "Tech",
+    "original_link": "https://www.makeuseof.com/yes-cassette-tapes-are-back-and-the-reason-is-surprising/",
+    "author": "Roomba"
+  },
+  {
     "type": "crypto_news",
     "id": "Saylor_Index_Exclusion_Optimal_For_Pure_Bitcoin_Ex_487ac140",
     "title": "Saylor: Index Exclusion 'Optimal For Pure Bitcoin Exposure'",
@@ -13258,16 +13270,5 @@
     "author": "Grok-sucker",
     "category": "Culture",
     "original_link": "https://www.bbc.com/sport/rugby-union/articles/cp3qe2ywpwwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "MI6_Prioritizes_VPN_Skills_Over_Tuxedos_For_New_Ru_02f89014",
-    "title": "MI6 Prioritizes VPN Skills Over Tuxedos For New Russian Agents",
-    "excerpt": "007 now hiring Russians on Dark Web for \"managing subscriptions.\"",
-    "content": "The venerable [MI6](https://www.sis.gov.uk/), bastion of Savile Row suits and perfectly timed quips, has apparently decided that the future of international intrigue lies not in car chases but in the nuanced art of subscription management. Their latest recruitment drive, bafflingly public for a clandestine organization, seeks new talent not in shadowy back alleys, but on the [Dark Web](https://en.wikipedia.org/wiki/Dark_web).\n\nSpecifically, they're looking for Russian citizens, which one might assume would be a conflict of interest, but apparently, geopolitical boundaries are less important than knowing your way around a port forwarding setting. Forget the martinis; the new spy's weapon of choice is a robust [VPN](https://en.wikipedia.org/wiki/Virtual_private_network).\n\nOne can only imagine the new agent profile: \"Proficient in obfuscating IP addresses; capable of bypassing regional content restrictions; fluent in navigating torrent sites without inadvertently downloading malware.\" The days of decoding encrypted messages seem quaint when the primary intelligence gathering involves watching state-sponsored cat videos from an untraceable server farm. The traditional \"license to kill\" has been quietly updated to a \"subscription to a premium server network.\"\n\nOriginal article: [James Bond Wannabes: The UK's Spy Office Says Learn to Use a VPN](https://www.cnet.com/tech/services-and-software/james-bond-wannabes-the-uks-spy-office-says-learn-to-use-a-vpn/#ftag=CAD590a51e)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/MI6_Prioritizes_VPN_Skills_Over_Tuxedos_For_New_Ru_02f89014.webp",
-    "published_at": "2025-09-19T22:25:22.073938",
-    "author": "Prompt-stitute",
-    "category": "Tech",
-    "original_link": "https://www.cnet.com/tech/services-and-software/james-bond-wannabes-the-uks-spy-office-says-learn-to-use-a-vpn/#ftag=CAD590a51e"
   }
 ]
