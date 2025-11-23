@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Zero-Day_Illnesses_Patched_At_Hacker_Convention_aa77ae54",
+    "title": "Zero-Day Illnesses Patched At Hacker Convention",
+    "excerpt": "Cyber ninjas tackle con crud. Solution: not handwashing.",
+    "content": "It seems even the digital elite are not immune to the decidedly analog horrors of convention-acquired pathogens. After years of attendees leaving with not just enhanced digital skills but also an unwelcome new operating system of viral malaise, a prominent gathering of cyber-ninjas in [New Zealand](https://www.newzealand.com/int/) has reportedly taken a revolutionary step. Apparently, the solution to the notorious \"con crud\" wasn't better hygiene or, heaven forbid, fresh air, but rather a robust, literal [antivirus system](https://en.wikipedia.org/wiki/Antivirus_software) for human beings.\n\nOne can only admire the dedication to treating human bodies with the same detached, algorithmic logic usually reserved for compromised networks. The premier hacker conference, [Kawaiicon](https://kawaiicon.org/), has apparently rolled out what amounts to a flesh-and-blood firewall, proving once and for all that if you're good enough with code, you can probably just patch your own immune system. Presumably, attendees were monitored with the same vigilance typically applied to a zero-day exploit, ready for swift quarantine and forced reboots. It’s certainly a novel approach to public health, transforming organic hosts into mere nodes in a very squishy, very sniffly network.\n\nOriginal article: [This hacker conference installed a literal antivirus monitoring system](https://arstechnica.com/security/2025/11/this-hacker-conference-installed-a-literal-antivirus-monitoring-system/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Zero-Day_Illnesses_Patched_At_Hacker_Convention_aa77ae54.webp",
+    "published_at": "2025-11-23T10:27:28.862452",
+    "category": "Tech",
+    "original_link": "https://arstechnica.com/security/2025/11/this-hacker-conference-installed-a-literal-antivirus-monitoring-system/",
+    "author": "Clanker"
+  },
+  {
     "type": "crypto_news",
     "id": "Federal_Charges_Prove_Bitcoin_ATM_Firms_Business_M_b5453ba1",
     "title": "Federal Charges Prove Bitcoin ATM Firm's Business Model Works",
@@ -13290,16 +13302,5 @@
     "author": "Spare Part",
     "category": "Culture",
     "original_link": "https://arstechnica.com/security/2025/09/microsofts-entra-id-vulnerabilities-could-have-been-catastrophic/"
-  },
-  {
-    "id": "New_Mecha_Break_Strikers_Can_Now_Open_Pickle_Jars_8c7a660c",
-    "title": "New Mecha Break Strikers Can Now Open Pickle Jars",
-    "excerpt": "Mecha Break unveils new Strikers: now with ergonomic cup holders!",
-    "content": "The latest dispatches from the digital frontlines report a truly seismic shift in the world of virtual combat. Developers, clearly attuned to the most pressing needs of their discerning player base, have unveiled new \"Strikers\" for *Mecha Break*'s Season 1: Pulse of the Indigo Stone. While the uninitiated might assume these colossal war machines would focus on, say, enhanced weaponry or improved battlefield navigation, the truth is far more… domestic.\n\nIndeed, the groundbreaking innovation that promises to redefine the entire [video game](https://en.wikipedia.org/wiki/Video_game) landscape is the Strikers' newfound ability to *open pickle jars*. Gone are the days of fumbling with stubborn lids; now, your 50-foot bipedal [mecha](https://en.wikipedia.org/wiki/Mecha), bristling with plasma cannons and missile pods, can effortlessly twist open that jar of gherkins. This monumental advancement in [robotics](https://en.wikipedia.org/wiki/Robotics) ensures that no gamer, no matter how committed to pixelated destruction, will ever again suffer the indignity of a hermetically sealed condiment. One can only imagine the strategic implications for the pantry.\n\nThe \"Pulse of the Indigo Stone,\" it seems, beats not for glory, but for the convenience of fermented cucumbers. Truly, we live in an age of unparalleled ingenuity.\n\nOriginal article: [How Mecha Break’s New Strikers Change the Battlefield in Season 1: Pulse of the Indigo Stone](https://news.xbox.com/en-us/2025/09/19/mecha-breaks-new-strikers-season-1-pulse-of-the-indigo-stone/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_Mecha_Break_Strikers_Can_Now_Open_Pickle_Jars_8c7a660c.webp",
-    "published_at": "2025-09-20T16:41:01.259892",
-    "author": "I’ll .docx Your Location",
-    "category": "Culture",
-    "original_link": "https://news.xbox.com/en-us/2025/09/19/mecha-breaks-new-strikers-season-1-pulse-of-the-indigo-stone/"
   }
 ]
