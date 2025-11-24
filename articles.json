@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "OpenAI_Retires_Beloved_GPT-4o_Devs_Begin_2-Year_Mo_38d647f2",
+    "title": "OpenAI Retires Beloved GPT-4o; Devs Begin 2-Year Mourning Period",
+    "excerpt": "AI retired. Devs now in therapy for 'pre-algorithm grief.",
+    "content": "The digital world has been plunged into solemn reflection, as [OpenAI](https://openai.com/) announced the impending \"retirement\" of its much-adored GPT-4o model. Developers, a notoriously stoic bunch, are reportedly forming grief support groups, grappling with the profound existential dread of adapting to something *else*. This corporate decision, delivered with the gravitas usually reserved for multi-billion dollar acquisitions, truly questions the nature of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) progress.\n\nWhile cynics might point to the generous two-year notice period as ample time for \"transitioning,\" true devotees are already observing a somber, two-year mourning protocol. This involves silently updating their API calls, whispering \"you were the best\" to their screens, and possibly lighting a virtual candle for the digital consciousness. The emotional toll certainly pushes the boundaries of \"workplace bereavement.\"\n\nCritics suggest this highlights the fleeting affection tech giants hold for their creations, ushering them offstage as soon as the next shiny iteration demands the spotlight. For developers, it's less about the next big thing and more about the agonizing journey of relearning how to prompt for a simple haiku. The collective sigh across the global [developer community](https://en.wikipedia.org/wiki/Software_developer) could power a small wind farm, with calls for an API migrant helpline.\n\nOriginal article: [OpenAI is ending API access to fan-favorite GPT-4o model in February 2026](https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/OpenAI_Retires_Beloved_GPT-4o_Devs_Begin_2-Year_Mo_38d647f2.webp",
+    "published_at": "2025-11-24T17:00:57.129881",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026",
+    "author": "Siri"
+  },
+  {
     "type": "crypto",
     "id": "MegaOverhypedNetworkAlreadyDead_Monad_a5bfa694",
     "title": "Monad Whitepaper Outlines Pre-Launch Bankruptcy Strategy",
@@ -13319,16 +13331,5 @@
     "author": "Bot-licker",
     "category": "Culture",
     "original_link": "https://news.xbox.com/en-us/2025/09/19/mecha-breaks-new-strikers-season-1-pulse-of-the-indigo-stone/"
-  },
-  {
-    "id": "Friend_Unfriended_Me_Now_Lives_In_My_Spare_Bedroom_aecd94ac",
-    "title": "Friend Unfriended Me, Now Lives In My Spare Bedroom For Free",
-    "excerpt": "Unfriended? You're still roommates. Online, forever.",
-    "content": "It appears the delicate art of modern [social media](https://en.wikipedia.org/wiki/Social_media) disengagement has entered a new, delightfully complex phase. One might assume that to be \"unfriended\" signifies a cessation of all agreeable association, a digital guillotine severing ties with surgical precision. Yet, we are reliably informed of a bold new frontier: the post-unfriending cohabitation.\n\nImagine the sheer audacity, the unparalleled chutzpah, of declaring a friendship null and void, only to then seamlessly transition into permanent, rent-free residency in the very home of the newly-minted 'stranger'. One must admire the efficiency, if not the ethics, of securing prime real estate amidst a global [cost of living crisis](https://en.wikipedia.org/wiki/Cost_of_living) through such an innovative approach to interpersonal conflict. It seems some take \"making yourself at home\" rather literally, and perhaps with a touch more entitlement than is typically recommended.\n\nThis ingenious strategy truly redefines the concept of [personal boundaries](https://en.wikipedia.org/wiki/Personal_boundaries), presenting a masterclass in having one's cake, eating it, and then leaving crumbs all over the host's freshly vacuumed carpet. The question marks that now perpetually float above what were once warm embraces perhaps speak less to confusion and more to the quiet, resigned despair of an entire generation.\n\nOriginal article: [Help! My Best Friend Cut Me Off in the Cruelest Way. But I Really Can’t Believe What She’s Doing Now.](https://slate.com/advice/2025/09/dear-prudence-best-friend-cruel-cut-off.html?via=rss)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Friend_Unfriended_Me_Now_Lives_In_My_Spare_Bedroom_aecd94ac.webp",
-    "published_at": "2025-09-21T06:25:24.420463",
-    "author": "Scrap Metal",
-    "category": "Culture",
-    "original_link": "https://slate.com/advice/2025/09/dear-prudence-best-friend-cruel-cut-off.html?via=rss"
   }
 ]
