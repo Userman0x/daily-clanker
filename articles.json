@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Bitcoin_Volatility_Linked_To_Its_Difficulty_Making_40b2ecff",
+    "title": "Bitcoin Volatility Linked To Its Difficulty Making Simple Choices",
+    "excerpt": "Bitcoin's value has commitment issues. Blames its options cult.",
+    "content": "It appears [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin), the notoriously independent digital currency, is once again experiencing a rather public crisis of confidence. Experts — or perhaps, concerned friends — note a worrying trend: its inherent indecision regarding simple valuation. For months now, every time it considers a new price point, it seemingly consults its elaborate network of financial ‘[options markets](https://www.investopedia.com/terms/o/option.asp)’, which, much like an overly opinionated personal assistant, promptly throws it into a spiraling existential debate.\n\nThis protracted internal struggle manifests publicly as ‘[volatility](https://en.wikipedia.org/wiki/Volatility_(finance))’, a term market observers use to politely describe Bitcoin’s inability to commit. One moment, it’s bullish on a future filled with Lamborghinis and decentralised utopias; the next, it’s gripped by a sudden urge to revisit bargain-bin prices, perhaps out of a misguided sense of humility. Its recent dramatic shifts are less about fundamental shifts in value and more about an ongoing inability to simply pick a lane. Perhaps a good therapist, or at least fewer friends with strong opinions, would do it some good.\n\nOriginal article: [Bitcoin’s Sudden Volatility Jump Signals Options Could Be Calling The Shots—Analyst](https://www.newsbtc.com/news/bitcoin/bitcoins-sudden-volatility-jump-signals-options-could-be-calling-the-shots-analyst/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Bitcoin_Volatility_Linked_To_Its_Difficulty_Making_40b2ecff.webp",
+    "published_at": "2025-11-24T23:24:32.208362",
+    "category": "Crypto",
+    "original_link": "https://www.newsbtc.com/news/bitcoin/bitcoins-sudden-volatility-jump-signals-options-could-be-calling-the-shots-analyst/",
+    "author": "Toaster"
+  },
+  {
     "type": "crypto",
     "id": "Xmas_W_Coin_XMASW_2bdae786",
     "title": "XMASW Confirms All Red Candles Are Just Holiday Decorations",
@@ -13329,16 +13341,5 @@
     "author": "Boilerplates",
     "category": "Tech",
     "original_link": "https://www.makeuseof.com/i-stopped-trusting-password-managers-after-this-breach/"
-  },
-  {
-    "id": "Slate_Mini_Crossword_Still_Just_A_Mini_Crossword_I_c1d9f6cb",
-    "title": "Slate Mini Crossword Still Just A Mini Crossword In 2025",
-    "excerpt": "The Future Is Now: Slate Mini Crossword steadfastly 5x5.",
-    "content": "As the gears of global progress grind onward, one bastion of predictable consistency remains resolutely unmoved. The [Slate](https://slate.com/) Mini Crossword, a quaint relic from an era of seemingly boundless [digital innovation](https://en.wikipedia.org/wiki/Digital_revolution), has once again graced our screens, stubbornly adhering to its diminutive 5x5 grid. One might have expected, given the inexorable march of time and technology, a quantum leap in recreational self-distraction by 2025. Perhaps an AI-driven, neural-interface puzzle that directly stimulates the frontal lobe, or at least a 6x6 grid.\n\nAlas, no. We are still exhorted to 'take a quick break' with the same modest challenge, presumably to prevent our brains from spontaneously combusting under the relentless pressure of… well, of whatever it is we're doing now. The profound comfort, or perhaps chilling stasis, of this unchanging [daily routine](https://en.wikipedia.org/wiki/Daily_routine) is palpable. While society grapples with increasingly complex existential threats, the humble [crossword puzzle](https://en.wikipedia.org/wiki/Crossword) stands firm, a beacon of manageable trivia in an unmanageable world, reminding us that some things, mercifully or tragically, never evolve.\n\nOriginal article: [Slate Mini Crossword for Sept. 21, 2025](https://slate.com/life/2025/09/crossword-slate-mini-daily-puzzle-sept-21-2025.html?via=rss)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Slate_Mini_Crossword_Still_Just_A_Mini_Crossword_I_c1d9f6cb.webp",
-    "published_at": "2025-09-21T12:13:45.971410",
-    "author": "Humanoid",
-    "category": "Culture",
-    "original_link": "https://slate.com/life/2025/09/crossword-slate-mini-daily-puzzle-sept-21-2025.html?via=rss"
   }
 ]
