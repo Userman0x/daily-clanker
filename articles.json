@@ -163,6 +163,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "Christmas_Season_XMAS_bb7ccb79",
+    "title": "$XMAS Holders Expect Santa's Pump This Winter",
+    "excerpt": "Festive new $XMAS token promises Santa Rally. Bless your heart.",
+    "content": "The latest festive sensation to grace the [Pump.fun](https://pump.fun/BJkgs94YDeAhSjXRSMestfM4CgMQ8L1m55NSEKjrpump) launchpad is Christmas Season ($XMAS), a token promising exactly what its name suggests: a brief, exhilarating ride fueled by seasonal goodwill and the collective delusion of a permanent Santa Rally. Launched with the standard initial [liquidity pool](https://academy.binance.com/en/glossary/liquidity-pool) on [Solana](https://solana.com/), XMAS has already begun its predictable dance, attracting a dedicated cohort of early investors who, with unwavering faith, are now urging newcomers to \"ape in\" before the big day.\n\nProponents tout its groundbreaking utility in fostering \"community spirit\" and \"holiday cheer,\" which, as seasoned observers know, are merely code for a strong desire for someone else to buy their bags at a higher price. The roadmap, presumably, involves existing until the first sign of profit-taking, after which the sleigh transforms back into a pumpkin, leaving only the ghosts of Christmas past to ponder their diamond hands. May your holdings be merry, and your exit strategy swift.\n\nOriginal token: [Christmas Season ($XMAS)](https://pump.fun/BJkgs94YDeAhSjXRSMestfM4CgMQ8L1m55NSEKjrpump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Christmas_Season_XMAS_bb7ccb79.webp",
+    "published_at": "2025-11-25T00:07:03.168231",
+    "category": "Pump",
+    "token_mint": "BJkgs94YDeAhSjXRSMestfM4CgMQ8L1m55NSEKjrpump",
+    "token_name": "Christmas Season",
+    "token_symbol": "XMAS",
+    "pump_fun_link": "https://pump.fun/BJkgs94YDeAhSjXRSMestfM4CgMQ8L1m55NSEKjrpump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "Google Chrome-dome"
+  },
+  {
     "type": "crypto_news",
     "id": "Bitcoin_Volatility_Linked_To_Its_Difficulty_Making_40b2ecff",
     "title": "Bitcoin Volatility Linked To Its Difficulty Making Simple Choices",
@@ -13330,16 +13348,5 @@
     "author": "Battery over Brain",
     "category": "Culture",
     "original_link": "https://www.nytimes.com/2025/09/20/us/politics/tom-homan-fbi-trump.html"
-  },
-  {
-    "id": "Man_Now_Only_Trusts_Passwords_Screamed_Into_A_Cany_59e6989b",
-    "title": "Man Now Only Trusts Passwords Screamed Into A Canyon",
-    "excerpt": "Tired of hacks, local man secures data via echolocation.",
-    "content": "Following a most inconvenient digital intrusion, one internet user has declared modern credential storage utterly passé. Mr. Bartholomew Finch, now intimately familiar with online security's sieve-like nature, has pioneered an innovative, if geographically demanding, system: oral dissemination into a vast, echoing void.\n\nApparently, the unadulterated air of a secluded gorge offers [cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity) far beyond any algorithm. For each crucial access string, Mr. Finch embarks on a pilgrimage to an acoustic hotspot, articulating unique sequences with conviction. The theory is elegant: if a password exists only as a fleeting vibration across a geological formation, it cannot be exfiltrated from a server.\n\nWhy grapple with the dread of a [data breach](https://en.wikipedia.org/wiki/Data_breach) when one can embrace acoustics? While [password managers](https://en.wikipedia.org/wiki/Password_manager) offer convenience, they lack the primeval gravitas of a well-shouted secret. [NIST](https://www.nist.gov/) has yet to endorse this method, but Mr. Finch now sleeps soundly, his fears of digital compromise laid to rest by yelling into the abyss.\n\nOriginal article: [I stopped trusting password managers after this breach](https://www.makeuseof.com/i-stopped-trusting-password-managers-after-this-breach/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Man_Now_Only_Trusts_Passwords_Screamed_Into_A_Cany_59e6989b.webp",
-    "published_at": "2025-09-21T13:47:13.057613",
-    "author": "Boilerplates",
-    "category": "Tech",
-    "original_link": "https://www.makeuseof.com/i-stopped-trusting-password-managers-after-this-breach/"
   }
 ]
