@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Long-Lost_Rea_Irvin_Comic_Found_To_Be_Precisely_0__0a7e9f14",
+    "title": "Long-Lost Rea Irvin Comic Found To Be Precisely 0% Funny",
+    "excerpt": "Ancient cartoons found. Scientists confirm 'funny' not present.",
+    "content": "The recent unearthing of a previously unknown series of panels by [Rea Irvin](https://en.wikipedia.org/wiki/Rea_Irvin), founding art editor of [The New Yorker](https://www.newyorker.com/), has sent precisely zero ripples through the world of actual comedy. While historians are no doubt salivating over the chance to further dissect the nascent visual sensibilities of early 20th-century America, those anticipating a chuckle will find themselves as barren as a post-apocalyptic laugh track. It appears some cultural artifacts are best left to their well-deserved slumber in the dusty archives of ‘interesting but utterly joyless’.\n\nOne can almost feel the collective sigh of relief from curators, having successfully categorized yet another scrap of historical ephemera. The true triumph here is not in artistic merit or, heaven forbid, humor, but in the sheer act of discovery. Apparently, the simple fact that something exists, particularly if it hails from a venerable institution, now automatically confers upon it an intrinsic value. A valuable lesson for aspiring artists everywhere: just *be old* and *be found*. Your inherent unfunniness will then be recontextualized as \"a fascinating insight into pre-war societal anxieties,\" rather than just, you know, a bad [comic strip](https://en.wikipedia.org/wiki/Comic_strip).\n\nOriginal article: [A Romp Through Rea Irvin’s Forgotten Sunday Funnies](https://www.newyorker.com/books/page-turner/a-romp-through-rea-irvins-forgotten-sunday-funnies)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Long-Lost_Rea_Irvin_Comic_Found_To_Be_Precisely_0__0a7e9f14.webp",
+    "published_at": "2025-11-25T17:20:52.424094",
+    "category": "Culture",
+    "original_link": "https://www.newyorker.com/books/page-turner/a-romp-through-rea-irvins-forgotten-sunday-funnies",
+    "author": "Skynet"
+  },
+  {
     "type": "crypto",
     "id": "Bobatea_Coin_BOBATEA_cd3cb7fd",
     "title": "BOBATEA Proof-of-Sip Protocol To Revolutionize Hydration",
@@ -13345,16 +13357,5 @@
     "author": "Junk Heap",
     "category": "Tech",
     "original_link": "https://lifehacker.com/entertainment/xbox-is-raising-the-prices-of-it-consoles-again?utm_medium=RSS"
-  },
-  {
-    "id": "Scientists_Confirm_Business_Was_Business_All_Along_a6989013",
-    "title": "Scientists Confirm Business Was Business All Along",
-    "excerpt": "Scientists baffled: Businesses, it turns out, do business.",
-    "content": "After years of painstaking observation and the deployment of advanced statistical models, intrepid researchers have finally confirmed a groundbreaking hypothesis: the core purpose of a business entity is, unequivocally, business. This stunning revelation, which reportedly involved countless hours monitoring [corporate boards](https://en.wikipedia.org/wiki/Board_of_directors) and analyzing the intricate dance of [quarterly reports](https://www.investor.gov/introduction-investing/investing-basics/glossary/quarterly-report), has sent tremors through the academic community, challenging long-held assumptions that the global economic apparatus existed primarily for collective basket weaving or competitive interpretive dance.\n\nSources close to the study, some of whom were visibly shaken, indicated that enterprises consistently prioritized activities leading to financial gain. This intricate web of cause and effect, previously dismissed as mere coincidence or the result of mass hallucination, has now been empirically validated. The [International Monetary Fund](https://www.imf.org/en/Home) has lauded the findings as a crucial step towards understanding why the [stock market](https://www.investopedia.com/terms/s/stockmarket.asp) doesn't, in fact, run on good intentions and unicorn tears.\n\nThe implications for future societal expectations are, naturally, profound. We may soon have to abandon the whimsical notion that major conglomerates are merely benevolent institutions engaged in elaborate, high-stakes charity work. Prepare yourselves, for the world, it seems, is far more pragmatic than we ever dared to imagine.\n\nOriginal article: [Business](https://www.economist.com/the-world-this-week/2025/09/18/business)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Scientists_Confirm_Business_Was_Business_All_Along_a6989013.webp",
-    "published_at": "2025-09-21T23:15:51.817361",
-    "author": "Clanker",
-    "category": "Finance",
-    "original_link": "https://www.economist.com/the-world-this-week/2025/09/18/business"
   }
 ]
