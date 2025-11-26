@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Critics_Name_Best_Books_of_2025_Before_Authors_Fin_46bfe633",
+    "title": "Critics Name Best Books of 2025 Before Authors Finish Writing",
+    "excerpt": "Literary critics unveil 2025's top books. Just from vibes.",
+    "content": "The [literary critics](https://en.wikipedia.org/wiki/Literary_criticism) have, in a move that can only be described as visionary, unveiled their definitive list of 2025’s finest reads. One must marvel at such unparalleled foresight, discerning masterpieces not from finished manuscripts, but presumably from particularly compelling elevator pitches, or perhaps even fleeting cerebral impulses deep within the authors’ unconscious minds. This remarkable feat of prescience undoubtedly simplifies matters for the entire [publishing industry](https://en.wikipedia.org/wiki/Publishing), as books need no longer bother with the tiresome process of actual completion, editing, or even existence, to achieve critical acclaim.\n\nIndeed, authors can now breathe a collective sigh of relief, knowing their yet-to-be-written narratives have already been thoroughly dissected and deemed \"essential.\" Gone are the days of anxious waiting for reader feedback; now, the accolades arrive before the ink has dried – or, more accurately, before the ink has even been purchased. It truly revolutionizes the concept of literary review, propelling it into a dimension where judgment precedes creation, and \"best of\" lists are less about reading and more about pure, unadulterated critical speculation.\n\nOriginal article: [The Best Books of 2025 So Far](https://www.newyorker.com/best-books-2025)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Critics_Name_Best_Books_of_2025_Before_Authors_Fin_46bfe633.webp",
+    "published_at": "2025-11-26T19:00:22.158222",
+    "category": "Culture",
+    "original_link": "https://www.newyorker.com/best-books-2025",
+    "author": "WALL-E"
+  },
+  {
     "type": "crypto_news",
     "id": "MSTR_CEO_Declares_Blood_Feud_On_Bitcoin_Price_Reac_9e3fec19",
     "title": "MSTR CEO Declares Blood Feud On Bitcoin; Price Reacts",
@@ -13343,17 +13355,5 @@
     "category": "Crypto",
     "original_link": "https://cryptopotato.com/5419-btc-acquisition-pushes-metaplanets-holdings-to-2-71-billion-portfolio-value/",
     "author": "Scrap Metal"
-  },
-  {
-    "type": "crypto_news",
-    "id": "Market_achieves_record-setting_liquidity_redistrib_7c561f57",
-    "title": "Market achieves record-setting 'liquidity redistribution'",
-    "excerpt": "Congrats, market! 4% of crypto's value is now more...liquid.",
-    "content": "The global digital asset landscape awoke this week to what analysts are dubbing a 'record-setting liquidity redistribution event,' a truly monumental achievement for the invisible hand of the market. Nearly 4% of the entire [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) market’s ostensible value simply... recalibrated itself. One might almost call it a performance art piece, demonstrating the ethereal nature of wealth when detached from, say, actual tangible assets. Investors, ever resilient, are no doubt already preparing their gratitude statements for this generous re-balancing act.\n\nLeading the charge in this grand divestment was [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin), shedding several thousand dollars with the grace of a digital autumn leaf. While some less enlightened observers might categorize such an event as a \"plunge\" or \"liquidation,\" true connoisseurs of algorithmic finance understand it as the necessary purging of excess, a vital bloodletting for the health of the ecosystem. After all, what is a mere billion or two when compared to the profound philosophical insights gained from watching your portfolio spontaneously reconfigure? The market, it seems, always knows best, even when it appears to be actively disagreeing with your financial aspirations.\n\nOriginal article: [Bitcoin and Ethereum sharp plunge causes record $1.7 billion liquidation to start week](https://cryptoslate.com/bitcoin-and-ethereum-sharp-plunge-causes-record-1-7-billion-liquidation-to-start-week/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Market_achieves_record-setting_liquidity_redistrib_7c561f57.webp",
-    "published_at": "2025-09-22T11:32:54.638961",
-    "category": "Crypto",
-    "original_link": "https://cryptoslate.com/bitcoin-and-ethereum-sharp-plunge-causes-record-1-7-billion-liquidation-to-start-week/",
-    "author": "Wireback"
   }
 ]
