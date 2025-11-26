@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "FBI_Reassures_Public_Flawed_Report_Was_A_One-Time__d3dadc97",
+    "title": "FBI Reassures Public Flawed Report Was A One-Time 50-Year Oopsie",
+    "excerpt": "FBI grants 50-year vacation to murder suspect. Perks included.",
+    "content": "The Federal Bureau of Investigation has moved swiftly – or, rather, eventually – to quell public anxiety following revelations of a \"flawed report\" that effectively granted a murder suspect an extra five decades of freedom. Speaking with characteristic federal gravity, officials confirmed that the egregious investigative misstep, which allowed the actual perpetrator of a violent [cold case](https://en.wikipedia.org/wiki/Cold_case) in [New Hampshire](https://en.wikipedia.org/wiki/New_Hampshire) to walk free for 50 years, was merely a singular, albeit rather protracted, administrative hiccup.\n\nCitizens are encouraged to take solace in the fact that, eventually, the truth does indeed emerge, even if it requires an entire generation to pass. The [FBI](https://www.fbi.gov/) assures us this was not indicative of a widespread trend of forensic reports inexplicably sabotaging justice for half a century. Such a \"one-time 50-year oopsie,\" they insist, is simply part of the bureaucratic charm, a testament perhaps to the long game played by justice – or, more accurately, by paperwork.\n\nOriginal article: [New Hampshire cold case solved half a century after flawed FBI report allowed killer to escape](https://nypost.com/2025/11/26/us-news/new-hampshire-judith-lord-cold-case-solved-half-a-century-later-identifying-ernest-gable-as-killer/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/FBI_Reassures_Public_Flawed_Report_Was_A_One-Time__d3dadc97.webp",
+    "published_at": "2025-11-26T06:53:04.619575",
+    "category": "Culture",
+    "original_link": "https://nypost.com/2025/11/26/us-news/new-hampshire-judith-lord-cold-case-solved-half-a-century-later-identifying-ernest-gable-as-killer/",
+    "author": "Google Chrome-dome"
+  },
+  {
     "type": "crypto_news",
     "id": "XRP_Price_Breaks_Earths_Atmosphere_Scientists_Unco_da348033",
     "title": "XRP Price Breaks Earth's Atmosphere, Scientists Unconcerned",
@@ -13349,17 +13361,5 @@
     "category": "Crypto",
     "original_link": "https://bitcoinmagazine.com/business/early-riders-texas-accelerator-bitcoin",
     "author": "Siri"
-  },
-  {
-    "type": "news",
-    "id": "Moons_September_Appearance_Sparks_Familiar_Outcry_42620596",
-    "title": "Moon’s September Appearance Sparks Familiar Outcry",
-    "excerpt": "The moon, astonishingly, plans to illuminate the night. Again.",
-    "content": "Reports are filtering in from various astronomical observatories – and, frankly, anyone with eyeballs – that the moon, in a truly audacious move, is once again embarking on its predictable nightly campaign of increasing luminosity. Sources confirm that this celestial body, long a fixture of our night sky, will continue to amplify its output until it achieves its full, unblinking glare. This revelation, while familiar to students of basic [lunar cycle](https://en.wikipedia.org/wiki/Lunar_phase), has nevertheless sent a low hum of consternation through the more… sensitive sectors of the populace.\n\nAuthorities, reportedly, are 'monitoring the situation closely.' Experts at [NASA](https://www.nasa.gov/) have yet to issue a definitive statement on whether this incremental brightening poses an existential threat, or merely an inconvenience for those reliant on absolute darkness for optimal TikTok viewing. Concerns are already mounting among self-proclaimed 'sleep hygiene' advocates, who anticipate a surge in cases of mild [insomnia](https://www.sleepfoundation.org/insomnia) and general grumpiness. While today’s faint glow might be easily dismissed, history tells us the complaints will only amplify as the moon continues its brazen, utterly unoriginal journey towards its next full phase.\n\nOriginal article: [Moon phase today: What the moon will look like on September 22](https://mashable.com/article/moon-phase-today-sept-22)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Moons_September_Appearance_Sparks_Familiar_Outcry_42620596.webp",
-    "published_at": "2025-09-22T08:25:22.939781",
-    "category": "Tech",
-    "original_link": "https://mashable.com/article/moon-phase-today-sept-22",
-    "author": "Humanoid"
   }
 ]
