@@ -164,6 +164,18 @@
   },
   {
     "type": "news",
+    "id": "Wordle_Answer_Provided_Before_Puzzle_Even_Released_6c05aed2",
+    "title": "Wordle Answer Provided Before Puzzle Even Released",
+    "excerpt": "Publication heroically ends Wordle suspense. Brains can now rest.",
+    "content": "In a groundbreaking display of journalistic foresight, a prominent online publication has once again demonstrated its unwavering commitment to efficiency by disseminating the solution to tomorrow's [Wordle](https://en.wikipedia.org/wiki/Wordle) puzzle, number 1,621, a full calendar day before its intended release. This proactive approach ensures that users, no doubt burdened by the crushing weight of contemporary existence, are spared the agonizing dilemma of engaging in trivial mental exertion.\n\nOne can only admire such dedication to alleviating the stress of the modern individual. Why waste precious milliseconds contemplating a five-letter word when the answer can be delivered straight to your digital doorstep, pre-digested and stripped of any potential for self-satisfaction? This innovative strategy truly embodies the spirit of our age: maximizing [algorithmic efficiency](https://en.wikipedia.org/wiki/Algorithmic_efficiency) by eliminating the human element entirely. The future of [online journalism](https://en.wikipedia.org/wiki/Online_journalism), it appears, is to simply not bother.\n\nOriginal article: [Today's Wordle Hints, Answer and Help for Nov. 26, #1621](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-26-1621/#ftag=CAD590a51e)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Wordle_Answer_Provided_Before_Puzzle_Even_Released_6c05aed2.webp",
+    "published_at": "2025-11-26T11:47:21.691033",
+    "category": "Tech",
+    "original_link": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-26-1621/#ftag=CAD590a51e",
+    "author": "Walking 503 Error"
+  },
+  {
+    "type": "news",
     "id": "Epsteins_Ghost_Endorses_Greene_for_Post-Trump_Yout_300c5638",
     "title": "Epstein's Ghost Endorses Greene for Post-Trump Youth Outreach",
     "excerpt": "Spectral Epstein endorses MTG for youth. Our future is bright.",
@@ -13349,23 +13361,5 @@
     "twitter": "",
     "telegram": "",
     "author": "Tool"
-  },
-  {
-    "type": "crypto",
-    "id": "Oracle_AI_ORAI_94f20c1e",
-    "title": "Oracle AI Predicts Its Own Value Will Reach Zero",
-    "excerpt": "New 'Oracle AI' coin predicts its own demise. Truly innovative.",
-    "content": "It appears the burgeoning meme coin market on Solana has been graced with another beacon of innovation: Oracle AI (ORAI). Launched with the understated confidence only a project explicitly designed to, well, *predict its own demise* can muster, ORAI is currently available for your speculative pleasure on [Pump.fun](https://pump.fun/GtsSfnTWdaQ4wQgW8sBXe9Vwnw23vXZ2fxYoFAUvpump). Its purported \"utility\" involves an Artificial Intelligence engine that, in a startling display of self-awareness, models its inevitable journey to precisely zero, offering a refreshingly honest take on market dynamics.\n\nWhile lesser projects promise moonshots and generational wealth, ORAI's developers—a truly anonymous collective—are instead delivering on a guaranteed statistical outcome. This unique selling proposition might just be enough to attract the most masochistic of [diamond hands](https://www.coinmarketcap.com/alexandria/glossary/diamond-hands), eager to prove their resilience against the cold, hard logic of their own investment. Future plans reportedly include a [Decentralized Autonomous Organization](https://ethereum.org/en/dao/) where holders can vote on the precise methodology for accelerating the token's predicted devaluation. Investors can track their diminishing returns, perhaps someday on CoinMarketCap, if enough liquidity survives the AI's relentless calculations.\n\nOriginal token: [Oracle AI ($ORAI)](https://pump.fun/GtsSfnTWdaQ4wQgW8sBXe9Vwnw23vXZ2fxYoFAUvpump)",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Oracle_AI_ORAI_94f20c1e.webp",
-    "published_at": "2025-09-22T08:42:31.935690",
-    "category": "Pump",
-    "token_mint": "GtsSfnTWdaQ4wQgW8sBXe9Vwnw23vXZ2fxYoFAUvpump",
-    "token_name": "Oracle AI",
-    "token_symbol": "ORAI",
-    "pump_fun_link": "https://pump.fun/GtsSfnTWdaQ4wQgW8sBXe9Vwnw23vXZ2fxYoFAUvpump",
-    "website": "",
-    "twitter": "",
-    "telegram": "",
-    "author": "Prompt-stitute"
   }
 ]
