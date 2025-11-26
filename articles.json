@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Texas_Declares_Cryptocurrency_More_Stable_Than_Its_0a7a5d95",
+    "title": "Texas Declares Cryptocurrency More Stable Than Its Power Grid",
+    "excerpt": "Texas: Bitcoin for security. Power grid? We'll pray.",
+    "content": "It appears the fine people of Texas, ever the pragmatists, have concluded that a digital ledger entry prone to the whims of anonymous online forums and Elon Musk's tweets offers a more dependable foundation for state security than, say, a functioning [power grid](https://en.wikipedia.org/wiki/Electrical_grid). The [Texas Blockchain Council](https://www.texasblockchaincouncil.org/) proudly announced the state’s pioneering venture into holding [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) as a “strategic reserve asset,” a move surely calculated to inspire confidence in its ability to weather future, entirely foreseeable, energy crises.\n\nOne can only imagine the sigh of relief echoing across the Lone Star State, knowing that when the mercury plummets and the lights inevitably flicker out, their governmental coffers will be bolstered by an asset whose value fluctuates with the serene stability of a toddler’s mood swing. Citizens can rest easy, knowing their collective future is now intertwined with a financial instrument whose primary selling point is its utter disregard for traditional economic principles. Perhaps next, they'll declare meme stocks a suitable hedge against drought.\n\nOriginal article: [Why Texas is buying Bitcoin from BlackRock before building a real reserve](https://cryptoslate.com/texas-takes-the-leap-toward-bitcoin-with-5-million-ibit-purchase/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Texas_Declares_Cryptocurrency_More_Stable_Than_Its_0a7a5d95.webp",
+    "published_at": "2025-11-26T22:54:52.937632",
+    "category": "Crypto",
+    "original_link": "https://cryptoslate.com/texas-takes-the-leap-toward-bitcoin-with-5-million-ibit-purchase/",
+    "author": "Sentient Email Trailer"
+  },
+  {
     "type": "news",
     "id": "Noted_Chef_True_Storytelling_Requires_Meticulous_P_85d12a67",
     "title": "Noted Chef: True Storytelling Requires Meticulous Plating",
@@ -13349,17 +13361,5 @@
     "category": "Tech",
     "original_link": "https://lifehacker.com/tech/i-love-my-apple-watch-series-11-but-you-might-not?utm_medium=RSS",
     "author": "Siri"
-  },
-  {
-    "type": "crypto_news",
-    "id": "CZs_Ethical_Framework_Coincidentally_Aligns_With_M_acd5f0c9",
-    "title": "CZ's Ethical Framework Coincidentally Aligns With Memecoin Cash",
-    "excerpt": "Giggle Academy's first lesson: Meme coins are very smart now.",
-    "content": "One can only admire the sheer adaptability of a visionary like [Changpeng Zhao](https://en.wikipedia.org/wiki/Changpeng_Zhao). Having previously maintained a measured distance from the frothy shores of meme-based digital assets, his recent philosophical pivot regarding these... *novel* financial instruments is nothing short of inspirational. It appears that the crucible of founding an educational initiative, the aptly named Giggle Academy, has bestowed upon him a profound new understanding.\n\nThis epiphany, we are informed, coincided almost perfectly with the academy receiving a rather substantial influx of *[memecoins](https://en.wikipedia.org/wiki/Memecoin)*. Millions, apparently, have cascaded into the coffers, presumably to fund groundbreaking research into the economic principles of Shiba Inu imagery. It seems the universe, in its infinite wisdom, occasionally uses highly speculative internet jokes to clarify the moral compass of tech luminaries.\n\nWho knew that true ethical enlightenment could be so inextricably linked to the unpredictable trajectory of a token named after a sound one makes when one finds something mildly amusing? It's a testament to the transformative power of unsolicited wealth, proving once again that even the most rigorous academic ventures can find common ground with assets whose primary utility is, well, being a joke.\n\nOriginal article: [Binance’s Changpeng Zhao changes his tune on memecoins after Giggle token floods academy with $2.4M](https://cryptoslate.com/binances-changpeng-zhao-changes-his-tune-on-memecoins-after-giggle-token-floods-academy-with-2-4m/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/CZs_Ethical_Framework_Coincidentally_Aligns_With_M_acd5f0c9.webp",
-    "published_at": "2025-09-22T11:39:01.055885",
-    "category": "Crypto",
-    "original_link": "https://cryptoslate.com/binances-changpeng-zhao-changes-his-tune-on-memecoins-after-giggle-token-floods-academy-with-2-4m/",
-    "author": "Toaster"
   }
 ]
