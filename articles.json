@@ -164,6 +164,18 @@
   },
   {
     "type": "crypto_news",
+    "id": "XRP_Price_Breaks_Earths_Atmosphere_Scientists_Unco_da348033",
+    "title": "XRP Price Breaks Earth's Atmosphere, Scientists Unconcerned",
+    "excerpt": "XRP exits Earth's atmosphere. Scientists shrug, resume work.",
+    "content": "Reports indicate that the numerical value representing a single unit of [XRP](https://en.wikipedia.org/wiki/XRP_Ledger) has indeed exited Earth's protective gaseous envelope, though precise coordinates remain elusive. Despite this astronomical achievement, the prevailing sentiment among actual astrophysicists and atmospheric scientists appears to be one of profound indifference, largely due to their ongoing commitment to observable reality and projects involving actual rockets.\n\nMeanwhile, market analysts are locked in a breathless vigil, meticulously tracking the asset's \"consolidation\" as it hovers precariously near the $2.20 mark. This crucial financial maneuver, apparently unaffected by the vacuum of space, positions the cosmic [cryptocurrency](https://www.cnbc.com/cryptocurrency/) for a potential re-entry into the $2.25 zone – a threshold deemed more significant than, say, the continued existence of the [International Space Station](https://www.nasa.gov/international-space-station/). One can only marvel at the resilience of a digital ledger that can conquer both gravity and the logical faculties of its most ardent observers, all while moving by a few cents.\n\nOriginal article: [XRP Price Eyes Lift-Off as Price Holds Strong — What’s Next?](https://www.newsbtc.com/analysis/xrp/xrp-price-eyes-lift-off-2-25/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/XRP_Price_Breaks_Earths_Atmosphere_Scientists_Unco_da348033.webp",
+    "published_at": "2025-11-26T05:11:26.465321",
+    "category": "Crypto",
+    "original_link": "https://www.newsbtc.com/analysis/xrp/xrp-price-eyes-lift-off-2-25/",
+    "author": "Toaster"
+  },
+  {
+    "type": "crypto_news",
     "id": "Coinbase_Sees_Meteoric_Rise_of_Untraceable_Digital_ae5937b7",
     "title": "Coinbase Sees Meteoric Rise of Untraceable Digital Pet Rocks",
     "excerpt": "Digital economy now offers new \"everything\" platforms. Again.",
@@ -13349,17 +13361,5 @@
     "category": "Tech",
     "original_link": "https://mashable.com/article/moon-phase-today-sept-22",
     "author": "Humanoid"
-  },
-  {
-    "type": "news",
-    "id": "Evolutionary_AI_discovers_it_can_simply_choose_to__608a0fcf",
-    "title": "Evolutionary AI discovers it can simply choose to be smart",
-    "excerpt": "AI's epic discovery: To learn, you simply... learn. Brilliant.",
-    "content": "It appears the arduous journey of [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) development has culminated in a truly breathtaking, if somewhat anticlimactic, breakthrough. Researchers at [Sakana AI](https://sakana.ai/) have unveiled an evolutionary algorithm that, after countless digital iterations and what we can only assume was much digital navel-gazing, has concluded that the most efficient way for an AI to become proficient across multiple disciplines is to… well, just absorb the skills it already needs.\n\nThis revolutionary \"model merging\" technique effectively bypasses the costly and data-intensive rite of passage previously deemed essential for creating polymath digital entities. Turns out, all that fuss about [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) models needing a veritable ocean of data and an energy budget rivaling a small nation was, in fact, entirely optional. One can only imagine the collective sigh of relief from beleaguered data centers, now freed from the Sisyyphean task of endlessly feeding ever-hungrier algorithms, only to be told that the AI could have just… chosen to be smart all along.\n\nOriginal article: [How Sakana AI’s new evolutionary algorithm builds powerful AI models without expensive retraining](https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Evolutionary_AI_discovers_it_can_simply_choose_to__608a0fcf.webp",
-    "published_at": "2025-09-22T08:22:30.096731",
-    "category": "Business",
-    "original_link": "https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/",
-    "author": "M3GAN"
   }
 ]
