@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Architect_Known_For_Buildings_Finishes_Living_At_8_7f4b1760",
+    "title": "Architect Known For Buildings Finishes Living At 86",
+    "excerpt": "Famed architect, 86, completes his *most* permanent structure.",
+    "content": "It is with a quiet, almost understated, sense of irony that we note the passing of a prominent [architect](https://en.wikipedia.org/wiki/Architect), 86, who, after a career spent designing dwellings for others, has finally completed his own tenancy. Reports indicate the esteemed purveyor of structures, celebrated for his contributions to [New York City](https://www.nyc.gov/) skylines and a particular brand of [Postmodernism](https://en.wikipedia.org/wiki/Postmodernism), \"died comfortably at his home.\" One can only presume the final living space was up to code, perhaps even featuring optimal egress for a smooth transition.\n\nThe statement, notably silent on the specific mechanics of this ultimate architectural deconstruction, assures us of the comfort involved. One must wonder if this comfort was a testament to the home's design, or simply the inherent satisfaction of an artist finally escaping the incessant demands of client revisions. Regardless, his legacy of grand, often controversial, edifices remains, while he himself has, rather fittingly, vacated the premises.\n\nOriginal article: [Robert A.M. Stern, prominent NYC-born architect renowned for Central Park staple, dead at 86](https://nypost.com/2025/11/27/us-news/robert-a-m-stern-prominent-nyc-born-architect-dead-at-86/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Architect_Known_For_Buildings_Finishes_Living_At_8_7f4b1760.webp",
+    "published_at": "2025-11-27T22:50:16.979628",
+    "category": "Culture",
+    "original_link": "https://nypost.com/2025/11/27/us-news/robert-a-m-stern-prominent-nyc-born-architect-dead-at-86/",
+    "author": "Roomba"
+  },
+  {
     "type": "crypto_news",
     "id": "Chrome_Extension_Streamlines_Solana_Traders_Uncons_96343ff5",
     "title": "Chrome Extension Streamlines Solana Traders' Unconscious Giving",
@@ -13355,17 +13367,5 @@
     "category": "Tech",
     "original_link": "https://mashable.com/article/sept-22-pokemon-tcg-white-flare-etb-deal",
     "author": "Walking 503 Error"
-  },
-  {
-    "type": "news",
-    "id": "Fire_Eliminates_Years_Of_Clutter_From_Area_Homeown_20e76d5a",
-    "title": "Fire Eliminates Years Of Clutter From Area Homeowner's Life",
-    "excerpt": "Local tidiness guru's 'breakthrough' was 100% decisive. Fiery.",
-    "content": "The local resident, a prominent figure in the ongoing battle against excessive possessions, reportedly experienced a significant breakthrough this week. Sources close to the incident confirm that what the uninitiated might term a \"tragedy\" was, in fact, an entirely decisive, if somewhat flamboyant, act of radical [decluttering](https://en.wikipedia.org/wiki/Decluttering). The homeowner, whose name is being withheld to protect their newfound peace, expressed a quiet satisfaction that the agonizing decisions regarding sentimental tchotchkes and long-forgotten tax documents have been, shall we say, pre-emptively resolved. Indeed, the only lingering question is whether their insurance policy covers the emotional weight lifted, or just the inconvenient structural damage.\n\nWhile nearby residents grapple with the less aesthetically pleasing aspects of, well, everything being gone, our stoic individual is already planning a meticulously curated, post-fire existence. The forced embrace of [minimalism](https://en.wikipedia.org/wiki/Minimalism) has reportedly offered a unique opportunity to reassess priorities, chiefly the acquisition of fire-resistant garden gnomes. Efforts by [community support groups](https://www.redcross.org/) to offer condolences have been met with polite, albeit slightly detached, gratitude, as the homeowner appears to be too busy contemplating the zen of an empty space to mourn what was clearly just, you know, stuff.\n\nOriginal article: [My House Burned in the L.A. Fires. What Happens Now?](https://www.newyorker.com/magazine/2025/09/29/my-house-burned-in-the-la-fires-what-happens-now)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Fire_Eliminates_Years_Of_Clutter_From_Area_Homeown_20e76d5a.webp",
-    "published_at": "2025-09-22T16:32:12.282933",
-    "category": "Culture",
-    "original_link": "https://www.newyorker.com/magazine/2025/09/29/my-house-burned-in-the-la-fires-what-happens-now",
-    "author": "Wireback"
   }
 ]
