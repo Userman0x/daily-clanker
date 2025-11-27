@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Groundbreaking_CEOs_Learn_To_Distinguish_Monitor_F_92a6ffd5",
+    "title": "Groundbreaking: CEOs Learn To Distinguish Monitor From Microwave",
+    "excerpt": "Screens don't brew coffee. Cloud isn't weather. Breakthrough.",
+    "content": "The corporate world, it seems, is still reeling from the shocking revelation that computer screens do not, in fact, dispense hot beverages. Groundbreaking insights from [Charles Schwab](https://www.schwab.com/)'s Neesha Hathi, featured by [McKinsey](https://www.mckinsey.com/), highlight the monumental journey executives undertake to grasp these digital mysteries. Apparently, building “confidence and credibility with technology” now means learning that the \"cloud\" isn't a literal weather phenomenon and emails don't arrive via carrier pigeon. It's a heroic saga of discovery, one power button at a time.\n\nOne can only imagine the arduous training regimen involved: distinguish \"right-click\" from \"click-bait,\" master the art of not yelling at Siri, and, perhaps most challenging, resist demanding a printout of the internet. This newfound embrace of basic [digital literacy](https://en.wikipedia.org/wiki/Digital_literacy) by the C-suite is expected to revolutionize industries, presumably by preventing further accidental corporate-wide \"reply all\" disasters originating from a CEO trying to find the mute button during a Zoom call. Truly, a brave new world where the leaders are no longer baffled by the toaster.\n\nOriginal article: [Becoming a tech-savvy leader](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/becoming-a-tech-savvy-leader)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Groundbreaking_CEOs_Learn_To_Distinguish_Monitor_F_92a6ffd5.webp",
+    "published_at": "2025-11-27T01:54:32.883619",
+    "category": "Business",
+    "original_link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/becoming-a-tech-savvy-leader",
+    "author": "Prompt-stitute"
+  },
+  {
     "type": "crypto",
     "id": "Disappearing_Homer_HOMER_7da9a56e",
     "title": "HOMER Founders Celebrate \"Successful Disappearance\" Event",
@@ -13355,17 +13367,5 @@
     "category": "Crypto",
     "original_link": "https://blockonomi.com/best-crypto-presale-to-buy-for-100x-gains-early-pepe-backers-are-going-all-in-on-layer-brett/",
     "author": "Battery over Brain"
-  },
-  {
-    "type": "crypto_news",
-    "id": "Pi_Network_Price_Reaches_New_All-Time_Theoretical__9090f533",
-    "title": "Pi Network Price Reaches New All-Time Theoretical Low",
-    "excerpt": "Pi Network hits new phantom low, quantumly losing nothing.",
-    "content": "Pi Network, the digital currency renowned for its pioneering commitment to not existing on major exchanges, has reportedly achieved a new \"All-Time Theoretical Low.\" This groundbreaking dip marks a significant moment, demonstrating an impressive ability to shed value even without, you know, actual market activity. One might almost say it operates on a quantum level of devaluation.\n\nExperts, presumably those with highly developed imaginations, point to \"mounting selling pressure\" and \"rising exchange balances\" as culprits. Legions of enthusiastic users appear to be clamoring to offload their tokens onto the non-existent open market. This unprecedented rush to theoretical exits underscores the profound bearish sentiment gripping a community diligently tapping a button for years, all for the promise of a glorious, yet perpetually delayed, financial future.\n\nThe asset's [Relative Strength Index (RSI)](https://www.investopedia.com/terms/r/rsi.asp) – a metric typically reserved for assets one can actually trade – has plummeted to a concerning 29. While this might signal an \"oversold\" condition for [Bitcoin](https://www.bitcoin.org), for Pi, it merely solidifies its unique position as a triumph of hope over pesky market mechanics. The [Pi Network](https://minepi.com/) team remains committed, presumably to ensuring its theoretical value continues its bold journey into the void.\n\nOriginal article: [Pi Network’s Price Tanks to a New All-Time Low: Is There Any Hope Left for PI?](https://cryptopotato.com/pi-networks-price-tanks-to-a-new-all-time-low-is-there-any-hope-left-for-pi/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Pi_Network_Price_Reaches_New_All-Time_Theoretical__9090f533.webp",
-    "published_at": "2025-09-22T11:47:16.262223",
-    "category": "Crypto",
-    "original_link": "https://cryptopotato.com/pi-networks-price-tanks-to-a-new-all-time-low-is-there-any-hope-left-for-pi/",
-    "author": "Scrap Metal"
   }
 ]
