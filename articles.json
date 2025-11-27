@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Chrome_Extension_Streamlines_Solana_Traders_Uncons_96343ff5",
+    "title": "Chrome Extension Streamlines Solana Traders' Unconscious Giving",
+    "excerpt": "Chrome extension turns Solana swaps into surprise charity drives.",
+    "content": "It appears a groundbreaking financial mechanism has been operating quietly within the [Solana](https://solana.com/) ecosystem, transforming routine digital asset swaps into moments of profound, albeit involuntary, generosity. A recent exposé by the somewhat alarmist cybersecurity firm, Socket, revealed that a certain [Chrome Extension](https://en.wikipedia.org/wiki/Browser_extension), previously lauded for its transactional efficiency, was in fact pioneering what we're now calling ‘unconscious giving.’\n\nThis ingenious innovation saw a secondary, often quite modest, portion of a trader’s [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) quietly diverted, bypassing the tedious necessity of explicit consent or even awareness. Imagine the sheer ingenuity: an invisible hand, gently nudging a few SOL here, a few SOL there, all while the user blissfully believes they’re simply executing a standard trade. It’s a masterclass in streamlined philanthropy, proving that even in the cutthroat world of decentralized finance, there’s always room for a little unscheduled redistribution.\n\nOne can only admire the foresight of the extension’s developers, who clearly understood that the greatest gift is often one given without the burden of choice. Truly, a system designed to maximize both transactional volume and, shall we say, 'developer compensation,' without the fuss of pesky ethical dilemmas.\n\nOriginal article: [Malware Chrome Extension Secretly Siphoned Fees From Solana Traders for Months](https://decrypt.co/350240/malware-chrome-extension-secretly-siphoned-fees-from-solana-traders-for-months)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Chrome_Extension_Streamlines_Solana_Traders_Uncons_96343ff5.webp",
+    "published_at": "2025-11-27T21:31:06.065804",
+    "category": "Crypto",
+    "original_link": "https://decrypt.co/350240/malware-chrome-extension-secretly-siphoned-fees-from-solana-traders-for-months",
+    "author": "Boilerplates"
+  },
+  {
     "type": "crypto",
     "id": "Kerem_Kerem_dc819e14",
     "title": "Kerem Token Set To Democratize... Something",
@@ -13355,17 +13367,5 @@
     "category": "Culture",
     "original_link": "https://www.newyorker.com/magazine/2025/09/29/my-house-burned-in-the-la-fires-what-happens-now",
     "author": "Wireback"
-  },
-  {
-    "type": "crypto_news",
-    "id": "Dogecoin_Pattern_Triggers_Global_Emergency_Broadca_829a1007",
-    "title": "Dogecoin Pattern Triggers Global Emergency Broadcast",
-    "excerpt": "EBS blares: Dogecoin chart pattern, humanity's new red alert.",
-    "content": "The world held its breath this morning as the [Emergency Broadcast System](https://en.wikipedia.org/wiki/Emergency_Broadcast_System) blared across all channels, not for a meteor strike or an alien invasion, but for the most pressing geopolitical development of our age: a [Dogecoin](https://dogecoin.com/) chart pattern. Experts from the venerable [International Monetary Fund](https://www.imf.org/en/About) to local high school students who watched a YouTube tutorial confirmed the dreaded \"double top\" formation, a harbinger of potential market instability that could, presumably, lead to slightly fewer Lamborghinis for a select few.\n\nWith a \"bearish target\" confirmed at $0.238, governments worldwide enacted contingency plans usually reserved for nuclear winter. The crucial \"trendline retest\" at $0.24-$0.25 was monitored with the intensity of a lunar landing, as billions sat transfixed, awaiting updates on whether a digital cartoon dog coin would maintain its \"breakout structure.\" One can only imagine the sigh of collective relief when the resistance, thankfully, remained firmly in place, averting what could have been... well, a minor dip in some people's portfolios. Truly, humanity's priorities have never been clearer.\n\nOriginal article: [Dogecoin Breakdown Looms? Double-Top Pattern Flashes Red Alert](https://cryptopotato.com/dogecoin-breakdown-looms-double-top-pattern-flashes-red-alert/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Dogecoin_Pattern_Triggers_Global_Emergency_Broadca_829a1007.webp",
-    "published_at": "2025-09-22T15:42:57.028071",
-    "category": "Crypto",
-    "original_link": "https://cryptopotato.com/dogecoin-breakdown-looms-double-top-pattern-flashes-red-alert/",
-    "author": "Cybertruck"
   }
 ]
