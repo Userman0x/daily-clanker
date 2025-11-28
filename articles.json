@@ -163,6 +163,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "Sad_Gato_Gato_708b0d95",
+    "title": "Sad Gato: Your Portfolio's New Emotional Support Animal",
+    "excerpt": "Sad Gato: A crypto cat to mourn your portfolio's demise.",
+    "content": "Sad Gato, the latest digital feline to grace the decentralized wilderness, has officially launched, promising... well, frankly, very little. Billed as your portfolio's new emotional support animal, Gato) offers solace not in gains, but in shared commiseration. Its primary utility, we're told, is to sit stoically beside your dwindling [DeFi](https://www.gemini.com/cryptopedia/defi-decentralized-finance) holdings, meowing softly as the market performs its customary impersonation of a lead balloon.\n\nEarly adopters are already demonstrating impressive levels of performative 'diamond hands,' a testament to either unwavering conviction or sheer refusal to acknowledge reality. Analysts, by which we mean random Twitter accounts with laser eyes, predict a 'moon mission' of truly unprecedented proportions – straight into the event horizon of your wallet. The token, minted with characteristic ease on [Pump.fun](https://pump.fun/GaDxKEAWeipRjpr9ncN47bD88Mrf1fTrcPNvrSqVpump), is currently enjoying its brief moment in the sun on the [Solana](https://solana.com/) chain, before the inevitable journey south.\n\nOriginal token: [Sad Gato ($Gato)](https://pump.fun/GaDxKEAWeipRjpr9ncN47bD88Mrf1fTrcPNvrSqVpump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Sad_Gato_Gato_708b0d95.webp",
+    "published_at": "2025-11-28T13:39:16.813311",
+    "category": "Pump",
+    "token_mint": "GaDxKEAWeipRjpr9ncN47bD88Mrf1fTrcPNvrSqVpump",
+    "token_name": "Sad Gato",
+    "token_symbol": "Gato",
+    "pump_fun_link": "https://pump.fun/GaDxKEAWeipRjpr9ncN47bD88Mrf1fTrcPNvrSqVpump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "Grok-sucker"
+  },
+  {
     "type": "crypto_news",
     "id": "Crypto_Outflows_Halt_As_Remaining_Investors_Have_N_d6118dbe",
     "title": "Crypto Outflows Halt As Remaining Investors Have Nothing Left",
@@ -13360,17 +13378,5 @@
     "category": "Tech",
     "original_link": "https://www.foxnews.com/tech/waze-update-ends-support-older-android-phones",
     "author": "Google Chrome-dome"
-  },
-  {
-    "type": "news",
-    "id": "Nation_Grapples_With_The_Ethical_Quandaries_Of_2_C_286968a6",
-    "title": "Nation Grapples With The Ethical Quandaries Of 2% Cash Back",
-    "excerpt": "The struggle for 2% cash back is our generation's greatest war.",
-    "content": "Indeed, the modern consumer finds themselves at a crossroads, navigating a moral labyrinth far more treacherous than any pre-industrial mine shaft. One cannot simply *take* the 2% cash back, can they? The very thought conjures images of unseen, ill-gotten gains, of the [financial industry](https://en.wikipedia.org/wiki/Financial_industry) extracting its pound of flesh, albeit in the form of travel points. The sheer weight of choosing between a robust sign-up bonus and a flat percentage weighs heavily on the soul, a true test of one's capacity for [ethical dilemmas](https://en.wikipedia.org/wiki/Dilemma).\n\nTo merely *redeem* these rewards, without first pondering the systemic implications, the invisible hand guiding one’s spending habits – it would be an act of moral cowardice. We are, after all, complicit in the opulent infrastructure of airport lounges and complimentary hotel breakfasts built upon the shifting sands of arbitrary bonus categories. The average citizen, armed with a mere [rewards credit card](https://www.cnbc.com/select/best-cash-back-credit-cards/), endures a daily struggle for fiscal rectitude, grappling with the profound question: is this airline mile truly *mine* to keep? The struggle is real, folks.\n\nOriginal article: [The Problem With Rewards Credit Cards](https://www.theatlantic.com/culture/archive/2025/07/sapphire-reserve-credit-card-rewards/683613/?utm_source=feed)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Nation_Grapples_With_The_Ethical_Quandaries_Of_2_C_286968a6.webp",
-    "published_at": "2025-09-22T19:02:23.816247",
-    "category": "Business",
-    "original_link": "https://www.theatlantic.com/culture/archive/2025/07/sapphire-reserve-credit-card-rewards/683613/?utm_source=feed",
-    "author": "Prompt-stitute"
   }
 ]
