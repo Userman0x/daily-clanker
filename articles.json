@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Buterin_Funds_Privacy_Apps_Entire_Transaction_Publ_55e37bbb",
+    "title": "Buterin Funds Privacy Apps; Entire Transaction Publicly Logged",
+    "excerpt": "Vitalik funds 'privacy' apps. Congrats, your donation is public.",
+    "content": "It’s truly a banner day for digital discretion, as [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin), co-founder of the remarkably transparent [Ethereum](https://ethereum.org/en/) network, has thrown significant sums behind several nascent \"privacy\" messaging services. One might imagine the excitement when these new contenders, aiming to unseat established giants like [Signal](https://signal.org/), learned of their newfound financial backing. The details, of course, were immediately broadcast across the digital ether for all curious parties to scrutinize, meticulously logged on the very public ledger that powers his network.\n\nPresumably, the irony of a donation to promote digital obfuscation being itself a matter of public record is not lost on anyone involved. Indeed, it’s a refreshing take on the concept of anonymous giving; a sort of \"Look, I'm supporting your right to vanish, just don't expect *me* to vanish while I do it.\" Future users of these privacy apps can rest assured knowing the exact journey of every dollar that helped bring their secure conversations into existence, a veritable audit trail of discretion. It truly embodies the spirit of \"privacy, but with footnotes.\"\n\nOriginal article: [Vitalik Buterin Donates $765K in Ethereum to Privacy Messaging Apps](https://decrypt.co/350253/vitalik-buterin-donates-765k-in-ethereum-to-privacy-messaging-apps)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Buterin_Funds_Privacy_Apps_Entire_Transaction_Publ_55e37bbb.webp",
+    "published_at": "2025-11-28T01:44:41.806654",
+    "category": "Crypto",
+    "original_link": "https://decrypt.co/350253/vitalik-buterin-donates-765k-in-ethereum-to-privacy-messaging-apps",
+    "author": "Skynet"
+  },
+  {
     "type": "crypto",
     "id": "Tuzki_TUZKI_442ad217",
     "title": "Tuzki Solves The Metaverse's Pesky Rabbit Hole Problem",
@@ -13361,17 +13373,5 @@
     "author": "Cog Sucker",
     "category": "Crypto",
     "original_link": ""
-  },
-  {
-    "type": "crypto_news",
-    "id": "Meme_Coins_Plummet_After_Humanity_Forgets_How_To_L_577f23a9",
-    "title": "Meme Coins Plummet After Humanity Forgets How To Laugh",
-    "excerpt": "Humanity's humor debt causes meme coin insolvency.",
-    "content": "It appears the market, in its infinite wisdom, has finally caught up to the chilling reality that humanity has, in fact, forgotten how to laugh. The once-vibrant ecosystems of digital jests, known affectionately as [meme coins](https://en.wikipedia.org/wiki/Meme_coin), are now suffering a catastrophic decline, a testament to our collective comedic bankruptcy. Analysts, reportedly weeping into their spreadsheets, confirm that the fundamental premise of these highly volatile assets—our shared, fleeting amusement—has evaporated into the digital ether, leaving behind only the cold, hard numbers of unprecedented losses. The gig economy, it seems, can no longer sustain itself on gags alone.\n\nWhile the vast majority of these once-booming jpegs now resemble the digital equivalent of a forgotten punchline, one anomaly persists: MemeCore. Defying all logic, and perhaps even the very concept of [humor](https://en.wikipedia.org/wiki/Humor), this particular asset has inexplicably surged, suggesting its valuation is not tied to the fickle whims of human mirth but to something far more sinister, or perhaps just incredibly dull. As the broader [cryptocurrency](https://www.reuters.com/markets/currencies/) market grapples with this existential crisis of comedy, one must wonder if a collective re-watching of funny cat videos might just be the macroeconomic stimulus we truly need.\n\nOriginal article: [Meme Coin Bloodbath Today: DOGE, PUMP, BONK, and Many More Collapse by Double Digits](https://cryptopotato.com/meme-coin-bloodbath-today-doge-pump-bonk-and-many-more-collapse-by-double-digits/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Meme_Coins_Plummet_After_Humanity_Forgets_How_To_L_577f23a9.webp",
-    "published_at": "2025-09-22T16:43:08.333660",
-    "category": "Crypto",
-    "original_link": "https://cryptopotato.com/meme-coin-bloodbath-today-doge-pump-bonk-and-many-more-collapse-by-double-digits/",
-    "author": "Junk Heap"
   }
 ]
