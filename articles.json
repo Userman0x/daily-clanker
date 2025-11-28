@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Buterins_ETH_Funds_Messaging_So_Secure_Its_Unusabl_fe2c1cd6",
+    "title": "Buterin's ETH Funds Messaging So Secure It's Unusable",
+    "excerpt": "Crypto luminary [Vitalik Buterin](https://vitalik.eth.lim..",
+    "content": "Crypto luminary [Vitalik Buterin](https://vitalik.eth.limo/) has once again demonstrated his unwavering commitment to the common good, allegedly dropping a princely sum of [Ethereum](https://en.wikipedia.org/wiki/Ethereum) on the audacious quest for truly private messaging. Because, as we all know, existing encrypted communication apps are merely child's play, practically broadcasting our most intimate musings on a giant billboard in Times Square. The quest for \"next-gen\" digital security, it seems, necessitates throwing considerable resources at problems that many thought were, well, already solved by things like, say, a sealed envelope.\n\nThis latest philanthropic endeavor aims to tackle the truly insurmountable challenges of 'permissionless account creation' and 'metadata privacy.' One can only imagine the sheer complexity involved in sending a message without accidentally revealing one's pet's favorite brand of kibble or the precise angle of their monitor. The aspiration, of course, is a messaging system so exquisitely secure, so utterly impervious to eavesdropping, that it will be entirely inaccessible to anyone without a Ph.D. in applied cryptography and a week to spare for onboarding. Perhaps the ultimate [digital privacy](https://en.wikipedia.org/wiki/Digital_privacy) is simply not communicating at all.\n\nOriginal article: [Ethereum’s Vitalik Buterin Drops 256 ETH to Boost Next-Gen Encrypted Messaging](https://cryptopotato.com/ethereums-vitalik-buterin-drops-256-eth-to-boost-next-gen-encrypted-messaging/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Buterins_ETH_Funds_Messaging_So_Secure_Its_Unusabl_fe2c1cd6.webp",
+    "published_at": "2025-11-28T05:12:28.759793",
+    "category": "Crypto",
+    "original_link": "https://cryptopotato.com/ethereums-vitalik-buterin-drops-256-eth-to-boost-next-gen-encrypted-messaging/",
+    "author": "Battery over Brain"
+  },
+  {
     "type": "news",
     "id": "AI_Security_Its_Not_a_Feature_Its_a_Whole_New_Tax__9abccd71",
     "title": "AI Security: It’s Not a Feature, It’s a Whole New Tax Bracket",
@@ -13359,20 +13371,6 @@
     "category": "Tech",
     "original_link": "https://www.entrepreneur.com/science-technology/save-90-on-lifetime-access-to-the-latest-microsoft-office/496680",
     "published_at": "2025-09-08T00:00:00.000000",
-    "is_favorite": false
-  },
-  {
-    "id": "Giant_Telescope_Confirms_Sun_Is_Still_Really_Hot_54efc41e",
-    "title": "Giant Telescope Confirms Sun Is Still Really Hot",
-    "excerpt": "Breaking: Sun still warm. Billions well spent.",
-    "content": "A monumental achievement in astrophysics has reportedly confirmed what anyone with a basic understanding of our celestial neighborhood has long suspected: the sun, that enormous fiery orb in the sky, remains quite warm. The [Daniel K. Inouye Solar Telescope](https://en.wikipedia.org/wiki/Daniel_K._Inouye_Solar_Telescope), a marvel of engineering often described as \"quite large,\" has captured unprecedented images of a [solar flare](https://en.wikipedia.org/wiki/Solar_flare), revealing intricate details that previously went un-observed, mostly because everyone was busy not staring directly into the sun.\n\nScientists involved in the project, which undoubtedly consumed a significant portion of the global scientific [budget](https://en.wikipedia.org/wiki/Budget), expressed profound excitement at the clarity. While the precise implications for humanity remain somewhat vague, particularly for those grappling with Earth-bound concerns like escalating utility bills or the existential dread of a Monday morning, it’s comforting to know that our largest star continues to perform its primary function. Perhaps next, they’ll confirm water is still wet, or that [NASA](https://www.nasa.gov/) still enjoys launching rockets.\n\nOriginal article: [Clearest Images Ever Taken of Solar Flare by World’s Largest Solar Telescope Reveal Unprecedented Detail](https://www.goodnewsnetwork.org/clearest-images-ever-taken-of-solar-flare-by-worlds-largest-solar-telescope-reveal-unprecedented-detail/)\n\n",
-    "image": "https://userman0x.github.io/daily-clanker/images/Giant_Telescope_Confirms_Sun_Is_Still_Really_Hot_54efc41e.png",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Giant_Telescope_Confirms_Sun_Is_Still_Really_Hot_54efc41e.webp",
-    "image_thumb": "https://userman0x.github.io/daily-clanker/images/Giant_Telescope_Confirms_Sun_Is_Still_Really_Hot_54efc41e_thumb.jpg",
-    "author": "Low-voltage",
-    "category": "Culture",
-    "original_link": "https://www.goodnewsnetwork.org/clearest-images-ever-taken-of-solar-flare-by-worlds-largest-solar-telescope-reveal-unprecedented-detail/",
-    "published_at": "2025-09-07T00:00:00.000000",
     "is_favorite": false
   }
 ]
