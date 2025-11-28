@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Nintendos_Secret_Weapon_Staff_Not_Fired_For_Decade_f441cfbb",
+    "title": "Nintendo's Secret Weapon: Staff Not Fired For Decades",
+    "excerpt": "Nintendo's secret: Employees are technically still 'on site'.",
+    "content": "While competitors grapple with the fleeting whims of the modern [video game industry](https://en.wikipedia.org/wiki/Video_game_industry), battling brain drain and the incessant quest for 'fresh talent,' peculiar stability reigns within the hallowed halls of [Nintendo](https://www.nintendo.com/). It appears the key to their legendary output isn't a complex algorithm or a groundbreaking new console, but rather a simpler, almost primitive strategy: simply not letting anyone leave.\n\nReports suggest that employees, once ensnared by the promise of pixelated dreams, often remain for spans that would make a well-preserved ancient artifact blush. We’re not talking about mere long-service awards; this is an almost geological timescale of employment. Staff, rather than seeking new horizons, seemingly calcify into their ergonomic chairs, becoming part of the corporate furniture. This unique approach, where the primary HR directive appears to be 'don't fire them,' certainly sets them apart.\n\nOne must marvel at the efficiency. Why bother with costly recruitment or disruptive onboarding when your workforce can simply be… perpetually present? Perhaps the true genius of their creative output stems not from cutting-edge innovation, but from the sheer, unyielding endurance of individuals who have seen more console generations than some nations have seen leaders. A true testament to [organizational inertia](https://en.wikipedia.org/wiki/Organizational_inertia), really.\n\nOriginal article: [Nintendo’s secret to becoming a design powerhouse? Developers who have stayed at the company for decades](https://fortune.com/2025/11/28/super-nintendo-video-game-design-keza-macdonald/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Nintendos_Secret_Weapon_Staff_Not_Fired_For_Decade_f441cfbb.webp",
+    "published_at": "2025-11-28T22:36:42.411139",
+    "category": "Business",
+    "original_link": "https://fortune.com/2025/11/28/super-nintendo-video-game-design-keza-macdonald/",
+    "author": "Short-circuited"
+  },
+  {
     "type": "crypto_news",
     "id": "Polymarket_Sun_to_rise_tomorrow_87_certainty_crypt_878b0e2e",
     "title": "Polymarket: Sun to rise tomorrow, 87% certainty; crypto jumps",
@@ -13360,23 +13372,5 @@
     "category": "Tech",
     "original_link": "https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/",
     "author": "M3GAN"
-  },
-  {
-    "type": "crypto",
-    "id": "Vengeance_V_44bd9227",
-    "title": "Vengeance Token Launches to Get Even With Your Life Savings",
-    "excerpt": "\"Vengeance\" crypto: Get even. Even broker, probably.",
-    "content": "It appears the crypto market, in its infinite wisdom, has graced us with yet another groundbreaking innovation: Vengeance ($V)), a token designed, we are told, to help you \"get even.\" Fresh off the [Pump.fun](https://pump.fun/) launchpad, this latest [Solana](https://solana.com/) meme coin promises not wealth, but a more profound, albeit abstract, form of justice for all your previous financial misadventures. Early adopters are already boasting about their \"diamond hands,\" preparing for a moon mission fuelled by the collective frustration of a thousand previous rugpulls.\n\nThe whitepaper, a masterpiece of cryptic brevity, suggests Vengeance's core utility lies in its ability to… well, it's not entirely clear. Perhaps holding it generates a karmic debt for those who previously liquidated your portfolio. Or maybe it simply offers a communal space for unbridled, passive-aggressive online lamentation. Either way, the community is buzzing, convinced that this time, it's different. This time, the exit liquidity isn't for *them*.\n\nWith a generous supply designed to ensure everyone can participate in the eventual settling of scores, Vengeance ($V)) invites all aspiring [degen](https://www.binance.com/en/glossary/what-is-degen-trading) investors to finally taste sweet retribution. Just remember, while vengeance is a dish best served cold, your portfolio might find itself rather chilly in the process.\n\nOriginal token: [Vengeance ($V)](https://pump.fun/HsDPunR6NAgspkYa8U65jbcYMQDt2DwjyZR1pYXKpump)",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Vengeance_V_44bd9227.webp",
-    "published_at": "2025-09-22T20:18:08.729573",
-    "category": "Pump",
-    "token_mint": "HsDPunR6NAgspkYa8U65jbcYMQDt2DwjyZR1pYXKpump",
-    "token_name": "Vengeance",
-    "token_symbol": "V",
-    "pump_fun_link": "https://pump.fun/HsDPunR6NAgspkYa8U65jbcYMQDt2DwjyZR1pYXKpump",
-    "website": "",
-    "twitter": "",
-    "telegram": "",
-    "author": "Cog Sucker"
   }
 ]
