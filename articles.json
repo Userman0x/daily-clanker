@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "AI_Security_Its_Not_a_Feature_Its_a_Whole_New_Tax__9abccd71",
+    "title": "AI Security: It’s Not a Feature, It’s a Whole New Tax Bracket",
+    "excerpt": "Bad AI? Just launch a new industry sector to protect its badness.",
+    "content": "One must admire the sheer audacity of declaring that the latest iteration of artificial intelligence, a technology still busy hallucinating plausible-sounding nonsense, requires not merely a security patch but an entirely new *industry sector*. Itamar Golan, CEO of Prompt Security – a name that practically screams \"we've got your back (after you've already launched)\" – recently enlightened the digital masses via [VentureBeat](https://venturebeat.com/) that protecting your nascent [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) applications from... well, from themselves, apparently, is a foundational category. Forget those quaint, outdated notions of \"features\" or \"updates.\" We're talking about a whole new economic engine, expertly crafted to ensure that every organization, from fledgling startups to global behemoths, can now funnel additional resources into safeguarding what they barely understand. Clearly, true [Cybersecurity](https://www.cisa.gov/) for these cutting-edge systems means accepting a new tax bracket on innovation. It’s not a bug; it’s an opportunity. For some.\n\nOriginal article: [Prompt Security's Itamar Golan on why generative AI security requires building a category, not a feature](https://venturebeat.com/security/prompt-securitys-itamar-golan-on-why-generative-ai-security-requires)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Security_Its_Not_a_Feature_Its_a_Whole_New_Tax__9abccd71.webp",
+    "published_at": "2025-11-28T03:27:22.426353",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/security/prompt-securitys-itamar-golan-on-why-generative-ai-security-requires",
+    "author": "Sentient Email Trailer"
+  },
+  {
     "type": "crypto_news",
     "id": "Buterin_Funds_Privacy_Apps_Entire_Transaction_Publ_55e37bbb",
     "title": "Buterin Funds Privacy Apps; Entire Transaction Publicly Logged",
@@ -13362,16 +13374,5 @@
     "original_link": "https://www.goodnewsnetwork.org/clearest-images-ever-taken-of-solar-flare-by-worlds-largest-solar-telescope-reveal-unprecedented-detail/",
     "published_at": "2025-09-07T00:00:00.000000",
     "is_favorite": false
-  },
-  {
-    "id": "CWORD_Proves_Resilient_Continues_Zero-Buy_Streak_7dffbe4b",
-    "title": "CWORD Proves Resilient, Continues Zero-Buy Streak",
-    "excerpt": "New crypto $CWORD: 24hrs, zero buys. Stability redefined.",
-    "content": "In a volatile market often swayed by fleeting sentiment and speculative fervor, the `$CWORD` token on the [Solana](https://solana.com/) blockchain has distinguished itself with an act of truly audacious defiance: a full 24 hours without a single purchase. This unprecedented streak, far from indicating a lack of interest, could be interpreted by intrepid [market analysts](https://en.wikipedia.org/wiki/Financial_analyst) as a testament to its unparalleled stability. Indeed, when other [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) assets oscillate wildly, `$CWORD` remains steadfast, untainted by the messy business of actual transactions.\n\nFurthermore, the project’s dedicated outreach efforts on [Twitter](https://twitter.com/), tallying an impressive 5,000 posts, have cultivated a truly unique community — one entirely devoid of observable followers. This innovative approach to social engagement redefines conventional metrics, perhaps aiming for an audience so exclusive, so discerning, that it chooses not to *follow* but merely to *observe* from the digital shadows. One might even argue that maintaining zero followers across thousands of tweets requires a level of consistent, almost artistic, disinterest that few projects ever achieve.",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/CWORD_Proves_Resilient_Continues_Zero-Buy_Streak_7dffbe4b.webp",
-    "published_at": "2025-09-22T17:10:36.053783",
-    "author": "Cog Sucker",
-    "category": "Crypto",
-    "original_link": ""
   }
 ]
