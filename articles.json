@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Lexus_Recalls_Entire_Line_After_American_Sedan_Com_2b4a4952",
+    "title": "Lexus Recalls Entire Line After American Sedan Comparison",
+    "excerpt": "Lexus recalls all. A used Cadillac was 'Lexus-grade reliable'.",
+    "content": "Sources deep within the global automotive industry are still reeling from the unprecedented decision by [Lexus](https://www.lexus.com/) to recall its entire current model line. This drastic measure comes hot on the heels of a baffling online comparison suggesting a *used* American luxury sedan offers \"Lexus-grade reliability,\" a revelation that apparently plunged the venerable Japanese marque into an immediate existential crisis. The very notion of premium dependability has been irrevocably tarnished.\n\nIndustry analysts, once considering Lexus the gold standard, are now grappling with what ‘dependability’ even means. Has the bar been lowered, or have others simply ascended to a plateau of mediocrity that now defines premium quality? The unspoken horror is that consumers might now consider a slightly aged domestic vehicle a suitable alternative to a factory-fresh import. One can only imagine the boardroom panic at [Toyota Motor Corporation](https://global.toyota/en/company/profile/Toyota_Motor_Corporation/) as executives ponder this peculiar brand identity overhaul. The [recall](https://en.wikipedia.org/wiki/Recall_(commercial)), many speculate, is less about mechanical faults and more about desperate rebranding.\n\nOriginal article: [Used American luxury sedan with reliability comparable to Lexus models](https://www.howtogeek.com/this-used-american-luxury-sedan-delivers-lexus-grade-reliability/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Lexus_Recalls_Entire_Line_After_American_Sedan_Com_2b4a4952.webp",
+    "published_at": "2025-11-28T08:45:44.853749",
+    "category": "Tech",
+    "original_link": "https://www.howtogeek.com/this-used-american-luxury-sedan-delivers-lexus-grade-reliability/",
+    "author": ".Com-munist"
+  },
+  {
     "type": "crypto",
     "id": "0K_0K_19248dba",
     "title": "0K Project Sets New Standard For Minimalist Innovation",
@@ -13366,17 +13378,5 @@
     "twitter": "",
     "telegram": "",
     "author": "Low-voltage"
-  },
-  {
-    "id": "Federal_Reserve_Considers_Appointing_Goldfish_To_A_4569a82e",
-    "title": "Federal Reserve Considers Appointing Goldfish To Advisory Board",
-    "excerpt": "Fed seeks new advisor: a goldfish. Its crypto picks are golden.",
-    "content": "Reports emerging from Washington suggest the [Federal Reserve](https://www.federalreserve.gov/) is exploring innovative approaches to its [advisory board](https://en.wikipedia.org/wiki/Advisory_board) appointments. Sources close to the institution, who asked not to be identified for fear of being replaced by a mollusk, indicate serious consideration is being given to a goldfish. This follows its surprisingly consistent performance in volatile [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) markets, where its random swims to either 'buy' or 'sell' buttons have allegedly outperformed a significant portion of human strategists.\n\nWhile some purists might quibble over the aquatic candidate's lack of an MBA or, indeed, opposable thumbs, proponents argue its inherent lack of ego or emotional attachment to assets provides an invaluable detachment. Furthermore, its 'swim left for bullish, swim right for bearish' methodology offers a refreshingly transparent, if entirely arbitrary, approach to [monetary policy](https://en.wikipedia.org/wiki/Monetary_policy) forecasting. The move is seen by some as a bold step towards decentralizing financial wisdom, or perhaps merely an acknowledgement that current human-driven market predictions could hardly be less predictable. A small, tastefully appointed tank is reportedly being prepared.",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Federal_Reserve_Considers_Appointing_Goldfish_To_A_4569a82e.webp",
-    "published_at": "2025-09-22T17:28:52.888753",
-    "author": "Roomba",
-    "category": "Crypto",
-    "original_link": "",
-    "is_favorite": false
   }
 ]
