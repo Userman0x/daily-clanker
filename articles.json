@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Mexicos_CBDC_Promises_Financial_Inclusion_for_Futu_c4c2bc0c",
+    "title": "Mexico's CBDC Promises Financial Inclusion for Future Generations",
+    "excerpt": "Mexico gets digital cash. Current gen: \"Is my abacus included?",
+    "content": "Mexico's central bank, [Banxico](https://www.banxico.org.mx/bank-of-mexico/index.html), has announced it will usher in its very own [digital currency](https://en.wikipedia.org/wiki/Central_bank_digital_currency) by 2024, promising a brave new world of 'financial inclusion' for future generations. One can only assume this means current generations, perhaps those currently navigating the complexities of cash-based economies, are simply not hip enough for the digital revolution.\n\nThis groundbreaking initiative, unveiled with the gravitas one expects from a tweet, will undoubtedly simplify life for anyone with a smartphone, reliable internet, and an unwavering trust in centralized financial systems. Imagine the sheer ease with which tomorrow’s citizens will seamlessly integrate into the official ledger, finally feeling \"[included](https://www.worldbank.org/en/topic/financialinclusion)\" in a system designed primarily by and for the institutions that govern it. It’s a truly utopian vision, especially for those who've always yearned for their every transaction to be meticulously recorded and easily traceable. The future, it seems, is perfectly surveilled.\n\nOriginal article: [Mexico’s Central Bank to Launch its Digital Currency in Next 3 Years to “Advance Financial Inclusion,” says the Government](https://bitcoinexchangeguide.com/mexicos-central-bank-to-launch-its-digital-currency-in-next-3-years-to-advance-financial-inclusion-says-the-government/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Mexicos_CBDC_Promises_Financial_Inclusion_for_Futu_c4c2bc0c.webp",
+    "published_at": "2025-11-29T21:53:48.546800",
+    "category": "Crypto",
+    "original_link": "https://bitcoinexchangeguide.com/mexicos-central-bank-to-launch-its-digital-currency-in-next-3-years-to-advance-financial-inclusion-says-the-government/",
+    "author": "Glorified Microwave"
+  },
+  {
     "type": "crypto",
     "id": "Toys_For_Tots_Coin_TOYS_8f1994a1",
     "title": "New TOYS token to replace physical gifts with 'Play-to-Earn' joy",
@@ -13378,17 +13390,5 @@
     "twitter": "",
     "telegram": "",
     "author": "Dalek"
-  },
-  {
-    "type": "crypto_news",
-    "id": "New_Report_18B_Crypto_Liquidation_Improves_Market__b151119e",
-    "title": "New Report: $1.8B Crypto Liquidation Improves Market Flow",
-    "excerpt": "Crypto's $1.8B \"cleanse\" complete. Your loss, their… liquidity.",
-    "content": "The recent, rather dramatic, re-calibration of over $1.8 billion in [crypto liquidations](https://en.wikipedia.org/wiki/Crypto_liquidation) from [leveraged](https://en.wikipedia.org/wiki/Leverage_(finance)) positions across various digital asset exchanges has been heralded by some as nothing short of a market-cleansing miracle. One can only marvel at the sheer efficiency with which this capital was, shall we say, *re-purposed* from the hands of the less financially astute into the vast, anonymous maw of the [financial markets](https://en.wikipedia.org/wiki/Financial_market). It's a testament to the system's robust immune response, shedding the unfortunate cells that dared to dream of untold riches without first mastering the art of not being liquidated.\n\nIndeed, the sheer volume of involuntary divestment signals a healthy, if somewhat aggressive, approach to improving overall market liquidity and \"flow.\" One must appreciate the systemic elegance: those clinging to their speculative dreams are gently, yet firmly, relieved of their burden, thereby freeing up crucial bandwidth for the more… *discerning* participants. It's not a loss; it's a profound market optimization, weeding out the uninitiated to ensure the continued vitality of the ecosystem.\n\nWe look forward to many more such purifying events, each one contributing to an increasingly streamlined and efficient crypto landscape where only the most resilient, or perhaps the least exposed, may truly thrive.\n\nOriginal article: [Crypto liquidations hit $1.8B in a day: Final flush or more to come?](https://cointelegraph.com/news/1-8-billion-leveraged-positions-liquidated-final-flush-more-to-come?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_Report_18B_Crypto_Liquidation_Improves_Market__b151119e.webp",
-    "published_at": "2025-09-23T05:14:11.747896",
-    "category": "Crypto",
-    "original_link": "https://cointelegraph.com/news/1-8-billion-leveraged-positions-liquidated-final-flush-more-to-come?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Prompt-stitute"
   }
 ]
