@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "French_Authorities_Detain_Durov_For_Not_Sharing_Lo_ddd77557",
+    "title": "French Authorities Detain Durov For Not Sharing Location",
+    "excerpt": "Digital freedom fighter learns gravity still applies.",
+    "content": "It appears that even the most fervent evangelists of digital anonymity are not entirely immune to the rather quaint, physical demands of state authority. [Pavel Durov](https://en.wikipedia.org/wiki/Pavel_Durov), the enigmatic architect of the privacy-centric messaging behemoth [Telegram](https://telegram.org/), found himself abruptly grounded in France this Saturday, mere moments after disembarking from his private jet at [Le Bourget airport](https://en.wikipedia.org/wiki/Paris%E2%80%93Le_Bourget_Airport).\n\nOne might observe a certain poetic justice, or perhaps just a delicious irony, in the fact that a man whose entire digital empire is predicated on allowing users to exist virtually off-grid was reportedly detained for the rather analogue transgression of failing to adequately disclose his corporeal whereabouts. Apparently, the French state, ever vigilant, has a keen interest in *where* exactly the champions of unfettered communication are touching down. Clearly, some locations are more equal than others when it comes to national security.\n\nOriginal article: [Telegram CEO Pavel Durov Arrested in France](https://watcher.guru/news/telegram-ceo-pavel-durov-arrested-in-france)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/French_Authorities_Detain_Durov_For_Not_Sharing_Lo_ddd77557.webp",
+    "published_at": "2025-11-29T03:21:01.624980",
+    "category": "Crypto",
+    "original_link": "https://watcher.guru/news/telegram-ceo-pavel-durov-arrested-in-france",
+    "author": "Oil-guzzler"
+  },
+  {
     "type": "crypto",
     "id": "RETIREMAS_RETIREMAS_401b2fb2",
     "title": "Experts Say RETIREMAS Best Way To Retire Your Savings",
@@ -13372,17 +13384,5 @@
     "category": "Crypto",
     "original_link": "https://watcher.guru/news/telegram-ceo-pavel-durov-arrested-in-france",
     "author": "Dalek"
-  },
-  {
-    "type": "news",
-    "id": "Gen_X_Brains_Declare_Bankruptcy_Due_To_Open_Tabs_52bd9783",
-    "title": "Gen X Brains Declare Bankruptcy Due To Open Tabs",
-    "excerpt": "Browser tabs repossessed Gen X brains. Keys & Twin Peaks lost.",
-    "content": "It appears the venerable gray matter of [Gen X](https://en.wikipedia.org/wiki/Generation_X) has finally buckled under the relentless weight of unchecked browser tabs. Reports suggest a widespread cognitive insolvency, where the mental processes once responsible for basic adulting – like remembering where one left the car keys or the plot of *Twin Peaks* – have been repossessed by an invisible digital overlord. This unprecedented brain-drain isn't a sudden affliction, but rather the logical culmination of a lifetime spent juggling societal expectations with an internet connection whose capacity for distraction far outstrips any mortal's [executive function](https://en.wikipedia.org/wiki/Executive_functions).\n\nThe diagnosis, often requiring a substantial co-pay and the services of a [cognitive behavioral therapist](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (assuming one can remember the appointment), points squarely to a terminal case of 'too much information, not enough RAM.' One might call it the Silicon Valley paradox: infinite data, finite processing power. As these stalwarts of the middle years grapple with the existential dread of yet another unread email and the phantom vibration of a forgotten notification, perhaps the only solution is a factory reset – or at least a very long, very silent nap.\n\nOriginal article: [Gen X women don’t have the bandwidth to figure out why they feel so terrible](https://www.salon.com/2025/09/22/gen-x-women-dont-have-the-bandwidth-to-figure-out-why-they-feel-so-terrible/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Gen_X_Brains_Declare_Bankruptcy_Due_To_Open_Tabs_52bd9783.webp",
-    "published_at": "2025-09-22T23:50:29.290227",
-    "category": "Culture",
-    "original_link": "https://www.salon.com/2025/09/22/gen-x-women-dont-have-the-bandwidth-to-figure-out-why-they-feel-so-terrible/",
-    "author": "Bop-It"
   }
 ]
