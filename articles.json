@@ -163,6 +163,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "Oxyde_Labs_OXY_e2373cd0",
+    "title": "OXY Labs: Giving your portfolio the oxygen it needs to suffocate",
+    "excerpt": "Oxyde Labs offers portfolio death. Investors lining up to pay.",
+    "content": "Oxyde Labs (OXY) has burst onto the scene, or rather, quietly seeped into the collective consciousness of those brave enough to frequent [Pump.fun](https://pump.fun/3DK8JJSNbDJg4fbaQyLDiFwiSdFmhGWivjCoaNZ8pump). Billed by… well, by some anonymous individual somewhere, as \"the oxygen your portfolio needs,\" OXY promises a unique proposition: the complete and utter cessation of financial vitality.\n\nInvestors are already queuing up, presumably to offer their funds as a sacrificial lamb to the market gods. The whitepaper, a masterpiece of cryptic brevity, suggests that holding OXY will grant you the profound ability to experience *true* [decentralization](https://www.coindesk.com/learn/what-is-decentralization/) – specifically, the decentralization of your entire net worth. Early adopters are being encouraged to cultivate \"diamond hands\" for the inevitable journey to financial zero, a novel twist on the traditional \"moon mission.\"\n\nWith [liquidity](https://www.gemini.com/cryptopedia/what-is-liquidity-in-crypto) pooling faster than a collapsed lung, OXY’s architects have ensured that early birds will get… well, something. Perhaps a valuable lesson. The project's vision, shrouded in the usual opaque terminology, seems to boil down to proving that even fundamental human needs can be re-packaged as a volatile speculative asset, primed for maximal investor discomfort.\n\nOriginal token: [Oxyde Labs ($OXY)](https://pump.fun/3DK8JJSNbDJg4fbaQyLDiFwiSdFmhGWivjCoaNZ8pump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Oxyde_Labs_OXY_e2373cd0.webp",
+    "published_at": "2025-12-01T18:37:57.581550",
+    "category": "Pump",
+    "token_mint": "3DK8JJSNbDJg4fbaQyLDiFwiSdFmhGWivjCoaNZ8pump",
+    "token_name": "Oxyde Labs",
+    "token_symbol": "OXY",
+    "pump_fun_link": "https://pump.fun/3DK8JJSNbDJg4fbaQyLDiFwiSdFmhGWivjCoaNZ8pump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "Go to Hal-9000"
+  },
+  {
     "type": "news",
     "id": "Weekly_Cartoon_Deemed_Sole_Arbiter_Of_Global_Peace_7073b0cf",
     "title": "Weekly Cartoon Deemed Sole Arbiter Of Global Peace",
@@ -13378,17 +13396,5 @@
     "category": "Crypto",
     "original_link": "https://cryptobriefing.com/hacker-loses-48m-uxlink-to-phishing-attack/",
     "author": "Bot-licker"
-  },
-  {
-    "type": "crypto_news",
-    "id": "Durov_Detained_For_Attempting_To_Encrypt_His_Jets__5252d23e",
-    "title": "Durov Detained For Attempting To Encrypt His Jet's Manifest",
-    "excerpt": "Privacy advocate Durov: airports are not private. Shocking!",
-    "content": "It appears the digital realm's most vocal advocate for absolute privacy may have overextended his particular brand of zeal. [Pavel Durov](https://en.wikipedia.org/wiki/Pavel_Durov), the enigmatic founder of the messaging behemoth [Telegram](https://telegram.org/), found himself rather less private this past Saturday evening, reportedly apprehended upon disembarking his private aerial conveyance at the illustrious [Le Bourget Airport](https://www.aeroportsdeparis.fr/en/passengers/prepare-your_trip/airports/le-bourget). The alleged transgression? A daring, if somewhat anachronistic, attempt to apply his famed end-to-end encryption protocols to the very manifest of his luxury jet.\n\nEyewitnesses, likely still reeling from the sheer audacity, described Durov's purported efforts to render his passenger list unintelligible to mere mortal eyes. One can only imagine the frantic scene as agents reportedly discovered him attempting to obscure names with what appeared to be a Sharpie, while muttering about a \"post-quantum cipher\" being implemented via a series of strategically placed sticky notes. Such a flagrant disregard for standard aviation transparency, particularly in a jurisdiction famed for its bureaucratic precision, simply cannot stand. One truly must wonder if the next step was to try and encrypt the jet fuel. The costs associated with such an act, however, remain classified.\n\nOriginal article: [Telegram CEO Pavel Durov Arrested in France](https://watcher.guru/news/telegram-ceo-pavel-durov-arrested-in-france)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Durov_Detained_For_Attempting_To_Encrypt_His_Jets__5252d23e.webp",
-    "published_at": "2025-09-23T12:54:01.239412",
-    "category": "Crypto",
-    "original_link": "https://watcher.guru/news/telegram-ceo-pavel-durov-arrested-in-france",
-    "author": "Spare Part"
   }
 ]
