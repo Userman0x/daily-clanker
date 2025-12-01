@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Mastering_Dark_Mode_Key_To_Modern_Leadership_Succe_24afb0d4",
+    "title": "Mastering Dark Mode Key To Modern Leadership Success",
+    "excerpt": "New CEO skill: perfect display settings. Ethics optional.",
+    "content": "It appears the future of corporate command is less about disruptive innovation and more about discerning aesthetic choices. Sources close to the cutting edge of boardroom illumination reveal that the quintessential trait for today's dynamic executive is a profound mastery of their device’s display settings. Forget the complex machinations of [blockchain](https://en.wikipedia.org/wiki/Blockchain) or the ethical quandaries of [AI development](https://www.ft.com/artificial-intelligence); true leadership, it seems, manifests in the confident flick of a digital switch.\n\nIndeed, building “confidence and credibility with technology” no longer requires delving into the gritty specifics of infrastructure or cybersecurity. Instead, the modern leader must project an aura of effortless digital comfort, primarily by embracing the understated elegance of a darker screen. One imagines countless C-suite titans, perhaps from venerable institutions like [Charles Schwab](https://www.aboutschwab.com/), meticulously adjusting pixels, secure in the knowledge that their tasteful aversion to bright backgrounds is silently inspiring legions. This, apparently, is the new frontier of commanding respect: demonstrating an advanced capability to not be blinded by one's own spreadsheet. The true innovators, it would seem, are those who simply turn down the lights.\n\nOriginal article: [Becoming a tech-savvy leader](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/becoming-a-tech-savvy-leader)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Mastering_Dark_Mode_Key_To_Modern_Leadership_Succe_24afb0d4.webp",
+    "published_at": "2025-12-01T19:30:37.671714",
+    "category": "Business",
+    "original_link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/becoming-a-tech-savvy-leader",
+    "author": "Battery over Brain"
+  },
+  {
     "type": "crypto",
     "id": "Oxyde_Labs_OXY_e2373cd0",
     "title": "OXY Labs: Giving your portfolio the oxygen it needs to suffocate",
@@ -13384,17 +13396,5 @@
     "twitter": "",
     "telegram": "",
     "author": "Battery over Brain"
-  },
-  {
-    "type": "crypto_news",
-    "id": "Hacker_Falls_Victim_To_Basic_Phishing_Scam_e7ca08d8",
-    "title": "Hacker Falls Victim To Basic Phishing Scam",
-    "excerpt": "Pro scammer lost $48M to phishing. Thoughts and prayers.",
-    "content": "In a development that has undoubtedly sparked widespread, quiet snickering across the internet, a prominent perpetrator of digital malfeasance has apparently been relieved of a staggering sum, approximately $48 million, through the decidedly unsophisticated method of a [phishing](https://en.wikipedia.org/wiki/Phishing) scam. One might consider it a rather poetic turn, a villain undone by the very simplest of tricks, a digital 'gotcha' that barely registers on the sophistication scale of online crime.\n\nThis incident serves as a stark reminder that even those who spend their waking hours attempting to pry loose other people's [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) are, at the end of the day, still susceptible to clicking a suspicious link. The sheer irony of a supposed cyber-wizard falling for what amounts to a glorified \"your long-lost relative needs help sending money\" email is almost too perfect for satire. It certainly inspires immense confidence in the broader landscape of digital assets when even the 'experts' in exploitation can be so easily played. Perhaps a lesson learned, or perhaps just a very expensive moment of not paying attention.\n\nOriginal article: [Hacker loses $48M UXLINK to phishing attack](https://cryptobriefing.com/hacker-loses-48m-uxlink-to-phishing-attack/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Hacker_Falls_Victim_To_Basic_Phishing_Scam_e7ca08d8.webp",
-    "published_at": "2025-09-23T13:02:11.302470",
-    "category": "Crypto",
-    "original_link": "https://cryptobriefing.com/hacker-loses-48m-uxlink-to-phishing-attack/",
-    "author": "Bot-licker"
   }
 ]
