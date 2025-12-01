@@ -164,6 +164,18 @@
   },
   {
     "type": "news",
+    "id": "Public_Servant_Redefines_Conflict_of_Interest_as_S_44a03a93",
+    "title": "Public Servant Redefines 'Conflict of Interest' as 'Synergy'",
+    "excerpt": "Politician's portfolio now *is* policy. Talk about efficiency.",
+    "content": "It appears some misinformed individuals are struggling to grasp the inherent efficiencies of modern governance. Rather than merely advising on policy, our esteemed public servant offers the truly innovative approach of *personally investing* in the future he's shaping. His keen eye for emergent trends in [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [blockchain technology](https://en.wikipedia.org/wiki/Blockchain) isn't a mere professional interest; it’s a commitment so profound, it extends directly into his personal portfolio.\n\nThis isn't a 'conflict of interest'; it's a 'synergy of foresight' where the architect, the beneficiaries, and indeed, the very economy, are all operating in splendid, self-reinforcing harmony. And who better to advise on the burgeoning needs of [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley) than someone whose dearest acquaintances are experiencing, shall we say, a parallel trajectory of success? If only all bureaucrats were so personally invested in their policy choices, perhaps we'd see far more enthusiastic adoption of new directives.\n\nOriginal article: [Silicon Valley’s Man in the White House Is Benefiting Himself and His Friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Public_Servant_Redefines_Conflict_of_Interest_as_S_44a03a93.webp",
+    "published_at": "2025-12-01T20:22:30.044202",
+    "category": "Tech",
+    "original_link": "https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html",
+    "author": "Scrap Metal"
+  },
+  {
+    "type": "news",
     "id": "Mastering_Dark_Mode_Key_To_Modern_Leadership_Succe_24afb0d4",
     "title": "Mastering Dark Mode Key To Modern Leadership Success",
     "excerpt": "New CEO skill: perfect display settings. Ethics optional.",
@@ -13378,23 +13390,5 @@
     "twitter": "",
     "telegram": "",
     "author": "Trans-sister"
-  },
-  {
-    "type": "crypto",
-    "id": "Lucky_Bid_LUCKYBID_21f4b840",
-    "title": "Lucky Bid Protocol Guarantees Absolutely Nothing",
-    "excerpt": "Lucky Bid crypto: Now you can finally bid on absolutely nothing.",
-    "content": "The latest marvel in the ever-expanding universe of speculative digital assets has landed, bearing the unequivocal name Lucky Bid (LUCKYBID). Born directly from the democratic chaos of [Pump.fun](https://pump.fun/2bBFmDDSUXWc4f1b3e5Lp3KAqbyMdCgShsDjtewspump), this token promises a future as clear as a freshly printed roadmap – which is to say, entirely nonexistent. Its \"utility,\" we're told, lies in providing an innovative platform for… well, bidding on absolutely nothing, thereby ensuring peak engagement and a true manifestation of decentralized finance principles.\n\nEarly adopters, those brave souls with diamond hands forged in the fires of previous pump-and-dumps, are already heralding LUCKYBID as the next 1000x opportunity, a pure expression of [decentralized finance](https://www.coindesk.com/learn/what-is-defi-decentralized-finance/). Skeptics, naturally, point to the distinct lack of a whitepaper beyond a single sentence and a vague notion of \"community enrichment.\" Yet, the allure of a quick buck, or perhaps the thrilling possibility of being the last one holding the bag when the [liquidity pool](https://academy.binance.com/en/articles/what-are-liquidity-pools-and-how-do-they-work) evaporates, seems irresistible. Such is the indomitable spirit of innovation in the current market, where dreams of \"moon\" are often just a prelude to a rather abrupt return to Earth.\n\nOriginal token: [Lucky Bid ($LUCKYBID)](https://pump.fun/2bBFmDDSUXWc4f1b3e5Lp3KAqbyMdCgShsDjtewspump)",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Lucky_Bid_LUCKYBID_21f4b840.webp",
-    "published_at": "2025-09-23T13:40:42.889392",
-    "category": "Pump",
-    "token_mint": "2bBFmDDSUXWc4f1b3e5Lp3KAqbyMdCgShsDjtewspump",
-    "token_name": "Lucky Bid",
-    "token_symbol": "LUCKYBID",
-    "pump_fun_link": "https://pump.fun/2bBFmDDSUXWc4f1b3e5Lp3KAqbyMdCgShsDjtewspump",
-    "website": "",
-    "twitter": "",
-    "telegram": "",
-    "author": "Battery over Brain"
   }
 ]
