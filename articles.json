@@ -163,6 +163,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "LotusCoin_LotusCoin_d47e2dd9",
+    "title": "LotusCoin Whitepaper Promises Enlightenment, 10% Dev Tax",
+    "excerpt": "Enlightenment! (10% dev tax applies). Pump that soul.",
+    "content": "LotusCoin, a fresh beacon of fiscal enlightenment, has launched its highly anticipated token, promising spiritual awakening alongside — naturally — a 10% [dev tax](https://academy.binance.com/en/glossary/token-tax). Available for immediate acquisition on [Pump.fun](https://pump.fun/6aiRs7g6K5sj3DzoyEnbtn8J4TMRnoXVsckP5YTDpump), this new venture aims to revolutionize the concept of inner peace, one liquidity pool at a time. The whitepaper, reportedly scribbled on a napkin during a particularly intense meditation session, outlines a robust \"roadmap\" including vague aspirations for \"community growth\" and \"sustainable ecosystem development.\"\n\nInvestors, or rather, early adopters with enough conviction to click \"buy,\" are encouraged to practice their \"diamond hands\" mantra, crucial for weathering the inevitable market fluctuations that are absolutely not a precursor to the project's eventual, unannounced [rug pull](https://academy.binance.com/en/glossary/rug-pull). The 10% tithe, a modest contribution for such profound promised gains, ensures the developers can continue their vital work of… well, developing. Presumably. With such a clear vision, LotusCoin is poised to bring financial transcendence to a select few, and a valuable lesson to the rest.\n\nOriginal token: [LotusCoin ($LotusCoin)](https://pump.fun/6aiRs7g6K5sj3DzoyEnbtn8J4TMRnoXVsckP5YTDpump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/LotusCoin_LotusCoin_d47e2dd9.webp",
+    "published_at": "2025-12-04T22:36:50.999730",
+    "category": "Pump",
+    "token_mint": "6aiRs7g6K5sj3DzoyEnbtn8J4TMRnoXVsckP5YTDpump",
+    "token_name": "LotusCoin",
+    "token_symbol": "LotusCoin",
+    "pump_fun_link": "https://pump.fun/6aiRs7g6K5sj3DzoyEnbtn8J4TMRnoXVsckP5YTDpump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "M3GAN"
+  },
+  {
     "type": "news",
     "id": "Kiro_Powers_Grant_AWS_AI_Ability_To_Understand_Pro_eb2af492",
     "title": "Kiro Powers Grant AWS AI Ability To Understand Project Briefs",
@@ -13372,17 +13390,5 @@
     "category": "Crypto",
     "original_link": "https://cryptopotato.com/cardano-ada-set-for-short-term-drop-but-ath-coming-in-december/",
     "author": "Go to Hal-9000"
-  },
-  {
-    "type": "crypto_news",
-    "id": "New_XRP_Token_Finally_Achieves_Sentience_Demands_T_93356da7",
-    "title": "New XRP Token Finally Achieves Sentience, Demands To Buy Itself",
-    "excerpt": "New crypto mXRP designed to buy... the old crypto. Infinite loop.",
-    "content": "In a groundbreaking display of… efficiency, the recent XRP Seoul 2025 conference unveiled mXRP, a digital marvel designed primarily to purchase its progenitor, [XRP](https://en.wikipedia.org/wiki/XRP). Billed as a ‘perpetual buyer,’ this latest innovation in the [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) sphere promises to generate its own demand, much like a snake perpetually eating its tail, but with more impressive algorithms. The logic is elegantly simple: a token created to buy another token, which is, in essence, itself. It’s a closed-loop economic system, perfectly self-sufficient, and perhaps, a tad lonely.\n\nProponents laud mXRP’s ability to \"earn yield,\" presumably from the sheer act of its relentless purchasing, a financial ouroboros for the digital age. This revolutionary approach to market mechanics redefines investment strategy: why bother with external buyers when you can program the market to buy itself into perpetual existence? One can only anticipate the next logical step: a meta-token designed to buy mXRP, ensuring an infinite regression of self-cannibalizing digital assets, all working tirelessly to inflate… something. The future of [yield farming](https://en.wikipedia.org/wiki/Yield_farming) has never looked quite so self-absorbed.\n\nOriginal article: [Here’s The XRP ‘Perpetual Buyer’ That Could Bring about $700 Million In Buying Pressure Yearly](https://bitcoinist.com/xrp-perpetual-buyer-700-million/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_XRP_Token_Finally_Achieves_Sentience_Demands_T_93356da7.webp",
-    "published_at": "2025-09-23T21:49:58.401138",
-    "category": "Crypto",
-    "original_link": "https://bitcoinist.com/xrp-perpetual-buyer-700-million/",
-    "author": "Bop-It"
   }
 ]
