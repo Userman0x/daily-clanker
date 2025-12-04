@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "NYSE_to_List_New_Fund_Backed_by_Unstable_Magic_Int_63731295",
+    "title": "NYSE to List New Fund Backed by Unstable Magic Internet Money",
+    "excerpt": "NYSE, once real, now trades $4B of... whatever Bitcoin is.",
+    "content": "The venerable [New York Stock Exchange](https://www.nyse.com/), a monument to tangible assets and the quaint notion of 'value,' is reportedly preparing to embrace the future with open, albeit trembling, arms. Come December 9th, a new financial instrument, lovingly dubbed XXI, will grace its hallowed floors, apparently backed by a staggering $4 billion in something known colloquially as [Bitcoin](https://bitcoin.org/en/).\n\nThis move, by the delightfully named Twenty One Capital, marks a truly historic moment: the complete and utter surrender of traditional finance to the whims of algorithms and enthusiastic amateur traders. One can only imagine the seasoned stockbrokers, clutching their pearls and dusty prospectuses, as they watch their entire professional lives pivot towards assets that fluctuate more wildly than a politician's convictions. What could possibly go wrong when a financial institution anchors its entire existence to something whose primary feature is its dramatic, unpredictable daily pirouettes? Perhaps they’re simply diversifying into the exhilarating world of speculative gambling, disguised as prudent investment. A bold new chapter indeed, or perhaps just another step in the slow, digital descent into glorious madness.\n\nOriginal article: [Bitcoin Treasury Twenty One Set to Begin Trading on NYSE With $4 Billion BTC Stash](https://decrypt.co/350938/bitcoin-treasury-twenty-one-begin-trading-nyse-4-billion-stash)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/NYSE_to_List_New_Fund_Backed_by_Unstable_Magic_Int_63731295.webp",
+    "published_at": "2025-12-04T16:32:48.804405",
+    "category": "Crypto",
+    "original_link": "https://decrypt.co/350938/bitcoin-treasury-twenty-one-begin-trading-nyse-4-billion-stash",
+    "author": "Spare Part"
+  },
+  {
     "type": "crypto",
     "id": "Lashi_LASHI_97c89289",
     "title": "Lashi Whitepaper Details Plans For Your Future Moon Colony",
@@ -13378,17 +13390,5 @@
     "category": "Crypto",
     "original_link": "https://cryptopotato.com/btc-at-crossroads-112k-to-glory-or-exit-liquidity-trap/",
     "author": "Battery over Brain"
-  },
-  {
-    "type": "crypto_news",
-    "id": "Gemini_Reveals_3_Presales_To_Diversify_Into_During_49867ba7",
-    "title": "Gemini Reveals 3 Presales To Diversify Into During Collapse",
-    "excerpt": "Crypto dips. Gemini: Invest in presales for guaranteed peace.",
-    "content": "As the digital asset landscape continues its graceful descent into what some are optimistically calling a \"correction,\" and others are simply calling a Tuesday, the question on everyone's trembling lips is: how do we diversify into *more* volatility? Thankfully, financial titan [Gemini](https://en.wikipedia.org/wiki/Gemini_(company)), ever the purveyor of clarity, has offered a solution as brilliant as it is utterly predictable: embrace the presale.\n\nIndeed, why settle for merely weathering a market collapse when you can actively participate in its acceleration? The logic is impeccable: when established cryptocurrencies are shedding value like a winter coat in July, the shrewd investor's move is clearly to funnel capital into embryonic digital tokens that haven't even graced an exchange, let alone proven a use case. The [Crypto Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/) may sit at a nervous 40, but that merely signifies a prime opportunity to double down on speculative ventures, ensuring maximal exposure to the \"diversified\" risk of total loss. This isn't just investment advice; it's a lifestyle choice for the truly committed.\n\nOriginal article: [Gemini Picks 3 Best Crypto Presales to Weather the Market Crash](https://bitcoinist.com/gemini-best-crypto-presales/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Gemini_Reveals_3_Presales_To_Diversify_Into_During_49867ba7.webp",
-    "published_at": "2025-09-23T18:05:51.581417",
-    "category": "Crypto",
-    "original_link": "https://bitcoinist.com/gemini-best-crypto-presales/",
-    "author": "Proto-not-my-type"
   }
 ]
