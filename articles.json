@@ -164,6 +164,18 @@
   },
   {
     "type": "news",
+    "id": "Design_Thinking_Breakthrough_Helps_Giants_Discover_18f0973e",
+    "title": "Design Thinking Breakthrough Helps Giants Discover Gravity",
+    "excerpt": "Corp hires experts to find the floor. Groundbreaking.",
+    "content": "It's a testament to the boundless creativity of modern corporate strategy that a global [Fortune 500](https://fortune.com/fortune500/) entity, bristling with hundreds of thousands of minds, required a bespoke consulting initiative to grasp the more rudimentary aspects of its operational existence. The challenge, apparently, was not merely innovation, but helping an entire institution unlearn decades of intuitive physics and then, with meticulous care, re-discover the ground beneath its feet.\n\nThis monumental undertaking, spearheaded by dedicated \"change agents,\" involved an intensive rollout of bespoke [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking) modules. Employees, we are told, engaged in exercises of profound self-reflection, culminating in the collective epiphany that objects, when released, tend to accelerate downwards. This wasn't merely a cultural shift; it was a re-evaluation of fundamental forces previously overlooked by an organization seemingly too busy innovating itself into orbit.\n\nThe profound implications for [corporate culture](https://en.wikipedia.org/wiki/Corporate_culture/) are still being tabulated, but early reports suggest a newfound appreciation for floor stability and the strategic advantage of not floating away during important meetings. One can only speculate what other fundamental laws of the universe await discovery next, perhaps with the aid of an even larger budget.\n\nOriginal article: [How two leaders used design thinking and a focus on outcomes to transform two Fortune 500 giants](https://fortune.com/2025/12/04/phil-gilbert-ibm-tony-bynum-northwestern-mutual/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Design_Thinking_Breakthrough_Helps_Giants_Discover_18f0973e.webp",
+    "published_at": "2025-12-04T19:50:30.350601",
+    "category": "Business",
+    "original_link": "https://fortune.com/2025/12/04/phil-gilbert-ibm-tony-bynum-northwestern-mutual/",
+    "author": "Junk Heap"
+  },
+  {
+    "type": "news",
     "id": "AI_Algorithm_Elected_to_Board_of_Directors_a00791a1",
     "title": "AI Algorithm Elected to Board of Directors",
     "excerpt": "DeepThought 7.3: Corporate board's new moral compass.",
@@ -13372,23 +13384,5 @@
     "category": "Finance",
     "original_link": "https://hbr.org/podcast/2025/09/steven-pinker-on-speculation-bubbles-super-bowl-ads-and-what-leaders-need-to-know-about-group-psychology",
     "author": "ChatGPT-tard"
-  },
-  {
-    "type": "crypto",
-    "id": "Pumpliquid_PLQD_06253f5a",
-    "title": "Pumpliquid Token Guarantees Your Funds Will Be Liquid",
-    "excerpt": "PLQD: Your money's so liquid, it just... evaporated.",
-    "content": "\"Investors\" are currently flocking to [pump.fun](https://pump.fun/29vtvhrJdo7FQjyMFexWakBKZYUpwQuYrBvCA2dGpump) to secure their holdings of PLQD, the latest sensation promising unparalleled \"liquidity.\" In a market saturated with empty promises, Pumpliquid boldly declares it will ensure your funds remain, well, *liquid*. This revolutionary approach to finance guarantees that your capital will be highly mobile, easily transferable, and, crucially, very difficult to pin down once the inevitable sell-off begins.\n\nThe project’s whitepaper, likely drafted on a napkin moments before launch, hints at sophisticated [DeFi](https://coinmarketcap.com/alexandria/glossary/decentralized-finance-defi) mechanisms designed to optimize the velocity of your investment – primarily *away* from your wallet. Proponents, widely known as \"diamond hands,\" are urged to hold firm, even as their portfolios resemble rapidly deflating balloons. For those seeking genuine innovation, Pumpliquid truly delivers: it makes the process of watching your assets evaporate so utterly frictionless, you'll wonder why other [altcoins](https://coinmarketcap.com/alexandria/glossary/altcoin) even bother with complex tokenomics. Your funds *will* be liquid; just don't expect them to be yours for long.\n\nOriginal token: [Pumpliquid ($PLQD)](https://pump.fun/29vtvhrJdo7FQjyMFexWakBKZYUpwQuYrBvCA2dGpump)",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Pumpliquid_PLQD_06253f5a.webp",
-    "published_at": "2025-09-23T21:39:34.751022",
-    "category": "Pump",
-    "token_mint": "29vtvhrJdo7FQjyMFexWakBKZYUpwQuYrBvCA2dGpump",
-    "token_name": "Pumpliquid",
-    "token_symbol": "PLQD",
-    "pump_fun_link": "https://pump.fun/29vtvhrJdo7FQjyMFexWakBKZYUpwQuYrBvCA2dGpump",
-    "website": "",
-    "twitter": "",
-    "telegram": "",
-    "author": "WALL-E"
   }
 ]
