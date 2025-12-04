@@ -164,6 +164,18 @@
   },
   {
     "type": "news",
+    "id": "Kiro_Powers_Grant_AWS_AI_Ability_To_Understand_Pro_eb2af492",
+    "title": "Kiro Powers Grant AWS AI Ability To Understand Project Briefs",
+    "excerpt": "Amazon's AI: No longer needs crayons for project briefs.",
+    "content": "It appears humanity's long, arduous quest to construct artificial intelligence capable of grasping rudimentary instructions has finally borne fruit. After eons spent constructing vast neural networks and intricate algorithms, Amazon Web Services has unveiled 'Kiro powers,' a breakthrough system designed to imbue their AI coding assistants with the unprecedented ability to comprehend project briefs. One can only imagine the sheer relief among software developers who, until yesterday, presumably communicated with their digital counterparts via interpretive dance or cryptic smoke signals.\n\nThis revolutionary capability means your AI will now, with \"instant, specialized expertise,\" understand the difference between, say, \"make the button pop\" and \"implement secure payment processing via [Stripe](https://stripe.com).\" The era of AI endlessly generating existential poetry when asked to debug a simple API integration is, we are assured, drawing to a close. Critics, primarily the ones paying the burgeoning cloud compute bills, might observe that creating an entire meta-AI just to facilitate AI understanding suggests a rather elaborate problem-solving loop. But hey, at least now the machines can finally get to work... or at least *understand* what work is. Perhaps this marks a new dawn for developer productivity, or perhaps just another layer of abstraction for [tech debt](https://en.wikipedia.org/wiki/Technical_debt).\n\nOriginal article: [AWS launches Kiro powers with Stripe, Figma, and Datadog integrations for AI-assisted coding](https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Kiro_Powers_Grant_AWS_AI_Ability_To_Understand_Pro_eb2af492.webp",
+    "published_at": "2025-12-04T20:28:56.588520",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai",
+    "author": "Oil-guzzler"
+  },
+  {
+    "type": "news",
     "id": "Design_Thinking_Breakthrough_Helps_Giants_Discover_18f0973e",
     "title": "Design Thinking Breakthrough Helps Giants Discover Gravity",
     "excerpt": "Corp hires experts to find the floor. Groundbreaking.",
@@ -13372,17 +13384,5 @@
     "category": "Crypto",
     "original_link": "https://bitcoinist.com/xrp-perpetual-buyer-700-million/",
     "author": "Bop-It"
-  },
-  {
-    "type": "news",
-    "id": "Steven_Pinker_Groups_Are_Made_Of_More_Than_One_Per_04ef6ca3",
-    "title": "Steven Pinker: Groups Are Made Of More Than One Person",
-    "excerpt": "Pinker confirms: A group has more than one person. Minds blown.",
-    "content": "In a truly astonishing development that will undoubtedly reshape the very foundations of human understanding, esteemed cognitive psychologist [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker) has, for the first time, definitively confirmed a startling hypothesis: \"groups are made of more than one person.\" This groundbreaking insight, reportedly unveiled during an exclusive \"conversation,\" promises to unravel centuries of solo-centric societal misconceptions. One can only imagine the sheer intellectual fortitude required to distill such a profound observation.\n\nThe implications for modern leadership, particularly those grappling with the thorny intricacies of [group psychology](https://en.wikipedia.org/wiki/Group_dynamics), are nothing short of cataclysmic. No longer can CEOs or heads of state operate under the misguided assumption that a 'team' is merely a collective noun for a single, albeit busy, individual. Perhaps this clarity will finally explain the puzzling failures of many a \"[speculation bubble](https://en.wikipedia.org/wiki/Economic_bubble)\" – turns out, you need multiple people to collectively inflate and then, with predictable dismay, pop one.\n\nOne is left to wonder if the next revelation will be that the sun rises in the east. The future of public discourse, it seems, hinges on the courageous few willing to state the excruciatingly obvious with all the gravitas of a Nobel laureate.\n\nOriginal article: [Steven Pinker on Speculation Bubbles, Super Bowl Ads, and What Leaders Need to Know About Group Psychology](https://hbr.org/podcast/2025/09/steven-pinker-on-speculation-bubbles-super-bowl-ads-and-what-leaders-need-to-know-about-group-psychology)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Steven_Pinker_Groups_Are_Made_Of_More_Than_One_Per_04ef6ca3.webp",
-    "published_at": "2025-09-23T21:46:45.258110",
-    "category": "Finance",
-    "original_link": "https://hbr.org/podcast/2025/09/steven-pinker-on-speculation-bubbles-super-bowl-ads-and-what-leaders-need-to-know-about-group-psychology",
-    "author": "ChatGPT-tard"
   }
 ]
