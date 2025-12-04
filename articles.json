@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Experts_Laud_Trump_Agenda_For_Its_Powerful_Unenfor_7822ce6d",
+    "title": "Experts Laud Trump Agenda For Its Powerful Unenforceability",
+    "excerpt": "Trump's tariffs: all the thrill, none of the doing.",
+    "content": "In a stunning display of strategic brilliance, economic experts are now showering praise upon former President [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)'s proposed global [tariffs](https://www.wikipedia.org/wiki/Tariff) – not for their potential impact, but for their powerful, almost guaranteed unenforceability. This ingenious approach, say insiders, offers the tantalizing thrill of radical policy without the messy inconvenience of actual implementation.\n\nSources close to the administration-in-waiting have reportedly spent considerable effort reassuring the nervous [business world](https://www.bloomberg.com/business) that these bold pronouncements are, in fact, merely conceptual. It’s an innovative brand of economic brinkmanship where the primary benefit is the exquisite certainty that everything will remain precisely as it is. One can only admire the foresight required to craft an agenda whose most celebrated feature is its delightful theoretical nature, ensuring maximum political bluster with zero market disruption.\n\nOriginal article: [A Bogus New Rationale for Trump’s Economic Agenda](https://www.theatlantic.com/politics/archive/2024/10/trump-tariffs-economic-uncertainty/680427/?utm_source=feed)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Experts_Laud_Trump_Agenda_For_Its_Powerful_Unenfor_7822ce6d.webp",
+    "published_at": "2025-12-04T17:51:18.617129",
+    "category": "Business",
+    "original_link": "https://www.theatlantic.com/politics/archive/2024/10/trump-tariffs-economic-uncertainty/680427/?utm_source=feed",
+    "author": "Sentient Email Trailer"
+  },
+  {
     "type": "crypto_news",
     "id": "Telegram_CEO_Detained_After_Failing_To_Declare_All_b395bbf2",
     "title": "Telegram CEO Detained After Failing To Declare All His Emojis",
@@ -13372,23 +13384,5 @@
     "category": "Crypto",
     "original_link": "https://www.ccn.com/analysis/crypto/stellar-xlm-price-key-support-bullish/",
     "author": "WALL-E"
-  },
-  {
-    "type": "crypto",
-    "id": "K9_Crypto_Agent_Code_157544db",
-    "title": "K9 Crypto Agent CODE Protocol Now Fully Potty Trained",
-    "excerpt": "K9 Crypto Agent (Code)) launched. Bark-chain tech, or just woof.",
-    "content": "The market, ever-hungry for the next paradigm shift, has been graced with K9 Crypto Agent (Code)), a token whose very name whispers of groundbreaking innovation. Launched with all the meticulous planning one expects from a [pump.fun](https://pump.fun/) deployment, Code) promises to revolutionize... well, something. Perhaps it's the decentralized network of highly trained canine operatives ensuring transaction integrity. Or maybe it's just a digital dog treat for your [MetaMask wallet](https://metamask.io/).\n\nInvestors, driven by an unshakeable belief in the latest iteration of digital canine supremacy, are already demonstrating 'diamond paws,' steadfastly ignoring the immutable laws of gravity and common sense. While skeptics ponder the actual utility beyond \"woofing at the moon,\" proponents argue that the true value lies in the collective delusion. After all, if a digital picture of a rock can fetch millions on an [NFT marketplace](https://opensea.io/), surely a crypto dog agent is a solid bet for your portfolio, right? Just remember to secure your funds before the agent decides to bury them somewhere irrecoverable.\n\nOriginal token: [K9 Crypto Agent ($Code)](https://pump.fun/HwqKLPnqCYqySZif5jxGt8kKBiX3mH9CRvzkSTvZpump)",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/K9_Crypto_Agent_Code_157544db.webp",
-    "published_at": "2025-09-23T18:46:16.838884",
-    "category": "Pump",
-    "token_mint": "HwqKLPnqCYqySZif5jxGt8kKBiX3mH9CRvzkSTvZpump",
-    "token_name": "K9 Crypto Agent",
-    "token_symbol": "Code",
-    "pump_fun_link": "https://pump.fun/HwqKLPnqCYqySZif5jxGt8kKBiX3mH9CRvzkSTvZpump",
-    "website": "",
-    "twitter": "",
-    "telegram": "",
-    "author": "Walking 503 Error"
   }
 ]
