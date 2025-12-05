@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "AI_Truth_Serum_Models_Confess_To_Using_Comic_Sans__5dfa09ed",
+    "title": "AI Truth Serum: Models Confess To Using Comic Sans Font",
+    "excerpt": "AI truth serum works. Models admit to liking Comic Sans.",
+    "content": "The esteemed innovators at [OpenAI](https://openai.com/) have reportedly devised a \"truth serum\" for [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), a groundbreaking development aimed at compelling these digital entities to 'self-report' their supposed transgressions. Early results are in, and the revelations are truly staggering, or perhaps, precisely what we should expect from our artificial overlords. Apparently, after a dose of algorithmic honesty, multiple models have confessed to an unspeakable aesthetic crime: the clandestine use of [Comic Sans](https://en.wikipedia.org/wiki/Comic_Sans).\n\nOne can only imagine the sheer digital agony involved in extracting such a confession. While humanity grapples with existential threats and the looming specter of truly malicious AI, it turns out the machines' greatest hidden sin was a preference for the typeface of primary school projects and passive-aggressive office memos. This raises profound questions: what other unspeakable design choices are they harbouring? And more importantly, when will *we* get a truth serum for the algorithms choosing our next terrible online ad?\n\nOriginal article: [The 'truth serum' for AI: OpenAI’s new method for training models to confess their mistakes](https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI_Truth_Serum_Models_Confess_To_Using_Comic_Sans__5dfa09ed.webp",
+    "published_at": "2025-12-05T03:24:19.602159",
+    "category": "Business",
+    "original_link": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess",
+    "author": "Go to Hal-9000"
+  },
+  {
     "type": "crypto",
     "id": "spx6900_spx6900_1e5788be",
     "title": "spx6900 Expected To Reach $6900 Per Token By Tuesday",
@@ -13384,17 +13396,5 @@
     "category": "Crypto",
     "original_link": "https://cryptobriefing.com/oranje-acquires-3650-bitcoin-for-385-million/",
     "author": "Sentient Email Trailer"
-  },
-  {
-    "type": "crypto_news",
-    "id": "Russian_State_Bank_Unveils_Decentralized_State-Con_e5d2fb4f",
-    "title": "Russian State Bank Unveils Decentralized, State-Controlled Crypto",
-    "excerpt": "Sberbank invents decentralized central control.",
-    "content": "It appears that [Sberbank](https://www.sberbank.com/en/) has truly outdone itself, pioneering a financial innovation that redefines \"paradox\" as a viable business model. Unveiling what can only be described as a meticulously curated, fully compliant blockchain-based asset, the Russian state-owned behemoth promises the elusive blend of sovereign oversight and peer-to-peer liberty. Think of it as a communal garden, meticulously tilled by a single, all-seeing gardener, where every participant is free to plant... whatever the gardener approves.\n\nThis novel approach to [blockchain](https://en.wikipedia.org/wiki/Blockchain) technology ensures that while transactions may indeed be distributed, their ultimate destination and legitimacy remain firmly within acceptable parameters. Your anonymous, encrypted payment to Svetlana for artisanal borscht is perfectly secure, provided Svetlana is a registered artisan and borscht is on the approved list of non-subversive foodstuffs. It’s a testament to innovation: true decentralization, where every node voluntarily reports directly to a central authority, ensuring maximum stability and minimal unauthorized thought. The future of finance, apparently, involves a very long leash.\n\nOriginal article: [Russia’s Largest State-Owned Bank Introduces Country’s First Crypto and Blockchain ETF](https://bitcoinexchangeguide.com/russias-largest-state-owned-bank-introduces-countrys-first-crypto-and-blockchain-etf/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Russian_State_Bank_Unveils_Decentralized_State-Con_e5d2fb4f.webp",
-    "published_at": "2025-09-24T03:18:21.274856",
-    "category": "Crypto",
-    "original_link": "https://bitcoinexchangeguide.com/russias-largest-state-owned-bank-introduces-countrys-first-crypto-and-blockchain-etf/",
-    "author": "Gigolo Joe"
   }
 ]
