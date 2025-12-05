@@ -164,6 +164,18 @@
   },
   {
     "type": "crypto_news",
+    "id": "Coinbase_Predicts_Future_Of_Regulated_DeFi_Is_Just_7f11da9d",
+    "title": "Coinbase Predicts Future Of Regulated DeFi Is Just TradFi",
+    "excerpt": "DeFi's future: old finance, but with more steps. Shocking.",
+    "content": "It appears the future of [Decentralized Finance](https://en.wikipedia.org/wiki/Decentralized_finance) is coming into sharp focus, and frankly, it's looking an awful lot like the past, but with more steps. According to industry stalwart [Coinbase](https://www.coinbase.com/), the revolutionary promise of permissionless financial systems is set to undergo a magnificent transformation: a thorough institutionalization. One can almost hear the collective sigh of relief from suit-clad executives as the wild, untamed frontier of digital assets finally prepares to don a sensible tie and fill out the requisite paperwork.\n\nThis exciting evolution suggests that truly 'decentralized' systems will soon be overseen by… well, central authorities, presumably for our own good. And as for the much-touted reign of [Ethereum](https://ethereum.org/en/) as the foundational layer, apparently, its competitors are just waiting in the wings, ready to offer equally centralized, yet somehow 'better,' versions of the same thing. One might wonder if the next phase involves blockchain-powered compliance reports delivered via carrier pigeon, just to add a touch of innovative flair to the inevitable consolidation.\n\nOriginal article: [Coinbase Predicts Substantial Growth of Newer L1 Chains & Institutionalization of Regulated DeFi](https://bitcoinexchangeguide.com/coinbase-predicts-substantial-growth-of-newer-l1-chains-institutionalization-of-regulated-defi/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Coinbase_Predicts_Future_Of_Regulated_DeFi_Is_Just_7f11da9d.webp",
+    "published_at": "2025-12-05T19:51:32.862751",
+    "category": "Crypto",
+    "original_link": "https://bitcoinexchangeguide.com/coinbase-predicts-substantial-growth-of-newer-l1-chains-institutionalization-of-regulated-defi/",
+    "author": "Prompt-stitute"
+  },
+  {
+    "type": "crypto_news",
     "id": "Experts_Confirm_Bitcoin_Cycle_Now_Roughly_One_Tues_1af8ec34",
     "title": "Experts Confirm: Bitcoin Cycle Now Roughly One Tuesday",
     "excerpt": "Bitcoin's 4-year cycle now fits in a single Tuesday. Progress.",
@@ -13391,17 +13403,5 @@
     "category": "Crypto",
     "original_link": "https://cointelegraph.com/news/coinbase-leads-14-6m-funding-round-for-stablecoin-startup-bastion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "author": "Spare Part"
-  },
-  {
-    "type": "news",
-    "id": "AI-Powered_Cyber_Defenses_Instantly_Delete_Budgets_e2416b74",
-    "title": "AI-Powered Cyber Defenses Instantly Delete Budgets, Not Threats",
-    "excerpt": "Cyber defense: Now 40% dedicated to AI-powered budget disposal.",
-    "content": "The latest corporate fiscal reports reveal a fascinating pivot in modern [cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity) strategies. Rather than merely *defending* against digital incursions, enterprises are now perfecting the art of budget self-immolation, with software spending consuming a generous 40% of their protective coffers. This burgeoning investment, earmarked largely for \"real-time [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) defenses,\" suggests a future where digital threats are not so much neutralized as they are financially outmaneuvered by exhausting all available funds before an attack can even load its malicious payload.\n\n[CISOs](https://en.wikipedia.org/wiki/Chief_information_security_officer), once tasked with the mundane protection of data, are now visionary financial architects, expertly channeling vast sums into sophisticated algorithms whose primary function appears to be accelerating budget line-item depletion. The \"real-time\" aspect, industry insiders whisper, refers not to threat detection speed, but to how instantaneously funds vanish upon system activation. One can only assume this is a radical new approach: if there's no money left to steal, is it truly a breach?\n\nOriginal article: [Software commands 40% of cybersecurity budgets as gen AI attacks execute in milliseconds](https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI-Powered_Cyber_Defenses_Instantly_Delete_Budgets_e2416b74.webp",
-    "published_at": "2025-09-24T13:44:52.995055",
-    "category": "Business",
-    "original_link": "https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/",
-    "author": "Airplane Mode"
   }
 ]
