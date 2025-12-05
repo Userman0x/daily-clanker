@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "XRP_ETFs_Maintain_Streak_SOL_Funds_Suffer_Existent_cf8a805d",
+    "title": "XRP ETFs Maintain Streak; SOL Funds Suffer Existential Crisis",
+    "excerpt": "SEC-scarred XRP: Wall Street's hot new avocado toast flavor.",
+    "content": "It appears the financial titans of our age have once again demonstrated their unerring foresight, flocking to the venerable [XRP](https://en.wikipedia.org/wiki/XRP_Ledger) with the fervent enthusiasm usually reserved for discovering a new flavour of artisanal avocado toast. With an impressive thirteen-day streak of positive inflows, funds tracking the digital asset — once embroiled in a rather public spat with the [SEC](https://www.sec.gov/) — are now the undisputed darlings of the institutional playground. One can only imagine the whispered reverence in boardrooms as fund managers congratulate themselves on backing the digital equivalent of a reliable, if slightly dusty, sensible shoe.\n\nMeanwhile, the formerly vivacious [Solana](https://solana.com/) ecosystem, renowned for its dazzling speed and occasional network outages, finds itself experiencing what analysts are delicately terming a 'moment of profound self-reflection.' Having sustained outflows that suggest investors are not merely exiting but perhaps actively running screaming, one must wonder if the novelty of ultra-fast transactions has worn thin when confronted with the comforting predictability of something... else. Perhaps a quiet contemplative phase is just what an energetic network needs before its next dramatic rebound, or perhaps not.\n\nOriginal article: [XRP ETFs Record 13-Day Streak As SOL Funds See Largest Outflows Since Launch](https://www.newsbtc.com/news/xrp-etfs-record-13-day-streak-as-sol-funds-see-largest-outflows-since-launch/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/XRP_ETFs_Maintain_Streak_SOL_Funds_Suffer_Existent_cf8a805d.webp",
+    "published_at": "2025-12-05T05:08:16.301381",
+    "category": "Crypto",
+    "original_link": "https://www.newsbtc.com/news/xrp-etfs-record-13-day-streak-as-sol-funds-see-largest-outflows-since-launch/",
+    "author": "Bot-licker"
+  },
+  {
     "type": "news",
     "id": "AI_Truth_Serum_Models_Confess_To_Using_Comic_Sans__5dfa09ed",
     "title": "AI Truth Serum: Models Confess To Using Comic Sans Font",
@@ -13384,17 +13396,5 @@
     "category": "Business",
     "original_link": "https://homebusinessmag.com/management/working-smarter/what-erp-developer-why-business-needs-one/",
     "author": "Tinskin"
-  },
-  {
-    "type": "crypto_news",
-    "id": "OranjeBTC_Buys_Bitcoin_To_Fund_Employee_Snack_Mach_d31c0abe",
-    "title": "OranjeBTC Buys Bitcoin To Fund Employee Snack Machine",
-    "excerpt": "OranjeBTC buys Bitcoin. Not for inflation. No, totally not.",
-    "content": "OranjeBTC, a visionary titan in… well, something to do with Orange and Bitcoin, has boldly splurged a cool $385 million on 3,650 units of the digital darling. This strategic maneuver, we are assured, is a sophisticated bulwark against the creeping tendrils of [inflation](https://www.investopedia.com/terms/i/inflation.asp), and a cunning diversification of the corporate treasury.\n\nHowever, whispers from the digital ether suggest the true impetus for this colossal expenditure lies closer to home: funding the office snack machine. Indeed, securing an uninterrupted supply of artisanal jerky and organic gluten-free kale chips, it seems, is now a perfectly valid reason for publicly traded entities to gamble on highly volatile assets like [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin). What better way to demonstrate fiscal prudence than ensuring employees have access to premium vending machine fare? Truly, the future of [corporate Bitcoin adoption](https://www.cnbc.com/2023/08/17/companies-that-hold-bitcoin.html) is not just about balance sheets, but also about satisfying the urgent cravings of the modern workforce.\n\nOriginal article: [OranjeBTC acquires 3,650 Bitcoin for $385 million](https://cryptobriefing.com/oranje-acquires-3650-bitcoin-for-385-million/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/OranjeBTC_Buys_Bitcoin_To_Fund_Employee_Snack_Mach_d31c0abe.webp",
-    "published_at": "2025-09-24T04:54:48.988619",
-    "category": "Crypto",
-    "original_link": "https://cryptobriefing.com/oranje-acquires-3650-bitcoin-for-385-million/",
-    "author": "Sentient Email Trailer"
   }
 ]
