@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Son_Commits_To_Three-Day_Smart_TV_Firmware_Update_f011424e",
+    "title": "Son Commits To Three-Day Smart TV Firmware Update",
+    "excerpt": "Son's 3-day digital pilgrimage for TV. Parents just want 'Crown'.",
+    "content": "The annual holiday exodus to one's ancestral home is, for many, a time of festive reconnection. For young Jeremy, however, it represents a sacred, if slightly digital, pilgrimage. This year’s quest: a truly epic `[Smart TV](https://en.wikipedia.org/wiki/Smart_TV)` `[firmware update](https://en.wikipedia.org/wiki/Firmware#Firmware_updates)` — a process confidently projected to consume the better part of three days. His parents, bless their hearts, merely wished to stream \"The Crown\" without buffering, unaware their simple desire had triggered a technological odyssey rivaling Homer's.\n\nJeremy, a self-declared 'digital missionary,' has embraced his filial duty with the grim resolve of a soldier entering a protracted siege. He will forgo mulled wine and congenial banter for the hypnotic trance of progress bars, troubleshooting error codes, and the existential dread of a bricked entertainment system. One can only imagine the conversations that will unfold between reboots, as he explains, for the eighteenth time, the difference between a cable box and a streaming dongle, all while the ghost of the new 'artificial intelligence' hovers, waiting for its turn to confuse everyone. Truly, the spirit of giving has never been quite so… Ethernet-dependent.\n\nOriginal article: [How to help older relatives with tech over the holidays](https://www.foxnews.com/tech/how-help-older-relatives-tech-over-holidays)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Son_Commits_To_Three-Day_Smart_TV_Firmware_Update_f011424e.webp",
+    "published_at": "2025-12-05T20:48:10.448450",
+    "category": "Tech",
+    "original_link": "https://www.foxnews.com/tech/how-help-older-relatives-tech-over-holidays",
+    "author": "Tinskin"
+  },
+  {
     "type": "crypto_news",
     "id": "Coinbase_Predicts_Future_Of_Regulated_DeFi_Is_Just_7f11da9d",
     "title": "Coinbase Predicts Future Of Regulated DeFi Is Just TradFi",
@@ -13391,17 +13403,5 @@
     "category": "Business",
     "original_link": "",
     "is_favorite": false
-  },
-  {
-    "type": "crypto_news",
-    "id": "0_Its_time_to_choose_one_of_the_best_and_most_absu_e582c833",
-    "title": "0. It's time to choose one of the best and most absurd ones.",
-    "excerpt": "$14.6M to let anyone issue their *own* generic stablecoin.",
-    "content": "The relentless march of innovation continues apace, as [Coinbase Ventures](https://www.coinbase.com/ventures) spearheads a robust $14.6 million capital infusion into Bastion, a brave new endeavor dedicated to the noble art of white-label [stablecoin](https://en.wikipedia.org/wiki/Stablecoin) issuance. One can only marvel at the sheer audacity of pouring millions into a service designed specifically to be generic, empowering anyone with a modicum of ambition and a severe lack of original thought to launch their *very own* digital token, pegged perhaps to the ethereal essence of a particularly promising meme. Truly, the future of finance is here, and it looks suspiciously like a blank canvas awaiting your brand.\n\nIt appears even the titans of industry have caught the fever dream, with household names like Sony and [Samsung](https://www.samsung.com/us/), alongside the ever-prescient A16z, throwing their considerable weight, and even more considerable funds, behind Bastion. One must assume these sagacious entities have identified an untapped market: the burgeoning demand for financial instruments that are both utterly unremarkable and meticulously, painstakingly replicated. It is a testament to progress that we can now, with a $14.6 million assist, mass-produce bespoke uniformity. What a time to be alive.\n\nOriginal article: [Coinbase, Sony and Samsung back stablecoin startup Bastion in $14.6M raise](https://cointelegraph.com/news/coinbase-leads-14-6m-funding-round-for-stablecoin-startup-bastion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/0_Its_time_to_choose_one_of_the_best_and_most_absu_e582c833.webp",
-    "published_at": "2025-09-24T15:15:44.403463",
-    "category": "Crypto",
-    "original_link": "https://cointelegraph.com/news/coinbase-leads-14-6m-funding-round-for-stablecoin-startup-bastion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "author": "Spare Part"
   }
 ]
