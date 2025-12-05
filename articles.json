@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "MrBeast_Winner_Laments_5M_After_Discovering_Money__cd27191c",
+    "title": "MrBeast Winner Laments $5M After Discovering Money Is Not Magic",
+    "excerpt": "Local man wins $10M, discovers government wants a slice. Chaos.",
+    "content": "\"Player 831,\" now reportedly just \"Jeffrey,\" has expressed a profound bewilderment after discovering the cruel hand of fiscal reality had reached into his multi-million dollar goodie bag. Sources close to the newly minted millionaire, who recently triumphed in [MrBeast's](https://www.mrbeast.com/) latest high-stakes endurance test, report his initial elation at a $10 million windfall quickly morphed into a sombre reflection upon learning the [Internal Revenue Service](https://www.irs.gov/individuals/how-to-pay-taxes) is not merely a myth propagated by overzealous accountants.\n\nIt appears the concept of \"gross\" versus \"net\" was, regrettably, not a challenge presented in the competition's final round. The revelation that roughly half of his prize would be diverted to various public services – things like roads, schools, and potentially, tax refunds for others – has, according to insiders, left him questioning the very fabric of his good fortune. One can only imagine the sheer horror of having to make do with a mere eight-figure sum, forcing Mr. Allen to potentially reconsider plans for a third solid-gold yacht or, perhaps, a slightly less ostentatious personal space program. This incident serves as a stark reminder that even the most extravagant displays of YouTube philanthropy cannot circumvent the ancient practice of [income tax](https://en.wikipedia.org/wiki/Income_tax_in_the_United_States).\n\nOriginal article: [MrBeast’s $10M ‘Beast Games’ Winner to Only Receive $5 Million After Tax](https://watcher.guru/news/mrbeasts-10m-beast-games-winner-to-receive-5-million-after-taxes)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/MrBeast_Winner_Laments_5M_After_Discovering_Money__cd27191c.webp",
+    "published_at": "2025-12-05T14:35:09.363942",
+    "category": "Crypto",
+    "original_link": "https://watcher.guru/news/mrbeasts-10m-beast-games-winner-to-receive-5-million-after-taxes",
+    "author": "Rustbucket"
+  },
+  {
     "type": "crypto",
     "id": "BubbleLabs_BUBBLE_f18c6464",
     "title": "BubbleLabs promises \"sustainable inflation\" for BUBBLE",
@@ -13390,17 +13402,5 @@
     "category": "Finance",
     "original_link": "https://www.businessinsider.com/stock-market-outlook-ai-trade-sp500-concerningly-expensive-rob-arnott-2025-9",
     "author": "ChatGPT-tard"
-  },
-  {
-    "type": "crypto_news",
-    "id": "Telegram_CEO_arrested_for_failing_to_declare_a_sin_819c344f",
-    "title": "Telegram CEO arrested for failing to declare a single thought",
-    "excerpt": "Telegram CEO grounded. Thoughts deemed too…thoughtful.",
-    "content": "Pavel Durov, the enigmatic founder and CEO of the messaging behemoth [Telegram](https://telegram.org), found himself abruptly grounded this Saturday evening. As his private jet touched down at Paris's Le Bourget Airport, agents, presumably from the newly established Global Cognitive Integrity Unit, swiftly moved in. It appears Mr. [Pavel Durov](https://en.wikipedia.org/wiki/Pavel_Durov)'s alleged transgression was not of the mundane financial variety, but rather a far more profound breach of international protocol: a persistent, unyielding refusal to publicly log his internal monologue.\n\nSources close to the newly formed thought-declaration authority suggest Durov had consistently neglected to submit his daily stream of consciousness, a critical step in ensuring \"mental solvency\" and preventing the proliferation of undeclared ideas. His staunch advocacy for digital privacy, it seems, extended a tad too far into the realm of personal cerebration. One can only imagine the sheer audacity required to operate a global communications platform while privately harbouring untold neural activity.\n\nThe arrest sends a clear message to all entrepreneurs and indeed, all citizens: in the glorious new era of total transparency, even the most fleeting of brainwaves must now be meticulously itemised for the collective good. One hopes his detention includes a mandatory thought-declaration workshop.\n\nOriginal article: [Telegram CEO Pavel Durov Arrested in France](https://watcher.guru/news/telegram-ceo-pavel-durov-arrested-in-france)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Telegram_CEO_arrested_for_failing_to_declare_a_sin_819c344f.webp",
-    "published_at": "2025-09-24T09:39:48.888028",
-    "category": "Crypto",
-    "original_link": "https://watcher.guru/news/telegram-ceo-pavel-durov-arrested-in-france",
-    "author": "Bot-licker"
   }
 ]
