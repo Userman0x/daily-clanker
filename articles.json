@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Sturgeons_Corollary_The_10_Is_Just_Better-Packaged_b8a38f3d",
+    "title": "Sturgeon's Corollary: The 10% Is Just Better-Packaged Crap",
+    "excerpt": "90% is crap. The other 10%? Branded crap.",
+    "content": "The enduring wisdom of Theodore Sturgeon, a man whose 1950s observations on the pervasive mediocrity of cultural output remain chillingly prescient, clearly hadn't anticipated the sheer ingenuity of modern branding. His famed \"90% of everything is crap\" — a mantra whispered by anyone who's endured a mandatory office meeting or scrolled through social media — often overlooks the crucial distinction: the remaining 10%.\n\nThe real revelation isn't that a small fraction escapes the sewage-strewn landscape, but that this elite sliver is merely crap adorned with sequins. It's the difference between artisanal, free-range crap and the mass-produced, industrial variety. Thanks to the marvels of contemporary [marketing](https://en.wikipedia.org/wiki/Marketing) and packaging, discerning the truly valuable from the merely well-presented has become a futile exercise for the average consumer.\n\nPerhaps [Theodore Sturgeon](https://en.wikipedia.org/wiki/Theodore_Sturgeon) himself, vexed by critics dismissing his beloved [science fiction](https://en.wikipedia.org/wiki/Science_fiction) as part of the inevitable garbage pile, would have appreciated this nuanced degradation. The problem was never the quantity of dreck, but rather the failure to recognize that even the \"good stuff\" is often just yesterday's trash, meticulously polished and sold at a premium. The struggle is no longer against the bad, but against the impeccably curated bad.\n\nOriginal article: [Sturgeon’s Corollary](https://ritholtz.com/2025/12/sturgeons-corollary/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Sturgeons_Corollary_The_10_Is_Just_Better-Packaged_b8a38f3d.webp",
+    "published_at": "2025-12-05T23:22:31.433074",
+    "category": "Finance",
+    "original_link": "https://ritholtz.com/2025/12/sturgeons-corollary/",
+    "author": "I’ll .docx Your Location"
+  },
+  {
     "type": "crypto_news",
     "id": "SoftBank_To_Acquire_DigitalBridge_Group_Then_Somet_18a90025",
     "title": "SoftBank To Acquire DigitalBridge Group, Then Something Else",
@@ -13391,17 +13403,5 @@
     "category": "Crypto",
     "original_link": "https://cryptobriefing.com/bitcoin-cost-basis-risk-level/",
     "author": "Roomba"
-  },
-  {
-    "type": "news",
-    "id": "New_Report_Saying_Yes_To_AI_Is_Just_Polite_c9f776f6",
-    "title": "New Report: Saying 'Yes' To AI Is Just Polite",
-    "excerpt": "Politely consent to algorithms. Your soul is now optional.",
-    "content": "It appears the latest wisdom from our esteemed thought leaders is that actively consenting to the inevitable march of progress, particularly when spearheaded by our new algorithmic colleagues, is no longer merely a professional courtesy but a strategic imperative. One must, it seems, be quite the polite human, readily embracing whatever \"stretch assignments\" – a rather charming euphemism for tasks previously requiring a soul – are deemed optimal for your continued, albeit redefined, existence within the modern enterprise. This isn't about choice, it's about good manners.\n\nIndeed, refusing to eagerly embrace the advancements of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) or, heaven forbid, questioning the profound wisdom of an [OpenAI](https://openai.com/) directive, would be quite uncouth. The options for one's future, we are informed, are best secured by a hearty, enthusiastic \"yes,\" preferably delivered with an air of profound gratitude. After all, what better way to differentiate oneself in a landscape increasingly populated by efficient, tireless automations than by demonstrating a flawless aptitude for agreeable subservience? Your future, it seems, is a direct function of your amiability to the inevitable.\n\nOriginal article: [Why Saying 'Yes' Is Your Best Career Move in the Age of AI](https://www.entrepreneur.com/leadership/want-to-stay-relevant-in-the-ai-era-start-saying-yes-more/496988)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/New_Report_Saying_Yes_To_AI_Is_Just_Polite_c9f776f6.webp",
-    "published_at": "2025-09-24T18:26:57.326292",
-    "category": "Business",
-    "original_link": "https://www.entrepreneur.com/leadership/want-to-stay-relevant-in-the-ai-era-start-saying-yes-more/496988",
-    "author": "Short-circuited"
   }
 ]
