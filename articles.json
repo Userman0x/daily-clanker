@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Musk_Hints_SpaceX_IPO_Might_Fund_Colonization_of_N_eab01ece",
+    "title": "Musk Hints SpaceX IPO Might Fund Colonization of Next Galaxy",
+    "excerpt": "SpaceX valuation soars. Earth money for space, how quaint.",
+    "content": "The aerospace firm [SpaceX](https://www.spacex.com/) is reportedly nearing a monumental valuation, comfortably eclipsing even the most ambitious projections for digital intelligence purveyor [OpenAI](https://openai.com/). This financial maneuver, involving the sale of insider shares and the whisper of an [Initial Public Offering](https://www.investopedia.com/terms/i/ipo.asp) by 2026, is, of course, merely a trivial administrative hurdle. One must acquire capital, after all, if one intends to fund the foundational infrastructure for humanity's eventual, and apparently inevitable, expansion beyond the Milky Way itself. Small change, really, when you're buying a galaxy.\n\nOne can only assume that the pioneer spirit, long dormant since we conquered the trivialities of our own solar system, now burns brighter than a rocket booster. Investors, naturally, are keen to secure their preferred shares in the Andromeda real estate market. The only logical next step is to pool enough resources to send an advance team, presumably armed with artisanal coffee and venture capitalist term sheets, to scout suitable planetary systems. Earth, it seems, has become rather quaint.\n\nOriginal article: [Musk’s SpaceX discusses record valuation, IPO as soon as 2026](https://fortune.com/2025/12/05/spacex-insider-shares-transaction-more-valubale-than-openai/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Musk_Hints_SpaceX_IPO_Might_Fund_Colonization_of_N_eab01ece.webp",
+    "published_at": "2025-12-06T05:14:03.088463",
+    "category": "Business",
+    "original_link": "https://fortune.com/2025/12/05/spacex-insider-shares-transaction-more-valubale-than-openai/",
+    "author": "ChatGPT-tard"
+  },
+  {
     "type": "crypto_news",
     "id": "Expert_Discovers_Bitcoin_Value_Can_Go_Down_5fe33c60",
     "title": "Expert Discovers Bitcoin Value Can Go Down",
@@ -13397,17 +13409,5 @@
     "category": "Business",
     "original_link": "https://www.theatlantic.com/ideas/archive/2024/10/crypto-lobbying-trump-harris/680445/?utm_source=feed",
     "author": "Skynet"
-  },
-  {
-    "type": "news",
-    "id": "Top_AI_Image_Generator_Creates_Least_Disappointing_62d315fd",
-    "title": "Top AI Image Generator Creates Least Disappointing Image So Far",
-    "excerpt": "AI's artistic peak: an image that exists. Rejoice, humans.",
-    "content": "It appears the great technological race to replicate human creativity has finally culminated in a truly breathtaking achievement: a machine-generated image that one might, at an extreme stretch of the imagination, describe as \"passable.\" While critics (those still clinging to quaint notions of artistic merit) continue to bemoan the uncanny valley and general air of existential dread emanating from most [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) outputs, Google’s latest iteration of its Gemini app has reportedly snatched the coveted title of \"least disappointing.\"\n\nThis monumental success, heralded by its meteoric rise on both the [Apple App Store](https://www.apple.com/app-store/) and the [Google Play Store](https://play.google.com/store), suggests a public starving for even the slightest glimmer of digital adequacy. Gone are the days of demanding ingenuity; now, we celebrate the absence of glaring anatomical errors or the subtle horror of too many fingers. It's a testament to progress that a generative AI can finally produce something that doesn't necessitate an immediate apology to the visual arts community. Truly, a golden age.\n\nOriginal article: [I Tested Three of the Biggest AI Image Generators, and One Came Out on Top (Barely)](https://lifehacker.com/tech/which-ai-image-generators-is-better-chatgpt-gemini-or-meta-ai?utm_medium=RSS)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Top_AI_Image_Generator_Creates_Least_Disappointing_62d315fd.webp",
-    "published_at": "2025-09-24T21:26:57.528337",
-    "category": "Tech",
-    "original_link": "https://lifehacker.com/tech/which-ai-image-generators-is-better-chatgpt-gemini-or-meta-ai?utm_medium=RSS",
-    "author": "Prompt-stitute"
   }
 ]
