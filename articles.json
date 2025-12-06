@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "World_Cup_Fans_Sell_Minor_Organs_For_Stadium_Pint_e946e0a7",
+    "title": "World Cup Fans Sell Minor Organs For Stadium Pint",
+    "excerpt": "World Cup drinks: 'Non-essential assets' now include kidneys.",
+    "content": "The eagerly awaited financial disclosures for next summer’s football extravaganza have finally emerged, detailing the precise cost of hydration at the various North American venues. Fans attending the upcoming [World Cup](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup) across the U.S., Canada, and Mexico can now begin the delicate process of liquidating non-essential assets to fund their matchday refreshments.\n\nReports indicate a burgeoning online marketplace where supporters are already weighing the spiritual benefits of the beautiful game against the more tangible value of, say, a non-dominant kidney or a particularly healthy spleen. Such entrepreneurial spirit ensures even the most budget-conscious fan can afford at least one frosty pint, provided their physiological reserves are sufficiently robust. [FIFA](https://www.fifa.com/) representatives were notably absent for comment on these innovative fan financing strategies.\n\nOriginal article: [Revealed: What England fans will pay for a beer at every World Cup stadium, including the venue CHEAPER than Wetherspoons - and the £10.49 pint!](https://www.dailymail.co.uk/sport/football/article-15359101/What-England-fans-pay-beer-World-Cup-stadium-including-venue-CHEAPER-Wetherspoons-10-49-pint.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/World_Cup_Fans_Sell_Minor_Organs_For_Stadium_Pint_e946e0a7.webp",
+    "published_at": "2025-12-06T17:31:35.585056",
+    "category": "Culture",
+    "original_link": "https://www.dailymail.co.uk/sport/football/article-15359101/What-England-fans-pay-beer-World-Cup-stadium-including-venue-CHEAPER-Wetherspoons-10-49-pint.html?ns_mchannel=rss&ito=1490&ns_campaign=1490",
+    "author": "Prompt-stitute"
+  },
+  {
     "type": "crypto",
     "id": "BLACK_HARRY_POTTER_BLOTTER_c026380f",
     "title": "BLOTTER: Token To End Magical Discrimination, Absorb Your Capital",
@@ -13397,17 +13409,5 @@
     "category": "Culture",
     "original_link": "https://www.newyorker.com/podcast/political-scene/how-maha-is-sowing-vaccine-confusion",
     "author": "Bot-licker"
-  },
-  {
-    "type": "crypto_news",
-    "id": "South_Park_Episode_Declared_Official_Prediction_Ma_5d27f78e",
-    "title": "South Park Episode Declared Official Prediction Market Regulator",
-    "excerpt": "Financial markets await South Park's next decree. It's canon.",
-    "content": "The esteemed [South Park](https://en.wikipedia.org/wiki/South_Park) production team has apparently unveiled its new, unofficial remit: acting as the supreme arbiter of legitimacy for the nascent world of [prediction markets](https://en.wikipedia.org/wiki/Prediction_market). Following an episode tackling this gloriously complex financial instrument, the digital intelligentsia is now, quite predictably, locked in an existential crisis of speculation. The burning question, apparently, isn't about regulatory oversight or user protection, but whether their favorite unregulated platform will receive the coveted imprimatur of a fleeting animated cameo.\n\nOne can only imagine the frantic lobbying efforts underway, as desperate platforms vie for precious screen time, hoping a mention from Cartman himself will bestow upon them the gravitas previously reserved for, well, actual financial regulators. Forget audited statements or robust compliance frameworks; the true mark of market stability now rests solely on whether Randy Marsh can successfully bet on the likelihood of an alien invasion using a specific crypto token. It's a brave new world where market cap is determined by comedic timing, and compliance departments are replaced by fan theories.\n\nOriginal article: [South Park’s recent prediction markets feature causes speculation over Polymarket appearance](https://cryptoslate.com/south-parks-recent-prediction-markets-feature-causes-speculation-over-polymarket-appearance/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/South_Park_Episode_Declared_Official_Prediction_Ma_5d27f78e.webp",
-    "published_at": "2025-09-25T03:38:18.324463",
-    "category": "Crypto",
-    "original_link": "https://cryptoslate.com/south-parks-recent-prediction-markets-feature-causes-speculation-over-polymarket-appearance/",
-    "author": "Go to Hal-9000"
   }
 ]
