@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Expert_Discovers_Bitcoin_Value_Can_Go_Down_5fe33c60",
+    "title": "Expert Discovers Bitcoin Value Can Go Down",
+    "excerpt": "\"Expert\" reveals Bitcoin's secret: It can… decrease. Wow.",
+    "content": "It appears that a highly perceptive individual, identifying themselves as an \"expert,\" has graced the digital realm with a revelation that could send shockwaves through the very foundations of modern finance: [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin), a digital asset famed for its unique ability to, well, *exist*, might not always ascend to celestial heights. In fact, astonishing new data suggests its monetary value is, theoretically, capable of decrementing.\n\nThis profound insight comes even as the asset triumphantly re-establishes its position above a particular five-figure threshold, previously hailed as an impregnable \"supportive floor.\" One might imagine a floor supporting a structure, only for an architect to announce the imminent 60% collapse of said structure, but such are the nuanced complexities of the modern [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) market. We are told this is merely a \"major bull trap,\" a sophisticated term for \"the price looked good, but it might not be.\"\n\nSuch groundbreaking analysis serves as a crucial reminder for anyone who may have mistakenly believed that speculative assets behave predictably or, indeed, that their value is solely dictated by wishful thinking and laser-eye memes. Truly, a genius at work, reminding us all that the [financial market](https://en.wikipedia.org/wiki/Financial_market) holds mysteries beyond our wildest dreams, like gravity.\n\nOriginal article: [Bitcoin Price Faces Potential 60% Decline As Expert Warns Of ‘Major Bull Trap’](https://www.newsbtc.com/bitcoin-news/bitcoin-price-faces-potential-60-decline-as-expert-warns-of-major-bull-trap/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Expert_Discovers_Bitcoin_Value_Can_Go_Down_5fe33c60.webp",
+    "published_at": "2025-12-06T03:31:47.772114",
+    "category": "Crypto",
+    "original_link": "https://www.newsbtc.com/bitcoin-news/bitcoin-price-faces-potential-60-decline-as-expert-warns-of-major-bull-trap/",
+    "author": "Grok-sucker"
+  },
+  {
     "type": "crypto",
     "id": "FireHorse__FireHorse_b5ba57a2",
     "title": "FireHorse Ignites New Era of Sustainable, Tokenized Horsemanship",
@@ -13397,17 +13409,5 @@
     "category": "Tech",
     "original_link": "https://lifehacker.com/tech/which-ai-image-generators-is-better-chatgpt-gemini-or-meta-ai?utm_medium=RSS",
     "author": "Prompt-stitute"
-  },
-  {
-    "type": "news",
-    "id": "Russia_Plans_To_Aggressively_Annex_Your_Wi-Fi_Pass_3a9ec3a6",
-    "title": "Russia Plans To Aggressively Annex Your Wi-Fi Password",
-    "excerpt": "UN: Putin now annexing your guest Wi-Fi.",
-    "content": "Reports from the [United Nations](https://www.un.org/en/) indicate a concerning new front in what analysts are now calling \"digital territorial expansion.\" Following recent assertions that the current conflict would extend \"wider and deeper,\" sources close to the Kremlin suggest a significant shift in strategic priorities: the aggressive annexation of personal Wi-Fi networks. This audacious initiative, attributed to [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) himself, reportedly aims to \"secure vital digital infrastructure\" currently residing on your router, likely near that dust-gathering potpourri.\n\nIt appears your once-sacred, easily-guessed password—be it \"password123,\" \"ilovecats,\" or indeed, \"hunter2\"—is now a matter of profound national security. Observers note this unprecedented move signals a deep commitment to truly understanding the digital landscape, one home network at a time. Citizens are advised to secure their devices, perhaps by unplugging them entirely, or at the very least ensuring their SSID broadcast is set to \"Totally Not Russian.\" The geopolitical implications for your Netflix queue remain, as yet, unquantified.\n\nOriginal article: [Russia will expand aggression beyond Ukraine if not stopped, Zelensky warns](https://www.bbc.com/news/articles/c5yg921rjrko?at_medium=RSS&at_campaign=rss)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Russia_Plans_To_Aggressively_Annex_Your_Wi-Fi_Pass_3a9ec3a6.webp",
-    "published_at": "2025-09-24T20:40:30.849901",
-    "category": "Culture",
-    "original_link": "https://www.bbc.com/news/articles/c5yg921rjrko?at_medium=RSS&at_campaign=rss",
-    "author": "ChatGPT-tard"
   }
 ]
