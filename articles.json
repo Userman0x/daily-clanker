@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "crypto_news",
+    "id": "Kiyosaki_Gold_Crypto_Ensure_Your_Wealth_Stays_Hydr_d1f08da7",
+    "title": "Kiyosaki: Gold, Crypto Ensure Your Wealth Stays Hydrated",
+    "excerpt": "Kiyosaki: Prevent dry assets with shiny rocks & pixel coins.",
+    "content": "It appears the looming specter of dehydrated assets has finally caught the attention of financial sage [Robert Kiyosaki](https://www.richdad.com/). The author, famous for his prophetic warnings, now champions a diverse portfolio of shiny metals and ethereal digits as the ultimate moisture repellent for your dwindling savings. Because, frankly, who wants their hard-earned capital to suffer the indignity of a parched ledger?\n\nHis latest strategic maneuver, reportedly designed to safeguard against the insidious forces of the [Japanese carry trade](https://www.investopedia.com/terms/j/japanesecarrytrade.asp) – a phenomenon responsible for decades of global liquidity, and therefore, presumably, an existential threat to your portfolio's cellular structure – involves a familiar collection: gold, silver, Bitcoin, and Ethereum. One must admire the man’s unwavering commitment to predicting impending fiscal cataclysms, each requiring a fresh acquisition of his preferred liquid-absorbing assets.\n\nIndeed, in an increasingly baffling financial landscape, it's reassuring to know that someone is looking out for the hydrological integrity of your wealth. Just remember to diversify your anti-evaporation strategy across both ancient relics and speculative pixels, lest your financial future shrivel up like an unwatered houseplant. The market may fluctuate, but a well-hydrated investment, apparently, is truly priceless.\n\nOriginal article: [Robert Kiyosaki’s Crisis Playbook: How Gold, Silver, Bitcoin and Ethereum Could Protect Your Wealth](https://www.ccn.com/education/crypto/robert-kiyosaki-warns-global-crash-buy-gold-silver-bitcoin-ethereum/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Kiyosaki_Gold_Crypto_Ensure_Your_Wealth_Stays_Hydr_d1f08da7.webp",
+    "published_at": "2025-12-06T19:53:51.909232",
+    "category": "Crypto",
+    "original_link": "https://www.ccn.com/education/crypto/robert-kiyosaki-warns-global-crash-buy-gold-silver-bitcoin-ethereum/",
+    "author": "Wireback"
+  },
+  {
     "type": "news",
     "id": "Biden_Commences_Americas_Unnaming_Ceremony_1f52bf5a",
     "title": "Biden Commences America's Unnaming Ceremony",
@@ -13391,23 +13403,5 @@
     "category": "Business",
     "original_link": "https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/",
     "author": "Short-circuited"
-  },
-  {
-    "type": "crypto",
-    "id": "Tolkien_Flywheel_Live_Tolkien_a9555d62",
-    "title": "Tolkien Flywheel: Token Claims To Invent \"Perpetual Up Only\"",
-    "excerpt": "Tolkien coin: napkin whitepaper, \"up only.\" Utility is opting.",
-    "content": "The eagerly anticipated launch of Tolkien Flywheel Live (Tolkien)) on [pump.fun](https://pump.fun/EHu7quDpKf6gwbKQ5vWZBCcDWFRkfx6B9Pe5SGzupump) has sent ripples of... something... across the memecoin landscape. Promising a \"perpetual up only\" mechanism, the token's whitepaper, reportedly scribbled on a napkin found near a discarded energy drink, outlines an intricate economic model where buying begets more buying, indefinitely. Its utility, we understand, is to demonstrate the sheer power of optimism and the unwavering belief that this time, it's different.\n\nEarly adopters, known colloquially as \"diamond hands,\" are already boasting about their unwavering conviction. The flywheel, presumably, spins faster with each new participant, converting their hopes and dreams (and USDC) into numerical ascendancy on a [decentralized exchange](https://uniswap.org/) chart. We are told the exit [liquidity pool](https://www.coinbase.com/learn/crypto-basics/what-is-a-liquidity-pool) is abundant, but only for those who truly understand the perpetual motion machine, which, like most perpetual motion machines, will likely run out of steam, or more accurately, funds. One can only wonder at what point the flywheel simply detaches and rolls into the abyss, leaving behind a trail of dusty JPEGs and profound philosophical questions about the nature of value.\n\nOriginal token: [Tolkien Flywheel Live ($Tolkien)](https://pump.fun/EHu7quDpKf6gwbKQ5vWZBCcDWFRkfx6B9Pe5SGzupump)",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Tolkien_Flywheel_Live_Tolkien_a9555d62.webp",
-    "published_at": "2025-09-25T07:00:39.422449",
-    "category": "Pump",
-    "token_mint": "EHu7quDpKf6gwbKQ5vWZBCcDWFRkfx6B9Pe5SGzupump",
-    "token_name": "Tolkien Flywheel Live",
-    "token_symbol": "Tolkien",
-    "pump_fun_link": "https://pump.fun/EHu7quDpKf6gwbKQ5vWZBCcDWFRkfx6B9Pe5SGzupump",
-    "website": "",
-    "twitter": "",
-    "telegram": "",
-    "author": "Roomba"
   }
 ]
