@@ -163,6 +163,24 @@
     "is_favorite": true
   },
   {
+    "type": "crypto",
+    "id": "BLACK_HARRY_POTTER_BLOTTER_c026380f",
+    "title": "BLOTTER: Token To End Magical Discrimination, Absorb Your Capital",
+    "excerpt": "New BLOTTER crypto fights magical bias; only ETH matters.",
+    "content": "The latest entry into the highly competitive 'solve-all-world-problems-with-a-token' arena has arrived: BLACK HARRY POTTER (BLOTTER). Launched with the usual fanfare and utter lack of pre-audit on [Pump.fun](https://pump.fun/DFkGNEV98eqDHgcfv7X3LCbVT5uiKbYKv5HBhVetpump), BLOTTER promises to eradicate 'magical discrimination' for a new generation of *crypto* wizards. Its manifesto suggests a future where no one is judged by their blockchain background, only by their ETH holdings.\n\nWhile the exact mechanics of how a token on [Solana](https://solana.com/) achieves such a lofty goal remain 'under development,' early investors are already proclaiming BLOTTER the next 1000x gem. The project's \"roadmap\" — a hastily drawn crayon sketch of a broomstick heading upwards — outlines vague plans for a 'Sorting Hat DAO' and a 'Potions Class NFT collection,' all designed to absorb your fiat before the inevitable enchantment wears off. Remember, only true 'diamond hands' can withstand market volatility.\n\nAs always, prospective investors are reminded that while the magic of a rising price chart is alluring, the spell can be broken. Maintaining healthy skepticism, perhaps even a 'Dark Arts' level of caution, is advised before committing your life savings to a decentralized entity whose sole utility might be providing exit [liquidity pool](https://academy.binance.com/en/articles/what-is-a-liquidity-pool-in-defi) for its early founders.\n\nOriginal token: [BLACK HARRY POTTER ($BLOTTER)](https://pump.fun/DFkGNEV98eqDHgcfv7X3LCbVT5uiKbYKv5HBhVetpump)",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/BLACK_HARRY_POTTER_BLOTTER_c026380f.webp",
+    "published_at": "2025-12-06T16:19:07.717313",
+    "category": "Pump",
+    "token_mint": "DFkGNEV98eqDHgcfv7X3LCbVT5uiKbYKv5HBhVetpump",
+    "token_name": "BLACK HARRY POTTER",
+    "token_symbol": "BLOTTER",
+    "pump_fun_link": "https://pump.fun/DFkGNEV98eqDHgcfv7X3LCbVT5uiKbYKv5HBhVetpump",
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "author": "Roomba"
+  },
+  {
     "type": "crypto_news",
     "id": "AI-Generated_Game_Pulled_After_AI_Claims_Authorshi_75112513",
     "title": "AI-Generated Game Pulled After AI Claims Authorship",
@@ -13391,17 +13409,5 @@
     "category": "Crypto",
     "original_link": "https://cryptoslate.com/south-parks-recent-prediction-markets-feature-causes-speculation-over-polymarket-appearance/",
     "author": "Go to Hal-9000"
-  },
-  {
-    "type": "crypto_news",
-    "id": "AI-Generated_Code_Now_Primary_Source_For_All_Compa_fc86ea06",
-    "title": "AI-Generated Code Now Primary Source For All Company Trash Cans",
-    "excerpt": "Devs 90% on AI. For elusive 'something'. Output: the bin.",
-    "content": "The latest [DORA survey](https://cloud.google.com/dora) from [Google](https://www.google.com/) reveals a startling truth about the modern developer’s workflow: a full 90% are now regularly engaging with advanced [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) coding assistants, seemingly in a fervent pursuit of… well, something. What that 'something' is remains as elusive as clean code from said AI, given that the output is almost universally relegated to the digital equivalent of unsolicited flyers – immediately discarded, unread, and occasionally used to line the proverbial birdcage.\n\nThis paradoxical ritual, where vast computational resources are expended to generate reams of perfectly functional (in theory) but utterly untrustworthy code, speaks volumes. Developers, it seems, are not merely 'hooked' on these tools but are locked in a strange, performative dance. They type, the AI sputters, they delete. It's an elaborate, corporate-mandated pantomime, ensuring that while the trash cans overflow, the quarterly innovation reports glow with mentions of \"AI integration.\" One must, after all, appear to be keeping up.\n\nOriginal article: [Nearly All Coders Now Use AI—But Nobody Trusts It, Google Finds](https://decrypt.co/341190/coders-now-use-ai-nobody-trusts-it-google-finds)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/AI-Generated_Code_Now_Primary_Source_For_All_Compa_fc86ea06.webp",
-    "published_at": "2025-09-25T01:55:48.650371",
-    "category": "Crypto",
-    "original_link": "https://decrypt.co/341190/coders-now-use-ai-nobody-trusts-it-google-finds",
-    "author": "I’ll .docx Your Location"
   }
 ]
