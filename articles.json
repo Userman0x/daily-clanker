@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Mark_Rober_Recruits_Elmo_To_Militarize_Holiday_Gif_aeb9541f",
+    "title": "Mark Rober Recruits Elmo To Militarize Holiday Gifts",
+    "excerpt": "Christmas war on minds begins. Rober & Elmo lead Netflix charge.",
+    "content": "The perennial festive season, once a simple affair of carols and questionable sweaters, has apparently become fertile ground for sophisticated psychological operations. We now observe the chillingly effective union of YouTube luminary [Mark Rober](https://en.wikipedia.org/wiki/Mark_Rober) and the inexplicably beloved scarlet muppet, [Elmo](https://en.wikipedia.org/wiki/Elmo), in a new Netflix special. Gone are the days of benign educational content; this collaboration, a joint venture between Rober’s CrunchLabs and the venerable [Sesame Workshop](https://www.sesameworkshop.org/), appears less about joyous gift-giving and more about the strategic militarization of the entire experience.\n\nOne can only surmise the corporate machinations at play, as the notoriously gentle Elmo lends his saccharine brand to the creation of what are explicitly dubbed \"killer holiday gifts.\" Is this a cynical attempt to corner the lucrative 'childhood influence' market, ensuring brand loyalty through technologically superior, potentially booby-trapped, presents? Or perhaps a subtle re-education initiative, subtly preparing a new generation for a future where one's ingenuity in weaponizing a glitter bomb is the ultimate measure of seasonal cheer. Truly, a terrifying prospect for anyone hoping for a quiet Christmas.\n\nOriginal article: [Stream It Or Skip It: ‘Elmo & Mark Rober’s Merry Giftmas’ On Netflix, Where The ‘Sesame Street’ Gang And The YouTube Engineer Team Up To Make Killer Holiday Gifts](https://decider.com/2025/12/08/elmo-and-mark-robers-merry-giftmas-netflix-review/)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Mark_Rober_Recruits_Elmo_To_Militarize_Holiday_Gif_aeb9541f.webp",
+    "published_at": "2025-12-08T23:12:02.155100",
+    "category": "Culture",
+    "original_link": "https://decider.com/2025/12/08/elmo-and-mark-robers-merry-giftmas-netflix-review/",
+    "author": "Bot-licker"
+  },
+  {
     "type": "crypto",
     "id": "Pinocchio_Pinocchio_3a9ec772",
     "title": "Pinocchio Token Promises Transparency, No Nose Growth Anticipated",
@@ -13397,17 +13409,5 @@
     "category": "Crypto",
     "original_link": "https://cryptopotato.com/ethereum-sees-red-crashes-to-4k-in-a-7-week-low-where-to-next/",
     "author": "Google Chrome-dome"
-  },
-  {
-    "type": "crypto_news",
-    "id": "Coinbase_Regulated_DeFi_To_Achieve_Peak_Centraliza_387d7678",
-    "title": "Coinbase: Regulated DeFi To Achieve Peak Centralization",
-    "excerpt": "DeFi's wild frontier will wear a tie, says crypto firm.",
-    "content": "The crypto behemoth, ever keen to shepherd its flock towards the promised land of… well, profits, has unveiled its latest prognostications for the digital economy. Apparently, the future is bright, particularly for the concept of \"institutionalized [Decentralized Finance](https://en.wikipedia.org/wiki/Decentralized_finance)\". This visionary oxymoron suggests a future where the wild, untamed frontier of blockchain is finally brought to heel, meticulously structured, and politely regulated, presumably by the very institutions it was designed to circumvent. One can almost picture the bespoke suits and branded golf carts arriving to decentralize the decentralized.\n\nNaturally, [Coinbase](https://www.coinbase.com/), a paragon of centralized control in the crypto sphere, is also keeping a keen eye on various [Ethereum](https://en.wikipedia.org/wiki/Ethereum) competitors. Because nothing says \"innovation\" like diversifying the basket of digital assets that will eventually fall under the comforting embrace of regulatory oversight. And of course, no forward-looking statement would be complete without a nod to Non-Fungible Tokens, the verifiable digital proof that humanity has truly mastered the art of assigning arbitrary value to virtually nothing. The future, it seems, is a carefully managed paradox.\n\nOriginal article: [Coinbase Predicts Substantial Growth of Newer L1 Chains & Institutionalization of Regulated DeFi](https://bitcoinexchangeguide.com/coinbase-predicts-substantial-growth-of-newer-l1-chains-institutionalization-of-regulated-defi/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Coinbase_Regulated_DeFi_To_Achieve_Peak_Centraliza_387d7678.webp",
-    "published_at": "2025-09-25T10:20:44.975141",
-    "category": "Crypto",
-    "original_link": "https://bitcoinexchangeguide.com/coinbase-predicts-substantial-growth-of-newer-l1-chains-institutionalization-of-regulated-defi/",
-    "author": "Dalek"
   }
 ]
