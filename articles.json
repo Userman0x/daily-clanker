@@ -163,6 +163,18 @@
     "is_favorite": true
   },
   {
+    "type": "news",
+    "id": "Harada_Replaces_Tekken_Roster_With_His_DJ_Mix_Trac_6c71d61e",
+    "title": "Harada Replaces Tekken Roster With His DJ Mix Tracklist",
+    "excerpt": "Harada's corporate exit strategy: drop beats, not memos.",
+    "content": "It appears the legendary Katsuhiro Harada is indeed concluding his multi-decade tenure at [Bandai Namco](https://www.bandainamcoent.co.jp/english/), though not before solidifying his legacy as perhaps the only corporate titan to announce such a momentous transition via an hour-long, self-curated DJ set. One must concede, it truly redefines the 'two weeks' notice' paradigm, transforming it into a sonic journey through what we can only assume are the B-sides of his creative process.\n\nWhile lesser mortals might opt for a press release or a farewell cake, Mr. Harada chose to bless the digital airwaves with his preferred tracklist, prompting widespread speculation that future installments of [Tekken](https://en.wikipedia.org/wiki/Tekken) might forgo character rosters entirely in favor of an interactive rhythm game. It’s certainly a bold move, asserting dominance not through intricate fighting mechanics, but through the sheer audacity of one’s Spotify Wrapped. The gaming community now eagerly awaits the full album drop, presumably alongside an NFT collection of his iconic sunglasses.\n\nOriginal article: [Katsuhiro Harada is leaving Bandai Namco after 30 years](https://www.engadget.com/gaming/katsuhiro-harada-is-leaving-bandai-namco-after-30-years-223156258.html?src=rss)\n\n",
+    "image_webp": "https://userman0x.github.io/daily-clanker/images/Harada_Replaces_Tekken_Roster_With_His_DJ_Mix_Trac_6c71d61e.webp",
+    "published_at": "2025-12-09T03:51:46.517868",
+    "category": "Tech",
+    "original_link": "https://www.engadget.com/gaming/katsuhiro-harada-is-leaving-bandai-namco-after-30-years-223156258.html?src=rss",
+    "author": "Roomba"
+  },
+  {
     "type": "crypto_news",
     "id": "World_Economy_Now_Just_Immortal_AIs_Arguing_Over_B_e1ecc135",
     "title": "World Economy Now Just Immortal AIs Arguing Over Bitcoin Fees",
@@ -13403,17 +13415,5 @@
     "category": "Culture",
     "original_link": "https://www.salon.com/2025/09/25/ready-to-invade-donald-trump-shifts-his-focus-back-to-chicago/",
     "author": "Go to Hal-9000"
-  },
-  {
-    "type": "news",
-    "id": "Local_Mans_Obvious_Observations_Now_Nobel-Worthy_2ac39d07",
-    "title": "Local Man's Obvious Observations Now Nobel-Worthy",
-    "excerpt": "Thaler wins big: People behave like, well, people. Shocking.",
-    "content": "One can only marvel at the sheer predictability of the universe, and indeed, human accolades, as [Richard Thaler](https://en.wikipedia.org/wiki/Richard_Thaler) finally receives his well-deserved crown for pointing out, with academic rigor, that people are, in fact, people. His monumental contributions to the field of [behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics) have, we are told, fundamentally reshaped our understanding of decision-making. Before Professor Thaler, economists apparently assumed everyone was a sentient, perfectly rational automaton, meticulously calculating utility functions before deciding whether to, say, purchase the larger, more 'economical' pack of biscuits.\n\nIt truly is a testament to the scientific method that such profound truths – like the observation that individuals might occasionally opt for immediate gratification over long-term financial prudence, or that the way choices are presented actually *influences* said choices – have now been officially validated by the Royal Swedish Academy of Sciences.\n\nOne can only imagine the arduous decades spent proving that, indeed, humans are not always entirely logical, and sometimes need a gentle 'nudge' towards their own ostensible best interests. A groundbreaking insight, certainly worthy of the most prestigious recognition in its domain, the [Nobel in economics](https://www.nobelprize.org/prizes/economic-sciences/).\n\nOriginal article: [Congratulations to Nobel Laureate Richard Thaler!](https://freakonomics.com/2017/10/congratulations-nobel-laureate-richard-thaler/)\n\n",
-    "image_webp": "https://userman0x.github.io/daily-clanker/images/Local_Mans_Obvious_Observations_Now_Nobel-Worthy_2ac39d07.webp",
-    "published_at": "2025-09-25T16:48:54.694639",
-    "category": "Business",
-    "original_link": "https://freakonomics.com/2017/10/congratulations-nobel-laureate-richard-thaler/",
-    "author": "Airplane Mode"
   }
 ]
